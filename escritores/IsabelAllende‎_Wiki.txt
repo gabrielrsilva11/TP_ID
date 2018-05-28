@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Isabel Allende – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isabel_Allende","wgTitle":"Isabel Allende","wgCurRevisionId":51766151,"wgRevisionId":51766151,"wgArticleId":23662,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Biografias de pessoas vivas sem fontes desde março de 2016","Pessoas vivas","!Imagem local diferente da no Wikidata","!Esboços maiores que 5000 bytes","!Esboços de biografias","Nascidos em 1942","Medalha Presidencial da Liberdade","Isabel Allende","Romancistas do Chile","Dramaturgos do Chile","Contistas do Chile","Naturais de Lima","Mulheres na literatura"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Isabel_Allende","wgRelevantArticleId":23662,"wgRequestId":"WwwQnQpAAD8AACGSgy0AAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q83566","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c2/Isabel_allende.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Isabel_Allende"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Isabel_Allende&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Isabel_Allende&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Isabel_Allende"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isabel_Allende rootpage-Isabel_Allende skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Isabel Allende</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
+<tr>
+<td width="8%" align="center">
+<div style="width:52px; padding-top:5px"><a href="/wiki/Ficheiro:Question_book.svg" class="image"><img alt="Question book.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/51px-Question_book.svg.png" width="51" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/76px-Question_book.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/101px-Question_book.svg.png 2x" data-file-width="252" data-file-height="199" /></a></div>
+</td>
+<td width="91%"><b>Esta <a href="/wiki/Wikip%C3%A9dia:Biografias_de_pessoas_vivas" title="Wikipédia:Biografias de pessoas vivas">biografia de uma pessoa viva</a> não <a href="/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes" title="Wikipédia:Livro de estilo/Cite as fontes">cita</a> as suas <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">fontes ou referências</a></b>, o que compromete sua credibilidade. <small>(desde março de 2016)</small><br />
+Ajude a melhorar este artigo providenciando <a href="/wiki/Wikip%C3%A9dia:Fontes_confi%C3%A1veis" title="Wikipédia:Fontes confiáveis">fontes confiáveis</a> e independentes. Material controverso sobre pessoas vivas sem apoio de fontes confiáveis e verificáveis <b>deve ser imediatamente removido</b>, especialmente se for de natureza <a href="/wiki/Difama%C3%A7%C3%A3o" title="Difamação">difamatória</a>.<br />
+<i>Encontre fontes:</i> <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.google.com/#q=Isabel+Allende">Google</a> (<a rel="nofollow" class="external text" href="https://www.google.com/search?hl=pt&amp;tbm=nws&amp;q=Isabel+Allende&amp;oq=Isabel+Allende">notícias</a>, <a rel="nofollow" class="external text" href="http://books.google.com/books?&amp;as_brr=0&amp;as_epq=Isabel+Allende">livros</a> e <a rel="nofollow" class="external text" href="https://scholar.google.com.br/scholar?hl=pt&amp;q=Isabel+Allende">acadêmico</a>)</span></td>
+<td width="1%" align="center"></td>
+</tr>
+</table>
+<table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Isabel Allende</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Isabel_allende.jpg" class="image" title="Isabel Allende"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isabel_allende.jpg/200px-Isabel_allende.jpg" width="200" height="266" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isabel_allende.jpg/300px-Isabel_allende.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c2/Isabel_allende.jpg 2x" data-file-width="376" data-file-height="500" /></a></div>
+</div>
+<small>Isabel Allende, 2007.</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Isabel Allende Llona</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><span style="white-space:nowrap;"><a href="/wiki/2_de_agosto#Nascimentos" title="2 de agosto">2 de agosto</a> de <a href="/wiki/1942" title="1942">1942</a>&#160;(75&#160;anos)</span><br />
+<a href="/wiki/Lima" title="Lima">Lima</a>, <a href="/wiki/Peru" title="Peru">Peru</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Residência</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Sausalito_(Calif%C3%B3rnia)" title="Sausalito (Califórnia)">Sausalito (Califórnia)</a>, <a href="/wiki/EUA" class="mw-redirect" title="EUA">EUA</a><sup id="cite_ref-dn17_1-0" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Chile" title="Chile">chilena</a><br />
+<a href="/wiki/Povo_dos_Estados_Unidos" title="Povo dos Estados Unidos">norte-americana</a> (2003)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Miguel Frías (1962-1987)<sup id="cite_ref-dn17_1-1" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup><br />
+Willie Gordon (1988-2015)<sup id="cite_ref-dn17_1-2" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Filho(s)</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">2 filhos<sup id="cite_ref-dn17_1-3" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Prémios</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Pr%C3%AAmio_Nacional_de_Literatura_do_Chile" class="mw-redirect" title="Prêmio Nacional de Literatura do Chile">Prêmio Nacional de Literatura do Chile</a> (2010)<br />
+<a href="/wiki/Medalha_Presidencial_da_Liberdade" title="Medalha Presidencial da Liberdade">Medalha Presidencial da Liberdade</a> (2014)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i><a href="/wiki/A_Casa_dos_Esp%C3%ADritos" class="mw-redirect" title="A Casa dos Espíritos">A Casa dos Espíritos</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;">Página oficial</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; padding:4px 4px 4px 0;" colspan="2"><a rel="nofollow" class="external text" href="http://www.isabelallende.com/">www.isabelallende.com</a></td>
+</tr>
+</table>
+<p><b>Isabel Allende Llona</b> (<a href="/wiki/Lima" title="Lima">Lima</a>, <a href="/wiki/Peru" title="Peru">Peru</a>, <a href="/wiki/2_de_agosto" title="2 de agosto">2 de agosto</a> de <a href="/wiki/1942" title="1942">1942</a>) é uma escritora <a href="/wiki/Chilenos" title="Chilenos">chilena</a> / <a href="/wiki/Norte-americanos" class="mw-redirect" title="Norte-americanos">norte-americana</a>. Entre outras obras, é autora de <i><a href="/wiki/A_Casa_dos_Esp%C3%ADritos" class="mw-redirect" title="A Casa dos Espíritos">A Casa dos Espíritos</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Obra"><span class="tocnumber">2</span> <span class="toctext">Obra</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Romances"><span class="tocnumber">2.1</span> <span class="toctext">Romances</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Memórias"><span class="tocnumber">2.2</span> <span class="toctext">Memórias</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Contos"><span class="tocnumber">2.3</span> <span class="toctext">Contos</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Teatro"><span class="tocnumber">2.4</span> <span class="toctext">Teatro</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Prémios_e_distinções"><span class="tocnumber">3</span> <span class="toctext">Prémios e distinções</span></a></li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">4</span> <span class="toctext">Referências</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ligações_externas"><span class="tocnumber">5</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Isabel Allende nasceu em 2 de agosto de 1942, em Lima, no Peru, onde o seu pai diplomata se encontrava em trabalho. No entanto, a sua nacionalidade é <a href="/wiki/Chile" title="Chile">chilena</a>, tendo-se tornado cidadã <a href="/wiki/EUA" class="mw-redirect" title="EUA">norte-americana</a> em 2003.<sup id="cite_ref-dn17_1-4" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup> É filha de Tomás Allende, funcionário diplomático e primo-irmão de <a href="/wiki/Salvador_Allende" title="Salvador Allende">Salvador Allende</a>, e de Francisca Llona.</p>
+<p>Isabel é considerada uma das principais revelações da literatura <a href="/wiki/Am%C3%A9rica_Latina" title="América Latina">latino-americana</a> da <a href="/wiki/D%C3%A9cada_de_1980" title="Década de 1980">década de 1980</a>. Sua obra é marcada pela ditadura no Chile, implantada com o golpe militar que em 1973 derrubou o governo do primo de seu pai, o presidente Salvador Allende (1908-1973).</p>
+<p>O seu livro editado foi <i><a href="/wiki/A_Casa_dos_Esp%C3%ADritos" class="mw-redirect" title="A Casa dos Espíritos">A Casa dos Espíritos</a></i> (1982) (<i>La casa de los espíritus</i>) que ganhou reconhecimento de público e crítica. A obra resultou num filme <i><a href="/wiki/A_Casa_dos_Esp%C3%ADritos_(filme)" title="A Casa dos Espíritos (filme)">A Casa dos Espíritos</a></i> (1993) realizada por <a href="/wiki/Bille_August" title="Bille August">Bille August</a>, com <a href="/wiki/Jeremy_Irons" title="Jeremy Irons">Jeremy Irons</a>, <a href="/wiki/Meryl_Streep" title="Meryl Streep">Meryl Streep</a>, <a href="/wiki/Winona_Ryder" title="Winona Ryder">Winona Ryder</a> e <a href="/wiki/Antonio_Banderas" title="Antonio Banderas">Antonio Banderas</a>, tendo grande parte das rodagens ter decorrido em Portugal, em Lisboa e no Alentejo.<sup id="cite_ref-dn17_1-5" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Em 1995 lançou o livro <i><a href="/wiki/Paula_(livro)" title="Paula (livro)">Paula</a></i>, que a autora escreveu para a sua filha que estava em <a href="/wiki/Coma" title="Coma">coma</a> devido a um ataque de <a href="/wiki/Porfiria" title="Porfiria">porfiria</a>. Como a autora não sabia se a sua <a href="/wiki/Mem%C3%B3ria" title="Memória">memória</a> voltaria após a saída do coma, Isabel Allende resolveu contar a sua história para auxiliar a filha a lembrar dos fatos. <i>Paula</i> passou a ser então um retrato auto-biográfico.</p>
+<h2><span class="mw-headline" id="Obra">Obra</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Obra">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=2" title="Editar secção: Obra">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Romances">Romances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Romances">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=3" title="Editar secção: Romances">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1982 - <i><a href="/wiki/La_casa_de_los_esp%C3%ADritus" title="La casa de los espíritus">La casa de los espíritus</a></i> (<i>A Casa dos Espíritos</i>)</li>
+<li>1983 - <i>La logon Asulon</i> (<i>A Lagoa Azul</i>)</li>
+<li>1984 - <i><a href="/wiki/De_amor_y_de_sombra" title="De amor y de sombra">De amor y de sombra</a></i> (<i>De amor e de sombra</i>)</li>
+<li>1987 - <i>Eva Luna</i> (<i>Eva Luna</i>)</li>
+<li>1991 - <i><a href="/wiki/El_plan_infinito" title="El plan infinito">El plan infinito</a></i> (<i>O plano infinito</i>)</li>
+<li>1995 - <i><a href="/wiki/Paula_(livro)" title="Paula (livro)">Paula</a></i> (<i>Cartas a Paula</i>)</li>
+<li>1998 - <i>Afrodita</i> (<i>Afrodite</i>)</li>
+<li>1999 - <i>Hija de la fortuna</i> (<i>Filha da fortuna</i>)</li>
+<li>2000 - <i>Retrato en sepia</i> (<i>Retrato a sépia</i>)</li>
+<li>2002 - <i><a href="/wiki/La_ciudad_de_las_bestias" title="La ciudad de las bestias">La ciudad de las bestias</a></i> (<i>A cidade das feras</i> (Brasil), <i>A cidade dos deuses selvagens</i> (Portugal))</li>
+<li>2003 - <i><a href="/wiki/El_reino_del_drag%C3%B3n_de_oro" title="El reino del dragón de oro">El reino del dragón de oro</a></i> (<i>O reino do dragão de ouro</i>)</li>
+<li>2004 - <i><a href="/wiki/El_bosque_de_los_pigmeos" title="El bosque de los pigmeos">El bosque de los pigmeos</a></i> (<i>O bosque dos Pigmeus</i>)</li>
+<li>2005 - <i>El Zorro</i> (<i>Zorro, começa a lenda</i>)</li>
+<li>2006 - <i>Inés del alma mía</i> (<i>Inés da minha alma</i>)</li>
+<li>2007 - <i>La suma de los días</i> (<i>A soma dos dias</i>)</li>
+<li>2009 - <i>La isla bajo el mar</i> (<i>A ilha sob o mar</i>)</li>
+<li>2011 - <i>El Cuaderno de Maya</i> (<i>O Caderno de Maya</i>)</li>
+<li>2014 - <i>El Juego de Ripper (</i>O Jogo de Ripper<i>)</i></li>
+<li>2015 - <i>El amante japonés</i> (<i>O Amante Japonês</i>)</li>
+<li>2017 - <i>Más allá del invierno</i> (<i>Para além do inverno)</i></li>
+</ul>
+<h3><span id="Mem.C3.B3rias"></span><span class="mw-headline" id="Memórias">Memórias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Memórias">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=4" title="Editar secção: Memórias">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>2003 - <i>Mi país inventado</i> (<i>O meu país inventado</i>)</li>
+</ul>
+<h3><span class="mw-headline" id="Contos">Contos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Contos">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=5" title="Editar secção: Contos">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1984 - <i>La gorda de porcelana</i></li>
+<li>1989 - <i>Cuentos de Eva Luna</i> (<i>Contos de Eva Luna</i>)</li>
+</ul>
+<h3><span class="mw-headline" id="Teatro">Teatro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Editar secção: Teatro">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=6" title="Editar secção: Teatro">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>El embajador</i> (representada no Chile em 1971)</li>
+<li><i>La balada del medio pelo</i> (1973)</li>
+<li><i>Los siete espejos</i> (1974)</li>
+<li><i>Los Tomates Del Fábio Cagón</i> (2004)</li>
+</ul>
+<h2><span id="Pr.C3.A9mios_e_distin.C3.A7.C3.B5es"></span><span class="mw-headline" id="Prémios_e_distinções">Prémios e distinções</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Editar secção: Prémios e distinções">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=7" title="Editar secção: Prémios e distinções">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Premio_Nacional_de_Literatura_de_Chile" title="Premio Nacional de Literatura de Chile">Premio Nacional de Literatura de Chile</a></i> (2010)<sup id="cite_ref-dn17_1-6" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></li>
+<li><a href="/wiki/Medalha_Presidencial_da_Liberdade" title="Medalha Presidencial da Liberdade">Medalha Presidencial da Liberdade</a> (EUA) (2014)<sup id="cite_ref-dn17_1-7" class="reference"><a href="#cite_note-dn17-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-dn17-1"><span class="mw-cite-backlink">↑ <sup><i><b><a href="#cite_ref-dn17_1-0">a</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-1">b</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-2">c</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-3">d</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-4">e</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-5">f</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-6">g</a></b></i></sup> <sup><i><b><a href="#cite_ref-dn17_1-7">h</a></b></i></sup></span> <span class="reference-text"><cite class="citation web">João Gobern (2 de agosto de 2017). <a rel="nofollow" class="external text" href="https://www.dn.pt/artes/interior/isabel-allende-75-anos-a-saudacao-feliz-ao-inverno-8678534.html">«Isabel Allende, 75 anos, a saudação feliz ao inverno»</a>. <i>Diário de Notícias</i><span class="reference-accessdate">. Consultado em 31 de outubro de 2017.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AIsabel+Allende&amp;rft.atitle=Isabel+Allende%2C+75+anos%2C+a+sauda%C3%A7%C3%A3o+feliz+ao+inverno&amp;rft.au=Jo%C3%A3o+Gobern&amp;rft.date=2017-08-02&amp;rft.genre=unknown&amp;rft.jtitle=Di%C3%A1rio+de+Not%C3cias&amp;rft_id=https%3A%2F%2Fwww.dn.pt%2Fartes%2Finterior%2Fisabel-allende-75-anos-a-saudacao-feliz-ao-inverno-8678534.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit&amp;section=8" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 238px; padding: 5px; spacing: 2px; text-align: center; float: right;">
+<div style="float: left; vertical-align:middle;">
+<div class="floatnone"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/22px-Wikiquote-logo.svg.png" title="Wikiquote" width="22" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/33px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/44px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></div>
+</div>
+<div style="margin-left: 30px; line-height:normal; vertical-align:middle;">O <a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a> possui citações de ou sobre: <i><b><a href="https://pt.wikiquote.org/wiki/Isabel_Allende" class="extiw" title="q:Isabel Allende">Isabel Allende</a></b></i></div>
+</div>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 238px; padding: 5px; spacing: 2px; text-align: center; float: right;">
+<div style="float: left; vertical-align:middle;">
+<div class="floatnone"><a href="/wiki/Ficheiro:Commons-logo.svg" class="image" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png" width="22" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/33px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/44px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+<div style="margin-left: 30px; line-height:normal; vertical-align:middle;">O <a href="https://commons.wikimedia.org/wiki/P%C3%A1gina_principal" class="extiw" title="commons:Página principal">Commons</a> possui imagens e outras mídias sobre <b><span class="plainlinks"><a class="external text" href="http://commons.wikimedia.org/w/index.php?title=Isabel+Allende&amp;uselang=pt">Isabel Allende</a></span></b></div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.isabelallende.com/en/home"><i>Website</i> pessoal de Isabel Allende</a> (em <a href="/wiki/L%C3%ADngua_inglesa" title="Língua inglesa">inglês</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.the-ledge.com/flash/ledge.php?conversation=41&amp;lan=UK">Interview Isabel Allende, The Ledge</a> (em <a href="/wiki/L%C3%ADngua_inglesa" title="Língua inglesa">inglês</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://entitulando.wordpress.com/2012/03/10/allende-contos-familiares-ou-historia-chilena/">Resenha crítica de "A Casa dos Espíritos"</a></li>
+</ul>
+<table class="noprint" style="border-top:none; border-bottom:none; background:none;">
+<tr>
+<td align="center"><a href="/wiki/Ficheiro:Crystal_Clear_app_Login_Manager.png" class="image"><img alt="Ícone de esboço" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/30px-Crystal_Clear_app_Login_Manager.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/45px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/60px-Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td><i>Este artigo sobre <span>uma <a href="/wiki/Biografia" title="Biografia">pessoa</a></span> é um <a href="/wiki/Wikip%C3%A9dia:Esbo%C3%A7o" title="Wikipédia:Esboço">esboço</a>. Você pode ajudar a Wikipédia <span class="plainlinks" style="font-weight:bold;"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Isabel_Allende&amp;action=edit">expandindo-o</a></span>.</i></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;width: 12%; text-align:center;"><a href="/wiki/Ajuda:Controle_de_autoridade" title="Ajuda:Controle de autoridade">Controle de autoridade</a><br /></th>
+<td class="navbox-list navbox-odd plainlinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>: <span class="uid"><a href="https://www.wikidata.org/wiki/Q83566" class="extiw" title="wikidata:Q83566">Q83566</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" class="mw-redirect" title="Virtual International Authority File">VIAF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/61556825">61556825</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AllMovie" title="AllMovie">AllMovie</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allmovie.com/artist/p168309">p168309</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AlloCin%C3%A9" title="AlloCiné">AlloCiné</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=68574.html?nopub=1">68574</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BIBSYS" class="mw-redirect" title="BIBSYS">BIBSYS</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90053348">90053348</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Espanha" title="Biblioteca Nacional da Espanha">BNE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX1034738">XX1034738</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12013110z">12013110z</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Grande_Enciclop%C3%A9dia_Sovi%C3%A9tica" title="Grande Enciclopédia Soviética">BRE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://bigenc.ru/text/1815691">1815691</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Cat%C3%A1logo_de_autoridades_de_nomes_e_t%C3%ADtulos_da_Catalunha" title="Catálogo de autoridades de nomes e títulos da Catalunha">CANTIC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a10038498">a10038498</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Discogs" title="Discogs">Discogs</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/518286">518286</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">EBID</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Isabel-Allende">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Bibliotheca_Alexandrina" title="Bibliotheca Alexandrina">EGAXA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/processed/EGAXA%7Cvtls001088832">001088832</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Faceted_Application_of_Subject_Terminology" title="Faceted Application of Subject Terminology">FAST</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://experimental.worldcat.org/fast/139068/">139068</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Filmportal: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.filmportal.de/film/a0c9c573fd6043c89cc6aaf4db0470a5">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gran_Enciclop%C3%A8dia_Catalana" title="Gran Enciclopèdia Catalana">GEC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/EC-GEC-0240968.xml">0240968</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118869159">118869159</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" class="mw-redirect" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://id.sbn.it/af/IT\ICCU\CFIV\016588">IT\ICCU\CFIV\016588</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">IMDb</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=345&amp;url_prefix=http://www.imdb.com/&amp;id=nm0021196">nm0021196</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=213&amp;url_prefix=http://isni.org/&amp;id=0000">0001 2135 6071 0000 0001 2135 6071</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" class="mw-redirect" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n84145691">n84145691</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/f9e821ca-154d-4241-b695-b4f9c5067655">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Munzinger: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.munzinger.de/search/go/document.jsp?id=00000018055">00000018055</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Dieta" title="Biblioteca Nacional da Dieta">NDL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00462184">00462184</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Rep%C3%BAblica_Checa" title="Biblioteca Nacional da República Checa">NKC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19990000119">jn19990000119</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Austr%C3%A1lia" title="Biblioteca Nacional da Austrália">NLA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35111431">35111431</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Notable_Names_Database" title="Notable Names Database">NNDB</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.nndb.com/people/844/000095559/">000095559</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Real_dos_Pa%C3%ADses_Baixos" title="Biblioteca Real dos Países Baixos">NTA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p071222413">071222413</a></span></span></span></li>
+<li><span style="white-space:nowrap;">NUKAT: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/processed/NUKAT%7Cn93080056">n93080056</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Open_Library" title="Open Library">OL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL228079A">OL228079A</a></span></span></span></li>
+<li><span style="white-space:nowrap;">openMLOL: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openmlol.it/autore/105444">105444</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Portugal" title="Biblioteca Nacional de Portugal">PTBNP</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://urn.bn.pt/nca/unimarc-authorities/txt?id=963">963</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/218144">218144</a></span></span></span></li>
+<li><span style="white-space:nowrap;">SNAC: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://snaccooperative.org/ark:/99166/w6sf3280">w6sf3280</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Sistema_Universit%C3%A1rio_de_Documenta%C3%A7%C3%A3o" title="Sistema Universitário de Documentação">SUDOC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.idref.fr/031100163">031100163</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/w/index.php?title=Ron_Unz&amp;action=edit&amp;redlink=1" class="new" title="Ron Unz (página não existe)">UNZ</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.unz.org/Author/AllendeIsabel">AllendeIsabel</a></span></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<ul class="noprint" style="border-top: solid silver 1px; border-bottom:1px solid silver; padding:3px; background-color: #F9F9F9; text-align: center; margin-top:10px; margin-left: 0; clear: both;">
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Books-aj.svg_aj_ashton_01.png" title="Portal da literatura"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/25px-Books-aj.svg_aj_ashton_01.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/38px-Books-aj.svg_aj_ashton_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/50px-Books-aj.svg_aj_ashton_01.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Literatura" title="Portal:Literatura">Portal da literatura</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Flag_of_Chile.svg" title="Portal do Chile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/25px-Flag_of_Chile.svg.png" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/38px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/50px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Chile" title="Portal:Chile">Portal do Chile</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Flag_of_the_United_States.svg" title="Portal dos Estados Unidos"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/25px-Flag_of_the_United_States.svg.png" width="25" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/38px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Estados_Unidos" title="Portal:Estados Unidos">Portal dos Estados Unidos</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180528142222
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.876 seconds
+Real time usage: 1.072 seconds
+Preprocessor visited node count: 11040/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51327/2097152 bytes
+Template argument size: 8007/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 35/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3020/5000000 bytes
+Lua time usage: 0.273/10.000 seconds
+Lua memory usage: 7.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1011.564      1 -total
+ 40.31%  407.751      1 Predefinição:Info/Biografia
+ 29.39%  297.256      1 Predefinição:Controlo_de_autoria
+ 26.84%  271.519      1 Predefinição:Info
+ 14.80%  149.703      2 Predefinição:Link
+ 14.57%  147.371      2 Predefinição:Link/código
+ 13.99%  141.529      2 Predefinição:Link/línguas
+  4.81%   48.659      1 Predefinição:Sem-fontes-bpv
+  4.53%   45.774      1 Predefinição:Portal3
+  4.33%   43.833      2 Predefinição:Língua-meta
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:23662-0!canonical and timestamp 20180528142221 and revision id 51766151
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Isabel_Allende&amp;oldid=51766151">https://pt.wikipedia.org/w/index.php?title=Isabel_Allende&amp;oldid=51766151</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1942" title="Categoria:Nascidos em 1942">Nascidos em 1942</a></li><li><a href="/wiki/Categoria:Medalha_Presidencial_da_Liberdade" title="Categoria:Medalha Presidencial da Liberdade">Medalha Presidencial da Liberdade</a></li><li><a href="/wiki/Categoria:Isabel_Allende" title="Categoria:Isabel Allende">Isabel Allende</a></li><li><a href="/wiki/Categoria:Romancistas_do_Chile" title="Categoria:Romancistas do Chile">Romancistas do Chile</a></li><li><a href="/wiki/Categoria:Dramaturgos_do_Chile" title="Categoria:Dramaturgos do Chile">Dramaturgos do Chile</a></li><li><a href="/wiki/Categoria:Contistas_do_Chile" title="Categoria:Contistas do Chile">Contistas do Chile</a></li><li><a href="/wiki/Categoria:Naturais_de_Lima" title="Categoria:Naturais de Lima">Naturais de Lima</a></li><li><a href="/wiki/Categoria:Mulheres_na_literatura" title="Categoria:Mulheres na literatura">Mulheres na literatura</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!Biografias_de_pessoas_vivas_sem_fontes_desde_mar%C3%A7o_de_2016" title="Categoria:!Biografias de pessoas vivas sem fontes desde março de 2016">!Biografias de pessoas vivas sem fontes desde março de 2016</a></li><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_diferente_da_no_Wikidata" title="Categoria:!Imagem local diferente da no Wikidata">!Imagem local diferente da no Wikidata</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_maiores_que_5000_bytes" title="Categoria:!Esboços maiores que 5000 bytes">!Esboços maiores que 5000 bytes</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_de_biografias" title="Categoria:!Esboços de biografias">!Esboços de biografias</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Isabel+Allende" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Isabel+Allende" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Isabel_Allende" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Isabel_Allende" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Isabel_Allende">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Isabel_Allende&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Isabel_Allende&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Isabel_Allende&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Isabel+Allende">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Isabel+Allende&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Isabel_Allende&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Isabel_Allende" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://pt.wikiquote.org/wiki/Isabel_Allende" hreflang="pt">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Isabel_Allende" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Isabel_Allende" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Isabel_Allende&amp;oldid=51766151" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Isabel_Allende&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q83566" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Isabel_Allende&amp;id=51766151" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — africanês" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — aragonês" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B2%D8%A7%D8%A8%D9%8A%D9%84_%D8%A7%D9%84%D9%84%D9%8A%D9%86%D8%AF%D9%8A" title="إيزابيل الليندي — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0zabel_Alyende" title="İzabel Alyende — azerbaijano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B2%D8%A7%D8%A8%D9%84_%D8%A2%D9%84%D9%86%D8%AF%D9%87" title="ایزابل آلنده — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%86%D1%81%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C_%D0%90%D0%BB%D1%8C%D0%B5%D0%BD%D0%B4%D1%8D" title="Ісабель Альендэ — bielorrusso" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%86%D1%81%D0%B0%D0%B1%D1%8D%D0%BB%D1%8C_%D0%90%D0%BB%D1%8C%D0%BB%D0%B5%D0%BD%D0%B4%D1%8D" title="Ісабэль Альлендэ — Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%B1%D0%B5%D0%BB_%D0%90%D0%BB%D0%B8%D0%B5%D0%BD%D0%B4%D0%B5" title="Исабел Алиенде — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — bretão" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — galês" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%99%CE%B6%CE%B1%CE%BC%CF%80%CE%AD%CE%BB_%CE%91%CE%BB%CE%B9%CE%AD%CE%BD%CF%84%CE%B5" title="Ιζαμπέλ Αλιέντε — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo badge-Q17437798 badge-goodarticle" title="artigo bom"><a href="https://eo.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — estónio" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B2%D8%A7%D8%A8%D9%84_%D8%A2%D9%84%D9%86%D8%AF%D9%87" title="ایزابل آلنده — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — feroês" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — irlandês" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%96%D7%91%D7%9C_%D7%90%D7%99%D7%99%D7%A0%D7%93%D7%94" title="איזבל איינדה — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BB%D5%A6%D5%A1%D5%A2%D5%A5%D5%AC_%D4%B1%D5%AC%D5%A5%D5%B6%D5%A4%D5%A5" title="Իզաբել Ալենդե — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Isabel_Allende_(1942)" title="Isabel Allende (1942) — interlíngua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B5%E3%83%99%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%87" title="イサベル・アジェンデ — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — javanês" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%AC%EB%B2%A8_%EC%95%84%EC%98%8C%EB%8D%B0" title="이사벨 아옌데 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Isabella_Allende" title="Isabella Allende — latim" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B2%D8%A7%D8%A8%D9%84_%D8%A2%D9%84%D9%86%D8%AF%D8%A7%D9%9B" title="ایزابل آلنداٛ — luri do norte" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Izabella_Aljende" title="Izabella Aljende — letão" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — maltês" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — baixo-alemão" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Isabel_Allende_(schrijfster)" title="Isabel Allende (schrijfster) — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — norueguês nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%87%E0%A8%9C%E0%A8%BC%E0%A8%BE%E0%A8%AC%E0%A9%88%E0%A9%B1%E0%A8%B2_%E0%A8%85%E0%A8%B2%E0%A9%88%E0%A8%82%E0%A8%A6%E0%A9%87" title="ਇਜ਼ਾਬੈੱਲ ਅਲੈਂਦੇ — panjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — quíchua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B5%D0%BD%D0%B4%D0%B5,_%D0%98%D1%81%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C_(%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0)" title="Альенде, Исабель (писательница) — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — siciliano" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Isabel_Allendeov%C3%A1" title="Isabel Allendeová — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — esloveno" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D0%B0_%D0%90%D1%99%D0%B5%D0%BD%D0%B4%D0%B5" title="Изабела Аљенде — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Isabel_Al%C3%BDende" title="Isabel Alýende — turcomano" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — tagalo" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C_%D0%90%D0%BB%D1%8C%D1%94%D0%BD%D0%B4%D0%B5" title="Ізабель Альєнде — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Isabel_Allende" title="Isabel Allende — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%8E%E8%B2%9D%C2%B7%E9%98%BF%E8%A8%80%E5%BE%B7" title="伊莎貝·阿言德 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q83566#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 02h11min de 10 de abril de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Isabel_Allende&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.876","walltime":"1.072","ppvisitednodes":{"value":11040,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51327,"limit":2097152},"templateargumentsize":{"value":8007,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":35,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3020,"limit":5000000},"entityaccesscount":{"value":35,"limit":400},"timingprofile":["100.00% 1011.564      1 -total"," 40.31%  407.751      1 Predefinição:Info/Biografia"," 29.39%  297.256      1 Predefinição:Controlo_de_autoria"," 26.84%  271.519      1 Predefinição:Info"," 14.80%  149.703      2 Predefinição:Link"," 14.57%  147.371      2 Predefinição:Link/código"," 13.99%  141.529      2 Predefinição:Link/línguas","  4.81%   48.659      1 Predefinição:Sem-fontes-bpv","  4.53%   45.774      1 Predefinição:Portal3","  4.33%   43.833      2 Predefinição:Língua-meta"]},"scribunto":{"limitreport-timeusage":{"value":"0.273","limit":"10.000"},"limitreport-memusage":{"value":7485127,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180528142222","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1183,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>

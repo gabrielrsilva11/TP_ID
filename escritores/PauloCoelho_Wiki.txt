@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Paulo Coelho – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paulo_Coelho","wgTitle":"Paulo Coelho","wgCurRevisionId":52137039,"wgRevisionId":52137039,"wgArticleId":57203,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Páginas com erros CS1: caracteres invisíveis","!Páginas com erros ligações externas","!Páginas que utilizam argumentos duplicados ao chamar predefinições","!Biografias de pessoas vivas que carecem de mais fontes desde junho de 2014","!Artigos que carecem de fontes maiores que 20000 bytes","Pessoas vivas","!Imagem local diferente da no Wikidata","Nascidos em 1947","Paulo Coelho","Naturais do Rio de Janeiro (cidade)","Brasileiros de ascendência portuguesa","Escritores do Rio de Janeiro","Escritores contemporâneos do Brasil","Romancistas do Brasil","Atores do Rio de Janeiro","Blogueiros do Brasil","Escritores por religião","Católicos do Brasil","Peregrinos de Santiago","Cristianismo esotérico","Compositores do Rio de Janeiro","Membros da Academia Brasileira de Letras","Cavaleiros da Ordem Nacional da Legião de Honra","Raul Seixas"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Paulo_Coelho","wgRelevantArticleId":57203,"wgRequestId":"WweKEApAIDEAAAqBdUkAAABT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q12881","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a7/Paulo_Coelho_30102007.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Paulo_Coelho"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Paulo_Coelho&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Paulo_Coelho&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Paulo_Coelho"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Paulo_Coelho rootpage-Paulo_Coelho skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Paulo Coelho</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
+<tr>
+<td width="8%" align="center">
+<div style="width:52px; padding-top:5px"><a href="/wiki/Ficheiro:NoFonti.svg" class="image"><img alt="NoFonti.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/NoFonti.svg/40px-NoFonti.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/NoFonti.svg/60px-NoFonti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/NoFonti.svg/80px-NoFonti.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</td>
+<td width="91%"><b>Esta <a href="/wiki/Wikip%C3%A9dia:Biografias_de_pessoas_vivas" title="Wikipédia:Biografias de pessoas vivas">biografia de uma pessoa viva</a> <a href="/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes" title="Wikipédia:Livro de estilo/Cite as fontes">cita</a> <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">fontes confiáveis e independentes</a>, mas elas não cobrem todo o texto.</b> <small>(desde junho de 2014)</small> Ajude a melhorar esta biografia providenciando mais <a href="/wiki/Wikip%C3%A9dia:Fontes_confi%C3%A1veis" title="Wikipédia:Fontes confiáveis">fontes confiáveis</a> e independentes. Material controverso sobre pessoas vivas sem apoio de fontes confiáveis e verificáveis <b>deve ser imediatamente removido</b>, especialmente se for de natureza <a href="/wiki/Difama%C3%A7%C3%A3o" title="Difamação">difamatória</a>.<br />
+<i>Encontre fontes:</i> <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.google.com/#q=Paulo+Coelho">Google</a> (<a rel="nofollow" class="external text" href="https://www.google.com/search?hl=pt&amp;tbm=nws&amp;q=Paulo+Coelho&amp;oq=Paulo+Coelho">notícias</a>, <a rel="nofollow" class="external text" href="http://books.google.com/books?&amp;as_brr=0&amp;as_epq=Paulo+Coelho">livros</a> e <a rel="nofollow" class="external text" href="https://scholar.google.com.br/scholar?hl=pt&amp;q=Paulo+Coelho">acadêmico</a>)</span></td>
+<td width="1%" align="center"></td>
+</tr>
+</table>
+<table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:antiquewhite; border-radius: 3px 3px 0 0;"><span class=""><span style="color:green;">Paulo Coelho</span> <a href="/wiki/Academia_Brasileira_de_Letras" title="Academia Brasileira de Letras"><img alt="Academia Brasileira de Letras" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/20px-ABL_logo.svg.png" width="20" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/30px-ABL_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/40px-ABL_logo.svg.png 2x" data-file-width="289" data-file-height="297" /></a></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Paulo_Coelho_30102007.jpg" class="image" title="Paulo Coelho"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulo_Coelho_30102007.jpg/180px-Paulo_Coelho_30102007.jpg" width="180" height="287" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulo_Coelho_30102007.jpg/270px-Paulo_Coelho_30102007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulo_Coelho_30102007.jpg/360px-Paulo_Coelho_30102007.jpg 2x" data-file-width="696" data-file-height="1111" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Paulo Coelho</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><span style="white-space:nowrap;"><a href="/wiki/24_de_agosto#Nascimentos" title="24 de agosto">24 de agosto</a> de <a href="/wiki/1947" title="1947">1947</a>&#160;(70&#160;anos)</span><br />
+<a href="/wiki/Rio_de_Janeiro_(cidade)" title="Rio de Janeiro (cidade)">Rio de Janeiro,</a> <a href="/wiki/Ficheiro:Rio_de_Janeiro1908.gif" class="image"><img alt="Rio de Janeiro1908.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rio_de_Janeiro1908.gif/20px-Rio_de_Janeiro1908.gif" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rio_de_Janeiro1908.gif/30px-Rio_de_Janeiro1908.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rio_de_Janeiro1908.gif/40px-Rio_de_Janeiro1908.gif 2x" data-file-width="500" data-file-height="355" /></a> <a href="/wiki/Distrito_Federal_do_Brasil_(1891-1960)" class="mw-redirect" title="Distrito Federal do Brasil (1891-1960)">Distrito Federal</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Brasileiros" title="Brasileiros">brasileiro</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Progenitores</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><small>Mãe:</small> Lígia Coelho<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><br />
+<small>Pai:</small> Pedro Paulo Coelho<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Christina_Oiticica" title="Christina Oiticica">Christina Oiticica</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Escritor" title="Escritor">Escritor</a> e <a href="/wiki/Letrista" title="Letrista">letrista</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/G%C3%AAnero_liter%C3%A1rio" title="Gênero literário">Gênero literário</a></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Drama" title="Drama">Drama</a><br />
+<a href="/wiki/Romance" title="Romance">romance</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i><a href="/wiki/O_Alquimista" title="O Alquimista">O Alquimista</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;">Página oficial</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; padding:4px 4px 4px 0;" colspan="2"><a rel="nofollow" class="external text" href="http://paulocoelhoblog.com/">www.paulocoelhoblog.com</a></td>
+</tr>
+</table>
+<p><b>Paulo Coelho de Souza</b> (<a href="/wiki/Rio_de_Janeiro_(cidade)" title="Rio de Janeiro (cidade)">Rio de Janeiro</a>, <a href="/wiki/29_de_agosto" title="29 de agosto">24 de agosto</a> de <a href="/wiki/1947" title="1947">1947</a>) é um <a href="/wiki/Escritor" title="Escritor">escritor</a>, <a href="/wiki/Letrista" title="Letrista">letrista</a> e <a href="/wiki/Jornalista" title="Jornalista">jornalista</a> <a href="/wiki/Brasil" title="Brasil">brasileiro</a>. Sua obra <i><a href="/wiki/O_Alquimista" title="O Alquimista">O Alquimista</a></i> é o livro brasileiro mais vendido de todos os tempos e é considerado um importante fenômeno literário do século XX.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Academia_Brasileira_de_Letras"><span class="tocnumber">2</span> <span class="toctext">Academia Brasileira de Letras</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reconhecimento_internacional"><span class="tocnumber">3</span> <span class="toctext">Reconhecimento internacional</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Vida_pessoal"><span class="tocnumber">4</span> <span class="toctext">Vida pessoal</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Carreira_no_Cinema"><span class="tocnumber">5</span> <span class="toctext">Carreira no Cinema</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Obras_do_autor"><span class="tocnumber">6</span> <span class="toctext">Obras do autor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Livros"><span class="tocnumber">6.1</span> <span class="toctext">Livros</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Compilações"><span class="tocnumber">6.2</span> <span class="toctext">Compilações</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Adaptações"><span class="tocnumber">6.3</span> <span class="toctext">Adaptações</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Livros_sobre_Paulo_Coelho"><span class="tocnumber">6.4</span> <span class="toctext">Livros sobre Paulo Coelho</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Projetos_Musicais"><span class="tocnumber">7</span> <span class="toctext">Projetos Musicais</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Principais_prêmios_e_condecorações"><span class="tocnumber">8</span> <span class="toctext">Principais prêmios e condecorações</span></a></li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">9</span> <span class="toctext">Referências</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Ver_também"><span class="tocnumber">10</span> <span class="toctext">Ver também</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ligações_externas"><span class="tocnumber">11</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nascido numa família de <a href="/wiki/Classe_alta" title="Classe alta">classe</a> alta, aos 7 anos Paulo Coelho ingressa no tradicional <a href="/wiki/Col%C3%A9gio_Santo_In%C3%A1cio" title="Colégio Santo Inácio">Colégio Santo Inácio</a> da então <a href="/wiki/Capital" title="Capital">capital</a> do <a href="/wiki/Brasil" title="Brasil">Brasil</a>, o <a href="/wiki/Rio_de_Janeiro_(cidade)" title="Rio de Janeiro (cidade)">Rio de Janeiro</a>.</p>
+<p>Desde cedo, gostava de escrever e mantinha um <a href="/wiki/Di%C3%A1rio_(agenda)" title="Diário (agenda)">diário</a>. No colégio, participava de concursos de <a href="/wiki/Poesia" title="Poesia">poesia</a> e cursos de <a href="/wiki/Teatro" title="Teatro">teatro</a> com o seu colega Paulo Cunha. No entanto, seu pai queria que ele fosse engenheiro e sua mãe desestimulava Paulo Cunha a seguir a carreira de escritor. As brigas com os pais eram constantes e Paulo teve muitas crises de <a href="/wiki/Depress%C3%A3o_nervosa" class="mw-redirect" title="Depressão nervosa">depressão</a> e <a href="/wiki/Raiva" class="mw-disambig" title="Raiva">raiva</a> na adolescência, tendo sido internado três vezes em uma clínica de repouso, onde foi tratado por psicólogos.</p>
+<p>Na <a href="/wiki/D%C3%A9cada_de_1960" title="Década de 1960">década de 1960</a>, entra para o mundo do teatro, como diretor e ator, criando peças voltadas ao <a href="/wiki/Teatro_experimental" title="Teatro experimental">teatro experimental</a> e de vanguarda, mas obtendo pouca expressividade. No início da década seguinte, em 1970, Paulo entra de cabeça no <a href="/wiki/Movimento_hippie" class="mw-redirect" title="Movimento hippie">movimento hippie</a>, ao mesmo tempo em que conhece o mundo das <a href="/wiki/Drogas" class="mw-redirect" title="Drogas">drogas</a> e do <a href="/wiki/Ocultismo" title="Ocultismo">ocultismo</a>, incluindo o chamado <a href="/wiki/Caminho_da_M%C3%A3o_Esquerda" class="mw-redirect" title="Caminho da Mão Esquerda">Caminho da Mão Esquerda</a>. Profissionalmente, além de diretor e ator teatral, exerce também a função de <a href="/wiki/Jornalista" title="Jornalista">jornalista</a> em publicações alternativas com as revistas "A Pomba" e "2001", quando, em 1972, conhece <a href="/wiki/Raul_Seixas" title="Raul Seixas">Raul Seixas</a>, então executivo da gravadora <a href="/wiki/Columbia_Records" title="Columbia Records">CBS</a>. Os dois se tornam parceiros em diversas músicas que exerceriam influência no <a href="/wiki/Rock_brasileiro" class="mw-redirect" title="Rock brasileiro">rock brasileiro</a> (consta na <a href="/wiki/Biografia" title="Biografia">biografia</a> de Paulo Coelho, "<a href="/wiki/O_Mago_(livro)" title="O Mago (livro)">O Mago</a>", do escritor <a href="/wiki/Fernando_Morais" title="Fernando Morais">Fernando Morais</a>, que Raul Seixas, para incentivar o amigo a compor, colocou-o como parceiro em sua participação na <a href="/wiki/Trilha_sonora" class="mw-redirect" title="Trilha sonora">trilha sonora</a> da novela <a href="/wiki/O_Rebu" title="O Rebu">O Rebu</a> da <a href="/wiki/Rede_Tupi" class="mw-redirect" title="Rede Tupi">Rede Tupi</a> - erroneamente confundida com a <a href="/wiki/Rede_Globo" title="Rede Globo">Rede Globo</a> no livro - sem que Paulo escrevesse uma única linha). Nessa época, Paulo Coelho envolve-se com <a href="/wiki/Marcelo_Ramos_Motta" title="Marcelo Ramos Motta">Marcelo Ramos Motta</a>, conhece a Lei de <a href="/wiki/Thelema" title="Thelema">Thelema</a> e, no dia 19 de maio de 1974, assina o <a href="/wiki/Juramento" title="Juramento">juramento</a> do grau de Probacionista da <a href="/wiki/Astrum_Argentum" title="Astrum Argentum">Astrum Argentum</a>, sob o mote mágico de Frater Luz Eterna.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Pouco tempo depois, se desligou da Ordem. Foi o responsável por apresentar a Lei de Thelema a Raul Seixas, que fez surgir, a partir dela, a <a href="/wiki/Sociedade_Alternativa" title="Sociedade Alternativa">Sociedade Alternativa</a>. Compõe também para diversos intérpretes, tais como <a href="/wiki/Elis_Regina" title="Elis Regina">Elis Regina</a>, <a href="/wiki/Rita_Lee" title="Rita Lee">Rita Lee</a> e outros.</p>
+<p>A edição do seu primeiro livro foi em 1982, <i><a href="/wiki/Arquivos_do_inferno" title="Arquivos do inferno">Arquivos do inferno</a></i>, que não teve a repercussão desejada. Lançou o seu segundo livro <i>O Manual Prático do Vampirismo</i> em 1985, que logo mandou recolher, considerando o trabalho de má qualidade. Conforme suas próprias palavras, confessa: "O <a href="/wiki/Mito" title="Mito">mito</a> é interessante, o livro é péssimo".</p>
+<p><a href="/wiki/Catolicismo" title="Catolicismo">Católico</a> não praticante, em 1986, Paulo Coelho conheceu a viagem de <a href="/wiki/Peregrina%C3%A7%C3%A3o" title="Peregrinação">peregrinação</a> pelo <a href="/wiki/Caminho_de_Santiago" class="mw-redirect" title="Caminho de Santiago">Caminho de Santiago</a>. Percorreu quase 800&#160;quilômetros do sul da <a href="/wiki/Fran%C3%A7a" title="França">França</a> até a cidade de <a href="/wiki/Santiago_de_Compostela" title="Santiago de Compostela">Santiago de Compostela</a>, na <a href="/wiki/Galiza" title="Galiza">Galiza</a>, experiência de que retirou detalhes para o seu livro <i><a href="/wiki/O_Di%C3%A1rio_de_um_Mago" title="O Diário de um Mago">O Diário de um Mago</a></i>, editado em 1987.</p>
+<p>No ano seguinte, 1988, publicou <i><a href="/wiki/O_Alquimista" title="O Alquimista">O Alquimista</a></i>, que - apesar de sua lenta vendagem inicial, o que provocou a desistência do seu primeiro editor - se transformaria no livro brasileiro mais vendido em todos os tempos. O Alquimista é um dos mais importantes fenômenos literários do século XX. Chegou ao primeiro lugar da lista dos mais vendidos em 18 países e vendeu, até o momento, 83 milhões de exemplares. O <a href="/wiki/Guinness_World_Records" title="Guinness World Records">Guinness Book of Records</a> o coloca como o autor vivo mais traduzido da história.</p>
+<p>Nos anos subsequentes, foram lançados os seguintes livros: <i><a href="/wiki/Brida" title="Brida">Brida</a></i> (1990), <i><a href="/wiki/As_Valk%C3%ADrias" title="As Valkírias">As Valkírias</a></i> (1992), <i><a href="/wiki/Na_Margem_do_Rio_Piedra_Eu_Sentei_e_Chorei" title="Na Margem do Rio Piedra Eu Sentei e Chorei">Na Margem do Rio Piedra Eu Sentei e Chorei</a></i> (1994), <i><a href="/wiki/Maktub" title="Maktub">Maktub</a></i> (1994), <i><a href="/wiki/O_Monte_Cinco" title="O Monte Cinco">O Monte Cinco</a></i> (1996), <i><a href="/wiki/Manual_do_Guerreiro_da_Luz" title="Manual do Guerreiro da Luz">Manual do Guerreiro da Luz</a></i> (1997), <i><a href="/wiki/Veronika_Decide_Morrer" title="Veronika Decide Morrer">Veronika Decide Morrer</a></i> (1998), <i><a href="/wiki/O_Dem%C3%B4nio_e_a_Srt%C2%AA_Prym" class="mw-redirect" title="O Demônio e a Srtª Prym">O Demônio e a Srtª Prym</a> (2000),</i> <i>Histórias para Pais, Filhos e Netos</i> (2001), <i><a href="/wiki/Onze_Minutos" title="Onze Minutos">Onze Minutos</a></i> (2003), <i><a href="/wiki/O_G%C3%AAnio_e_as_Rosas" title="O Gênio e as Rosas">O Gênio e as Rosas</a></i> (2004), <i><a href="/wiki/O_Zahir" title="O Zahir">O Zahir</a></i> (2005), <i><a href="/wiki/A_Bruxa_de_Portobello" title="A Bruxa de Portobello">A Bruxa de Portobello</a></i> (2006), <i>Ser Como o Rio Que Flui</i> (2006), <i><a href="/wiki/O_Vencedor_Est%C3%A1_S%C3%B3" title="O Vencedor Está Só">O Vencedor Está Só</a></i> (2008), <i><a href="/wiki/O_Aleph_(Paulo_Coelho)" title="O Aleph (Paulo Coelho)">O Aleph</a></i> (2010), <i><a href="/wiki/F%C3%A1bulas" class="mw-redirect" title="Fábulas">Fábulas</a></i> (2011), <i><a href="/wiki/Manuscrito_Encontrado_em_Accra" title="Manuscrito Encontrado em Accra">Manuscrito Encontrado em Accra</a></i> (2012), <i><a href="/wiki/Adult%C3%A9rio_(livro)" title="Adultério (livro)">Adultério</a></i> (2014).<sup id="cite_ref-bibliografia_6-0" class="reference"><a href="#cite_note-bibliografia-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Como escritor, ocupa as primeiras posições no <i><a href="/wiki/Ranking" title="Ranking">ranking</a></i> dos livros mais vendidos no mundo. Vendeu, até 2018, mais de 350 milhões de livros,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> em mais de 150 países,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> tendo suas obras traduzidas para 81 idiomas<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> e sendo o autor mais vendido em <a href="/wiki/L%C3%ADngua_portuguesa" title="Língua portuguesa">língua portuguesa</a> de todos os tempos,<sup id="cite_ref-biografia_10-0" class="reference"><a href="#cite_note-biografia-10"><span>[</span>10<span>]</span></a></sup> ultrapassando até mesmo <a href="/wiki/Jorge_Amado" title="Jorge Amado">Jorge Amado</a>, cujas vendas somam 55 milhões de livros.<sup id="cite_ref-biografia_10-1" class="reference"><a href="#cite_note-biografia-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Sua obra <i><a href="/wiki/O_Zahir" title="O Zahir">O Zahir</a></i> foi lançada primeiramente no <a href="/wiki/Ir%C3%A3" class="mw-redirect" title="Irã">Irã</a>, para que, lá, pudesse ser registrada como obra local e para que fossem <a href="/wiki/Processo_(direito)" class="mw-redirect" title="Processo (direito)">processados</a> aqueles que fizessem cópias ilegais do livro em <a href="/wiki/L%C3%ADngua_persa" title="Língua persa">língua persa</a>. Para escrever <i>O Zahir</i>, Paulo Coelho instalou-se por uma temporada no <a href="/wiki/Cazaquist%C3%A3o" title="Cazaquistão">Cazaquistão</a>, país onde a obra se desenvolve.</p>
+<p>Paulo Coelho vive em <a href="/wiki/Genebra" title="Genebra">Genebra</a>, na <a href="/wiki/Su%C3%AD%C3%A7a" title="Suíça">Suíça</a>, desde 2007.</p>
+<p>Em 2008, lançou o livro <i><a href="/wiki/O_Vencedor_Est%C3%A1_S%C3%B3" title="O Vencedor Está Só">O Vencedor Está Só</a></i>, que fala sobre uma série de <a href="/wiki/Assassinato" class="mw-redirect" title="Assassinato">assassinatos</a> no <a href="/wiki/Festival_de_Cinema_de_Cannes" class="mw-redirect" title="Festival de Cinema de Cannes">Festival de Cinema de Cannes</a>. Nesse livro, Paulo faz uma forte <a href="/wiki/Cr%C3%ADtica_social" title="Crítica social">crítica social</a> sobre como a <a href="/wiki/Elite" title="Elite">elite</a> se comporta e como somos <a href="/wiki/Influ%C3%AAncia_social" title="Influência social">manipulados</a> por suas ações. Sendo esse o primeiro livro em que Paulo sai do mundo da <a href="/wiki/Magia" title="Magia">magia</a> e da <a href="/wiki/Religiosidade" title="Religiosidade">religiosidade</a> e entra no mundo do <a href="/wiki/Suspense" title="Suspense">suspense</a> <a href="/wiki/Romance_policial" title="Romance policial">policial</a>, o tema não agradou boa parte dos fãs,mas isso não fez com que o livro também não fosse um sucesso.</p>
+<p>Em 2009, é lançado no Brasil o filme <i><a href="/wiki/Veronika_Decide_Morrer_(filme)" title="Veronika Decide Morrer (filme)">Veronika Decides to Die</a></i>, o primeiro filme baseado numa obra de Paulo Coelho. O filme recebeu fortes críticas negativas, afirmando que o <a href="/wiki/Roteiro" title="Roteiro">roteiro</a> se distancia demais do livro. Vale lembrar que Paulo Coelho nada teve a ver com a adaptação do livro para filme. Existe um projeto para transformar em filme o "best-seller" <i>O Alquimista</i>.</p>
+<p>Coelho foi considerado, pela <i><a href="/wiki/Revista_%C3%89poca" class="mw-redirect" title="Revista Época">Revista Época</a></i>, um dos 100 brasileiros mais influentes de 2009.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Em agosto de 2010, lançou o livro <i><a href="/wiki/O_Aleph_(Paulo_Coelho)" title="O Aleph (Paulo Coelho)">O Aleph</a></i>.</p>
+<p>Em 25 de junho de 2012, lançou o livro <i><a href="/wiki/Manuscrito_Encontrado_em_Accra" title="Manuscrito Encontrado em Accra">Manuscrito Encontrado em Accra</a></i>, data que coincide com o 25° aniversário da publicação de seu livro <i><a href="/wiki/O_Di%C3%A1rio_de_um_Mago" title="O Diário de um Mago">O Diário de um Mago</a></i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Em 2014, lançou <i><a href="/wiki/Adult%C3%A9rio_(livro)" title="Adultério (livro)">Adultério</a></i>, livro que se passa em Genebra, cidade onde mora atualmente.</p>
+<p>Em 2016, lançou seu primeiro <a href="/wiki/Romance_hist%C3%B3rico" title="Romance histórico">romance histórico</a>, <i>A Espiã</i>, baseado nos últimos dias de Margaretha Zelle, mundialmente conhecida como <a href="/wiki/Mata_Hari" title="Mata Hari">Mata Hari</a>.</p>
+<p>Em abril de 2018 lançou o livro <i>Hippie</i>, sua obra mais autobiográfica, na qual nos leva a reviver o sonho transformador e pacifista da geração hippie.</p>
+<h2><span class="mw-headline" id="Academia_Brasileira_de_Letras"><a href="/wiki/Ficheiro:Olivenkranz.png" class="image"><img alt="Olivenkranz.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/40px-Olivenkranz.png" width="40" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/60px-Olivenkranz.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/80px-Olivenkranz.png 2x" data-file-width="465" data-file-height="427" /></a> Academia Brasileira de Letras</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Academia Brasileira de Letras">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=2" title="Editar secção: Academia Brasileira de Letras">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Em 25 de julho de 2002, Coelho foi eleito para a academia. A instituição tinha um histórico de rejeitar autores de sucesso, ditos "populares" - e dela ficaram fora <a href="/wiki/Carlos_Drummond_de_Andrade" title="Carlos Drummond de Andrade">Carlos Drummond de Andrade</a>, <a href="/wiki/Vin%C3%ADcius_de_Moraes" class="mw-redirect" title="Vinícius de Moraes">Vinícius de Moraes</a>, <a href="/wiki/M%C3%A1rio_Quintana" title="Mário Quintana">Mário Quintana</a> e outros tantos autores reconhecidos.</p>
+<p>Mas o autor, que se candidatara outras vezes, foi eleito em 25 de julho de 2002 na sucessão de <a href="/wiki/Roberto_Campos" title="Roberto Campos">Roberto Campos</a> e recebido em 28 de outubro de 2002 pelo acadêmico Arnaldo Niskier como o oitavo ocupante da cadeira 21, cujo patrono é <a href="/wiki/Joaquim_Serra" title="Joaquim Serra">Joaquim Serra</a>.</p>
+<h2><span class="mw-headline" id="Reconhecimento_internacional">Reconhecimento internacional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Reconhecimento internacional">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=3" title="Editar secção: Reconhecimento internacional">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Em setembro de 2007, a <a href="/wiki/ONU" class="mw-redirect" title="ONU">ONU</a> nomeou o escritor Paulo Coelho seu novo "Mensageiro da Paz",<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> ao lado da princesa jordaniana, Haya, do maestro argentino-israelense <a href="/wiki/Daniel_Barenboim" title="Daniel Barenboim">Daniel Barenboim</a> e da violinista japonesa <a href="/wiki/Midori_Goto" title="Midori Goto">Midori Goto</a>. O anúncio foi feito durante a cerimônia de comemoração do <a href="/wiki/Dia_Internacional_da_Paz" title="Dia Internacional da Paz">Dia Internacional da Paz</a> na sede da <a href="/wiki/ONU" class="mw-redirect" title="ONU">ONU</a> em <a href="/wiki/Nova_Iorque" title="Nova Iorque">Nova Iorque</a> presidida pelo secretário-geral da entidade, <a href="/wiki/Ban_Ki-moon" title="Ban Ki-moon">Ban Ki-moon</a>.</p>
+<p>"Aceito com gosto esta responsabilidade e me comprometo a fazer o máximo para melhorar o futuro desta e das próximas gerações", declarou o escritor brasileiro ao saber de sua nomeação. Os Mensageiros da Paz são designados pessoalmente pelo <a href="/wiki/Secret%C3%A1rio-geral_das_Na%C3%A7%C3%B5es_Unidas" title="Secretário-geral das Nações Unidas">secretário-geral das Nações Unidas</a>, com base em seu trabalho em campos como <a href="/wiki/Artes_pl%C3%A1sticas" title="Artes plásticas">artes plásticas</a>, <a href="/wiki/Literatura" title="Literatura">literatura</a> ou <a href="/wiki/Esporte" class="mw-redirect" title="Esporte">esporte</a>, e seu compromisso de colaborar com os objetivos da ONU.</p>
+<p>A obra dele foi censurada na <a href="/wiki/L%C3%ADbia" title="Líbia">Líbia</a> em <a href="/wiki/2017" title="2017">2017</a> por "incitar o <a href="/wiki/Secularismo" title="Secularismo">secularismo</a>, <a href="/wiki/Xiismo" title="Xiismo">xiismo</a> e <a href="/wiki/Pervers%C3%A3o" title="Perversão">perversão</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Em Maio de 2006 é lançado o álbum Veronika Decides to Die, da banda dinamarquesa de <a href="/wiki/Death_metal_mel%C3%B3dico" title="Death metal melódico">Melodic Death</a>/<a href="/wiki/Doom_metal" title="Doom metal">Doom Metal</a> <a href="/wiki/Saturnus" title="Saturnus">Saturnus</a>, cujo titulo é baseado na Obra <a href="/wiki/Veronika_Decide_Morrer" title="Veronika Decide Morrer">Veronika Decide Morrer</a>.</p>
+<h2><span class="mw-headline" id="Vida_pessoal">Vida pessoal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Vida pessoal">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=4" title="Editar secção: Vida pessoal">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>O escritor teve muitas paixões na fase adulta: a socialite Vera Richter, a militante Adalgisa de Magalhães, a atriz Maria do Rosário Nascimento e Silva, a jornalista Cecília MacDowell e a artista plástica <a href="/wiki/Christina_Oiticica" title="Christina Oiticica">Christina Oiticica</a>, com quem é casado desde 1980.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Carreira_no_Cinema">Carreira no Cinema</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Carreira no Cinema">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=5" title="Editar secção: Carreira no Cinema">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Os_Mansos" title="Os Mansos">Os Mansos</a></i></li>
+<li><i><a href="/wiki/Veronika_Decide_Morrer_(filme)" title="Veronika Decide Morrer (filme)">Veronika Decide Morrer</a></i></li>
+<li><i><a href="/wiki/Quebrando_o_Tabu" title="Quebrando o Tabu">Quebrando o Tabu</a></i></li>
+<li><i><a href="/wiki/Raul_-_O_In%C3%ADcio,_o_Fim_e_o_Meio" title="Raul - O Início, o Fim e o Meio">Raul - O Início, o Fim e o Meio</a></i></li>
+<li><i><a href="/wiki/As_Aventuras_de_Agamenon,_o_Rep%C3%B3rter" title="As Aventuras de Agamenon, o Repórter">As Aventuras de Agamenon, o Repórter</a></i></li>
+<li><i><a href="/wiki/N%C3%A3o_Pare_na_Pista" title="Não Pare na Pista">Não pare na pista</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="Obras_do_autor">Obras do autor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Editar secção: Obras do autor">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=6" title="Editar secção: Obras do autor">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Livros">Livros</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Editar secção: Livros">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=7" title="Editar secção: Livros">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1974 - <i>O Teatro na Educação</i></li>
+<li>1982 - <i><a href="/wiki/Arquivos_do_inferno" title="Arquivos do inferno">Arquivos do inferno</a></i> - (não foi publicado em <a href="/wiki/Portugal" title="Portugal">Portugal</a>)</li>
+<li>1986 - <i>Manual prático do vampirismo</i> - [recolhido pelo autor] (não foi publicado em <a href="/wiki/Portugal" title="Portugal">Portugal</a>)</li>
+<li>1987 - <i><a href="/wiki/O_Di%C3%A1rio_de_um_Mago" title="O Diário de um Mago">O Diário de um Mago</a></i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+<li>1988 - <i><a href="/wiki/O_Alquimista" title="O Alquimista">O Alquimista</a></i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+<li>1990 - <i><a href="/wiki/Brida_(livro)" class="mw-redirect" title="Brida (livro)">Brida</a></i></li>
+<li>1992 - <i><a href="/wiki/As_Valk%C3%ADrias" title="As Valkírias">As Valkírias</a></i> (publicado em <a href="/wiki/Portugal" title="Portugal">Portugal</a> com o título <i>As Valquírias</i>)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></li>
+<li>1994 - <i><a href="/wiki/Na_Margem_do_Rio_Piedra_Eu_Sentei_e_Chorei" title="Na Margem do Rio Piedra Eu Sentei e Chorei">Na Margem do Rio Piedra Eu Sentei e Chorei</a></i></li>
+<li>1996 - <i><a href="/wiki/O_Monte_Cinco" title="O Monte Cinco">O Monte Cinco</a></i></li>
+<li>1998 - <i><a href="/wiki/Veronika_Decide_Morrer" title="Veronika Decide Morrer">Veronika Decide Morrer</a></i></li>
+<li>2000 - <i><a href="/wiki/O_Dem%C3%B4nio_e_a_Srta._Prym" title="O Demônio e a Srta. Prym">O Demônio e a Srta. Prym</a></i> (publicado em <a href="/wiki/Portugal" title="Portugal">Portugal</a> com o título <i>O Demónio e a Senhorita Prym</i>)</li>
+<li>2003 - <i><a href="/wiki/Onze_Minutos" title="Onze Minutos">Onze Minutos</a></i> -<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></li>
+<li>2005 - <i><a href="/wiki/O_Zahir" title="O Zahir">O Zahir</a></i> -<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+<li>2006 - <i><a href="/wiki/A_Bruxa_de_Portobello" title="A Bruxa de Portobello">A Bruxa de Portobello</a></i></li>
+<li>2008 - <i><a href="/wiki/O_Vencedor_Est%C3%A1_S%C3%B3" title="O Vencedor Está Só">O Vencedor Está Só</a></i>-<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+<li>2010 - <i><a href="/wiki/O_Aleph_(Paulo_Coelho)" title="O Aleph (Paulo Coelho)">O Aleph</a></i></li>
+<li>2012 - <i><a href="/wiki/Manuscrito_Encontrado_em_Accra" title="Manuscrito Encontrado em Accra">Manuscrito Encontrado em Accra</a></i></li>
+<li>2014 - <i><a href="/wiki/Adult%C3%A9rio_(livro)" title="Adultério (livro)">Adultério</a></i></li>
+<li>2016 - <i>A Espiã</i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></li>
+<li>2018 - <a rel="nofollow" class="external text" href="https://www.companhiadasletras.com.br/detalhe.php?codigo=88283">Hippie</a></li>
+<li class="mw-empty-elt"></li>
+</ul>
+<h3><span id="Compila.C3.A7.C3.B5es"></span><span class="mw-headline" id="Compilações">Compilações</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Editar secção: Compilações">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=8" title="Editar secção: Compilações">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1994 - <i><a href="/wiki/Maktub" title="Maktub">Maktub</a></i> - Compilação de suas melhores colunas publicadas na Folha de S.Paulo</li>
+<li>1995 - <i><a href="/wiki/Frases" class="mw-redirect" title="Frases">Frases</a></i> - Compilação das melhores frases de 5 livros de Paulo Coelho (não foi publicado em Portugal)</li>
+<li>1997 - <i><a href="/wiki/O_Manual_do_Guerreiro_da_Luz" class="mw-redirect" title="O Manual do Guerreiro da Luz">O Manual do Guerreiro da Luz</a></i> - Compilação de textos para nos fazer lembrar que em cada um de nós vive um guerreiro da luz</li>
+<li>1999 - <i>Palavras essenciais</i> - Compilação de mensagens extraídas das obras de Paulo Coelho (ilustrado) (não foi publicado em Portugal)</li>
+<li>2001 - <i>Histórias para pais, filhos e netos</i> - Compilação de contos tradicionais (não foi publicado em Portugal)</li>
+<li>2004 - <i><a href="/wiki/O_G%C3%AAnio_e_as_Rosas" title="O Gênio e as Rosas">O Gênio e as Rosas</a></i> - Compilação de 24 histórias tradicionais (ilustradas por <a href="/wiki/Mauricio_de_Sousa" title="Mauricio de Sousa">Mauricio de Sousa</a>) (não foi publicado em Portugal)</li>
+<li>2008 - <i>O Livro dos Manuais</i> - Compilação de lições de vida e observações cotidianas do próprio autor e de outras fontes.</li>
+<li>2009 - <i>Ser Como o Rio que Flui</i> - reunião de textos e pensamentos -<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+<li>2014 - Fabulas de La Fontaine (Livro infantil)</li>
+</ul>
+<h3><span id="Adapta.C3.A7.C3.B5es"></span><span class="mw-headline" id="Adaptações">Adaptações</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Editar secção: Adaptações">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=9" title="Editar secção: Adaptações">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>1991 - <i><a href="/wiki/O_Dom_Supremo" title="O Dom Supremo">O Dom Supremo</a></i> - (Henry Drummond)</li>
+<li>1998 - <i><a href="/wiki/Brida_(telenovela)" title="Brida (telenovela)">Brida</a> - Adaptação para telenovela</i></li>
+<li>1999 - <i>Cartas de Amor do Profeta</i> - (<a href="/wiki/Khalil_Gibran" title="Khalil Gibran">Khalil Gibran</a>)</li>
+<li>2009 - <i><a href="/wiki/Veronika_Decide_Morrer_(filme)" title="Veronika Decide Morrer (filme)">Veronika Decide Morrer</a></i> - Adaptação para filme</li>
+</ul>
+<h3><span class="mw-headline" id="Livros_sobre_Paulo_Coelho">Livros sobre Paulo Coelho</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Editar secção: Livros sobre Paulo Coelho">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=10" title="Editar secção: Livros sobre Paulo Coelho">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>2008 - <i><a href="/wiki/O_Mago_(livro)" title="O Mago (livro)">O Mago</a></i> - <a href="/wiki/Fernando_Morais" title="Fernando Morais">Fernando Morais</a> (biografia do autor)</li>
+<li>2010 - <i>O Estudante do Coração</i> - Luis Carlos de Morais Junior, Rio de Janeiro, Quartica.</li>
+<li>2013 - <i>Alquimia o Arquimagistério Solar</i> - Luis Carlos de Morais Junior, Rio de Janeiro, Quartica Premium.</li>
+<li>2013 - <i>O Estudante do Coração - segunda edição, revista e ampliada</i> - Luis Carlos de Morais Junior, Rio de Janeiro, Litteris.</li>
+<li>2014 - Não pare na pista - A melhor história de Paulo Coelho, Carolina Kotscho (Roteiro original do filme que levou o mesmo nome), São Paulo, Editora Master Books</li>
+<li>2015- STF, Paulo Coelho e a biografia de Roberto Carlos, Rio de Janeiro, Selmo Machado Pereira, Editora Saraiva</li>
+</ul>
+<h2><span class="mw-headline" id="Projetos_Musicais">Projetos Musicais</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Editar secção: Projetos Musicais">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=11" title="Editar secção: Projetos Musicais">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Músicas com <a href="/wiki/Raul_Seixas" title="Raul Seixas">Raul Seixas</a></dt>
+</dl>
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ul>
+<li>"Canto para minha morte"</li>
+<li>"Eu nasci há dez mil anos atrás"</li>
+<li>"Gita"</li>
+<li>"Al Capone"</li>
+<li>"Sociedade Alternativa"</li>
+<li>"A maçã"</li>
+<li>"Medo da chuva"</li>
+<li>"Eu também vou reclamar"</li>
+<li>"As minas do Rei Salomão"</li>
+<li>"Tu és o MDC da minha vida"</li>
+<li>"Como vovó já dizia (óculos escuros)"</li>
+<li>"Não pare na pista"</li>
+<li>"Tente outra vez"</li>
+<li>"Meu Amigo Pedro"</li>
+<li>"A Hora do Trem Passar"</li>
+<li>"Rockixe"</li>
+<li>"Se o rádio não toca"</li>
+<li>"Ave Maria da Rua"</li>
+<li>"O Homem"</li>
+<li>"Quando Você Crescer"</li>
+<li>"Judas"</li>
+<li>"A Verdade Sobre a Nostalgia"</li>
+<li>"Rock do Diabo"</li>
+<li>"Cachorro Urubu"</li>
+<li>"Super Heróis"</li>
+<li>"Moleque Maravilhoso"</li>
+<li>"Cantiga de Ninar"</li>
+<li>"Os Números"</li>
+<li>"Magia de Amor"</li>
+<li>"Loteria de Babilônia"</li>
+<li>"As Profecias"</li>
+</ul>
+</div>
+<dl>
+<dt>Músicas</dt>
+</dl>
+<ul>
+<li>Com <a href="/wiki/F%C3%A1bio_Jr." class="mw-redirect" title="Fábio Jr.">Fábio Jr.</a>: Agora Chega, Bicho De Sete Cabeças, Se Saudade Matasse, Novos Tempos, Já São Quinze Pras Sete, Tua Idade, Nós Os Filhos e Coisas De Agora.</li>
+<li>A versão da música em português "I will Survive", cantada por <a href="/wiki/Vanusa" title="Vanusa">Vanusa</a>, "Eu Sobrevivo", foi composta por ele. Além da versão de "Sou Rebelde", "Soy Rebelde", clássico dos anos 1970.</li>
+<li>A versão em português de <i>Me vuelves loco</i>, de <a href="/wiki/Armando_Manzanero" title="Armando Manzanero">Armando Manzanero</a> (<i>Me deixas louca</i>, cantada por <a href="/wiki/Elis_Regina" title="Elis Regina">Elis Regina</a>) foi escrita também por Paulo.</li>
+</ul>
+<dl>
+<dt>Aleph</dt>
+<dd>Como parte da divulgação de <i>O Aleph</i> na América Latina, a pedido do autor, a cantora mexicana <a href="/wiki/Anah%C3%AD" title="Anahí">Anahí</a> fez uma música baseada no livro, intitulada "Aleph". A canção está presente no álbum <i><a href="/wiki/Mi_Delirio" class="mw-redirect" title="Mi Delirio">Mi Delirio</a></i> da cantora.</dd>
+</dl>
+<h2><span id="Principais_pr.C3.AAmios_e_condecora.C3.A7.C3.B5es"></span><span class="mw-headline" id="Principais_prêmios_e_condecorações">Principais prêmios e condecorações</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Editar secção: Principais prêmios e condecorações">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=12" title="Editar secção: Principais prêmios e condecorações">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>2010 - <a href="/wiki/Pr%C3%A9mio_de_literatura_Hans_Christian_Andersen" title="Prémio de literatura Hans Christian Andersen">Prémio de literatura Hans Christian Andersen</a> (prémio honorário)</li>
+<li>2007 - "Mensageiro da Paz" - (ONU)</li>
+<li>2006 - "I Premio Álava en el Corazón" - (Espanha)</li>
+<li>2006 - "Wilbur Award" - (Estados Unidos)</li>
+<li>2006 - Prémio Kiklop pelo <i>O Zahir</i> na categoria "Hit of the Year" - (Croácia)</li>
+<li>2005 - Prémio "DirectGroup Inrternational Author" - (Alemanha)</li>
+<li>2005 - "Goldene Feder Award" - (Alemanha)</li>
+<li>2005 - "The Budapest Prize" - (Hungria)</li>
+<li>2004 - "Order of Honour of Ukraine" - (Ucrânia)</li>
+<li>2004 - "Order of St. Sophia" - (Ucrânia)</li>
+<li>2004 - "Nielsen Gold Book Award" pelo <i>O Alquimista</i> - (Inglaterra)</li>
+<li>2004 - Prémio "Ex Libris Award" pelo livro <i>Onze Minutos</i> - (Sérvia)</li>
+<li>2004 - Prémio "Golden Bestseller Prize" do jornal "Večernje Novosti" - (Sérvia)</li>
+<li>2003 - Oficial de Artes e Letras - (França)</li>
+<li>2001 - Prémio Bambi de Personalidade Cultural do Ano - (Alemanha)</li>
+<li>2001 - Prémio Fregene de Literatura - (Itália)</li>
+<li>2000 - "Crystal Mirror Award" - (Polônia)</li>
+<li>2000 - Cavaleiro da <a href="/wiki/Ordem_Nacional_da_Legi%C3%A3o_de_Honra" title="Ordem Nacional da Legião de Honra">Ordem Nacional da Legião de Honra</a> ou "<i>Chevalier de L'Ordre National de la Legion d'Honneur</i>" (em <a href="/wiki/L%C3%ADngua_francesa" title="Língua francesa">francês</a>) - (França)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></li>
+<li>1999 - "Golden Medal of Galicia" - (Espanha)</li>
+<li>1999 - "Crystal Award" - World Economic Forum</li>
+<li>1998 - "Comendador de Ordem do Rio Branco" - (Brasil)</li>
+<li>1998 - "Golden Book" - (Iugoslávia)</li>
+<li>1997 - Finalista para o "International IMPAC Literary Award" - (Irlanda)</li>
+<li>1997 - "Golden Book" - (Iugoslávia)</li>
+<li>1996 - "Super Grinzane Cavour Book Award" (Itália)</li>
+<li>1996 - "Flaiano International Award" - (Itália)</li>
+<li>1996 - "Knight of Arts and Letters" - (França)</li>
+<li>1996 - "Golden Book" - (Iugoslávia)</li>
+<li>1995 - "Grand Prix Litteraire Elle" - (França)</li>
+<li>1995 - "Golden Book" - (Iugoslávia)</li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web">Academia Brasileira de Letras. <a rel="nofollow" class="external text" href="http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?infoid=322&amp;sid=233">«Paulo Coelho - Biografia»</a>. ABL<span class="reference-accessdate">. Consultado em 15 de setembro de 2014.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.au=Academia+Brasileira+de+Letras&amp;rft.btitle=Paulo+Coelho+-+Biografia&amp;rft.genre=unknown&amp;rft.pub=ABL&amp;rft_id=http%3A%2F%2Fwww.academia.org.br%2Fabl%2Fcgi%2Fcgilua.exe%2Fsys%2Fstart.htm%3Finfoid%3D322%26sid%3D233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web">Academia Brasileira de Letras. <a rel="nofollow" class="external text" href="http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?infoid=322&amp;sid=233">«Paulo Coelho - Biografia»</a>. ABL<span class="reference-accessdate">. Consultado em 15 de setembro de 2014.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.au=Academia+Brasileira+de+Letras&amp;rft.btitle=Paulo+Coelho+-+Biografia&amp;rft.genre=unknown&amp;rft.pub=ABL&amp;rft_id=http%3A%2F%2Fwww.academia.org.br%2Fabl%2Fcgi%2Fcgilua.exe%2Fsys%2Fstart.htm%3Finfoid%3D322%26sid%3D233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www1.folha.uol.com.br/folha/ilustrada/ult90u410682.shtml">Mulher de Paulo Coelho chora ao ler biografia "O Mago"</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.academia.org.br/academicos/paulo-coelho/biografia">«Paulo Coelho - Academia Brasileira de Letras»</a>. <i>Academia Brasileira de Letras</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Paulo+Coelho+-+Academia+Brasileira+de+Letras&amp;rft.genre=unknown&amp;rft.jtitle=Academia+Brasileira+de+Letras&amp;rft_id=http%3A%2F%2Fwww.academia.org.br%2Facademicos%2Fpaulo-coelho%2Fbiografia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.astrumargentum.org/arquivos/ht/imagens_ht/doc_thor7.jpg">«Juramento do grau de Probacionista da A.'. A.'. de Paulo Coelho»</a>. <i>astrumargentum.org</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Juramento+do+grau+de+Probacionista+da+A.%27.+A.%27.+de+Paulo+Coelho&amp;rft.genre=unknown&amp;rft.jtitle=astrumargentum.org&amp;rft_id=http%3A%2F%2Fwww.astrumargentum.org%2Farquivos%2Fht%2Fimagens_ht%2Fdoc_thor7.jpg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bibliografia-6"><span class="mw-cite-backlink"><a href="#cite_ref-bibliografia_6-0">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?infoid=321&amp;sid=233">«Bibliografia»</a>. Academia Brasileira de Letras<span class="reference-accessdate">. Consultado em 21 de junho de 2014.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.btitle=Bibliografia&amp;rft.genre=unknown&amp;rft.pub=Academia+Brasileira+de+Letras&amp;rft_id=http%3A%2F%2Fwww.academia.org.br%2Fabl%2Fcgi%2Fcgilua.exe%2Fsys%2Fstart.htm%3Finfoid%3D321%26sid%3D233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web">Karen Heller (20 de dezembro de 2016). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/lifestyle/style/meet-the-elite-group-of-authors-who-sell-100-million-books-or-350-million/2016/12/20/db3c6a66-bb0f-11e6-94ac-3d324840106c_story.html?noredirect=on&amp;utm_term=.6684b8c9e020">«Meet the writers who still sell millions of books. Actually, hundreds of millions.»</a>. Washington Post<span class="reference-accessdate">. Consultado em 24 de abril de 2018.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.au=Karen+Heller&amp;rft.btitle=Meet+the+writers+who+still+sell+millions+of+books.+Actually%2C+hundreds+of+millions.&amp;rft.date=2016-12-20&amp;rft.genre=unknown&amp;rft.pub=Washington+Post&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fmeet-the-elite-group-of-authors-who-sell-100-million-books-or-350-million%2F2016%2F12%2F20%2Fdb3c6a66-bb0f-11e6-94ac-3d324840106c_story.html%3Fnoredirect%3Don%26utm_term%3D.6684b8c9e020&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://portalexame.abril.com.br/degustacao/secure/degustacao.do?COD_SITE=35&amp;COD_RECURSO=211&amp;URL_RETORNO=http://portalexame.abril.com.br/revista/exame/edicoes/0866/marketing/m0081717.html">«Portal EXAME»</a>. <i>abril.com.br</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Portal+EXAME&amp;rft.genre=unknown&amp;rft.jtitle=abril.com.br&amp;rft_id=http%3A%2F%2Fportalexame.abril.com.br%2Fdegustacao%2Fsecure%2Fdegustacao.do%3FCOD_SITE%3D35%26COD_RECURSO%3D211%26URL_RETORNO%3Dhttp%3A%2F%2Fportalexame.abril.com.br%2Frevista%2Fexame%2Fedicoes%2F0866%2Fmarketing%2Fm0081717.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.verdestrigos.org/sitenovo/site/cronica_ver.asp?id=1441">O jogral de Nossa Senhora</a></span></li>
+<li id="cite_note-biografia-10"><span class="mw-cite-backlink">↑ <sup><i><b><a href="#cite_ref-biografia_10-0">a</a></b></i></sup> <sup><i><b><a href="#cite_ref-biografia_10-1">b</a></b></i></sup></span> <span class="reference-text"><cite class="citation web">Federação Paulista de Xadrez. <a rel="nofollow" class="external text" href="http://www.fpx.com.br/mostracol.asp?colid=93">«Paulo Coelho, o famoso escritor»</a><span class="reference-accessdate">. Consultado em 13 de fevereiro de 2008.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.au=Federa%C3%A7%C3%A3o+Paulista+de+Xadrez&amp;rft.btitle=Paulo+Coelho%2C+o+famoso+escritor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fpx.com.br%2Fmostracol.asp%3Fcolid%3D93&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://revistaepoca.globo.com/Revista/Epoca/1,,EMI108920-17445,00.html">«Época - NOTÍCIAS - Os 100 brasileiros mais influentes de 2009»</a>. revistaepoca.globo.com<span class="reference-accessdate">. Consultado em 20 de Dezembro de 2009.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.btitle=%C3%89poca+-+NOT%C3CIAS+-+Os+100+brasileiros+mais+influentes+de+2009&amp;rft.genre=unknown&amp;rft.pub=revistaepoca.globo.com&amp;rft_id=http%3A%2F%2Frevistaepoca.globo.com%2FRevista%2FEpoca%2F1%2C%2CEMI108920-17445%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://exame.abril.com.br/estilo-de-vida/entretenimento/noticias/paulo-coelho-lanca-manuscrito-encontrado-em-accra">«Paulo Coelho lança "Manuscrito encontrado em Accra<span style="padding-right:0.2em;">"</span>»</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Paulo+Coelho+lan%C3%A7a+%22Manuscrito+encontrado+em+Accra%22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fexame.abril.com.br%2Festilo-de-vida%2Fentretenimento%2Fnoticias%2Fpaulo-coelho-lanca-manuscrito-encontrado-em-accra&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://g1.globo.com/Noticias/PopArte/0,,MUL108392-7084,00.html">«ONU nomeia Paulo Coelho Mensageiro da Paz»</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.btitle=ONU+nomeia+Paulo+Coelho+Mensageiro+da+Paz&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fg1.globo.com%2FNoticias%2FPopArte%2F0%2C%2CMUL108392-7084%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.rt.com/news/374767-brown-coelho-books-libya/?utm_source=browser&amp;utm_medium=aplication_chrome&amp;utm_campaign=chrome">«Dan Brown &amp; Paulo Coelho books seized by Libyan army»</a>. <i>rt.com</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Dan+Brown+%26+Paulo+Coelho+books+seized+by+Libyan+army&amp;rft.genre=unknown&amp;rft.jtitle=rt.com&amp;rft_id=https%3A%2F%2Fwww.rt.com%2Fnews%2F374767-brown-coelho-books-libya%2F%3Futm_source%3Dbrowser%26utm_medium%3Daplication_chrome%26utm_campaign%3Dchrome&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.terra.com.br/istoe-temp/edicoes/2013/imprime90996.htm">http://www.terra.com.br/istoe-temp/edicoes/2013/imprime90996.htm</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ebookcult.com.br/ebooks/o_diario_de_um_mago.pdf">«O diário de um Mago»</a> <span style="font-size:85%;">(PDF)</span>. <i>ebookcult.com.br</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=O+di%C3%A1rio+de+um+Mago&amp;rft.genre=unknown&amp;rft.jtitle=ebookcult.com.br&amp;rft_id=http%3A%2F%2Fwww.ebookcult.com.br%2Febooks%2Fo_diario_de_um_mago.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.netsaber.com.br/apostilas/apostilas/1544.pdf">«O Alquimista»</a> <span style="font-size:85%;">(PDF)</span>. <i>netsaber.com.br</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=O+Alquimista&amp;rft.genre=unknown&amp;rft.jtitle=netsaber.com.br&amp;rft_id=http%3A%2F%2Fwww.netsaber.com.br%2Fapostilas%2Fapostilas%2F1544.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bookbrasil.com.br/books/ovalkirias.pdf">«As Valkírias»</a> <span style="font-size:85%;">(PDF)</span>. <i>bookbrasil.com.br</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=As+Valk%C3rias&amp;rft.genre=unknown&amp;rft.jtitle=bookbrasil.com.br&amp;rft_id=http%3A%2F%2Fwww.bookbrasil.com.br%2Fbooks%2Fovalkirias.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://naquela.horabsurda.org/wp-content/uploads/2008/03/paulo-coelho-onze-minutos.pdf">«Onze Minutos»</a> <span style="font-size:85%;">(PDF)</span>. <i>horabsurda.org</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Onze+Minutos&amp;rft.genre=unknown&amp;rft.jtitle=horabsurda.org&amp;rft_id=http%3A%2F%2Fnaquela.horabsurda.org%2Fwp-content%2Fuploads%2F2008%2F03%2Fpaulo-coelho-onze-minutos.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.visionvox.com.br/biblioteca/p/Paulo-Coelho-O.Zahir.pdf">«O Zahir»</a> <span style="font-size:85%;">(PDF)</span>. <i>visionvox.com.br</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=O+Zahir&amp;rft.genre=unknown&amp;rft.jtitle=visionvox.com.br&amp;rft_id=http%3A%2F%2Fwww.visionvox.com.br%2Fbiblioteca%2Fp%2FPaulo-Coelho-O.Zahir.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://oglobo.globo.com/cultura/paulo-coelho-lanca-seu-12-romance-vencedor-esta-so-em-que-faz-um-retrato-da-vida-dos-3607327">«Paulo Coelho lança seu 12º romance, 'O vencedor está só', em que faz um retrato da vida dos Leia mais: https://oglobo.globo.com/cultura/paulo-coelho-lanca-seu-12-romance-vencedor-esta-so-em-que-faz-um-retrato-da-vida-dos-3607327#ixzz5EkeWY4CB stest»</a>. <i>globo.com</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=Paulo+Coelho+lan%C3%A7a+seu+12%BA+romance%2C+%27O+vencedor+est%C3%A1+s%C3%B3%27%2C+em+que+faz+um+retrato+da+vida+dos++Leia+mais%3A+https%3A%2F%2Foglobo.globo.com%2Fcultura%2Fpaulo-coelho-lanca-seu-12-romance-vencedor-esta-so-em-que-faz-um-retrato-da-vida-dos-3607327%23ixzz5EkeWY4CB++stest&amp;rft.genre=unknown&amp;rft.jtitle=globo.com&amp;rft_id=https%3A%2F%2Foglobo.globo.com%2Fcultura%2Fpaulo-coelho-lanca-seu-12-romance-vencedor-esta-so-em-que-faz-um-retrato-da-vida-dos-3607327&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">line feed character character in <code style="color:inherit; border:inherit; padding:inherit;">|título=</code> at position 92 (<a href="/wiki/Ajuda:Erros_nas_refer%C3%AAncias#invisible_char" title="Ajuda:Erros nas referências">ajuda</a>);</span> <span style="font-size:100%" class="error citation-comment">Ligação externa em <code style="color:inherit; border:inherit; padding:inherit;">|título=</code> (<a href="/wiki/Ajuda:Erros_nas_refer%C3%AAncias#param_has_ext_link" title="Ajuda:Erros nas referências">ajuda</a>)</span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web">Jardim, Lauro. <a rel="nofollow" class="external text" href="http://blogs.oglobo.globo.com/lauro-jardim/post/o-novo-livro-de-paulo-coelho.html">«O novo livro de Paulo Coelho - Lauro Jardim - O Globo»</a>. <i>Lauro Jardim - O Globo</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=O+novo+livro+de+Paulo+Coelho++-+Lauro+Jardim+-+O+Globo&amp;rft.aufirst=Lauro&amp;rft.aulast=Jardim&amp;rft.genre=unknown&amp;rft.jtitle=Lauro+Jardim+-+O+Globo&amp;rft_id=http%3A%2F%2Fblogs.oglobo.globo.com%2Flauro-jardim%2Fpost%2Fo-novo-livro-de-paulo-coelho.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://diariodonordeste.verdesmares.com.br/cadernos/caderno-3/o-sucesso-do-controverso-1.1809054">«AO sucesso do controverso»</a>. <i><a rel="nofollow" class="external free" href="http://diariodonordeste.verdesmares.com.br/">http://diariodonordeste.verdesmares.com.br/</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.atitle=AO+sucesso+do+controverso&amp;rft.genre=unknown&amp;rft.jtitle=http%3A%2F%2Fdiariodonordeste.verdesmares.com.br%2F&amp;rft_id=http%3A%2F%2Fdiariodonordeste.verdesmares.com.br%2Fcadernos%2Fcaderno-3%2Fo-sucesso-do-controverso-1.1809054&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><cite class="citation web">Agência Folha (20 de março de 2000). <a rel="nofollow" class="external text" href="http://www1.folha.uol.com.br/fol/cult/ult20032000028.htm">«Paulo Coelho vira 'Cavaleiro da Legião da Honra' na França»</a>. Folha Online<span class="reference-accessdate">. Consultado em 27 de maio de 2014.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APaulo+Coelho&amp;rft.au=Ag%C3%AAncia+Folha&amp;rft.btitle=Paulo+Coelho+vira+%27Cavaleiro+da+Legi%C3%A3o+da+Honra%27+na+Fran%C3%A7a&amp;rft.date=2000-03-20&amp;rft.genre=unknown&amp;rft.pub=Folha+Online&amp;rft_id=http%3A%2F%2Fwww1.folha.uol.com.br%2Ffol%2Fcult%2Fult20032000028.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span id="Ver_tamb.C3.A9m"></span><span class="mw-headline" id="Ver_também">Ver também</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Editar secção: Ver também">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=13" title="Editar secção: Ver também">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Sociedade_Alternativa" title="Sociedade Alternativa">Sociedade Alternativa</a></li>
+</ul>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit&amp;section=14" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox noprint" style="width:250px; line-height:2.2em; font-size:90%">
+<tr style="line-height:1.3em">
+<td colspan="2" style="text-align: center;">Outros projetos <a href="/wiki/Wikimedia" title="Wikimedia">Wikimedia</a> também contêm material sobre este tema:</td>
+</tr>
+<tr>
+<th><a href="https://pt.wikiquote.org/wiki/Special:Search/Paulo_Coelho" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></th>
+<td><a href="https://pt.wikiquote.org/wiki/Special:Search/Paulo_Coelho" class="extiw" title="q:Special:Search/Paulo Coelho"><span title="Procurar por citações no Wikiquote"><b>Citações</b></span></a> no <a href="https://pt.wikiquote.org/wiki/P%C3%A1gina_principal" class="extiw" title="q:Página principal"><span title="Wikiquote">Wikiquote</span></a></td>
+</tr>
+<tr>
+<th><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Paulo_Coelho" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" width="21" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></th>
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Paulo_Coelho" class="extiw" title="commons:Special:Search/Category:Paulo Coelho"><span title="Procurar pelas categorias no Commons"><b>Categoria</b></span></a> no <a href="https://commons.wikimedia.org/wiki/P%C3%A1gina_principal" class="extiw" title="commons:Página principal"><span title="Commons">Commons</span></a></td>
+</tr>
+</table>
+<div id="interProject" style="display:none;">
+<ul>
+<li><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Paulo_Coelho" class="extiw" title="commons:Special:Search/Category:Paulo Coelho"><span title="Commons (categoria)">Commons</span></a></li>
+<li><a href="https://pt.wikiquote.org/wiki/Special:Search/Paulo_Coelho" class="extiw" title="q:Special:Search/Paulo Coelho"><span title="Wikiquote">Wikiquote</span></a></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.paulocoelho.com.br/">Página oficial</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.paulocoelhoblog.com/"><i>Blog</i> oficial</a></li>
+<li><a rel="nofollow" class="external text" href="http://colunas.g1.com.br/paulocoelho/">Seu <i>blog</i> no G1</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=233">Perfil no sítio oficial da Academia Brasileira de Letras</a> (em <a href="/wiki/L%C3%ADngua_portuguesa" title="Língua portuguesa">português</a>)</li>
+</ul>
+<table class="toccolours" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; font-size: 90%;">
+<tr style="text-align:center;">
+<td width="30%">Precedido por<br />
+<b><a href="/wiki/Roberto_Campos" title="Roberto Campos">Roberto Campos</a></b></td>
+<td width="30%"><b><span style="white-space:nowrap;"><a href="/wiki/Ficheiro:Olivenkranz.png" class="image"><img alt="Olivenkranz.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/20px-Olivenkranz.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/30px-Olivenkranz.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Olivenkranz.png/40px-Olivenkranz.png 2x" data-file-width="465" data-file-height="427" /></a> <a href="/wiki/Lista_de_membros_da_Academia_Brasileira_de_Letras" title="Lista de membros da Academia Brasileira de Letras">ABL - oitavo acadêmico da cadeira 21</a></span></b><br />
+<a href="/wiki/2002" title="2002">2002</a> — atualidade</td>
+<td width="30%">Sucedido por<br />
+<b>—</b></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Paulo_Coelho" title="Predefinição:Paulo Coelho"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Paulo_Coelho&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;">Obras de <a class="mw-selflink selflink">Paulo Coelho</a></span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Categoria:Livros_de_Paulo_Coelho" title="Categoria:Livros de Paulo Coelho">Livros</a></th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;padding:0.25em 0; line-height:1.4em;"><span style="font-size: 95%; line-height: 120%;"><i><a href="/wiki/Arquivos_do_inferno" title="Arquivos do inferno">Arquivos do Inferno</a> (1982)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Di%C3%A1rio_de_um_Mago" title="O Diário de um Mago">O Diário de um Mago</a> (1987)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Alquimista" title="O Alquimista">O Alquimista</a> (1988)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Brida" title="Brida">Brida</a> (1990)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Dom_Supremo" title="O Dom Supremo">O Dom Supremo</a> (1991)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/As_Valk%C3%ADrias" title="As Valkírias">As Valkírias</a> (1992)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Na_Margem_do_Rio_Piedra_Eu_Sentei_e_Chorei" title="Na Margem do Rio Piedra Eu Sentei e Chorei">Na Margem do Rio Piedra Eu Sentei e Chorei</a> (1994)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Monte_Cinco" title="O Monte Cinco">O Monte Cinco</a> (1996)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Veronika_Decide_Morrer" title="Veronika Decide Morrer">Veronika Decide Morrer</a> (1998)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Dem%C3%B4nio_e_a_Srta._Prym" title="O Demônio e a Srta. Prym">O Demônio e a Srta. Prym</a> (2000)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Onze_Minutos" title="Onze Minutos">Onze Minutos</a> (2003)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Zahir" title="O Zahir">O Zahir</a> (2005)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/A_Bruxa_de_Portobello" title="A Bruxa de Portobello">A Bruxa de Portobello</a> (2006)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Vencedor_Est%C3%A1_S%C3%B3" title="O Vencedor Está Só">O Vencedor Está Só</a> (2008)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_Aleph_(Paulo_Coelho)" title="O Aleph (Paulo Coelho)">O Aleph</a> (2010)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Manuscrito_Encontrado_em_Accra" title="Manuscrito Encontrado em Accra">Manuscrito Encontrado em Accra</a> (2012)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Adult%C3%A9rio_(livro)" title="Adultério (livro)">Adultério</a></i> (2014) <i><a href="/wiki/Hippie_(livro)" title="Hippie (livro)">Hippie</a></i> (2018)</span></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Compilações</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;padding:0.25em 0; line-height:1.4em;"><span style="font-size: 95%; line-height: 120%;"><i><a href="/wiki/Maktub" title="Maktub">Maktub</a> (1994)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Manual_do_Guerreiro_da_Luz" title="Manual do Guerreiro da Luz">Manual do Guerreiro da Luz</a> (1997)<span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/O_G%C3%AAnio_e_as_Rosas" title="O Gênio e as Rosas">O Gênio e as Rosas</a></i> (2005)</span></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Filmes</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;padding:0.25em 0; line-height:1.4em;"><span style="font-size: 95%; line-height: 120%;"><i><a href="/wiki/Os_Mansos" title="Os Mansos">Os Mansos</a><span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Veronika_Decide_Morrer_(filme)" title="Veronika Decide Morrer (filme)">Veronika Decide Morrer</a><span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Quebrando_o_Tabu" title="Quebrando o Tabu">Quebrando o Tabu</a><span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/Raul_-_O_In%C3%ADcio,_o_Fim_e_o_Meio" title="Raul - O Início, o Fim e o Meio">Raul - O Início, o Fim e o Meio</a><span style="font-weight:bold;">&#160;·</span></i> <i><a href="/wiki/As_Aventuras_de_Agamenon,_o_Rep%C3%B3rter" title="As Aventuras de Agamenon, o Repórter">As Aventuras de Agamenon, o Repórter</a></i> <span style="font-weight:bold;">&#160;·</span> <i><a href="/wiki/N%C3%A3o_Pare_na_Pista" title="Não Pare na Pista">Não Pare na Pista</a></i></span></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Relacionados</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;padding:0.25em 0; line-height:1.4em;"><span style="font-size: 95%; line-height: 120%;"><a href="/wiki/Sociedade_Alternativa" title="Sociedade Alternativa">Sociedade Alternativa</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Eterna_Magia" title="Eterna Magia">Eterna Magia</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Christina_Oiticica" title="Christina Oiticica">Christina Oiticica</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Esoterismo" title="Esoterismo">Esoterismo</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Raul_Seixas" title="Raul Seixas">Raul Seixas</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Aleister_Crowley" title="Aleister Crowley">Aleister Crowley</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Cristianismo_esot%C3%A9rico" title="Cristianismo esotérico">Cristianismo esotérico</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/Academia_Brasileira_de_Letras" title="Academia Brasileira de Letras">Academia Brasileira de Letras</a>&#160;<b>·</b></span> <span style="white-space:nowrap"><a href="/wiki/ONU" class="mw-redirect" title="ONU">ONU</a></span></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox hlist noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Academia_Brasileira_de_Letras" title="Predefinição:Academia Brasileira de Letras"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Academia_Brasileira_de_Letras&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Ficheiro:ABL_logo.svg" class="image"><img alt="ABL logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/16px-ABL_logo.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/24px-ABL_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/ABL_logo.svg/32px-ABL_logo.svg.png 2x" data-file-width="289" data-file-height="297" /></a> <a href="/wiki/Academia_Brasileira_de_Letras" title="Academia Brasileira de Letras">Academia Brasileira de Letras</a></span></th>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;font-size:smaller;" colspan="2">
+<ul>
+<li><a href="/wiki/Academia_Brasileira_de_Letras#História" title="Academia Brasileira de Letras">História</a></li>
+<li><a href="/wiki/Lista_de_presidentes_da_Academia_Brasileira_de_Letras" title="Lista de presidentes da Academia Brasileira de Letras">Presidentes</a></li>
+<li><a href="/wiki/Lista_de_s%C3%B3cios_correspondentes_da_Academia_Brasileira_de_Letras" class="mw-redirect" title="Lista de sócios correspondentes da Academia Brasileira de Letras">Sócios</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="" style="text-align:center;width:100%;font-size:95%;"><b><a href="/wiki/Lista_de_membros_da_Academia_Brasileira_de_Letras" title="Lista de membros da Academia Brasileira de Letras">Patronos e membros da Academia Brasileira de Letras</a></b></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Cadeiras 1 a 10</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<table class="navbox nowraplinks" style="background:transparent; font-size:100%; padding:0; border:none; margin:-3px; text-align:left;">
+<tr>
+<th style="background:#e6e6ff; text-align:right; width:22%;">1 (<a href="/wiki/Adelino_Fontoura" title="Adelino Fontoura">Adelino Fontoura</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Lu%C3%ADs_Murat" title="Luís Murat">Luís Murat</a></li>
+<li><a href="/wiki/Afonso_d%27Escragnolle_Taunay" title="Afonso d'Escragnolle Taunay">Afonso d'Escragnolle Taunay</a></li>
+<li><a href="/wiki/Ivan_Monteiro_de_Barros_Lins" title="Ivan Monteiro de Barros Lins">Ivan Monteiro de Barros Lins</a></li>
+<li><a href="/wiki/Bernardo_%C3%89lis" title="Bernardo Élis">Bernardo Élis</a></li>
+<li><a href="/wiki/Evandro_Lins_e_Silva" title="Evandro Lins e Silva">Evandro Lins e Silva</a></li>
+<li><a href="/wiki/Ana_Maria_Machado" title="Ana Maria Machado">Ana Maria Machado</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">2 (<a href="/wiki/%C3%81lvares_de_Azevedo" title="Álvares de Azevedo">Álvares de Azevedo</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Coelho_Neto" title="Coelho Neto">Coelho Neto</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Neves_da_Fontoura" title="João Neves da Fontoura">João Neves da Fontoura</a></li>
+<li><a href="/wiki/Guimar%C3%A3es_Rosa" title="Guimarães Rosa">Guimarães Rosa</a></li>
+<li><a href="/wiki/M%C3%A1rio_Palm%C3%A9rio" title="Mário Palmério">Mário Palmério</a></li>
+<li><a href="/wiki/Tarc%C3%ADsio_Padilha" title="Tarcísio Padilha">Tarcísio Padilha</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">3 (<a href="/wiki/Artur_de_Oliveira" title="Artur de Oliveira">Artur de Oliveira</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Filinto_de_Almeida" title="Filinto de Almeida">Filinto de Almeida</a></li>
+<li><a href="/wiki/Roberto_Simonsen" title="Roberto Simonsen">Roberto Simonsen</a></li>
+<li><a href="/wiki/An%C3%ADbal_Freire_da_Fonseca" title="Aníbal Freire da Fonseca">Aníbal Freire da Fonseca</a></li>
+<li><a href="/wiki/Herberto_Sales" title="Herberto Sales">Herberto Sales</a></li>
+<li><a href="/wiki/Carlos_Heitor_Cony" title="Carlos Heitor Cony">Carlos Heitor Cony</a></li>
+<li><a href="/wiki/Joaquim_Falc%C3%A3o" title="Joaquim Falcão">Joaquim Falcão</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">4 (<a href="/wiki/Bas%C3%ADlio_da_Gama" title="Basílio da Gama">Basílio da Gama</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Alu%C3%ADsio_Azevedo" title="Aluísio Azevedo">Aluísio Azevedo</a></li>
+<li><a href="/wiki/Alcides_Maia" title="Alcides Maia">Alcides Maia</a></li>
+<li><a href="/wiki/Viana_Moog" title="Viana Moog">Viana Moog</a></li>
+<li><a href="/wiki/Carlos_Nejar" title="Carlos Nejar">Carlos Nejar</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">5 (<a href="/wiki/Bernardo_Guimar%C3%A3es" title="Bernardo Guimarães">Bernardo Guimarães</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Raimundo_Correia" title="Raimundo Correia">Raimundo Correia</a></li>
+<li><a href="/wiki/Osvaldo_Cruz" title="Osvaldo Cruz">Osvaldo Cruz</a></li>
+<li><a href="/wiki/Alo%C3%ADsio_de_Castro" title="Aloísio de Castro">Aloísio de Castro</a></li>
+<li><a href="/wiki/C%C3%A2ndido_Mota_Filho" title="Cândido Mota Filho">Cândido Mota Filho</a></li>
+<li><a href="/wiki/Rachel_de_Queiroz" title="Rachel de Queiroz">Rachel de Queiroz</a></li>
+<li><a href="/wiki/Jos%C3%A9_Murilo_de_Carvalho" title="José Murilo de Carvalho">José Murilo de Carvalho</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">6 (<a href="/wiki/Casimiro_de_Abreu" title="Casimiro de Abreu">Casimiro de Abreu</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Teixeira_de_Melo" title="Teixeira de Melo">Teixeira de Melo</a></li>
+<li><a href="/wiki/Artur_Jaceguai" title="Artur Jaceguai">Artur Jaceguai</a></li>
+<li><a href="/wiki/Jos%C3%A9_Maria_Goulart_de_Andrade" title="José Maria Goulart de Andrade">Goulart de Andrade</a></li>
+<li><a href="/wiki/Barbosa_Lima_Sobrinho" title="Barbosa Lima Sobrinho">Barbosa Lima Sobrinho</a></li>
+<li><a href="/wiki/Raimundo_Faoro" title="Raimundo Faoro">Raimundo Faoro</a></li>
+<li><a href="/wiki/C%C3%ADcero_Sandroni" title="Cícero Sandroni">Cícero Sandroni</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">7 (<a href="/wiki/Castro_Alves" title="Castro Alves">Castro Alves</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Valentim_Magalh%C3%A3es" title="Valentim Magalhães">Valentim Magalhães</a></li>
+<li><a href="/wiki/Euclides_da_Cunha" title="Euclides da Cunha">Euclides da Cunha</a></li>
+<li><a href="/wiki/Afr%C3%A2nio_Peixoto" title="Afrânio Peixoto">Afrânio Peixoto</a></li>
+<li><a href="/wiki/Afonso_Pena_J%C3%BAnior" title="Afonso Pena Júnior">Afonso Pena Júnior</a></li>
+<li><a href="/wiki/Hermes_Lima" title="Hermes Lima">Hermes Lima</a></li>
+<li><a href="/wiki/Francisco_Cavalcanti_Pontes_de_Miranda" title="Francisco Cavalcanti Pontes de Miranda">Pontes de Miranda</a></li>
+<li><a href="/wiki/Din%C3%A1_Silveira_de_Queir%C3%B3s" title="Diná Silveira de Queirós">Dinah Silveira de Queiroz</a></li>
+<li><a href="/wiki/S%C3%A9rgio_Correia_da_Costa" title="Sérgio Correia da Costa">Sérgio Correia da Costa</a></li>
+<li><a href="/wiki/Nelson_Pereira_dos_Santos" title="Nelson Pereira dos Santos">Nelson Pereira dos Santos</a></li>
+<li><i>Vago</i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">8 (<a href="/wiki/Cl%C3%A1udio_Manuel_da_Costa" title="Cláudio Manuel da Costa">Cláudio Manuel da Costa</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Ant%C3%B4nio_Mariano_de_Oliveira" title="Antônio Mariano de Oliveira">Alberto de Oliveira</a></li>
+<li><a href="/wiki/Francisco_Jos%C3%A9_de_Oliveira_Viana" class="mw-redirect" title="Francisco José de Oliveira Viana">Oliveira Viana</a></li>
+<li><a href="/wiki/Austreg%C3%A9silo_de_Ata%C3%ADde" class="mw-redirect" title="Austregésilo de Ataíde">Austregésilo de Ataíde</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Calado" title="Antônio Calado">Antônio Calado</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Olinto" title="Antônio Olinto">Antônio Olinto</a></li>
+<li><a href="/wiki/Cleonice_Berardinelli" title="Cleonice Berardinelli">Cleonice Berardinelli</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">9 (<a href="/wiki/Gon%C3%A7alves_de_Magalh%C3%A3es" title="Gonçalves de Magalhães">Gonçalves de Magalhães</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Carlos_Magalh%C3%A3es_de_Azeredo" title="Carlos Magalhães de Azeredo">Carlos Magalhães de Azeredo</a></li>
+<li><a href="/wiki/Marques_Rebelo" title="Marques Rebelo">Marques Rebelo</a></li>
+<li><a href="/wiki/Carlos_Chagas_Filho" title="Carlos Chagas Filho">Carlos Chagas Filho</a></li>
+<li><a href="/wiki/Alberto_da_Costa_e_Silva" title="Alberto da Costa e Silva">Alberto da Costa e Silva</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">10 (<a href="/wiki/Evaristo_da_Veiga" title="Evaristo da Veiga">Evaristo da Veiga</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Ruy_Barbosa" title="Ruy Barbosa">Ruy Barbosa</a></li>
+<li><a href="/wiki/Laudelino_Freire" title="Laudelino Freire">Laudelino Freire</a></li>
+<li><a href="/wiki/Osvaldo_Orico" title="Osvaldo Orico">Osvaldo Orico</a></li>
+<li><a href="/wiki/Or%C3%ADgenes_Lessa" title="Orígenes Lessa">Orígenes Lessa</a></li>
+<li><a href="/wiki/L%C3%AAdo_Ivo" title="Lêdo Ivo">Lêdo Ivo</a></li>
+<li><a href="/wiki/Rosiska_Darcy_de_Oliveira" title="Rosiska Darcy de Oliveira">Rosiska Darcy de Oliveira</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Cadeiras 11 a 20</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<table class="navbox nowraplinks" style="background:transparent; font-size:100%; padding:0; border:none; margin:-3px; text-align:left;">
+<tr>
+<th style="background:#e6e6ff; text-align:right; width:22%;">11 (<a href="/wiki/Fagundes_Varela" class="mw-redirect" title="Fagundes Varela">Fagundes Varela</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/L%C3%BAcio_de_Mendon%C3%A7a" title="Lúcio de Mendonça">Lúcio de Mendonça</a></li>
+<li><a href="/wiki/Pedro_Lessa" title="Pedro Lessa">Pedro Lessa</a></li>
+<li><a href="/wiki/Eduardo_Ramos" title="Eduardo Ramos">Eduardo Ramos</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Lu%C3%ADs_Alves" title="João Luís Alves">João Luís Alves</a></li>
+<li><a href="/wiki/Adelmar_Tavares" title="Adelmar Tavares">Adelmar Tavares</a></li>
+<li><a href="/wiki/Deolindo_Couto" title="Deolindo Couto">Deolindo Couto</a></li>
+<li><a href="/wiki/Darcy_Ribeiro" title="Darcy Ribeiro">Darcy Ribeiro</a></li>
+<li><a href="/wiki/Celso_Furtado" title="Celso Furtado">Celso Furtado</a></li>
+<li><a href="/wiki/H%C3%A9lio_Jaguaribe" title="Hélio Jaguaribe">Hélio Jaguaribe</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">12 (<a href="/wiki/Fran%C3%A7a_J%C3%BAnior" title="França Júnior">França Júnior</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Urbano_Duarte_de_Oliveira" title="Urbano Duarte de Oliveira">Urbano Duarte</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Augusto_de_Lima" title="Antônio Augusto de Lima">Antônio Augusto de Lima</a></li>
+<li><a href="/wiki/V%C3%ADtor_Viana" title="Vítor Viana">Vítor Viana</a></li>
+<li><a href="/wiki/Jos%C3%A9_Carlos_de_Macedo_Soares" title="José Carlos de Macedo Soares">José Carlos de Macedo Soares</a></li>
+<li><a href="/wiki/Abgar_Renault" title="Abgar Renault">Abgar Renault</a></li>
+<li><a href="/wiki/Lucas_Moreira_Neves" title="Lucas Moreira Neves">Lucas Moreira Neves</a></li>
+<li><a href="/wiki/Alfredo_Bosi" title="Alfredo Bosi">Alfredo Bosi</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">13 (<a href="/wiki/Francisco_Otaviano" title="Francisco Otaviano">Francisco Otaviano</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Alfredo_d%27Escragnolle_Taunay" title="Alfredo d'Escragnolle Taunay">Alfredo d'Escragnolle Taunay</a></li>
+<li><a href="/wiki/Francisco_de_Castro" title="Francisco de Castro">Francisco de Castro</a></li>
+<li><a href="/wiki/Jos%C3%A9_Isidoro_Martins_J%C3%BAnior" title="José Isidoro Martins Júnior">Martins Júnior</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Carneiro_de_Sousa_Bandeira" title="João Carneiro de Sousa Bandeira">Sousa Bandeira</a></li>
+<li><a href="/wiki/H%C3%A9lio_Lobo" title="Hélio Lobo">Hélio Lobo</a></li>
+<li><a href="/wiki/Augusto_Meyer" title="Augusto Meyer">Augusto Meyer</a></li>
+<li><a href="/wiki/Francisco_de_Assis_Barbosa" title="Francisco de Assis Barbosa">Francisco de Assis Barbosa</a></li>
+<li><a href="/wiki/S%C3%A9rgio_Paulo_Rouanet" title="Sérgio Paulo Rouanet">Sérgio Paulo Rouanet</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">14 (<a href="/wiki/Franklin_T%C3%A1vora" title="Franklin Távora">Franklin Távora</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Cl%C3%B3vis_Bevil%C3%A1qua" title="Clóvis Beviláqua">Clóvis Beviláqua</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Carneiro_Le%C3%A3o" title="Antônio Carneiro Leão">Carneiro Leão</a></li>
+<li><a href="/wiki/Fernando_de_Azevedo" title="Fernando de Azevedo">Fernando de Azevedo</a></li>
+<li><a href="/wiki/Miguel_Reale" title="Miguel Reale">Miguel Reale</a></li>
+<li><a href="/wiki/Celso_Lafer" title="Celso Lafer">Celso Lafer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">15 (<a href="/wiki/Gon%C3%A7alves_Dias" title="Gonçalves Dias">Gonçalves Dias</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Olavo_Bilac" title="Olavo Bilac">Olavo Bilac</a></li>
+<li><a href="/wiki/Amadeu_Amaral" title="Amadeu Amaral">Amadeu Amaral</a></li>
+<li><a href="/wiki/Guilherme_de_Almeida" title="Guilherme de Almeida">Guilherme de Almeida</a></li>
+<li><a href="/wiki/Odilo_Costa_Filho" title="Odilo Costa Filho">Odilo Costa Filho</a></li>
+<li><a href="/wiki/Marcos_Barbosa" title="Marcos Barbosa">Marcos Barbosa</a></li>
+<li><a href="/wiki/Fernando_Bastos_de_%C3%81vila" title="Fernando Bastos de Ávila">Fernando Bastos de Ávila</a></li>
+<li><a href="/wiki/Marco_Lucchesi" title="Marco Lucchesi">Marco Lucchesi</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">16 (<a href="/wiki/Greg%C3%B3rio_de_Matos" title="Gregório de Matos">Gregório de Matos</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Araripe_J%C3%BAnior" title="Araripe Júnior">Araripe Júnior</a></li>
+<li><a href="/wiki/F%C3%A9lix_Pacheco" title="Félix Pacheco">Félix Pacheco</a></li>
+<li><a href="/wiki/Pedro_Calmon" title="Pedro Calmon">Pedro Calmon</a></li>
+<li><a href="/wiki/Lygia_Fagundes_Telles" title="Lygia Fagundes Telles">Lygia Fagundes Telles</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">17 (<a href="/wiki/Hip%C3%B3lito_da_Costa" title="Hipólito da Costa">Hipólito da Costa</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/S%C3%ADlvio_Romero" title="Sílvio Romero">Sílvio Romero</a></li>
+<li><a href="/wiki/Os%C3%B3rio_Duque-Estrada" title="Osório Duque-Estrada">Osório Duque-Estrada</a></li>
+<li><a href="/wiki/Edgar_Roquette-Pinto" title="Edgar Roquette-Pinto">Edgar Roquette-Pinto</a></li>
+<li><a href="/wiki/%C3%81lvaro_Lins" title="Álvaro Lins">Álvaro Lins</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Houaiss" title="Antônio Houaiss">Antônio Houaiss</a></li>
+<li><a href="/wiki/Affonso_Arinos_de_Mello_Franco" title="Affonso Arinos de Mello Franco">Affonso Arinos de Mello Franco</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">18 (<a href="/wiki/Jo%C3%A3o_Francisco_Lisboa" title="João Francisco Lisboa">João Francisco Lisboa</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Jos%C3%A9_Ver%C3%ADssimo" title="José Veríssimo">José Veríssimo</a></li>
+<li><a href="/wiki/Francisco_In%C3%A1cio_Marcondes_Homem_de_Melo" title="Francisco Inácio Marcondes Homem de Melo">Barão Homem de Melo</a></li>
+<li><a href="/wiki/Alberto_Faria" title="Alberto Faria">Alberto Faria</a></li>
+<li><a href="/wiki/Lu%C3%ADs_Carlos_da_Fonseca_Monteiro_de_Barros" title="Luís Carlos da Fonseca Monteiro de Barros">Luís Carlos</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Joaquim_Pereira_da_Silva" title="Antônio Joaquim Pereira da Silva">Pereira da Silva</a></li>
+<li><a href="/wiki/Peregrino_J%C3%BAnior" title="Peregrino Júnior">Peregrino Júnior</a></li>
+<li><a href="/wiki/Arnaldo_Niskier" title="Arnaldo Niskier">Arnaldo Niskier</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">19 (<a href="/wiki/Joaquim_Caetano" title="Joaquim Caetano">Joaquim Caetano</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Alcindo_Guanabara" title="Alcindo Guanabara">Alcindo Guanabara</a></li>
+<li><a href="/wiki/Silv%C3%A9rio_Gomes_Pimenta" title="Silvério Gomes Pimenta">Silvério Gomes Pimenta</a></li>
+<li><a href="/wiki/Gustavo_Barroso" title="Gustavo Barroso">Gustavo Barroso</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_da_Silva_Melo" title="Antônio da Silva Melo">Silva Melo</a></li>
+<li><a href="/wiki/Am%C3%A9rico_Jacobina_Lacombe" title="Américo Jacobina Lacombe">Américo Jacobina Lacombe</a></li>
+<li><a href="/wiki/Marcos_Almir_Madeira" title="Marcos Almir Madeira">Marcos Almir Madeira</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Carlos_Secchin" title="Antônio Carlos Secchin">Antônio Carlos Secchin</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">20 (<a href="/wiki/Joaquim_Manuel_de_Macedo" title="Joaquim Manuel de Macedo">Joaquim Manuel de Macedo</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Salvador_de_Mendon%C3%A7a" title="Salvador de Mendonça">Salvador de Mendonça</a></li>
+<li><a href="/wiki/Em%C3%ADlio_de_Meneses" title="Emílio de Meneses">Emílio de Meneses</a></li>
+<li><a href="/wiki/Humberto_de_Campos" title="Humberto de Campos">Humberto de Campos</a></li>
+<li><a href="/wiki/M%C3%BAcio_Le%C3%A3o" title="Múcio Leão">Múcio Leão</a></li>
+<li><a href="/wiki/Aur%C3%A9lio_de_Lira_Tavares" title="Aurélio de Lira Tavares">Aurélio de Lira Tavares</a></li>
+<li><a href="/wiki/Murilo_Melo_Filho" title="Murilo Melo Filho">Murilo Melo Filho</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Cadeiras 21 a 30</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<table class="navbox nowraplinks" style="background:transparent; font-size:100%; padding:0; border:none; margin:-3px; text-align:left;">
+<tr>
+<th style="background:#e6e6ff; text-align:right; width:22%;">21 (<a href="/wiki/Joaquim_Serra" title="Joaquim Serra">Joaquim Serra</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Jos%C3%A9_do_Patroc%C3%ADnio" title="José do Patrocínio">José do Patrocínio</a></li>
+<li><a href="/wiki/M%C3%A1rio_de_Alencar" title="Mário de Alencar">Mário de Alencar</a></li>
+<li><a href="/wiki/Oleg%C3%A1rio_Mariano" title="Olegário Mariano">Olegário Mariano</a></li>
+<li><a href="/wiki/%C3%81lvaro_Moreira" class="mw-redirect" title="Álvaro Moreira">Álvaro Moreira</a></li>
+<li><a href="/wiki/Adonias_Filho" title="Adonias Filho">Adonias Filho</a></li>
+<li><a href="/wiki/Dias_Gomes" title="Dias Gomes">Dias Gomes</a></li>
+<li><a href="/wiki/Roberto_Campos" title="Roberto Campos">Roberto Campos</a></li>
+<li><a class="mw-selflink selflink">Paulo Coelho</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">22 (<a href="/wiki/Jos%C3%A9_Bonif%C3%A1cio,_o_Mo%C3%A7o" title="José Bonifácio, o Moço">José Bonifácio</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Medeiros_e_Albuquerque" title="Medeiros e Albuquerque">Medeiros e Albuquerque</a></li>
+<li><a href="/wiki/Miguel_Os%C3%B3rio_de_Almeida" title="Miguel Osório de Almeida">Miguel Osório de Almeida</a></li>
+<li><a href="/wiki/Lu%C3%ADs_Viana_Filho" title="Luís Viana Filho">Luís Viana Filho</a></li>
+<li><a href="/wiki/Ivo_Pitanguy" title="Ivo Pitanguy">Ivo Pitanguy</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Almino" title="João Almino">João Almino</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">23 (<a href="/wiki/Jos%C3%A9_de_Alencar" title="José de Alencar">José de Alencar</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Machado_de_Assis" title="Machado de Assis">Machado de Assis</a></li>
+<li><a href="/wiki/Lafayette_Rodrigues_Pereira" title="Lafayette Rodrigues Pereira">Lafayette Rodrigues Pereira</a></li>
+<li><a href="/wiki/Alfredo_Pujol" title="Alfredo Pujol">Alfredo Pujol</a></li>
+<li><a href="/wiki/Ot%C3%A1vio_Mangabeira" title="Otávio Mangabeira">Otávio Mangabeira</a></li>
+<li><a href="/wiki/Jorge_Amado" title="Jorge Amado">Jorge Amado</a></li>
+<li><a href="/wiki/Z%C3%A9lia_Gattai" title="Zélia Gattai">Zélia Gattai</a></li>
+<li><a href="/wiki/Luiz_Paulo_Horta" title="Luiz Paulo Horta">Luiz Paulo Horta</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Torres" title="Antônio Torres">Antônio Torres</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">24 (<a href="/wiki/J%C3%BAlio_Ribeiro" title="Júlio Ribeiro">Júlio Ribeiro</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Garcia_Redondo" title="Garcia Redondo">Garcia Redondo</a></li>
+<li><a href="/wiki/Lu%C3%ADs_Guimar%C3%A3es_Filho" title="Luís Guimarães Filho">Luís Guimarães Filho</a></li>
+<li><a href="/wiki/Manuel_Bandeira" title="Manuel Bandeira">Manuel Bandeira</a></li>
+<li><a href="/wiki/Ciro_dos_Anjos" title="Ciro dos Anjos">Cyro dos Anjos</a></li>
+<li><a href="/wiki/S%C3%A1bato_Magaldi" title="Sábato Magaldi">Sábato Magaldi</a></li>
+<li><a href="/wiki/Geraldo_Carneiro" title="Geraldo Carneiro">Geraldo Carneiro</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">25 (<a href="/wiki/Junqueira_Freire" title="Junqueira Freire">Junqueira Freire</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Franklin_D%C3%B3ria" title="Franklin Dória">Franklin Dória</a></li>
+<li><a href="/wiki/Artur_Orlando_da_Silva" title="Artur Orlando da Silva">Artur Orlando da Silva</a></li>
+<li><a href="/wiki/Ataulfo_de_Paiva" title="Ataulfo de Paiva">Ataulfo de Paiva</a></li>
+<li><a href="/wiki/Jos%C3%A9_Lins_do_Rego" title="José Lins do Rego">José Lins do Rego</a></li>
+<li><a href="/wiki/Afonso_Arinos_de_Melo_Franco_(sobrinho)" title="Afonso Arinos de Melo Franco (sobrinho)">Afonso Arinos de Melo Franco</a></li>
+<li><a href="/wiki/Alberto_Venancio_Filho" title="Alberto Venancio Filho">Alberto Venancio Filho</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">26 (<a href="/wiki/Laurindo_Rabelo" title="Laurindo Rabelo">Laurindo Rabelo</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Guimar%C3%A3es_Passos" title="Guimarães Passos">Guimarães Passos</a></li>
+<li><a href="/wiki/Jo%C3%A3o_do_Rio" title="João do Rio">João do Rio (Paulo Barreto)</a></li>
+<li><a href="/wiki/Const%C3%A2ncio_Alves" title="Constâncio Alves">Constâncio Alves</a></li>
+<li><a href="/wiki/Ribeiro_Couto" title="Ribeiro Couto">Ribeiro Couto</a></li>
+<li><a href="/wiki/Gilberto_Amado" title="Gilberto Amado">Gilberto Amado</a></li>
+<li><a href="/wiki/Mauro_Mota" title="Mauro Mota">Mauro Mota</a></li>
+<li><a href="/wiki/Marcos_Vila%C3%A7a" title="Marcos Vilaça">Marcos Vilaça</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">27 (<a href="/wiki/Maciel_Monteiro" title="Maciel Monteiro">Maciel Monteiro</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Joaquim_Nabuco" title="Joaquim Nabuco">Joaquim Nabuco</a></li>
+<li><a href="/wiki/Dantas_Barreto" title="Dantas Barreto">Dantas Barreto</a></li>
+<li><a href="/wiki/Greg%C3%B3rio_da_Fonseca" title="Gregório da Fonseca">Gregório da Fonseca</a></li>
+<li><a href="/wiki/Levi_Carneiro" title="Levi Carneiro">Levi Carneiro</a></li>
+<li><a href="/wiki/Ot%C3%A1vio_de_Faria" title="Otávio de Faria">Otávio de Faria</a></li>
+<li><a href="/wiki/Eduardo_Portella" title="Eduardo Portella">Eduardo Portella</a></li>
+<li><a href="/wiki/Antonio_Cicero" title="Antonio Cicero">Antonio Cicero</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">28 (<a href="/wiki/Manuel_Ant%C3%B4nio_de_Almeida" title="Manuel Antônio de Almeida">Manuel Antônio de Almeida</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Ingl%C3%AAs_de_Sousa" title="Inglês de Sousa">Inglês de Sousa</a></li>
+<li><a href="/wiki/Xavier_Marques" title="Xavier Marques">Xavier Marques</a></li>
+<li><a href="/wiki/Menotti_Del_Picchia" title="Menotti Del Picchia">Menotti Del Picchia</a></li>
+<li><a href="/wiki/Oscar_Dias_Correia" title="Oscar Dias Correia">Oscar Dias Correia</a></li>
+<li><a href="/wiki/Dom%C3%ADcio_Proen%C3%A7a_Filho" title="Domício Proença Filho">Domício Proença Filho</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">29 (<a href="/wiki/Martins_Pena" title="Martins Pena">Martins Pena</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Artur_de_Azevedo" title="Artur de Azevedo">Artur de Azevedo</a></li>
+<li><a href="/wiki/Vicente_de_Carvalho" title="Vicente de Carvalho">Vicente de Carvalho</a></li>
+<li><a href="/wiki/Cl%C3%A1udio_de_Sousa" title="Cláudio de Sousa">Cláudio de Sousa</a></li>
+<li><a href="/wiki/Josu%C3%A9_Montello" title="Josué Montello">Josué Montello</a></li>
+<li><a href="/wiki/Jos%C3%A9_Mindlin" title="José Mindlin">José Mindlin</a></li>
+<li><a href="/wiki/Geraldo_Holanda_Cavalcanti" title="Geraldo Holanda Cavalcanti">Geraldo Holanda Cavalcanti</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">30 (<a href="/wiki/Pardal_Mallet" title="Pardal Mallet">Pardal Mallet</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Pedro_Rabelo" title="Pedro Rabelo">Pedro Rabelo</a></li>
+<li><a href="/wiki/Her%C3%A1clito_Gra%C3%A7a" title="Heráclito Graça">Heráclito Graça</a></li>
+<li><a href="/wiki/Ant%C3%B4nio_Austreg%C3%A9silo_Rodrigues_de_Lima" title="Antônio Austregésilo Rodrigues de Lima">Antônio Austregésilo</a></li>
+<li><a href="/wiki/Aur%C3%A9lio_Buarque_de_Holanda" title="Aurélio Buarque de Holanda">Aurélio Buarque de Holanda</a></li>
+<li><a href="/wiki/N%C3%A9lida_Pi%C3%B1on" title="Nélida Piñon">Nélida Piñon</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Cadeiras 31 a 40</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<table class="navbox nowraplinks" style="background:transparent; font-size:100%; padding:0; border:none; margin:-3px; text-align:left;">
+<tr>
+<th style="background:#e6e6ff; text-align:right; width:22%;">31 (<a href="/wiki/Pedro_Lu%C3%ADs_Pereira_de_Sousa" title="Pedro Luís Pereira de Sousa">Pedro Luís</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Guimar%C3%A3es_J%C3%BAnior" title="Guimarães Júnior">Guimarães Júnior</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Batista_Ribeiro_de_Andrade_Fernandes" title="João Batista Ribeiro de Andrade Fernandes">João Ribeiro</a></li>
+<li><a href="/wiki/Paulo_Set%C3%BAbal" title="Paulo Setúbal">Paulo Setúbal</a></li>
+<li><a href="/wiki/Cassiano_Ricardo" title="Cassiano Ricardo">Cassiano Ricardo</a></li>
+<li><a href="/wiki/Jos%C3%A9_C%C3%A2ndido_de_Carvalho" title="José Cândido de Carvalho">José Cândido de Carvalho</a></li>
+<li><a href="/wiki/Geraldo_Fran%C3%A7a_de_Lima" title="Geraldo França de Lima">Geraldo França de Lima</a></li>
+<li><a href="/wiki/Moacyr_Scliar" title="Moacyr Scliar">Moacyr Scliar</a></li>
+<li><a href="/wiki/Merval_Pereira" title="Merval Pereira">Merval Pereira</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">32 (<a href="/wiki/Manuel_de_Ara%C3%BAjo_Porto-Alegre" title="Manuel de Araújo Porto-Alegre">Manuel de Araújo Porto-Alegre</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Carlos_de_Laet" title="Carlos de Laet">Carlos de Laet</a></li>
+<li><a href="/wiki/Ramiz_Galv%C3%A3o" title="Ramiz Galvão">Ramiz Galvão</a></li>
+<li><a href="/wiki/Viriato_Correia" title="Viriato Correia">Viriato Correia</a></li>
+<li><a href="/wiki/Joracy_Camargo" title="Joracy Camargo">Joracy Camargo</a></li>
+<li><a href="/wiki/Genolino_Amado" title="Genolino Amado">Genolino Amado</a></li>
+<li><a href="/wiki/Ariano_Suassuna" title="Ariano Suassuna">Ariano Suassuna</a></li>
+<li><a href="/wiki/Zuenir_Ventura" title="Zuenir Ventura">Zuenir Ventura</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">33 (<a href="/wiki/Raul_Pompeia" title="Raul Pompeia">Raul Pompeia</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Dom%C3%ADcio_da_Gama" title="Domício da Gama">Domício da Gama</a></li>
+<li><a href="/wiki/Fernando_Magalh%C3%A3es" title="Fernando Magalhães">Fernando Magalhães</a></li>
+<li><a href="/wiki/Lu%C3%ADs_Edmundo" title="Luís Edmundo">Luís Edmundo</a></li>
+<li><a href="/wiki/Afr%C3%A2nio_Coutinho" title="Afrânio Coutinho">Afrânio Coutinho</a></li>
+<li><a href="/wiki/Evanildo_Bechara" title="Evanildo Bechara">Evanildo Bechara</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">34 (<a href="/wiki/Sousa_Caldas" title="Sousa Caldas">Sousa Caldas</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Jo%C3%A3o_Manuel_Pereira_da_Silva" title="João Manuel Pereira da Silva">João Manuel Pereira da Silva</a></li>
+<li><a href="/wiki/Jos%C3%A9_Maria_da_Silva_Paranhos_J%C3%BAnior" title="José Maria da Silva Paranhos Júnior">Barão do Rio Branco</a></li>
+<li><a href="/wiki/Lauro_M%C3%BCller" title="Lauro Müller">Lauro Müller</a></li>
+<li><a href="/wiki/Francisco_de_Aquino_Correia" title="Francisco de Aquino Correia">Aquino Correia</a></li>
+<li><a href="/wiki/Raimundo_Magalh%C3%A3es_J%C3%BAnior" title="Raimundo Magalhães Júnior">Raimundo Magalhães Júnior</a></li>
+<li><a href="/wiki/Carlos_Castelo_Branco" title="Carlos Castelo Branco">Carlos Castelo Branco</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Ubaldo_Ribeiro" title="João Ubaldo Ribeiro">João Ubaldo Ribeiro</a></li>
+<li><a href="/wiki/Evaldo_Cabral_de_Mello" title="Evaldo Cabral de Mello">Evaldo Cabral de Mello</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">35 (<a href="/wiki/Aureliano_Tavares_Bastos" title="Aureliano Tavares Bastos">Tavares Bastos</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Rodrigo_Ot%C3%A1vio" title="Rodrigo Otávio">Rodrigo Otávio</a></li>
+<li><a href="/wiki/Rodrigo_Ot%C3%A1vio_Filho" title="Rodrigo Otávio Filho">Rodrigo Otávio Filho</a></li>
+<li><a href="/wiki/Jos%C3%A9_Hon%C3%B3rio_Rodrigues" title="José Honório Rodrigues">José Honório Rodrigues</a></li>
+<li><a href="/wiki/Celso_Ferreira_da_Cunha" title="Celso Ferreira da Cunha">Celso Cunha</a></li>
+<li><a href="/wiki/C%C3%A2ndido_Mendes_de_Almeida_(escritor)" title="Cândido Mendes de Almeida (escritor)">Cândido Mendes de Almeida</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">36 (<a href="/wiki/Te%C3%B3filo_Dias" title="Teófilo Dias">Teófilo Dias</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Afonso_Celso_de_Assis_Figueiredo_J%C3%BAnior" title="Afonso Celso de Assis Figueiredo Júnior">Afonso Celso</a></li>
+<li><a href="/wiki/Clementino_Fraga" title="Clementino Fraga">Clementino Fraga</a></li>
+<li><a href="/wiki/Paulo_Carneiro" title="Paulo Carneiro">Paulo Carneiro</a></li>
+<li><a href="/wiki/Jos%C3%A9_Guilherme_Merquior" title="José Guilherme Merquior">José Guilherme Merquior</a></li>
+<li><a href="/wiki/Jo%C3%A3o_de_Scantimburgo" title="João de Scantimburgo">João de Scantimburgo</a></li>
+<li><a href="/wiki/Fernando_Henrique_Cardoso" title="Fernando Henrique Cardoso">Fernando Henrique Cardoso</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">37 (<a href="/wiki/Tom%C3%A1s_Ant%C3%B4nio_Gonzaga" class="mw-redirect" title="Tomás Antônio Gonzaga">Tomás Antônio Gonzaga</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Jos%C3%A9_J%C3%BAlio_da_Silva_Ramos" title="José Júlio da Silva Ramos">Silva Ramos</a></li>
+<li><a href="/wiki/Jos%C3%A9_de_Alc%C3%A2ntara_Machado" title="José de Alcântara Machado">Alcântara Machado</a></li>
+<li><a href="/wiki/Get%C3%BAlio_Vargas" title="Getúlio Vargas">Getúlio Vargas</a></li>
+<li><a href="/wiki/Assis_Chateaubriand" title="Assis Chateaubriand">Assis Chateaubriand</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Cabral_de_Melo_Neto" title="João Cabral de Melo Neto">João Cabral de Melo Neto</a></li>
+<li><a href="/wiki/Ivan_Junqueira" title="Ivan Junqueira">Ivan Junqueira</a></li>
+<li><a href="/wiki/Ferreira_Gullar" title="Ferreira Gullar">Ferreira Gullar</a></li>
+<li><a href="/wiki/Arno_Wehling" title="Arno Wehling">Arno Wehling</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">38 (<a href="/wiki/Tobias_Barreto" title="Tobias Barreto">Tobias Barreto</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Gra%C3%A7a_Aranha" title="Graça Aranha">Graça Aranha</a></li>
+<li><a href="/wiki/Santos_Dumont" title="Santos Dumont">Santos Dumont</a></li>
+<li><a href="/wiki/Celso_Vieira_de_Matos_Melo_Pereira" title="Celso Vieira de Matos Melo Pereira">Celso Vieira de Matos Melo Pereira</a></li>
+<li><a href="/wiki/Maur%C3%ADcio_Campos_de_Medeiros" title="Maurício Campos de Medeiros">Maurício Campos de Medeiros</a></li>
+<li><a href="/wiki/Jos%C3%A9_Am%C3%A9rico_de_Almeida" title="José Américo de Almeida">José Américo de Almeida</a></li>
+<li><a href="/wiki/Jos%C3%A9_Sarney" title="José Sarney">José Sarney</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">39 (<a href="/wiki/Francisco_Adolfo_de_Varnhagen" title="Francisco Adolfo de Varnhagen">Francisco Adolfo de Varnhagen</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Manuel_de_Oliveira_Lima" title="Manuel de Oliveira Lima">Oliveira Lima</a></li>
+<li><a href="/wiki/Alberto_de_Faria" title="Alberto de Faria">Alberto de Faria</a></li>
+<li><a href="/wiki/Rocha_Pombo" title="Rocha Pombo">Rocha Pombo</a></li>
+<li><a href="/wiki/Rodolfo_Garcia" title="Rodolfo Garcia">Rodolfo Garcia</a></li>
+<li><a href="/wiki/Elmano_Cardim" title="Elmano Cardim">Elmano Cardim</a></li>
+<li><a href="/wiki/Otto_Lara_Resende" title="Otto Lara Resende">Otto Lara Resende</a></li>
+<li><a href="/wiki/Roberto_Marinho" title="Roberto Marinho">Roberto Marinho</a></li>
+<li><a href="/wiki/Marco_Maciel" title="Marco Maciel">Marco Maciel</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background:#e6e6ff;white-space:nowrap;text-align:right; width:22%;">40 (<a href="/wiki/Jos%C3%A9_Maria_da_Silva_Paranhos" title="José Maria da Silva Paranhos">Visconde do Rio Branco</a>)</th>
+<td class="" style="" colspan="1">
+<ul>
+<li><a href="/wiki/Eduardo_Paulo_da_Silva_Prado" class="mw-redirect" title="Eduardo Paulo da Silva Prado">Eduardo Prado</a></li>
+<li><a href="/wiki/Afonso_Arinos_de_Melo_Franco" title="Afonso Arinos de Melo Franco">Afonso Arinos</a></li>
+<li><a href="/wiki/Miguel_Couto" title="Miguel Couto">Miguel Couto</a></li>
+<li><a href="/wiki/Alceu_Amoroso_Lima" title="Alceu Amoroso Lima">Alceu Amoroso Lima</a></li>
+<li><a href="/wiki/Evaristo_de_Moraes_Filho" title="Evaristo de Moraes Filho">Evaristo de Moraes Filho</a></li>
+<li><a href="/wiki/Edmar_Bacha" title="Edmar Bacha">Edmar Bacha</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="2">
+<ul>
+<li><a href="/wiki/Ficheiro:Books-aj.svg_aj_ashton_01.svg" class="image"><img alt="Books-aj.svg aj ashton 01.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/20px-Books-aj.svg_aj_ashton_01.svg.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/30px-Books-aj.svg_aj_ashton_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/40px-Books-aj.svg_aj_ashton_01.svg.png 2x" data-file-width="309" data-file-height="274" /></a><a href="/wiki/Portal:Literatura" title="Portal:Literatura">Portal da Literatura</a></li>
+<li><a href="/wiki/Lista_de_academias_de_letras_no_Brasil" title="Lista de academias de letras no Brasil">Academias de letras do Brasil</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul class="noprint" style="border-top: solid silver 1px; border-bottom:1px solid silver; padding:3px; background-color: #F9F9F9; text-align: center; margin-top:10px; margin-left: 0; clear: both;">
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Books-aj.svg_aj_ashton_01.png" title="Portal da literatura"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/25px-Books-aj.svg_aj_ashton_01.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/38px-Books-aj.svg_aj_ashton_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/50px-Books-aj.svg_aj_ashton_01.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Literatura" title="Portal:Literatura">Portal da literatura</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Crystal_Clear_app_Login_Manager.png" title="Portal de biografias"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/25px-Crystal_Clear_app_Login_Manager.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/38px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/50px-Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Biografias" title="Portal:Biografias">Portal de biografias</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Bandeira_Estado_RiodeJaneiro_Brasil2.svg" title="Portal do Rio de Janeiro"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/25px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" width="25" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/38px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/50px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Rio_de_Janeiro" title="Portal:Rio de Janeiro">Portal do Rio de Janeiro</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Flag_of_Brazil.svg" title="Portal do Brasil"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/25px-Flag_of_Brazil.svg.png" width="25" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/38px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/50px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Brasil" title="Portal:Brasil">Portal do Brasil</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;width: 12%; text-align:center;"><a href="/wiki/Ajuda:Controle_de_autoridade" title="Ajuda:Controle de autoridade">Controle de autoridade</a><br /></th>
+<td class="navbox-list navbox-odd plainlinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>: <span class="uid"><a href="https://www.wikidata.org/wiki/Q12881" class="extiw" title="wikidata:Q12881">Q12881</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" class="mw-redirect" title="Virtual International Authority File">VIAF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/52700">52700</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AllMovie" title="AllMovie">AllMovie</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allmovie.com/artist/p523612">p523612</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AlloCin%C3%A9" title="AlloCiné">AlloCiné</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=196426.html?nopub=1">196426</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BIBSYS" class="mw-redirect" title="BIBSYS">BIBSYS</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90862476">90862476</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Rep%C3%BAblica_Argentina" class="mw-redirect" title="Biblioteca Nacional da República Argentina">BNA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=000035768&amp;local_base=BNA10">000035768</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Espanha" title="Biblioteca Nacional da Espanha">BNE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX1041627">XX1041627</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb121744693">121744693</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Cat%C3%A1logo_de_autoridades_de_nomes_e_t%C3%ADtulos_da_Catalunha" title="Catálogo de autoridades de nomes e títulos da Catalunha">CANTIC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a10066895">a10066895</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Discogs" title="Discogs">Discogs</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/944941">944941</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">EBID</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Paulo-Coelho">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Bibliotheca_Alexandrina" title="Bibliotheca Alexandrina">EGAXA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/processed/EGAXA%7Cvtls002320965">002320965</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Faceted_Application_of_Subject_Terminology" title="Faceted Application of Subject Terminology">FAST</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://experimental.worldcat.org/fast/177970/">177970</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gran_Enciclop%C3%A8dia_Catalana" title="Gran Enciclopèdia Catalana">GEC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/EC-GEC-0246076.xml">0246076</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/115703101">115703101</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" class="mw-redirect" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://id.sbn.it/af/IT\ICCU\UM1V\006521">IT\ICCU\UM1V\006521</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">IMDb</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=345&amp;url_prefix=http://www.imdb.com/&amp;id=nm0168723">nm0168723</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=213&amp;url_prefix=http://isni.org/&amp;id=0000">0001 2098 1529 0000 0001 2098 1529</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Ita%C3%BA_Cultural" title="Itaú Cultural">Itaú Cultural</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://enciclopedia.itaucultural.org.br/pessoa12524/paulo-coelho">paulo-coelho</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" class="mw-redirect" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n86099875">n86099875</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/6e855ecb-5e1c-4ca4-9bdd-1b365326c3fe">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Munzinger: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.munzinger.de/search/go/document.jsp?id=00000022443">00000022443</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Dieta" title="Biblioteca Nacional da Dieta">NDL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00512573">00512573</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Rep%C3%BAblica_Checa" title="Biblioteca Nacional da República Checa">NKC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19990001432">jn19990001432</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Austr%C3%A1lia" title="Biblioteca Nacional da Austrália">NLA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35967394">35967394</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Notable_Names_Database" title="Notable Names Database">NNDB</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.nndb.com/people/080/000133678/">000133678</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Real_dos_Pa%C3%ADses_Baixos" title="Biblioteca Real dos Países Baixos">NTA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p113442092">113442092</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Universidade_Federal_de_Santa_Catarina" title="Universidade Federal de Santa Catarina">Nupill</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.literaturabrasileira.ufsc.br/autores/?id=11102">11102</a></span></span></span></li>
+<li><span style="white-space:nowrap;">NUKAT: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/processed/NUKAT%7Cn96401435">n96401435</a></span></span></span></li>
+<li><span style="white-space:nowrap;">OBP: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Coelho,">Paulo ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Open_Library" title="Open Library">OL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL66700A">OL66700A</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Portugal" title="Biblioteca Nacional de Portugal">PTBNP</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://urn.bn.pt/nca/unimarc-authorities/txt?id=44950">44950</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/256091">256091</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Sistema_Universit%C3%A1rio_de_Documenta%C3%A7%C3%A3o" title="Sistema Universitário de Documentação">SUDOC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.idref.fr/030299837">030299837</a></span></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20180525035913
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 1.108 seconds
+Real time usage: 1.249 seconds
+Preprocessor visited node count: 12626/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 204611/2097152 bytes
+Template argument size: 88381/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 34/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 24394/5000000 bytes
+Lua time usage: 0.341/10.000 seconds
+Lua memory usage: 6.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1079.884      1 -total
+ 27.72%  299.344      1 Predefinição:Controle_de_autoridade
+ 26.53%  286.451      1 Predefinição:Info/Escritor
+ 23.06%  248.980      1 Predefinição:Info
+ 12.62%  136.333      1 Predefinição:Link
+ 12.44%  134.331      1 Predefinição:Link/código
+ 11.99%  129.459      1 Predefinição:Link/línguas
+ 11.85%  127.945      1 Predefinição:Referências
+  9.04%   97.630     20 Predefinição:Citar_web
+  6.77%   73.116      2 Predefinição:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:57203-0!canonical and timestamp 20180525035912 and revision id 52137039
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Paulo_Coelho&amp;oldid=52137039">https://pt.wikipedia.org/w/index.php?title=Paulo_Coelho&amp;oldid=52137039</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1947" title="Categoria:Nascidos em 1947">Nascidos em 1947</a></li><li><a href="/wiki/Categoria:Paulo_Coelho" title="Categoria:Paulo Coelho">Paulo Coelho</a></li><li><a href="/wiki/Categoria:Naturais_do_Rio_de_Janeiro_(cidade)" title="Categoria:Naturais do Rio de Janeiro (cidade)">Naturais do Rio de Janeiro (cidade)</a></li><li><a href="/wiki/Categoria:Brasileiros_de_ascend%C3%AAncia_portuguesa" title="Categoria:Brasileiros de ascendência portuguesa">Brasileiros de ascendência portuguesa</a></li><li><a href="/wiki/Categoria:Escritores_do_Rio_de_Janeiro" title="Categoria:Escritores do Rio de Janeiro">Escritores do Rio de Janeiro</a></li><li><a href="/wiki/Categoria:Escritores_contempor%C3%A2neos_do_Brasil" title="Categoria:Escritores contemporâneos do Brasil">Escritores contemporâneos do Brasil</a></li><li><a href="/wiki/Categoria:Romancistas_do_Brasil" title="Categoria:Romancistas do Brasil">Romancistas do Brasil</a></li><li><a href="/wiki/Categoria:Atores_do_Rio_de_Janeiro" title="Categoria:Atores do Rio de Janeiro">Atores do Rio de Janeiro</a></li><li><a href="/wiki/Categoria:Blogueiros_do_Brasil" title="Categoria:Blogueiros do Brasil">Blogueiros do Brasil</a></li><li><a href="/wiki/Categoria:Escritores_por_religi%C3%A3o" title="Categoria:Escritores por religião">Escritores por religião</a></li><li><a href="/wiki/Categoria:Cat%C3%B3licos_do_Brasil" title="Categoria:Católicos do Brasil">Católicos do Brasil</a></li><li><a href="/wiki/Categoria:Peregrinos_de_Santiago" title="Categoria:Peregrinos de Santiago">Peregrinos de Santiago</a></li><li><a href="/wiki/Categoria:Cristianismo_esot%C3%A9rico" title="Categoria:Cristianismo esotérico">Cristianismo esotérico</a></li><li><a href="/wiki/Categoria:Compositores_do_Rio_de_Janeiro" title="Categoria:Compositores do Rio de Janeiro">Compositores do Rio de Janeiro</a></li><li><a href="/wiki/Categoria:Membros_da_Academia_Brasileira_de_Letras" title="Categoria:Membros da Academia Brasileira de Letras">Membros da Academia Brasileira de Letras</a></li><li><a href="/wiki/Categoria:Cavaleiros_da_Ordem_Nacional_da_Legi%C3%A3o_de_Honra" title="Categoria:Cavaleiros da Ordem Nacional da Legião de Honra">Cavaleiros da Ordem Nacional da Legião de Honra</a></li><li><a href="/wiki/Categoria:Raul_Seixas" title="Categoria:Raul Seixas">Raul Seixas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!P%C3%A1ginas_com_erros_CS1:_caracteres_invis%C3%ADveis" title="Categoria:!Páginas com erros CS1: caracteres invisíveis">!Páginas com erros CS1: caracteres invisíveis</a></li><li><a href="/wiki/Categoria:!P%C3%A1ginas_com_erros_liga%C3%A7%C3%B5es_externas" title="Categoria:!Páginas com erros ligações externas">!Páginas com erros ligações externas</a></li><li><a href="/wiki/Categoria:!P%C3%A1ginas_que_utilizam_argumentos_duplicados_ao_chamar_predefini%C3%A7%C3%B5es" title="Categoria:!Páginas que utilizam argumentos duplicados ao chamar predefinições">!Páginas que utilizam argumentos duplicados ao chamar predefinições</a></li><li><a href="/wiki/Categoria:!Biografias_de_pessoas_vivas_que_carecem_de_mais_fontes_desde_junho_de_2014" title="Categoria:!Biografias de pessoas vivas que carecem de mais fontes desde junho de 2014">!Biografias de pessoas vivas que carecem de mais fontes desde junho de 2014</a></li><li><a href="/wiki/Categoria:!Artigos_que_carecem_de_fontes_maiores_que_20000_bytes" title="Categoria:!Artigos que carecem de fontes maiores que 20000 bytes">!Artigos que carecem de fontes maiores que 20000 bytes</a></li><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_diferente_da_no_Wikidata" title="Categoria:!Imagem local diferente da no Wikidata">!Imagem local diferente da no Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Paulo+Coelho" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Paulo+Coelho" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Paulo_Coelho" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Paulo_Coelho" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Paulo_Coelho">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Paulo_Coelho&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Paulo_Coelho&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paulo_Coelho&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Paulo+Coelho">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Paulo+Coelho&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paulo_Coelho&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Paulo_Coelho" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://pt.wikiquote.org/wiki/Paulo_Coelho" hreflang="pt">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Paulo_Coelho" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Paulo_Coelho" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Paulo_Coelho&amp;oldid=52137039" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Paulo_Coelho&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12881" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Paulo_Coelho&amp;id=52137039" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8D%93%E1%8B%8D%E1%88%8E_%E1%8A%AE%E1%88%84%E1%88%8E" title="ፓውሎ ኮሄሎ — amárico" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%88%D9%84%D9%88_%D9%83%D9%88%D9%8A%D9%84%D9%88" title="باولو كويلو — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — asturiano" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — aimará" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Paulo_Koelyo" title="Paulo Koelyo — azerbaijano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A6%D9%88%D9%84%D9%88_%DA%A9%D9%88%D8%A6%D9%84%DB%8C%D9%88" title="پائولو کوئلیو — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%9E%D0%BB%D0%B0_%D0%9A%D0%B0%D1%8D%D0%BB%D1%8C%D1%91" title="Паўла Каэльё — bielorrusso" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D0%B0%D1%9E%D0%BB%D1%91_%D0%9A%D0%B0%D1%8D%D0%BB%D1%8C%D1%91" title="Паўлё Каэльё — Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D1%83_%D0%9A%D0%BE%D0%B5%D0%BB%D1%8E" title="Паулу Коелю — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%B2%E0%A7%8B_%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%B9%E0%A7%8B" title="পাওলো কোয়েলহো — bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%95%E0%BD%BC%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8B%E0%BD%81%E0%BD%BC%E0%BD%A0%E0%BD%BA%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8D" title="ཕོ་ལོ་ཁོའེ་ལོ། — tibetano" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — bósnio" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%88%D9%84%DB%86_%DA%A9%DB%86%DB%8C%D9%84%DB%86" title="پاولۆ کۆیلۆ — sorani curdo" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — galês" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CE%BF%CF%85%CE%BB%CE%BF_%CE%9A%CE%BF%CE%AD%CE%BB%CE%B9%CE%BF" title="Πάουλο Κοέλιο — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — estónio" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A6%D9%88%D9%84%D9%88_%DA%A9%D9%88%D8%A6%D9%84%DB%8C%D9%88" title="پائولو کوئلیو — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%95%D7%9C%D7%95_%D7%A7%D7%95%D7%90%D7%9C%D7%95" title="פאולו קואלו — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%B8%D6%82%D5%AC%D5%B8_%D4%BF%D5%B8%D5%A5%D5%AC%D5%AB%D5%B8" title="Պաուլո Կոելիո — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AD%E3%83%BB%E3%82%B3%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%A7" title="パウロ・コエーリョ — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — javanês" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%A3%E1%83%9A%E1%83%9D_%E1%83%99%E1%83%9D%E1%83%94%E1%83%9A%E1%83%98%E1%83%9D" title="პაულო კოელიო — georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D1%8D%D0%BB%D1%8C%D0%BE" title="Пауло Коэльо — cazaque" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BE%E0%B2%B5%E0%B3%8D%E0%B2%B2%E0%B3%8A_%E0%B2%95%E0%B3%8A%E0%B2%AF%E0%B3%86%E0%B2%B2%E0%B3%8A" title="ಪಾವ್ಲೊ ಕೊಯೆಲೊ — canarim" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9A%B8%EB%A1%9C_%EC%BD%94%EC%97%98%EB%A3%8C" title="파울로 코엘료 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — curdo" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D0%BB%D0%BE,_%D0%9Fa%D1%83%D0%BB%D0%BE" title="Коэло, Пaуло — quirguiz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Paulus_Coelho" title="Paulus Coelho — latim" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/P%C3%A1ul_Coelho" title="Pául Coelho — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — lituano" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Paulu_Koelju" title="Paulu Koelju — letão" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D0%B5%D0%BB%D1%98%D0%BE" title="Пауло Коелјо — macedónio" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%97%E0%B4%B2%E0%B5%8B_%E0%B4%95%E0%B5%8A%E0%B4%AF%E0%B5%8D%E2%80%8C%E0%B4%B2%E0%B5%8B" title="പൗലോ കൊയ്‌ലോ — malaiala" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%8B_%E0%A4%95%E0%A5%8B%E0%A4%8F%E0%A4%B2%E0%A5%8B" title="पावलो कोएलो — marata" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D1%8D%D0%BB%D1%8C%D0%BE" title="Пауло Коэльо — erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%B2%E0%A5%8B_%E0%A4%95%E0%A5%8B%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A5%8B" title="पाउलो कोहेल्हो — nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%89%E0%A8%B2%E0%A9%8B_%E0%A8%95%E0%A9%8B%E0%A8%87%E0%A8%B2%E0%A9%8B" title="ਪਾਉਲੋ ਕੋਇਲੋ — panjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — pampango" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — quíchua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D0%BB%D1%8C%D0%BE,_%D0%9F%D0%B0%D1%83%D0%BB%D0%BE" title="Коэльо, Пауло — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — esloveno" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Pawlo_Kuwelho" title="Pawlo Kuwelho — somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — albanês" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D0%B5%D1%99%D0%BE" title="Пауло Коељо — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%B5%E0%AF%81%E0%AE%B2%E0%AF%8B_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AF%8D%E0%AE%B2%E0%AF%8B" title="பவுலோ கோய்லோ — tâmil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%B9_%E0%B8%81%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B8%B9" title="เปาลู กูเอลยู — tailandês" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Paolo_Koelio" title="Paolo Koelio — turcomano" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — tagalo" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D1%8D%D0%BB%D1%8C%D0%BE" title="Пауло Коэльо — tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%BE_%D0%9A%D0%BE%D0%B5%D0%BB%D1%8C%D0%B9%D0%BE" title="Пауло Коельйо — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A4%D9%84%D9%88_%DA%A9%D9%88%DB%8C%D9%84%DB%81%D9%88" title="پاؤلو کویلہو — urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — usbeque" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E7%A7%91%E7%88%BE%E8%B3%80" title="保羅·科爾賀 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%A7%91%E7%88%BE%E8%B3%80" title="科爾賀 — Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12881#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 09h47min de 20 de maio de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Paulo_Coelho&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.108","walltime":"1.249","ppvisitednodes":{"value":12626,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":204611,"limit":2097152},"templateargumentsize":{"value":88381,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":34,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":24394,"limit":5000000},"entityaccesscount":{"value":34,"limit":400},"timingprofile":["100.00% 1079.884      1 -total"," 27.72%  299.344      1 Predefinição:Controle_de_autoridade"," 26.53%  286.451      1 Predefinição:Info/Escritor"," 23.06%  248.980      1 Predefinição:Info"," 12.62%  136.333      1 Predefinição:Link"," 12.44%  134.331      1 Predefinição:Link/código"," 11.99%  129.459      1 Predefinição:Link/línguas"," 11.85%  127.945      1 Predefinição:Referências","  9.04%   97.630     20 Predefinição:Citar_web","  6.77%   73.116      2 Predefinição:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":7120454,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20180525035913","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1382,"wgHostname":"mw1328"});});</script>
+	</body>
+</html>

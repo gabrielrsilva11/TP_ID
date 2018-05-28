@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nicholas Sparks – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nicholas_Sparks","wgTitle":"Nicholas Sparks","wgCurRevisionId":51987584,"wgRevisionId":51987584,"wgArticleId":124331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pessoas vivas","!Imagem local idêntica à do Wikidata","Nascidos em 1965","Nicholas Sparks","Naturais de Omaha (Nebraska)","Romancistas dos Estados Unidos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Nicholas_Sparks","wgRelevantArticleId":124331,"wgRequestId":"WwSgrwpAIC0AAF6g0hoAAACD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q219377","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"loading","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.load("/w/load.php?debug=false\u0026lang=pt\u0026modules=user\u0026skin=vector\u0026version=0um5hfh");mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Nicholas_Sparks"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Nicholas_Sparks&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Nicholas_Sparks&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Nicholas_Sparks"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nicholas_Sparks rootpage-Nicholas_Sparks skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Nicholas Sparks</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:; border-radius: 3px 3px 0 0;"><span class="">Nicholas Sparks</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Nicholas-Sparks-Autograph-1-4-06.jpg" class="image" title="Nicholas Sparks"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg/250px-Nicholas-Sparks-Autograph-1-4-06.jpg" width="250" height="357" srcset="//upload.wikimedia.org/wikipedia/commons/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg 1.5x" data-file-width="286" data-file-height="408" /></a></div>
+</div>
+<small>Sparks sorrindo</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Nicholas Charles Sparks</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/31_de_dezembro#Nascimentos" title="31 de dezembro">31 de dezembro</a> de <a href="/wiki/1965" title="1965">1965</a>&#160;(52&#160;anos)<br />
+<a href="/wiki/Omaha_(Nebraska)" title="Omaha (Nebraska)">Omaha</a>, <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Povo_dos_Estados_Unidos" title="Povo dos Estados Unidos">norte-americano</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Cathy Sparks (1989-2015)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Filho(s)</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Miles Sparks, Ryan Sparks, Landon Sparks, Lexie Sparks e Savannah Sparks</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Escritor" title="Escritor">Escritor</a>, <a href="/wiki/Roteirista" title="Roteirista">roteirista</a> e <a href="/wiki/Produtor_cinematogr%C3%A1fico" title="Produtor cinematográfico">produtor</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i><a href="/wiki/The_Notebook_(livro)" title="The Notebook (livro)">The Notebook</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;">Página oficial</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; padding:4px 4px 4px 0;" colspan="2"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com/">www.nicholassparks.com</a></td>
+</tr>
+</table>
+<p><b>Nicholas Sparks</b> (<a href="/wiki/Omaha_(Nebraska)" title="Omaha (Nebraska)">Omaha</a>, <a href="/wiki/31_de_dezembro" title="31 de dezembro">31 de dezembro</a> de <a href="/wiki/1965" title="1965">1965</a>) é um <a href="/wiki/Escritor" title="Escritor">escritor</a>, <a href="/wiki/Roteirista" title="Roteirista">roteirista</a> e <a href="/wiki/Produtor_cinematogr%C3%A1fico" title="Produtor cinematográfico">produtor</a> <a href="/wiki/Estadunidense" class="mw-redirect" title="Estadunidense">estadunidense</a>. Seus dois livros mais recentes, <i>No seu olhar</i> e <i>Dois a dois</i> são um sucesso nas livrarias com milhões de exemplares vendidos.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Carreira"><span class="tocnumber">2</span> <span class="toctext">Carreira</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Obras_publicadas"><span class="tocnumber">3</span> <span class="toctext">Obras publicadas</span></a></li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">4</span> <span class="toctext">Referências</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ligações_externas"><span class="tocnumber">5</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholas_Sparks&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nicholas Charles Sparks é filho de Patrick Michael Sparks, um professor de negócios, e de Jill Emma Marie Sparks, uma dona de casa e assistente de optometrista. Ele tem dois irmãos, Michael Earl "Micah" Sparks (1964–), o mais velho, e Danielle "Dana" Sparks (1966–2000), a mais nova, que faleceu aos 33 anos por conta de um tumor no cérebro. Ela foi a sua inspiração para o livro <i><a href="/wiki/A_Walk_to_Remember" class="mw-redirect" title="A Walk to Remember">A Walk to Remember</a></i>.</p>
+<p>Sparks desde pequeno frequenta a <a href="/wiki/Igreja_Cat%C3%B3lica" title="Igreja Católica">Igreja Católica</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> e tem ascendência <a href="/wiki/Alem%C3%A3es" title="Alemães">alemã</a>, <a href="/wiki/Tchecos" title="Tchecos">tcheco</a>, <a href="/wiki/Povo_dos_Estados_Unidos" title="Povo dos Estados Unidos">americana</a> e <a href="/wiki/Irlandeses" title="Irlandeses">irlandesa</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Sempre teve o desejo de torna-se atleta, mas por um infeliz acidente, teve seu sonho interrompido.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Quando Sparks tinha oito anos, o seu pai decidiu dar prosseguimento aos seus estudos na <a href="/wiki/Universidade_de_Minnesota" title="Universidade de Minnesota">Universidade de Minnesota</a> e <a href="/wiki/Universidade_do_Sul_da_Calif%C3%B3rnia" title="Universidade do Sul da Califórnia">Universidade do Sul da Califórnia</a>, o que fez com que a família se mudasse para diferentes locais, entre eles <a href="/wiki/Watertown_(Minnesota)" title="Watertown (Minnesota)">Watertown, Minnesota</a>, <a href="/wiki/Inglewood_(Calif%C3%B3rnia)" title="Inglewood (Califórnia)">Inglewood, Califórnia</a>, <a href="/w/index.php?title=Playa_del_Rey_(Los_Angeles)&amp;action=edit&amp;redlink=1" class="new" title="Playa del Rey (Los Angeles) (página não existe)">Playa del Rey, Los Angeles</a> e <a href="/wiki/Grand_Island" title="Grand Island">Grand Island, Nebraska</a>. Em 1974, o seu pai conseguiu o emprego como professor de negócios na <a href="/w/index.php?title=Universidade_Estadual_de_Calif%C3%B3rnia,_Sacramento&amp;action=edit&amp;redlink=1" class="new" title="Universidade Estadual de Califórnia, Sacramento (página não existe)">Universidade Estadual de Califórnia, Sacramento</a>, onde ensinava teoria e gestão comportamental. Dessa forma, sua família se estabilizou em <a href="/wiki/Fair_Oaks_(Calif%C3%B3rnia)" title="Fair Oaks (Califórnia)">Fair Oaks, Califórnia</a>, onde Sparks viveu sua juventude.</p>
+<p>Após se formar em 1984 e ser o orador oficial da <a href="/w/index.php?title=Bella_Vista_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bella Vista High School (página não existe)">Bella Vista High School</a>, inscreveu-se na <a href="/wiki/Universidade_de_Notre_Dame" title="Universidade de Notre Dame">Universidade de Notre Dame</a>, onde ganhou uma bolsa de estudos. Em seu primeiro ano, sua equipe tinha um recorde de revezamento de 4 x 800.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Sparks se formou em <a href="/wiki/Finan%C3%A7as_corporativas" title="Finanças corporativas">finanças corporativas</a> e se graduou com <a href="/wiki/Cum_laude" title="Cum laude">honras</a> em 1988. Naquele mesmo ano, ele também conheceu sua futura esposa, Cathy Cote de <a href="/wiki/Nova_Hampshire" title="Nova Hampshire">Nova Hampshire</a>, enquanto estava em férias por causa da <a href="/wiki/Semana_de_primavera" class="mw-redirect" title="Semana de primavera">semana de primavera</a>. Eles se casaram em 22 de julho de 1989 e se mudaram para <a href="/wiki/New_Bern" title="New Bern">New Bern, Carolina do Norte</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> O escritor anunciou a 7 de janeiro de 2015 que se separou da mulher, Cathy Sparks, após uma união de 25 anos.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Carreira">Carreira</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholas_Sparks&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Carreira">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=edit&amp;section=2" title="Editar secção: Carreira">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Em 1985, quando ainda frequentava a faculdade, Sparks escreveu seu primeiro romance, <i>The Passing</i>, enquanto estava na casa de verão entre os calouros até o seu segundo ano na Universidade de Notre Dame. Ele também escreveu outro romance em 1983, também nunca publicado, <i>The Royal Murders</i>.</p>
+<p>Após se formar, Sparks buscou ofertas de trabalho com editoras ou vagas para estudar direito, mas foi rejeitado em ambas as tentativas. Então, nos três anos seguintes, tentou outras carreiras, incluindo avaliação imobiliária, garçom, vendedor de produtos odontológicos por telefone e até mesmo tentou começar uma manufatura.</p>
+<p>Em 1990, ele co-escreveu <i>Wokini: A Lakota Journey to Happiness</i> e <i>Self-Understanding</i> com <a href="/wiki/Billy_Mills" title="Billy Mills">Billy Mills</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> O livro foi publicado pela Feather Publishing, <a href="/wiki/Random_House" title="Random House">Random House</a> e <a href="/w/index.php?title=Hay_House&amp;action=edit&amp;redlink=1" class="new" title="Hay House (página não existe)">Hay House</a>, e vendeu aproximadamente 50,000 cópias no primeiro ano após o lançamento.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Em 1992, Sparks começou a vender produtos farmacêuticos e, no ano seguinte, foi transferido para <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, DC</a>. Foi nessa época que ele escreveu outro romance em seu tempo livre, <i><a href="/wiki/The_Notebook_(livro)" title="The Notebook (livro)">The Notebook</a></i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Dois anos depois, ele foi descoberto pela agente literária <a href="/w/index.php?title=Theresa_Park&amp;action=edit&amp;redlink=1" class="new" title="Theresa Park (página não existe)">Theresa Park</a>, que leu o manuscrito de <i>The Notebook</i> na sua agência e se ofereceu para ser sua representante. Em outubro de 1995, Park garantiu um adiantamento de $1 milhão para <i>The Notebook</i> vindo da <a href="/w/index.php?title=Time_Warner_Book_Group&amp;action=edit&amp;redlink=1" class="new" title="Time Warner Book Group (página não existe)">Time Warner Book Group</a>. O romance foi publicado em outubro de 1996 e entrou na lista de best-sellers no <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i> em sua primeira semana de lançamento.</p>
+<p>Com o sucesso do seu primeiro romance, ele se mudou para <a href="/wiki/New_Bern" title="New Bern">New Bern, Carolina do Norte</a>. Desde então, escreveu diversos best-sellers, dos quais onze foram adaptados em filmes: <i><a href="/wiki/Message_in_a_Bottle_(filme)" title="Message in a Bottle (filme)">Message in a Bottle</a></i> (1999), <i><a href="/wiki/A_Walk_to_Remember" class="mw-redirect" title="A Walk to Remember">A Walk to Remember</a></i> (2002), <i><a href="/wiki/The_Notebook" title="The Notebook">The Notebook</a></i> (2004), <i><a href="/wiki/Nights_in_Rodanthe" title="Nights in Rodanthe">Nights in Rodanthe</a></i> (2008), <i><a href="/wiki/Dear_John_(filme)" title="Dear John (filme)">Dear John</a></i> (2010), <i><a href="/wiki/The_Last_Song_(filme)" title="The Last Song (filme)">The Last Song</a></i> (2010), <i><a href="/wiki/The_Lucky_One" title="The Lucky One">The Lucky One</a></i> (2012), <i><a href="/wiki/Safe_Haven" title="Safe Haven">Safe Haven</a></i> (2013), <i><a href="/wiki/The_Best_of_Me_(filme)" title="The Best of Me (filme)">The Best of Me</a></i> (2014), <i><a href="/wiki/The_Longest_Ride" class="mw-redirect" title="The Longest Ride">The Longest Ride</a></i> (2015) e <i><a href="/wiki/The_Choice" title="The Choice">The Choice</a></i> (2016).</p>
+<h2><span class="mw-headline" id="Obras_publicadas">Obras publicadas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholas_Sparks&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Obras publicadas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=edit&amp;section=3" title="Editar secção: Obras publicadas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;">
+<tr bgcolor="#CCCCCC" align="center">
+<th>Ano</th>
+<th>Título original<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></th>
+<th>Título<br />
+no Brasil</th>
+<th>Título<br />
+em Portugal</th>
+<th>Adaptado para o cinema (ano)</th>
+</tr>
+<tr>
+<td><a href="/wiki/1990_na_literatura" title="1990 na literatura">1990</a></td>
+<td><i>Wokini</i> (Coescrito com <a href="/wiki/Billy_Mills" title="Billy Mills">Billy Mills</a>)</td>
+<td></td>
+<td><i>Uma Viagem Espiritual</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/1996_na_literatura" title="1996 na literatura">1996</a></td>
+<td><i><a href="/wiki/The_Notebook_(livro)" title="The Notebook (livro)">The Notebook</a></i></td>
+<td><i>Diário de Uma Paixão</i></td>
+<td><i>O Diário da Nossa Paixão</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/The_Notebook" title="The Notebook">(2004)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/1998_na_literatura" title="1998 na literatura">1998</a></td>
+<td><i><a href="/wiki/Message_in_a_Bottle_(livro)" title="Message in a Bottle (livro)">Message in a Bottle</a></i></td>
+<td><i>Uma Carta de Amor</i></td>
+<td><i>As Palavras que Nunca Te Direi</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/Message_in_a_Bottle_(filme)" title="Message in a Bottle (filme)">(1999)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/1999_na_literatura" title="1999 na literatura">1999</a></td>
+<td><i>A Walk to Remember</i></td>
+<td><i>Um Amor para Recordar</i></td>
+<td><i>Um Momento Inesquecível</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/A_Walk_to_Remember" class="mw-redirect" title="A Walk to Remember">(2002)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2000_na_literatura" title="2000 na literatura">2000</a></td>
+<td><i>The Rescue</i></td>
+<td><i>O Resgate</i></td>
+<td><i>Corações em Silêncio</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2001_na_literatura" title="2001 na literatura">2001</a></td>
+<td><i>A Bend in the Road</i></td>
+<td><i>Uma Curva na Estrada</i></td>
+<td><i>Uma Promessa para Toda a Vida</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2002_na_literatura" title="2002 na literatura">2002</a></td>
+<td><i>Nights in Rodanthe</i></td>
+<td><i>Noites de Tormenta</i></td>
+<td><i>O Sorriso das Estrelas</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/Nights_in_Rodanthe" title="Nights in Rodanthe">(2008)</a></td>
+</tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2003_na_literatura" title="2003 na literatura">2003</a></td>
+<td><i>The Guardian</i></td>
+<td><i>O Guardião</i></td>
+<td><i>Laços que Perduram</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><i>The Wedding</i></td>
+<td><i>O Casamento</i></td>
+<td><i>A Alquimia do Amor</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2004_na_literatura" title="2004 na literatura">2004</a></td>
+<td><i>Three Weeks With My Brother</i></td>
+<td><i>Três Semanas com Meu irmão</i></td>
+<td><i>Três Semanas com o Meu Irmão</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2005_na_literatura" title="2005 na literatura">2005</a></td>
+<td><i>True Believer</i></td>
+<td><i>O Milagre</i></td>
+<td><i>Quem Ama Acredita</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="sim"><img alt="sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2006_na_literatura" title="2006 na literatura">2006</a></td>
+<td><i>At First Sight</i></td>
+<td><i>À Primeira Vista</i></td>
+<td><i>À Primeira Vista</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td rowspan="2"><a href="/wiki/2007_na_literatura" title="2007 na literatura">2007</a></td>
+<td><i>The Choice</i></td>
+<td><i>A Escolha</i></td>
+<td><i>Uma Escolha por Amor</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> (<a href="/wiki/The_Choice" title="The Choice">2016</a>)</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Dear_John_(livro)" title="Dear John (livro)">Dear John</a></i></td>
+<td><i>Querido John</i></td>
+<td><i>Juntos ao Luar</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/Dear_John_(filme)" title="Dear John (filme)">(2010)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2008_na_literatura" title="2008 na literatura">2008</a></td>
+<td><i>The Lucky One</i></td>
+<td><i>Um Homem de Sorte</i></td>
+<td><i>Um Homem com Sorte</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/The_Lucky_One" title="The Lucky One">(2012)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2009_na_literatura" title="2009 na literatura">2009</a></td>
+<td><i>The Last Song</i></td>
+<td><i>A Última Música</i></td>
+<td><i>A Melodia do Adeus</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/The_Last_Song_(filme)" title="The Last Song (filme)">(2010)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2010_na_literatura" title="2010 na literatura">2010</a></td>
+<td><i>Safe Haven</i></td>
+<td><i>Um Porto Seguro</i></td>
+<td><i>Um Refúgio para a Vida</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/Safe_Haven" title="Safe Haven">(2013)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2011_na_literatura" title="2011 na literatura">2011</a></td>
+<td><i>The Best Of Me</i></td>
+<td><i>O Melhor de Mim</i></td>
+<td><i>Dei-te o Melhor de Mim</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/The_Best_of_Me_(filme)" title="The Best of Me (filme)">(2014)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2013_na_literatura" title="2013 na literatura">2013</a></td>
+<td><i>The Longest Ride</i></td>
+<td><i>Uma Longa Jornada</i></td>
+<td><i>Uma Vida ao Teu Lado</i></td>
+<td><a href="/wiki/Ficheiro:Yes_check.svg" class="image" title="Sim"><img alt="Sim" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a> <a href="/wiki/The_Longest_Ride_(filme_de_2015)" class="mw-redirect" title="The Longest Ride (filme de 2015)">(2015)</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2015_na_literatura" title="2015 na literatura">2015</a></td>
+<td><i>See Me</i></td>
+<td><i>No Seu Olhar</i></td>
+<td><i>No Teu Olhar</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/2016_na_literatura" title="2016 na literatura">2016</a></td>
+<td><i>Two By Two</i></td>
+<td>Dois a Dois</td>
+<td><i>Só Nós Dois</i></td>
+<td><a href="/wiki/Ficheiro:X_mark.svg" class="image" title="Não"><img alt="Não" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td>2018</td>
+<td><i>Every Breath</i></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.themiscellany.org/index.php/news-archives/75-1999/982-author-nicholas-sparks-remembers-his-catholic-roots">«Author Nicholas Sparks remembers his Catholic roots»</a>. Catholic-doc.org. 4 de novembro de 1999<span class="reference-accessdate">. Consultado em 9 de agosto de 2009.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Author+Nicholas+Sparks+remembers+his+Catholic+roots&amp;rft.date=1999-11-04&amp;rft.genre=unknown&amp;rft.pub=Catholic-doc.org&amp;rft_id=http%3A%2F%2Fwww.themiscellany.org%2Findex.php%2Fnews-archives%2F75-1999%2F982-author-nicholas-sparks-remembers-his-catholic-roots&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com/ShortBio.html">«Formal Biography»</a>. Nicholas Sparks. 31 de dezembro de 1965<span class="reference-accessdate">. Consultado em 9 de agosto de 2009.</span>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20080502151003/http://www.nicholassparks.com/ShortBio.html">Cópia arquivada em 2 de maio de 2008</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Formal+Biography&amp;rft.date=1965-12-31&amp;rft.genre=unknown&amp;rft.pub=Nicholas+Sparks&amp;rft_id=http%3A%2F%2Fwww.nicholassparks.com%2FShortBio.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation book">Sparks, Nicholas (2013). <i>UMA CURVA NA ESTRADA</i>. São Paulo: Arqueiro</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.aufirst=Nicholas&amp;rft.aulast=Sparks&amp;rft.btitle=UMA+CURVA+NA+ESTRADA&amp;rft.date=2013&amp;rft.genre=book&amp;rft.place=S%C3%A3o+Paulo&amp;rft.pub=Arqueiro&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.und.com/sports/c-track/spec-rel/012104aaa.html">http://www.und.com/sports/c-track/spec-rel/012104aaa.html</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com">«Nicholas Sparks: The Official Website»</a>. Willow Holdings INC</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Nicholas+Sparks%3A+The+Official+Website&amp;rft.genre=unknown&amp;rft.pub=Willow+Holdings+INC&amp;rft_id=http%3A%2F%2Fwww.nicholassparks.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://revistaquem.globo.com/QUEM-News/noticia/2015/01/sem-final-feliz-casamento-de-nicholas-sparks-chega-ao-fim-apos-25-anos.html">«Sem final feliz! Casamento de Nicholas Sparks chega ao fim após 25 anos»</a>. <i><a href="/wiki/Quem_(revista)" class="mw-redirect" title="Quem (revista)">Quem</a></i>. 6 de janeiro de 2015<span class="reference-accessdate">. Consultado em 7 de janeiro de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Sem+final+feliz%21+Casamento+de+Nicholas+Sparks+chega+ao+fim+ap%C3%B3s+25+anos&amp;rft.date=2015-01-06&amp;rft.genre=unknown&amp;rft.pub=%27%27Quem%27%27&amp;rft_id=http%3A%2F%2Frevistaquem.globo.com%2FQUEM-News%2Fnoticia%2F2015%2F01%2Fsem-final-feliz-casamento-de-nicholas-sparks-chega-ao-fim-apos-25-anos.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://caras.uol.com.br/cinema/autor-de-diario-de-uma-paixao-e-outros-romances-se-separa-da-mulher-apos-25-anos#.VK2ND9LF-uI">«Autor de 'Diário de Uma Paixão', Nicholas Sparks se separa da mulher após 25 anos»</a>. <i><a href="/wiki/Caras_(revista)" class="mw-redirect" title="Caras (revista)">Caras</a></i>. 6 de janeiro de 2015<span class="reference-accessdate">. Consultado em 7 de janeiro de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Autor+de+%27Di%C3%A1rio+de+Uma+Paix%C3%A3o%27%2C+Nicholas+Sparks+se+separa+da+mulher+ap%C3%B3s+25+anos&amp;rft.date=2015-01-06&amp;rft.genre=unknown&amp;rft.pub=%27%27Caras%27%27&amp;rft_id=http%3A%2F%2Fcaras.uol.com.br%2Fcinema%2Fautor-de-diario-de-uma-paixao-e-outros-romances-se-separa-da-mulher-apos-25-anos%23.VK2ND9LF-uI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sol.pt/noticia/121602">«Nicholas Sparks separa-se após 25 anos de casamento»</a>. <i><a href="/wiki/Sol_(jornal)" title="Sol (jornal)">Sol</a></i>. 6 de janeiro de 2015<span class="reference-accessdate">. Consultado em 7 de janeiro de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Nicholas+Sparks+separa-se+ap%C3%B3s+25+anos+de+casamento&amp;rft.date=2015-01-06&amp;rft.genre=unknown&amp;rft.pub=%27%27Sol%27%27&amp;rft_id=http%3A%2F%2Fwww.sol.pt%2Fnoticia%2F121602&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation book">Billy Mills; Nicholas Sparks (julho de 1999). <i>Wokini: A Lakota Journey to Happiness and Self-Understanding</i>. [S.l.]: <a href="/w/index.php?title=Hay_House&amp;action=edit&amp;redlink=1" class="new" title="Hay House (página não existe)">Hay House</a>. p.&#160;176. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Especial:Fontes_de_livros/978-1-56170-660-0" title="Especial:Fontes de livros/978-1-56170-660-0">978-1-56170-660-0</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.au=Billy+Mills&amp;rft.au=Nicholas+Sparks&amp;rft.btitle=Wokini%3A+A+Lakota+Journey+to+Happiness+and+Self-Understanding&amp;rft.date=1999-07&amp;rft.genre=book&amp;rft.isbn=978-1-56170-660-0&amp;rft.pages=176&amp;rft.pub=Hay+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ferrum.edu/thanlon/profwrit/nicholassparksbio.htm">«Nicholas Sparks»</a>. <a href="/w/index.php?title=Ferrum_College&amp;action=edit&amp;redlink=1" class="new" title="Ferrum College (página não existe)">Ferrum College</a><span class="reference-accessdate">. Consultado em 3 de agosto de 2014.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.btitle=Nicholas+Sparks&amp;rft.genre=unknown&amp;rft.pub=Ferrum+College&amp;rft_id=http%3A%2F%2Fwww.ferrum.edu%2Fthanlon%2Fprofwrit%2Fnicholassparksbio.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bookbrowse.com/biographies/index.cfm/author_number/310/nicholas-sparks">«Biography for Nicholas Sparks»</a>. <i>Book Browse</i><span class="reference-accessdate">. Consultado em 26 de março de 2006.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ANicholas+Sparks&amp;rft.atitle=Biography+for+Nicholas+Sparks&amp;rft.genre=unknown&amp;rft.jtitle=Book+Browse&amp;rft_id=http%3A%2F%2Fwww.bookbrowse.com%2Fbiographies%2Findex.cfm%2Fauthor_number%2F310%2Fnicholas-sparks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com/books">Livros escritos por Nicholas Sparks</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholas_Sparks&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=edit&amp;section=4" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 238px; padding: 5px; spacing: 2px; text-align: center; float: right;">
+<div style="float: left; vertical-align:middle;">
+<div class="floatnone"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/22px-Wikiquote-logo.svg.png" title="Wikiquote" width="22" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/33px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/44px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></div>
+</div>
+<div style="margin-left: 30px; line-height:normal; vertical-align:middle;">O <a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a> possui citações de ou sobre: <i><b><a href="https://pt.wikiquote.org/wiki/Nicholas_Sparks" class="extiw" title="q:Nicholas Sparks">Nicholas Sparks</a></b></i></div>
+</div>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com"><i>Website</i> oficial</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm817023/">Nicholas Sparks</a> (em <a href="/wiki/L%C3%ADngua_inglesa" title="Língua inglesa">inglês</a>) no <a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">Internet Movie Database</a></li>
+</ul>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Nicholas_Sparks" title="Predefinição:Nicholas Sparks"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Nicholas_Sparks&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a class="mw-selflink selflink">Nicholas Sparks</a></span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Livros</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><i><a href="/wiki/The_Notebook_(livro)" title="The Notebook (livro)">The Notebook</a></i> (1996)</li>
+<li><i><a href="/wiki/Message_in_a_Bottle_(livro)" title="Message in a Bottle (livro)">Message in a Bottle</a></i> (1998)</li>
+<li><i><a href="/w/index.php?title=A_Walk_to_Remember_(livro)&amp;action=edit&amp;redlink=1" class="new" title="A Walk to Remember (livro) (página não existe)">A Walk to Remember</a></i> (1999)</li>
+<li><i><a href="/w/index.php?title=The_Rescue_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Rescue (livro) (página não existe)">The Rescue</a></i> (2000)</li>
+<li><i><a href="/w/index.php?title=A_Bend_in_the_Road&amp;action=edit&amp;redlink=1" class="new" title="A Bend in the Road (página não existe)">A Bend in the Road</a></i> (2001)</li>
+<li><i><a href="/w/index.php?title=Nights_in_Rodanthe_(livro)&amp;action=edit&amp;redlink=1" class="new" title="Nights in Rodanthe (livro) (página não existe)">Nights in Rodanthe</a></i> (2002)</li>
+<li><i><a href="/w/index.php?title=The_Guardian_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Guardian (livro) (página não existe)">The Guardian</a></i> (2003)</li>
+<li><i><a href="/w/index.php?title=The_Wedding_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Wedding (livro) (página não existe)">The Wedding</a></i> (2003)</li>
+<li><i><a href="/w/index.php?title=True_Believer_(livro)&amp;action=edit&amp;redlink=1" class="new" title="True Believer (livro) (página não existe)">True Believer</a></i> (2005)</li>
+<li><i><a href="/w/index.php?title=At_First_Sight_(livro)&amp;action=edit&amp;redlink=1" class="new" title="At First Sight (livro) (página não existe)">At First Sight</a></i> (2006)</li>
+<li><i><a href="/wiki/Dear_John_(livro)" title="Dear John (livro)">Dear John</a></i> (2006)</li>
+<li><i><a href="/w/index.php?title=The_Choice_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Choice (livro) (página não existe)">The Choice</a></i> (2007)</li>
+<li><i><a href="/w/index.php?title=The_Lucky_One_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Lucky One (livro) (página não existe)">The Lucky One</a></i> (2008)</li>
+<li><i><a href="/w/index.php?title=The_Last_Song_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Last Song (livro) (página não existe)">The Last Song</a></i> (2009)</li>
+<li><i><a href="/w/index.php?title=Safe_Haven_(livro)&amp;action=edit&amp;redlink=1" class="new" title="Safe Haven (livro) (página não existe)">Safe Haven</a></i> (2010)</li>
+<li><i><a href="/w/index.php?title=The_Best_of_Me_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Best of Me (livro) (página não existe)">The Best of Me</a></i> (2011)</li>
+<li><i><a href="/w/index.php?title=The_Longest_Ride_(livro)&amp;action=edit&amp;redlink=1" class="new" title="The Longest Ride (livro) (página não existe)">The Longest Ride</a></i> (2013)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Não ficção</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><i><a href="/wiki/Wokini:_A_Lakota_Journey_to_Happiness_and_Self-Understanding" class="mw-redirect" title="Wokini: A Lakota Journey to Happiness and Self-Understanding">Wokini: A Lakota Journey to Happiness and Self-Understanding</a></i> (1990)</li>
+<li><i><a href="/w/index.php?title=Three_Weeks_with_My_Brother&amp;action=edit&amp;redlink=1" class="new" title="Three Weeks with My Brother (página não existe)">Three Weeks with My Brother</a></i> (2004)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Adaptações em filme</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><i><a href="/wiki/Message_in_a_Bottle_(filme)" title="Message in a Bottle (filme)">Message in a Bottle</a></i> (1999)</li>
+<li><i><a href="/wiki/Um_Amor_para_Recordar" title="Um Amor para Recordar">A Walk to Remember</a></i> (2002)</li>
+<li><i><a href="/wiki/The_Notebook" title="The Notebook">The Notebook</a></i> (2004)</li>
+<li><i><a href="/wiki/Nights_in_Rodanthe" title="Nights in Rodanthe">Nights in Rodanthe</a></i> (2008)</li>
+<li><i><a href="/wiki/Dear_John_(filme)" title="Dear John (filme)">Dear John</a></i> (2010)</li>
+<li><span style="white-space:nowrap;"><i><a href="/wiki/The_Last_Song_(filme)" title="The Last Song (filme)">The Last Song</a></i> (2010)</span></li>
+<li><i><a href="/w/index.php?title=Zindagi_Tere_Naam&amp;action=edit&amp;redlink=1" class="new" title="Zindagi Tere Naam (página não existe)">Zindagi Tere Naam</a></i> (2012)</li>
+<li><i><a href="/wiki/The_Lucky_One" title="The Lucky One">The Lucky One</a></i> (2012)</li>
+<li><i><a href="/wiki/Safe_Haven" title="Safe Haven">Safe Haven</a></i> (2013)</li>
+<li><i><a href="/wiki/The_Best_of_Me_(filme)" title="The Best of Me (filme)">The Best of Me</a></i> (2014)</li>
+<li><i><a href="/wiki/The_Longest_Ride_(filme)" title="The Longest Ride (filme)">The Longest Ride</a></i> (2015)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Produtor executivo</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><i><a href="/w/index.php?title=Deliverance_Creek&amp;action=edit&amp;redlink=1" class="new" title="Deliverance Creek (página não existe)">Deliverance Creek</a></i> (2014)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="2"><a rel="nofollow" class="external text" href="http://www.nicholassparks.com/">www.nicholassparks.com</a></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20180522225856
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.612 seconds
+Real time usage: 0.681 seconds
+Preprocessor visited node count: 4781/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46286/2097152 bytes
+Template argument size: 11423/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11489/5000000 bytes
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  624.019      1 -total
+ 59.42%  370.780      1 Predefinição:Info/Biografia
+ 53.80%  335.709      1 Predefinição:Info
+ 19.41%  121.116      1 Predefinição:Referências
+ 13.38%   83.489      8 Predefinição:Citar_web
+  9.83%   61.334      1 Predefinição:IMDb_name
+  8.52%   53.169      1 Predefinição:Língua-meta
+  5.62%   35.042      1 Predefinição:Nicholas_Sparks
+  5.34%   33.302      1 Predefinição:Navbox
+  3.87%   24.141      1 Predefinição:Navbox/core
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:124331-0!canonical and timestamp 20180522225855 and revision id 51987584
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Nicholas_Sparks&amp;oldid=51987584">https://pt.wikipedia.org/w/index.php?title=Nicholas_Sparks&amp;oldid=51987584</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1965" title="Categoria:Nascidos em 1965">Nascidos em 1965</a></li><li><a href="/wiki/Categoria:Nicholas_Sparks" title="Categoria:Nicholas Sparks">Nicholas Sparks</a></li><li><a href="/wiki/Categoria:Naturais_de_Omaha_(Nebraska)" title="Categoria:Naturais de Omaha (Nebraska)">Naturais de Omaha (Nebraska)</a></li><li><a href="/wiki/Categoria:Romancistas_dos_Estados_Unidos" title="Categoria:Romancistas dos Estados Unidos">Romancistas dos Estados Unidos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Nicholas+Sparks" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Nicholas+Sparks" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nicholas_Sparks" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Nicholas_Sparks" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nicholas_Sparks">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Nicholas_Sparks&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nicholas_Sparks&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Nicholas+Sparks">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Nicholas+Sparks&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nicholas_Sparks&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nicholas_Sparks" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://pt.wikiquote.org/wiki/Nicholas_Sparks" hreflang="pt">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Nicholas_Sparks" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Nicholas_Sparks" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Nicholas_Sparks&amp;oldid=51987584" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Nicholas_Sparks&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219377" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Nicholas_Sparks&amp;id=51987584" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%83%D9%88%D9%84%D8%A7%D8%B3_%D8%B3%D8%A8%D8%A7%D8%B1%D9%83%D8%B3" title="نيكولاس سباركس — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Nikolas_Sparks" title="Nikolas Sparks — azerbaijano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%84%D8%A7%D8%B3_%D8%A7%D8%B3%D9%BE%D8%A7%D8%B1%DA%A9%D8%B3" title="نیکلاس اسپارکس — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D1%8A%D0%BB%D1%8A%D1%81_%D0%A1%D0%BF%D0%B0%D1%80%D0%BA%D1%81" title="Никълъс Спаркс — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CE%BB%CE%B1%CF%82_%CE%A3%CF%80%CE%B1%CF%81%CE%BA%CF%82" title="Νίκολας Σπαρκς — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — estónio" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%84%D8%A7%D8%B3_%D8%A7%D8%B3%D9%BE%D8%A7%D8%B1%DA%A9%D8%B3" title="نیکلاس اسپارکس — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nicholas_Sparks_(%C3%A9crivain)" title="Nicholas Sparks (écrivain) — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A7%D7%95%D7%9C%D7%A1_%D7%A1%D7%A4%D7%90%D7%A8%D7%A7%D7%A1" title="ניקולס ספארקס — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%B8_%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8" title="निकोलस स्पार्क्स — hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%AB%D5%AF%D5%B8%D5%AC%D5%A1%D5%BD_%D5%8D%D6%83%D5%A1%D6%80%D6%84%D5%BD" title="Նիկոլաս Սփարքս — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B9" title="ニコラス・スパークス — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%90%E1%83%A1_%E1%83%A1%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A5%E1%83%A1%E1%83%98" title="ნიკოლას სპარქსი — georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%A1%D0%BF%D0%B0%D1%80%D0%BA%D1%81" title="Николас Спаркс — cazaque" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BB%AC%EB%9F%AC%EC%8A%A4_%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%8A%A4" title="니컬러스 스파크스 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%A1%D0%BF%D0%B0%D1%80%D0%BA%D1%81_(%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB)" title="Николас Спаркс (писател) — macedónio" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — malaio" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%B8_%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B8%E0%A5%8D" title="निकोलस स्पार्कस् — nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%BA%D1%81,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81" title="Спаркс, Николас — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — albanês" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B4%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%AA_%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B9%8C" title="นิโคลัส สปากส์ — tailandês" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — tagalo" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Nicholas_Sparks" title="Nicholas Sparks — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%A1%D0%BF%D0%B0%D1%80%D0%BA%D1%81" title="Ніколас Спаркс — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%8F%B2%E6%B4%BE%E5%85%8B" title="尼可拉斯·史派克 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219377#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 18h58min de 4 de maio de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Nicholas_Sparks&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.612","walltime":"0.681","ppvisitednodes":{"value":4781,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46286,"limit":2097152},"templateargumentsize":{"value":11423,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11489,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  624.019      1 -total"," 59.42%  370.780      1 Predefinição:Info/Biografia"," 53.80%  335.709      1 Predefinição:Info"," 19.41%  121.116      1 Predefinição:Referências"," 13.38%   83.489      8 Predefinição:Citar_web","  9.83%   61.334      1 Predefinição:IMDb_name","  8.52%   53.169      1 Predefinição:Língua-meta","  5.62%   35.042      1 Predefinição:Nicholas_Sparks","  5.34%   33.302      1 Predefinição:Navbox","  3.87%   24.141      1 Predefinição:Navbox/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":2525838,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20180522225856","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":787,"wgHostname":"mw1324"});});</script>
+	</body>
+</html>

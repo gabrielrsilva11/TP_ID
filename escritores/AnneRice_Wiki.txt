@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Anne Rice – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anne_Rice","wgTitle":"Anne Rice","wgCurRevisionId":51573095,"wgRevisionId":51573095,"wgArticleId":96538,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Biografias de pessoas vivas sem fontes desde setembro de 2012","!Artigos de arte que carecem de fontes","Pessoas vivas","!Imagem local idêntica à do Wikidata","!Esboços maiores que 5000 bytes","!Esboços de biografias","!Artigos com ligações precisando de desambiguação","Nascidos em 1941","Escritores dos Estados Unidos","Autores de livros sobre vampiros","Ex-ateus","Naturais de Nova Orleans"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Anne_Rice","wgRelevantArticleId":96538,"wgRequestId":"WwmzWApAADoAAEFbKU4AAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q184785","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/55/Anne_Rice.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Anne_Rice"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Anne_Rice&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Anne_Rice&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Anne_Rice"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anne_Rice rootpage-Anne_Rice skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Anne Rice</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
+<tr>
+<td width="8%" align="center">
+<div style="width:52px; padding-top:5px"><a href="/wiki/Ficheiro:Question_book.svg" class="image"><img alt="Question book.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/51px-Question_book.svg.png" width="51" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/76px-Question_book.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Question_book.svg/101px-Question_book.svg.png 2x" data-file-width="252" data-file-height="199" /></a></div>
+</td>
+<td width="91%"><b>Esta <a href="/wiki/Wikip%C3%A9dia:Biografias_de_pessoas_vivas" title="Wikipédia:Biografias de pessoas vivas">biografia de uma pessoa viva</a> não <a href="/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes" title="Wikipédia:Livro de estilo/Cite as fontes">cita</a> as suas <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">fontes ou referências</a></b>, o que compromete sua credibilidade. <small>(desde setembro de 2012)</small><br />
+Ajude a melhorar este artigo providenciando <a href="/wiki/Wikip%C3%A9dia:Fontes_confi%C3%A1veis" title="Wikipédia:Fontes confiáveis">fontes confiáveis</a> e independentes. Material controverso sobre pessoas vivas sem apoio de fontes confiáveis e verificáveis <b>deve ser imediatamente removido</b>, especialmente se for de natureza <a href="/wiki/Difama%C3%A7%C3%A3o" title="Difamação">difamatória</a>.<br />
+<i>Encontre fontes:</i> <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.google.com/#q=Anne+Rice">Google</a> (<a rel="nofollow" class="external text" href="https://www.google.com/search?hl=pt&amp;tbm=nws&amp;q=Anne+Rice&amp;oq=Anne+Rice">notícias</a>, <a rel="nofollow" class="external text" href="http://books.google.com/books?&amp;as_brr=0&amp;as_epq=Anne+Rice">livros</a> e <a rel="nofollow" class="external text" href="https://scholar.google.com.br/scholar?hl=pt&amp;q=Anne+Rice">acadêmico</a>)</span></td>
+<td width="1%" align="center"></td>
+</tr>
+</table>
+<table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Anne Rice</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Anne_Rice.jpg" class="image" title="Anne Rice"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Anne_Rice.jpg/200px-Anne_Rice.jpg" width="200" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Anne_Rice.jpg/300px-Anne_Rice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/55/Anne_Rice.jpg 2x" data-file-width="400" data-file-height="600" /></a></div>
+</div>
+<small>Rice em 2006</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/Pseud%C3%B3nimo" title="Pseudónimo">Pseudónimo(s)</a></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Anne Rice, Anne Rampling, AN Roquelaure</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/4_de_outubro#Nascimentos" title="4 de outubro">4 de outubro</a> de <a href="/wiki/1941" title="1941">1941</a>&#160;(76&#160;anos)<br />
+<a href="/wiki/Nova_Orle%C3%A3es" title="Nova Orleães">New Orleans</a>, <a href="/wiki/Luisiana" title="Luisiana">Luisiana</a><br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;<a href="/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Povo_dos_Estados_Unidos" title="Povo dos Estados Unidos">norte-americana</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Stan_Rice" title="Stan Rice">Stan Rice</a> (1961-2002)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Filho(s)</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Michelle Rice (1966-1972)<br />
+<a href="/wiki/Christopher_Rice" title="Christopher Rice">Christopher Rice</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Universidade_Estadual_de_S%C3%A3o_Francisco" title="Universidade Estadual de São Francisco">San Francisco State University</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Escritora" class="mw-redirect" title="Escritora">Escritora</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Influências</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">
+<hr />
+<div class="NavFrame collapsed" style="border:none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent; text-align:left;">Lista</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align:left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><a href="/wiki/Stan_Rice" title="Stan Rice">Stan Rice</a>, <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>, <a href="/wiki/Virginia_Woolf" title="Virginia Woolf">Virginia Woolf</a>, <a href="/wiki/Ernest_Hemingway" title="Ernest Hemingway">Ernest Hemingway</a>, <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a>, <a href="/wiki/Bram_Stoker" title="Bram Stoker">Bram Stoker</a>, <a href="/wiki/Richard_Matheson" title="Richard Matheson">Richard Matheson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/G%C3%AAnero_liter%C3%A1rio" title="Gênero literário">Género literário</a></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Literatura_g%C3%B3tica" title="Literatura gótica">Literatura gótica</a>, <a href="/wiki/Erotismo" title="Erotismo">erotismo</a>, <a href="/wiki/Literatura" title="Literatura">literatura</a> <a href="/wiki/Cristianismo" title="Cristianismo">cristã</a>, <a href="/wiki/Fantasia_(g%C3%AAnero)" title="Fantasia (gênero)">fantasia</a>, <a href="/wiki/Terror_(g%C3%AAnero)" title="Terror (gênero)">terror</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/Movimento_art%C3%ADstico" title="Movimento artístico">Movimento</a> literário</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Humanismo_secular" title="Humanismo secular">Humanismo secular</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i><a href="/wiki/Cr%C3%B4nicas_Vampirescas" title="Crônicas Vampirescas">The Vampire Chronicles (série)</a></i> (1976-2003)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Religião</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Cat%C3%B3lica" class="mw-redirect" title="Católica">Católica</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;">Página oficial</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; padding:4px 4px 4px 0;" colspan="2"><a rel="nofollow" class="external free" href="http://www.annerice.com">http://www.annerice.com</a></td>
+</tr>
+</table>
+<p><b>Howard Allen O'Brien</b>, <a href="/wiki/Nome_art%C3%ADstico" title="Nome artístico">mais conhecida</a> como <b>Anne Rice</b> (<a href="/wiki/Nova_Orle%C3%A3es" title="Nova Orleães">Nova Orleães</a>, <a href="/wiki/4_de_outubro" title="4 de outubro">4 de outubro</a> de <a href="/wiki/1941" title="1941">1941</a>), é uma <a href="/wiki/Escritora" class="mw-redirect" title="Escritora">escritora</a> <a href="/wiki/Estados_Unidos" title="Estados Unidos">norte-americana</a>, autora de séries de <a href="/wiki/Terror_(g%C3%AAnero)" title="Terror (gênero)">terror</a> e <a href="/wiki/Fantasia_(g%C3%AAnero)" title="Fantasia (gênero)">fantasia</a>.</p>
+<p>Ela mesma escolheu 'Anne' como primeiro nome, ao entrar na escola. Em <a href="/wiki/1956" title="1956">1956</a> perdeu a mãe, Katherine, e dois anos depois, com o pai casado novamente, a família mudou-se para a cidade de <a href="/wiki/Richardson_(Texas)" title="Richardson (Texas)">Richardson</a>, no <a href="/wiki/Texas" title="Texas">Texas</a>, onde Anne conheceu seu futuro marido, o <a href="/wiki/Poeta" class="mw-redirect" title="Poeta">poeta</a> e <a href="/wiki/Pintor" class="mw-redirect" title="Pintor">pintor</a> <a href="/wiki/Stan_Rice" title="Stan Rice">Stan Rice</a>, já falecido.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#História"><span class="tocnumber">1</span> <span class="toctext">História</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Livros_Publicados"><span class="tocnumber">2</span> <span class="toctext">Livros Publicados</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Série_Crônicas_Vampirescas"><span class="tocnumber">2.1</span> <span class="toctext">Série Crônicas Vampirescas</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Série_Novos_Contos_de_Vampiros"><span class="tocnumber">2.2</span> <span class="toctext">Série Novos Contos de Vampiros</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Série_Bruxas_Mayfair"><span class="tocnumber">2.3</span> <span class="toctext">Série Bruxas Mayfair</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Série_Bela_Adormecida"><span class="tocnumber">2.4</span> <span class="toctext">Série Bela Adormecida</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Série_Cristo_Senhor"><span class="tocnumber">2.5</span> <span class="toctext">Série Cristo Senhor</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Série_Songs_of_the_Seraphim"><span class="tocnumber">2.6</span> <span class="toctext">Série Songs of the Seraphim</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Série_The_Wolf_Gift_Chronicles"><span class="tocnumber">2.7</span> <span class="toctext">Série The Wolf Gift Chronicles</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Romances_únicos"><span class="tocnumber">2.8</span> <span class="toctext">Romances únicos</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Autobiografia"><span class="tocnumber">2.9</span> <span class="toctext">Autobiografia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Ligações_externas"><span class="tocnumber">3</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span id="Hist.C3.B3ria"></span><span class="mw-headline" id="História">História</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: História">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=1" title="Editar secção: História">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Em seus livros, invariavelmente apresenta os seus <a href="/wiki/Vampiros" class="mw-redirect" title="Vampiros">vampiros</a> como indivíduos com paixões, <a href="/wiki/Teoria" title="Teoria">teorias</a>, sentimentos, defeitos e qualidades, tal como os seres humanos, mas, com a diferença de terem que lutar pela sua sobrevivência por meio do <a href="/wiki/Sangue" title="Sangue">sangue</a> de suas vítimas e sua própria existência que, para alguns deles, é um fardo a ser carregado através das <a href="/wiki/D%C3%A9cadas" class="mw-redirect" title="Décadas">décadas</a>, <a href="/wiki/S%C3%A9culos" class="mw-redirect" title="Séculos">séculos</a> e até mesmo <a href="/wiki/Mil%C3%AAnios" class="mw-redirect" title="Milênios">milênios</a>.</p>
+<p>Seu livro de maior sucesso é "Entrevista com o vampiro". Anne relata que escreveu esse livro em apenas uma semana, após a morte de sua filha por leucemia, retratada na personagem Cláudia. Entrevista com o Vampiro foi para as telas dos cinemas, sendo que Anne escreveu o roteiro e acompanhou de perto a produção. A decepção da autora foi quanto à escolha do ator para o personagem Lestat (<a href="/wiki/Tom_Cruise" title="Tom Cruise">Tom Cruise</a>), sendo divulgado que ela o considerava apenas um rosto bonito, sendo sua preferência o ator <a href="/wiki/Rutger_Hauer" title="Rutger Hauer">Rutger Hauer</a> (inclusive no livro <i>A História do Ladrão de Corpos</i>, através de uma fala de Lestat, ela indica isto). Contudo, após acompanhar a dedicação e o desempenho de Tom Cruise, Anne voltou atrás e elogiou a atuação do astro.</p>
+<p>Já no segundo filme, "A Rainha dos Condenados", Anne não teve qualquer participação em nenhuma etapa de sua produção, o que pode explicar a pouca repercussão que o filme obteve e as extremas "licenças" poéticas que os produtores tomaram a liberdade de fazer descaracterizando pontos importantes da saga dos vampiros.</p>
+<p>Em <a href="/wiki/2005" title="2005">2005</a>, Rice anunciou que, após o falecimento de seu marido Stan Rice, deixaria de escrever obras sobre vampiros, bruxas e outros seres fantásticos e se dedicaria a outros tipos de gêneros literários.</p>
+<p>Em <i><a href="/wiki/Christ_The_Lord:_Out_of_Egypt" title="Christ The Lord: Out of Egypt">Christ The Lord: Out of Egypt</a></i>, lançado em <a href="/wiki/2005" title="2005">2005</a>, Rice despede-se dos seus temas habituais para escrever um retrato curioso de um <a href="/wiki/Jesus" title="Jesus">Jesus</a> aos sete anos de idade, partindo do <a href="/wiki/Egito" title="Egito">Egito</a> com a família, para voltar para sua casa em <a href="/wiki/Nazar%C3%A9_(Israel)" class="mw-redirect" title="Nazaré (Israel)">Nazaré</a>.</p>
+<h2><span class="mw-headline" id="Livros_Publicados">Livros Publicados</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Livros Publicados">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=2" title="Editar secção: Livros Publicados">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="S.C3.A9rie_Cr.C3.B4nicas_Vampirescas"></span><span class="mw-headline" id="Série_Crônicas_Vampirescas">Série Crônicas Vampirescas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Série Crônicas Vampirescas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=3" title="Editar secção: Série Crônicas Vampirescas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Interview_with_the_Vampire" class="mw-redirect" title="Interview with the Vampire">Interview with the Vampire</a> (1976) - <a href="/wiki/Interview_with_the_Vampire" class="mw-redirect" title="Interview with the Vampire">Entrevista com o Vampiro</a></li>
+<li><a href="/wiki/The_Vampire_Lestat" class="mw-redirect" title="The Vampire Lestat">The Vampire Lestat</a> (1985) - <a href="/wiki/O_Vampiro_Lestat" title="O Vampiro Lestat">O Vampiro Lestat</a></li>
+<li><a href="/wiki/The_Queen_of_the_Damned" title="The Queen of the Damned">The Queen of the Damned</a> (1988) - <a href="/wiki/A_Rainha_dos_Condenados" class="mw-redirect" title="A Rainha dos Condenados">A Rainha dos Condenados</a></li>
+<li><a href="/wiki/The_Tale_of_the_Body_Thief" title="The Tale of the Body Thief">The Tale of the Body Thief</a> (1992) - <a href="/wiki/A_Hist%C3%B3ria_do_Ladr%C3%A3o_de_Corpos" class="mw-redirect" title="A História do Ladrão de Corpos">A História do Ladrão de Corpos</a></li>
+<li><a href="/wiki/Memnoch_the_Devil" title="Memnoch the Devil">Memnoch the Devil</a> (1995) - <a href="/wiki/Memnoch" class="mw-redirect" title="Memnoch">Memnoch</a></li>
+<li><a href="/wiki/The_Vampire_Armand" title="The Vampire Armand">The Vampire Armand</a> (1998) - <a href="/wiki/O_Vampiro_Armand" class="mw-redirect" title="O Vampiro Armand">O Vampiro Armand</a></li>
+<li><a href="/wiki/Merrick_(livro)" title="Merrick (livro)">Merrick</a> (2000) - <a href="/wiki/Merrick_(livro)" title="Merrick (livro)">Merrick</a></li>
+<li><a href="/wiki/Blood_and_Gold" title="Blood and Gold">Blood and Gold</a> (2001) - <a href="/wiki/Sangue_e_Ouro" class="mw-redirect" title="Sangue e Ouro">Sangue e Ouro</a></li>
+<li><a href="/wiki/Blackwood_Farm" class="mw-redirect" title="Blackwood Farm">Blackwood Farm</a> (2002) - <a href="/wiki/A_Fazenda_Blackwood" class="mw-redirect" title="A Fazenda Blackwood">A Fazenda Blackwood</a></li>
+<li><a href="/wiki/Blood_Canticle" class="mw-redirect" title="Blood Canticle">Blood Canticle</a> (2003) - <a href="/wiki/C%C3%A2ntico_de_Sangue" title="Cântico de Sangue">Cântico de Sangue</a></li>
+<li><a href="/w/index.php?title=Prince_Lestat&amp;action=edit&amp;redlink=1" class="new" title="Prince Lestat (página não existe)">Prince Lestat</a> (2014) - <a href="/w/index.php?title=Pr%C3%ADncipe_Lestat&amp;action=edit&amp;redlink=1" class="new" title="Príncipe Lestat (página não existe)">Príncipe Lestat</a></li>
+<li>Prince Lestat and the Realms of Atlantis (2017) - Lestat e os Reinos de Atlântida</li>
+</ul>
+<h3><span id="S.C3.A9rie_Novos_Contos_de_Vampiros"></span><span class="mw-headline" id="Série_Novos_Contos_de_Vampiros">Série Novos Contos de Vampiros</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Série Novos Contos de Vampiros">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=4" title="Editar secção: Série Novos Contos de Vampiros">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Pandora_(livro)" title="Pandora (livro)">Pandora</a> (1997) - <a href="/wiki/Pandora_(livro)" title="Pandora (livro)">Pandora</a></li>
+<li><a href="/w/index.php?title=Vittorio_the_Vampire&amp;action=edit&amp;redlink=1" class="new" title="Vittorio the Vampire (página não existe)">Vittorio the Vampire</a> (1999) - <a href="/w/index.php?title=O_Vampiro_Vittorio&amp;action=edit&amp;redlink=1" class="new" title="O Vampiro Vittorio (página não existe)">O Vampiro Vittorio</a></li>
+</ul>
+<h3><span id="S.C3.A9rie_Bruxas_Mayfair"></span><span class="mw-headline" id="Série_Bruxas_Mayfair">Série Bruxas Mayfair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Série Bruxas Mayfair">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=5" title="Editar secção: Série Bruxas Mayfair">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=The_Witching_Hour&amp;action=edit&amp;redlink=1" class="new" title="The Witching Hour (página não existe)">The Witching Hour</a> (1990) - <a href="/w/index.php?title=A_Hora_das_Bruxas_I_e_II&amp;action=edit&amp;redlink=1" class="new" title="A Hora das Bruxas I e II (página não existe)">A Hora das Bruxas I e II</a></li>
+<li><a href="/w/index.php?title=Lasher&amp;action=edit&amp;redlink=1" class="new" title="Lasher (página não existe)">Lasher</a> (1993) - <a href="/w/index.php?title=Lasher&amp;action=edit&amp;redlink=1" class="new" title="Lasher (página não existe)">Lasher</a></li>
+<li><a href="/w/index.php?title=Taltos&amp;action=edit&amp;redlink=1" class="new" title="Taltos (página não existe)">Taltos</a> (1994) - <a href="/w/index.php?title=Taltos&amp;action=edit&amp;redlink=1" class="new" title="Taltos (página não existe)">Taltos</a></li>
+</ul>
+<h3><span id="S.C3.A9rie_Bela_Adormecida"></span><span class="mw-headline" id="Série_Bela_Adormecida">Série Bela Adormecida</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Editar secção: Série Bela Adormecida">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=6" title="Editar secção: Série Bela Adormecida">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(todos como A. N. Roquelaure)</p>
+<ul>
+<li><a href="/w/index.php?title=The_Claiming_of_Sleeping_Beauty&amp;action=edit&amp;redlink=1" class="new" title="The Claiming of Sleeping Beauty (página não existe)">The Claiming of Sleeping Beauty</a> (1983) - Os desejos da Bela Adormecida</li>
+<li><a href="/w/index.php?title=Beauty%27s_Punishment&amp;action=edit&amp;redlink=1" class="new" title="Beauty's Punishment (página não existe)">Beauty's Punishment</a> (1984) - O Castigo da Bela adormecida</li>
+<li><a href="/w/index.php?title=Beauty%27s_Release&amp;action=edit&amp;redlink=1" class="new" title="Beauty's Release (página não existe)">Beauty's Release</a> (1985) - A Libertação (ou "liberdade") da Bela Adormecida</li>
+</ul>
+<h3><span id="S.C3.A9rie_Cristo_Senhor"></span><span class="mw-headline" id="Série_Cristo_Senhor">Série Cristo Senhor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Editar secção: Série Cristo Senhor">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=7" title="Editar secção: Série Cristo Senhor">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Christ_The_Lord:_Out_of_Egypt" title="Christ The Lord: Out of Egypt">Christ The Lord: Out of Egypt</a> (2005) - Cristo Senhor: A Saída do Egito</li>
+<li><a href="/w/index.php?title=Christ_The_Lord:_The_Road_to_Cana&amp;action=edit&amp;redlink=1" class="new" title="Christ The Lord: The Road to Cana (página não existe)">Christ The Lord: The Road to Cana</a> (2008) - Cristo Senhor: O Caminho para Caná</li>
+</ul>
+<h3><span id="S.C3.A9rie_Songs_of_the_Seraphim"></span><span class="mw-headline" id="Série_Songs_of_the_Seraphim">Série Songs of the Seraphim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Editar secção: Série Songs of the Seraphim">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=8" title="Editar secção: Série Songs of the Seraphim">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Angel_Time" title="Angel Time">Angel Time</a> (2009) - Tempo dos Anjos</li>
+<li><a href="/w/index.php?title=Of_Love_and_Evil&amp;action=edit&amp;redlink=1" class="new" title="Of Love and Evil (página não existe)">Of Love and Evil</a> (2010) - De Amor e Maldade</li>
+</ul>
+<h3><span id="S.C3.A9rie_The_Wolf_Gift_Chronicles"></span><span class="mw-headline" id="Série_The_Wolf_Gift_Chronicles">Série The Wolf Gift Chronicles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Editar secção: Série The Wolf Gift Chronicles">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=9" title="Editar secção: Série The Wolf Gift Chronicles">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The Wolf Gift (2013) - A Dádiva do Lobo</li>
+<li>The Wolves Of Midwinter (2013) - Os Lobos da Invernia</li>
+</ul>
+<h3><span id="Romances_.C3.BAnicos"></span><span class="mw-headline" id="Romances_únicos">Romances únicos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Editar secção: Romances únicos">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=10" title="Editar secção: Romances únicos">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=The_Feast_of_All_Saints&amp;action=edit&amp;redlink=1" class="new" title="The Feast of All Saints (página não existe)">The Feast of All Saints</a> (1979) - A Festa de Todos os Santos</li>
+<li><a href="/wiki/Cry_to_Heaven" title="Cry to Heaven">Cry to Heaven</a> (1982) - Chore para o Céu</li>
+<li><a href="/w/index.php?title=Exit_to_Eden_(romance)&amp;action=edit&amp;redlink=1" class="new" title="Exit to Eden (romance) (página não existe)">Exit to Eden</a> (1985) (como Anne Rampling)</li>
+<li><a href="/wiki/Belinda" class="mw-disambig" title="Belinda">Belinda</a> (1986) (como Anne Rampling)</li>
+<li>The Mummy (1989) - <a href="/w/index.php?title=A_M%C3%BAmia_ou_Rams%C3%A9s,_o_Maldito&amp;action=edit&amp;redlink=1" class="new" title="A Múmia ou Ramsés, o Maldito (página não existe)">A Múmia ou Ramsés, o Maldito</a></li>
+<li><a href="/w/index.php?title=Servant_of_the_Bones&amp;action=edit&amp;redlink=1" class="new" title="Servant of the Bones (página não existe)">Servant of the Bones</a> (1996) - O Servo dos Ossos</li>
+<li>Violin (1997) - Violino</li>
+<li><a href="/w/index.php?title=The_Master_of_Rampling_Gate&amp;action=edit&amp;redlink=1" class="new" title="The Master of Rampling Gate (página não existe)">The Master of Rampling Gate</a> (2002) - <a href="/w/index.php?title=O_Senhor_de_Rampling_Gate&amp;action=edit&amp;redlink=1" class="new" title="O Senhor de Rampling Gate (página não existe)">O Senhor de Rampling Gate</a> (Publicado no Brasil no livro “Os 13 Melhores Contos de Vampiros”, de <a href="/wiki/Fl%C3%A1vio_Moreira_da_Costa" title="Flávio Moreira da Costa">Flávio Moreira da Costa</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Autobiografia">Autobiografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Editar secção: Autobiografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=11" title="Editar secção: Autobiografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Called Out of Darkness (2008)</li>
+</ul>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Anne_Rice&amp;action=edit&amp;section=12" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 238px; padding: 5px; spacing: 2px; text-align: center; float: right;">
+<div style="float: left; vertical-align:middle;">
+<div class="floatnone"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/22px-Wikiquote-logo.svg.png" title="Wikiquote" width="22" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/33px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/44px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></div>
+</div>
+<div style="margin-left: 30px; line-height:normal; vertical-align:middle;">O <a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a> possui citações de ou sobre: <i><b><a href="https://pt.wikiquote.org/wiki/Anne_Rice" class="extiw" title="q:Anne Rice">Anne Rice</a></b></i></div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.annerice.com">Site oficial da autora</a></li>
+</ul>
+<table class="noprint" style="border-top:none; border-bottom:none; background:none;">
+<tr>
+<td align="center"><a href="/wiki/Ficheiro:Crystal_Clear_app_Login_Manager.png" class="image"><img alt="Ícone de esboço" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/30px-Crystal_Clear_app_Login_Manager.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/45px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/60px-Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td><i>Este artigo sobre <span>uma <a href="/wiki/Biografia" title="Biografia">pessoa</a></span> é um <a href="/wiki/Wikip%C3%A9dia:Esbo%C3%A7o" title="Wikipédia:Esboço">esboço</a>. Você pode ajudar a Wikipédia <span class="plainlinks" style="font-weight:bold;"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Anne_Rice&amp;action=edit">expandindo-o</a></span>.</i></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible (autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="3" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Cr%C3%B4nicas_Vampirescas" title="Predefinição:Crônicas Vampirescas"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Cr%C3%B4nicas_Vampirescas&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Cr%C3%B4nicas_Vampirescas" title="Crônicas Vampirescas">Crônicas Vampirescas</a> <i>de <a class="mw-selflink selflink">Anne Rice</a></i></span></th>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="3">
+<p><i><a href="/wiki/Interview_with_the_Vampire" class="mw-redirect" title="Interview with the Vampire">Entrevista com o Vampiro</a></i> · <i><a href="/wiki/The_Vampire_Lestat" class="mw-redirect" title="The Vampire Lestat">O Vampiro Lestat</a></i> · <i><a href="/wiki/The_Queen_of_the_Damned" title="The Queen of the Damned">A Rainha dos Condenados</a></i> · <i><a href="/wiki/The_Tale_of_the_Body_Thief" title="The Tale of the Body Thief">O Ladrão de Corpos</a></i> · <i><a href="/wiki/Memnoch_the_Devil" title="Memnoch the Devil">Memnoch, o Demônio</a></i><br /></p>
+<i><a href="/wiki/The_Vampire_Armand" title="The Vampire Armand">O Vampiro Armand</a></i> · <i><a href="/wiki/Merrick_(livro)" title="Merrick (livro)">Merrick</a></i> · <i><a href="/wiki/Blood_and_Gold" title="Blood and Gold">Sangue e Ouro</a></i> · <i><a href="/wiki/Blackwood_Farm" class="mw-redirect" title="Blackwood Farm">A Fazenda Blackwood</a></i> · <i><a href="/wiki/Blood_Canticle" class="mw-redirect" title="Blood Canticle">Cântico de Sangue</a></i></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Novas Histórias de Vampiros</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;"><i><a href="/wiki/Pandora_(livro)" title="Pandora (livro)">Pandora</a></i> · <i><a href="/w/index.php?title=Vittorio_the_Vampire&amp;action=edit&amp;redlink=1" class="new" title="Vittorio the Vampire (página não existe)">Vittorio, o Vampiro</a></i></td>
+<td rowspan="3" style="vertical-align:middle; padding-left:7px; width:0%;"><a href="/wiki/Ficheiro:MistyGraves.jpg" class="image"><img alt="MistyGraves.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MistyGraves.jpg/50px-MistyGraves.jpg" width="50" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MistyGraves.jpg/75px-MistyGraves.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MistyGraves.jpg/100px-MistyGraves.jpg 2x" data-file-width="2181" data-file-height="2438" /></a></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Adaptações cinematográficas</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;"><i><a href="/wiki/Entrevista_com_o_Vampiro_(filme)" title="Entrevista com o Vampiro (filme)">Entrevista com o Vampiro</a></i> · <i><a href="/wiki/Queen_of_the_Damned" title="Queen of the Damned">A Rainha dos Condenados</a></i></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Personagens</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;"><a href="/wiki/Lestat_de_Lioncourt" title="Lestat de Lioncourt">Lestat de Lioncourt</a> · <a href="/wiki/Louis_de_Pointe_du_Lac" title="Louis de Pointe du Lac">Louis de Pointe du Lac</a> · <a href="/wiki/Claudia_(The_Vampire_Chronicles)" class="mw-redirect" title="Claudia (The Vampire Chronicles)">Claudia</a> · <a href="/wiki/Armand_(The_Vampire_Chronicles)" title="Armand (The Vampire Chronicles)">Armand</a> · <a href="/wiki/Marius_de_Romanus" title="Marius de Romanus">Marius de Romanus</a> · <a href="/wiki/Maharet_e_Mekare" title="Maharet e Mekare">Maharet e Mekare</a> · <a href="/wiki/Memnoch_(The_Vampire_Chronicles)" title="Memnoch (The Vampire Chronicles)">Memnoch</a> · <a href="/wiki/Amel_(The_Vampire_Chronicles)" title="Amel (The Vampire Chronicles)">Amel</a> · <a href="/wiki/Khayman" title="Khayman">Khayman</a> · <a href="/w/index.php?title=Jessica_Reeves&amp;action=edit&amp;redlink=1" class="new" title="Jessica Reeves (página não existe)">Jessica Reeves</a> · <a href="/w/index.php?title=David_Talbot_(The_Vampire_Chronicles)&amp;action=edit&amp;redlink=1" class="new" title="David Talbot (The Vampire Chronicles) (página não existe)">David Talbot</a> · <a href="/w/index.php?title=Enkil&amp;action=edit&amp;redlink=1" class="new" title="Enkil (página não existe)">Enkil</a> · <a href="/wiki/Akasha_(The_Vampire_Chronicles)" title="Akasha (The Vampire Chronicles)">Akasha</a> · <a href="/w/index.php?title=Nicolas_de_Lenfent&amp;action=edit&amp;redlink=1" class="new" title="Nicolas de Lenfent (página não existe)">Nicolas de Lenfent</a> · <a href="/wiki/Gabrielle_de_Lioncourt" title="Gabrielle de Lioncourt">Gabrielle de Lioncourt</a> · <a href="/wiki/Magnus_(The_Vampire_Chronicles)" title="Magnus (The Vampire Chronicles)">Magnus</a> · <a href="/w/index.php?title=Pandora_(The_Vampire_Chronicles)&amp;action=edit&amp;redlink=1" class="new" title="Pandora (The Vampire Chronicles) (página não existe)">Pandora</a> · <a href="/w/index.php?title=Bianca_Solderini&amp;action=edit&amp;redlink=1" class="new" title="Bianca Solderini (página não existe)">Bianca Solderini</a> · <a href="/wiki/Daniel_Molloy" title="Daniel Molloy">Daniel Molloy</a> · <a href="/w/index.php?title=Mael&amp;action=edit&amp;redlink=1" class="new" title="Mael (página não existe)">Mael</a> · <a href="/w/index.php?title=Santiago_(The_Vampire_Chronicles)&amp;action=edit&amp;redlink=1" class="new" title="Santiago (The Vampire Chronicles) (página não existe)">Santiago</a></td>
+</tr>
+</table>
+<p><br /></p>
+<ul class="noprint" style="border-top: solid silver 1px; border-bottom:1px solid silver; padding:3px; background-color: #F9F9F9; text-align: center; margin-top:10px; margin-left: 0; clear: both;">
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Books-aj.svg_aj_ashton_01.png" title="Portal da literatura"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/25px-Books-aj.svg_aj_ashton_01.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/38px-Books-aj.svg_aj_ashton_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/50px-Books-aj.svg_aj_ashton_01.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Literatura" title="Portal:Literatura">Portal da literatura</a></span></span></li>
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Flag_of_the_United_States.svg" title="Portal dos Estados Unidos"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/25px-Flag_of_the_United_States.svg.png" width="25" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/38px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Estados_Unidos" title="Portal:Estados Unidos">Portal dos Estados Unidos</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20180526191953
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.536 seconds
+Real time usage: 0.599 seconds
+Preprocessor visited node count: 6750/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54895/2097152 bytes
+Template argument size: 17920/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1/5000000 bytes
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 669 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  534.865      1 -total
+ 65.25%  349.007      1 Predefinição:Info/Escritor
+ 58.54%  313.122      1 Predefinição:Info
+ 11.67%   62.404      1 Predefinição:Portal3
+ 11.10%   59.376      2 Predefinição:Portal3/Portais
+ 11.04%   59.058      1 Predefinição:Sem-fontes-bpv
+  8.43%   45.091      1 Predefinição:Manutenção/Categorizando_por_assunto
+  7.82%   41.847      1 Predefinição:Crônicas_Vampirescas
+  7.39%   39.542      1 Predefinição:Navbox
+  4.97%   26.609      1 Predefinição:Navbox/core
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:96538-0!canonical and timestamp 20180526191952 and revision id 51573095
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Anne_Rice&amp;oldid=51573095">https://pt.wikipedia.org/w/index.php?title=Anne_Rice&amp;oldid=51573095</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1941" title="Categoria:Nascidos em 1941">Nascidos em 1941</a></li><li><a href="/wiki/Categoria:Escritores_dos_Estados_Unidos" title="Categoria:Escritores dos Estados Unidos">Escritores dos Estados Unidos</a></li><li><a href="/wiki/Categoria:Autores_de_livros_sobre_vampiros" title="Categoria:Autores de livros sobre vampiros">Autores de livros sobre vampiros</a></li><li><a href="/wiki/Categoria:Ex-ateus" title="Categoria:Ex-ateus">Ex-ateus</a></li><li><a href="/wiki/Categoria:Naturais_de_Nova_Orleans" title="Categoria:Naturais de Nova Orleans">Naturais de Nova Orleans</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!Biografias_de_pessoas_vivas_sem_fontes_desde_setembro_de_2012" title="Categoria:!Biografias de pessoas vivas sem fontes desde setembro de 2012">!Biografias de pessoas vivas sem fontes desde setembro de 2012</a></li><li><a href="/wiki/Categoria:!Artigos_de_arte_que_carecem_de_fontes" title="Categoria:!Artigos de arte que carecem de fontes">!Artigos de arte que carecem de fontes</a></li><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_maiores_que_5000_bytes" title="Categoria:!Esboços maiores que 5000 bytes">!Esboços maiores que 5000 bytes</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_de_biografias" title="Categoria:!Esboços de biografias">!Esboços de biografias</a></li><li><a href="/wiki/Categoria:!Artigos_com_liga%C3%A7%C3%B5es_precisando_de_desambigua%C3%A7%C3%A3o" title="Categoria:!Artigos com ligações precisando de desambiguação">!Artigos com ligações precisando de desambiguação</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Anne+Rice" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Anne+Rice" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Anne_Rice" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Anne_Rice" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Anne_Rice">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Anne_Rice&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Anne_Rice&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anne_Rice&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Anne+Rice">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Anne+Rice&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Anne_Rice&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anne_Rice" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://pt.wikiquote.org/wiki/Anne_Rice" hreflang="pt">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Anne_Rice" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Anne_Rice" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Anne_Rice&amp;oldid=51573095" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Anne_Rice&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q184785" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Anne_Rice&amp;id=51573095" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — africanês" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%86_%D8%B1%D8%A7%D9%8A%D8%B3" title="آن رايس — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Anna_Rays" title="Anna Rays — azerbaijano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%86_%D8%B1%D8%A7%DB%8C%D8%B3" title="آن رایس — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD_%D0%A0%D0%B0%D0%B9%D1%81" title="Ан Райс — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Anne_Riceov%C3%A1" title="Anne Riceová — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en badge-Q17437798 badge-goodarticle" title="artigo bom"><a href="https://en.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — estónio" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86_%D8%B1%D8%A7%DB%8C%D8%B3" title="آن رایس — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9F_%D7%A8%D7%99%D7%99%D7%A1" title="אן רייס — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%90%E0%A4%A8_%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B8" title="ऐन राइस — hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%B6%D5%A1_%D5%8C%D5%A1%D5%B5%D5%BD" title="Աննա Ռայս — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — interlíngua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — islandês" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%B9" title="アン・ライス — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A4_%EB%9D%BC%EC%9D%B4%EC%8A%A4" title="앤 라이스 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Anna_Rice" title="Anna Rice — latim" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — lituano" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%A8_%E0%A8%B0%E0%A8%BE%E0%A8%88%E0%A8%B8" title="ਐਨ ਰਾਈਸ — panjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — pampango" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BD_%D0%A0%D0%B0%D0%B9%D1%81" title="Энн Райс — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Anne_Riceov%C3%A1" title="Anne Riceová — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%95%D0%BD_%D0%A0%D0%B0%D1%98%D1%81" title="Ен Рајс — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — suaíli" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D0%BD_%D0%A0%D0%B0%D0%B9%D1%81" title="Енн Райс — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Anne_Rice" title="Anne Rice — volapuque" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E5%A6%AE%C2%B7%E8%8E%B1%E6%96%AF" title="安妮·莱斯 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q184785#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 16h29min de 20 de março de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Anne_Rice&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.599","ppvisitednodes":{"value":6750,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54895,"limit":2097152},"templateargumentsize":{"value":17920,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  534.865      1 -total"," 65.25%  349.007      1 Predefinição:Info/Escritor"," 58.54%  313.122      1 Predefinição:Info"," 11.67%   62.404      1 Predefinição:Portal3"," 11.10%   59.376      2 Predefinição:Portal3/Portais"," 11.04%   59.058      1 Predefinição:Sem-fontes-bpv","  8.43%   45.091      1 Predefinição:Manutenção/Categorizando_por_assunto","  7.82%   41.847      1 Predefinição:Crônicas_Vampirescas","  7.39%   39.542      1 Predefinição:Navbox","  4.97%   26.609      1 Predefinição:Navbox/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":685264,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20180526191953","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":732,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

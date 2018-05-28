@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>José Luís Peixoto – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"José_Luís_Peixoto","wgTitle":"José Luís Peixoto","wgCurRevisionId":51209659,"wgRevisionId":51209659,"wgArticleId":98049,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pessoas vivas","!Imagem local idêntica à do Wikidata","Nascidos em 1974","José Luís Peixoto","Naturais de Ponte de Sor","Escritores de Portugal","Letristas de Portugal","Dramaturgos de Portugal","Poetas de Portugal","Vencedores do Prémio José Saramago"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"José_Luís_Peixoto","wgRelevantArticleId":98049,"wgRequestId":"WwfXgApAICIAAELuY7MAAABK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q314474","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/1200px-JoseLuisPeixoto.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-José_Luís_Peixoto rootpage-José_Luís_Peixoto skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">José Luís Peixoto</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">José Luís Peixoto</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:JoseLuisPeixoto.JPG" class="image" title="José Luís Peixoto"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/223px-JoseLuisPeixoto.JPG" width="223" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/335px-JoseLuisPeixoto.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/446px-JoseLuisPeixoto.JPG 2x" data-file-width="1280" data-file-height="960" /></a></div>
+</div>
+<small>José Luís Peixoto na <a href="/wiki/Universidad_Nacional_Aut%C3%B3noma_de_M%C3%A9xico" title="Universidad Nacional Autónoma de México">Universidad Nacional Autónoma de México</a> - UNAM</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/4_de_setembro#Nascimentos" title="4 de setembro">4 de setembro</a> de <a href="/wiki/1974" title="1974">1974</a>&#160;(43&#160;anos)<br />
+<a href="/wiki/Galveias" title="Galveias">Galveias</a>, <a href="/wiki/Ponte_de_Sor" title="Ponte de Sor">Ponte de Sor</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/33px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/44px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a> <a href="/wiki/Portugal" title="Portugal">Português</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Escritor" title="Escritor">Escritor</a>, <a href="/wiki/Dramaturgo" class="mw-redirect" title="Dramaturgo">dramaturgo</a>, <a href="/wiki/Poeta" class="mw-redirect" title="Poeta">poeta</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Principais trabalhos</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i><a href="/wiki/Morreste-me" title="Morreste-me">Morreste-me</a></i>; <i><a href="/wiki/Nenhum_Olhar" title="Nenhum Olhar">Nenhum Olhar</a></i>; <i><a href="/wiki/Cemit%C3%A9rio_de_Pianos" title="Cemitério de Pianos">Cemitério de Pianos</a>",</i> <a href="/wiki/Livro" title="Livro">Livro</a><i>,</i> <a href="/w/index.php?title=Dentro_do_Segredo&amp;action=edit&amp;redlink=1" class="new" title="Dentro do Segredo (página não existe)">Dentro do Segredo</a><i>,</i> <a href="/wiki/Galveias" title="Galveias">Galveias</a><i>,</i> <a href="/w/index.php?title=Em_Teu_Ventre&amp;action=edit&amp;redlink=1" class="new" title="Em Teu Ventre (página não existe)">Em Teu Ventre</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Prémios</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Pr%C3%A9mio_Jos%C3%A9_Saramago" class="mw-redirect" title="Prémio José Saramago">Prémio José Saramago</a> (2001)<br />
+<a href="/wiki/Pr%C3%A9mio_de_Poesia_Daniel_Faria" title="Prémio de Poesia Daniel Faria">Prémio de Poesia Daniel Faria</a> (2008)<br />
+<a href="/w/index.php?title=Pr%C3%A9mio_C%C3%A1lamo_Outra_Mirada&amp;action=edit&amp;redlink=1" class="new" title="Prémio Cálamo Outra Mirada (página não existe)">Prémio Cálamo Outra Mirada</a> (2007)<br />
+<a href="/w/index.php?title=Pr%C3%A9mio_Libro_d%27_Europa&amp;action=edit&amp;redlink=1" class="new" title="Prémio Libro d' Europa (página não existe)">Prémio Libro d' Europa</a> (2013)<br />
+<p><a href="/w/index.php?title=Pr%C3%A9mios_Sociedade_Portuguesa_de_Autores&amp;action=edit&amp;redlink=1" class="new" title="Prémios Sociedade Portuguesa de Autores (página não existe)">Prémio Sociedade Portuguesa de Autores</a> (2013)<br />
+<a href="/wiki/Oceanos-Pr%C3%AAmio_de_Literatura_em_L%C3%ADngua_Portuguesa" title="Oceanos-Prêmio de Literatura em Língua Portuguesa">Prémio Oceanos</a> (2016)</p>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;">Página oficial</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; padding:4px 4px 4px 0;" colspan="2"><a rel="nofollow" class="external text" href="http://www.joseluispeixoto.net/">joseluispeixoto.net</a></td>
+</tr>
+</table>
+<p><b>José Luís Peixoto</b> (<a href="/wiki/Galveias" title="Galveias">Galveias</a>, <a href="/wiki/Ponte_de_Sor" title="Ponte de Sor">Ponte de Sor</a>, <a href="/wiki/4_de_setembro" title="4 de setembro">4 de setembro</a> de <a href="/wiki/1974" title="1974">1974</a>) é um <a href="/wiki/Narrador" title="Narrador">narrador</a>, <a href="/wiki/Poeta" class="mw-redirect" title="Poeta">poeta</a> e <a href="/wiki/Dramaturgo" class="mw-redirect" title="Dramaturgo">dramaturgo</a> <a href="/wiki/Portugueses" title="Portugueses">português</a>, cuja primeira obra foi publicada em 2000.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Carreira"><span class="tocnumber">2</span> <span class="toctext">Carreira</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Acerca_da_Obra_de_José_Luís_Peixoto"><span class="tocnumber">3</span> <span class="toctext">Acerca da Obra de José Luís Peixoto</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Prémios"><span class="tocnumber">4</span> <span class="toctext">Prémios</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Recepção_Crítica"><span class="tocnumber">5</span> <span class="toctext">Recepção Crítica</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Obras_Publicadas"><span class="tocnumber">6</span> <span class="toctext">Obras Publicadas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Ficção"><span class="tocnumber">6.1</span> <span class="toctext">Ficção</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Poesia"><span class="tocnumber">6.2</span> <span class="toctext">Poesia</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Literatura_de_Viagem"><span class="tocnumber">6.3</span> <span class="toctext">Literatura de Viagem</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Literatura_Infanto-Juvenil"><span class="tocnumber">6.4</span> <span class="toctext">Literatura Infanto-Juvenil</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">7</span> <span class="toctext">Referências</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ligações_externas"><span class="tocnumber">8</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>José Luís Peixoto nasceu na aldeia de <a href="/wiki/Galveias" title="Galveias">Galveias</a>, no <a href="/wiki/Alto_Alentejo" class="mw-disambig" title="Alto Alentejo">Alto Alentejo</a>, onde viveu até aos 18 anos, idade em que foi estudar para a <a href="/wiki/Faculdade_de_Ci%C3%AAncias_Sociais_e_Humanas" class="mw-redirect" title="Faculdade de Ciências Sociais e Humanas">Faculdade de Ciências Sociais e Humanas</a> da <a href="/wiki/Universidade_Nova_de_Lisboa" title="Universidade Nova de Lisboa">Universidade Nova de Lisboa</a>. Após terminar a sua licenciatura em Línguas e Literaturas Modernas, na variante de estudos ingleses e alemães, foi professor em várias escolas portuguesas e na <a href="/wiki/Cidade_da_Praia" class="mw-redirect" title="Cidade da Praia">Cidade da Praia</a>, em <a href="/wiki/Cabo_Verde" title="Cabo Verde">Cabo Verde</a>. Em 2001, dedicou-se profissionalmente à escrita.</p>
+<h2><span class="mw-headline" id="Carreira">Carreira</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Carreira">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=2" title="Editar secção: Carreira">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Com apenas 27 anos, José Luís Peixoto foi o mais jovem vencedor de sempre do <a href="/wiki/Pr%C3%A9mio_Liter%C3%A1rio_Jos%C3%A9_Saramago" title="Prémio Literário José Saramago">Prémio Literário José Saramago</a>. Desde esse reconhecimento, a sua obra tem recebido amplo destaque nacional e internacional. Os seus livros estão traduzidos e publicados em 26 idiomas. O romance <a href="/wiki/Galveias" title="Galveias">Galveias</a> foi o primeiro livro de língua portuguesa a ser traduzido diretamente para o idioma georgiano, tendo acontecido o mesmo ao livro A Mãe que Chovia, que foi o primeiro a ser traduzido diretamente do português para o mongol.</p>
+<p><a href="/wiki/Morreste-me" title="Morreste-me">Morreste-me</a> foi escolhido como um dos 10 livros da primeira década do século XXI pela revista Visão. Nas mesmas condições, <a href="/wiki/Nenhum_Olhar" title="Nenhum Olhar">Nenhum Olhar</a> foi escolhido como um dos livros da década pelo jornal Expresso.</p>
+<p>O romance <a href="/wiki/Uma_Casa_na_Escurid%C3%A3o" title="Uma Casa na Escuridão">Uma Casa na Escuridão</a> foi incluído na edição europeia de "1001 Livros para Ler Antes de Morrer - Um guia cronológico dos mais importantes romances de todos os tempos".</p>
+<p><a href="/wiki/Nenhum_Olhar" title="Nenhum Olhar">Nenhum Olhar</a> foi incluído na lista do <a href="/wiki/Financial_Times" title="Financial Times">Financial Times</a> dos melhores romances publicados em Inglaterra em 2007, tendo também sido incluído no programa Discover Great New Writers das livrarias americanas Barnes &amp; Noble.</p>
+<p>A sua obra tem sido abundantemente adaptada para espetáculos e obras artísticas de diversos géneros.</p>
+<p>Tem sido colunista de vários órgãos da imprensa portuguesa, como é o caso do Jornal de Letras ou das revistas Visão, GQ, Time Out, Notícias Magazine, UP, entre outras.</p>
+<h2><span id="Acerca_da_Obra_de_Jos.C3.A9_Lu.C3.ADs_Peixoto"></span><span class="mw-headline" id="Acerca_da_Obra_de_José_Luís_Peixoto">Acerca da Obra de José Luís Peixoto</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Acerca da Obra de José Luís Peixoto">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=3" title="Editar secção: Acerca da Obra de José Luís Peixoto">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A obra de José Luís Peixoto apresenta assinalável coesão formal e temática. <a href="/wiki/Nenhum_Olhar" title="Nenhum Olhar">Nenhum Olhar</a>, <a href="/wiki/Cal" title="Cal">Cal</a> ou <a href="/wiki/Galveias" title="Galveias">Galveias</a> revelam uma nova abordagem aos temas alentejanos na literatura portuguesa. A ruralidade é retratada através de grande sofisticação formal, com uma inédita matriz pós-moderna. Podendo estabelecer relações com a história de Portugal — como em <a href="/wiki/Cemit%C3%A9rio_de_Pianos" title="Cemitério de Pianos">Cemitério de Pianos</a>, <a href="/wiki/Livro" title="Livro">Livro</a> ou <a href="/w/index.php?title=Em_Teu_Ventre&amp;action=edit&amp;redlink=1" class="new" title="Em Teu Ventre (página não existe)">Em Teu Ventre</a> —, é também comum que as obras de José Luís Peixoto tratem as relações pessoais e/ou familiares, com uma forte carga autobiográfica — como em <a href="/wiki/Morreste-me" title="Morreste-me">Morreste-me</a>, <a href="/wiki/Abra%C3%A7o" title="Abraço">Abraço</a>, todos os seus títulos poéticos ou, mesmo, <a href="/w/index.php?title=Dentro_do_Segredo&amp;action=edit&amp;redlink=1" class="new" title="Dentro do Segredo (página não existe)">Dentro do Segredo</a>. A alegoria ocupa também um lugar importante na sua escrita, através dos títulos <a href="/wiki/Uma_Casa_na_Escurid%C3%A3o" title="Uma Casa na Escuridão">Uma Casa na Escuridão</a> e <a href="/wiki/Ant%C3%ADdoto" title="Antídoto">Antídoto</a>. Estas abordagens, no entanto, estão distribuídas um pouco por toda a sua obra, não sendo difícil assinalar livros que contenham vários destes temas principais em simultâneo, a saber: ruralidade, relações com a história, análise das relações pessoais e/ou familiares, modelos alegóricos.</p>
+<h2><span id="Pr.C3.A9mios"></span><span class="mw-headline" id="Prémios">Prémios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Prémios">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=4" title="Editar secção: Prémios">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Pr%C3%A9mio_Jos%C3%A9_Saramago" class="mw-redirect" title="Prémio José Saramago">Prémio José Saramago</a>, 2001.</li>
+<li><a href="/w/index.php?title=Pr%C3%A9mio_Daniel_Faria&amp;action=edit&amp;redlink=1" class="new" title="Prémio Daniel Faria (página não existe)">Prémio Daniel Faria</a>, 2008.</li>
+<li><a href="/w/index.php?title=Pr%C3%A9mio_C%C3%A1lamo_Outra_Mirada&amp;action=edit&amp;redlink=1" class="new" title="Prémio Cálamo Outra Mirada (página não existe)">Prémio Cálamo Outra Mirada</a>, 2007</li>
+<li><a href="/w/index.php?title=Pr%C3%A9mio_Libro_d%27_Europa&amp;action=edit&amp;redlink=1" class="new" title="Prémio Libro d' Europa (página não existe)">Prémio Libro d' Europa</a>, 2013</li>
+<li><a href="/wiki/Oceanos-Pr%C3%AAmio_de_Literatura_em_L%C3%ADngua_Portuguesa" title="Oceanos-Prêmio de Literatura em Língua Portuguesa">Oceanos - Prêmio de Literatura em Língua Portuguesa</a>, 2016</li>
+</ul>
+<h2><span id="Recep.C3.A7.C3.A3o_Cr.C3.ADtica"></span><span class="mw-headline" id="Recepção_Crítica">Recepção Crítica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Recepção Crítica">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=5" title="Editar secção: Recepção Crítica">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Uma das revelações mais surpreendentes da literatura portuguesa. É um homem que sabe escrever e que vai ser o continuador dos grande escritores."<br />
+José Saramago</p>
+<p>"Peixoto tem uma extraordinária forma de interpretar o mundo, expressa pelas suas escolhas certeiras de linguagem e de imagens."<br />
+Times Literary Supplement</p>
+<p>"Um valor seguro da literatura portuguesa, com grande sentido de linguagem poética e grande domínio da língua portuguesa."<br />
+Manuel Vásquez Montálban</p>
+<p>"O fantástico é contado com a naturalidade do quotidiano. A crónica e a fábula sobrepõem-se, como as histórias que contam ou presenciam ou calam as personagens de William Faulkner ou de Juan Rulfo."<br />
+António Muñoz Molina</p>
+<p>"Como Saramago, José Luís Peixoto é um escritor tocado pelo génio."<br />
+Urbano Tavares Rodrigues</p>
+<p>"Um dos escritores mais dotados do seu país."<br />
+Le Monde</p>
+<p>"Peixoto articula um interessante discurso sobre a identidade e a orfandade, e elabora em paralelo um maravilhoso retrato psicológico do mundo rural português."<br />
+El País</p>
+<p>Os seus livros têm tido referências críticas em publicações internacionais de referência como: The Independent, The Guardian, Times Literary Suplement, Esquire, Monocle, Metro, Time Out New York, San Francisco Chronicle, El País, El Mundo, ABC, Le Figaro, Le Monde, La Reppublica, Corriere de la Sera, L'Unità, Folha de S.Paulo, Estado de São Paulo, etc.</p>
+<h2><span class="mw-headline" id="Obras_Publicadas">Obras Publicadas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Editar secção: Obras Publicadas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=6" title="Editar secção: Obras Publicadas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Fic.C3.A7.C3.A3o"></span><span class="mw-headline" id="Ficção">Ficção</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Editar secção: Ficção">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=7" title="Editar secção: Ficção">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/2000" title="2000">2000</a> - <i><a href="/wiki/Morreste-me" title="Morreste-me">Morreste-me</a></i></li>
+<li><a href="/wiki/2000" title="2000">2000</a> - <i><a href="/wiki/Nenhum_Olhar" title="Nenhum Olhar">Nenhum Olhar</a></i></li>
+<li><a href="/wiki/2002" title="2002">2002</a> - <i><a href="/wiki/Uma_Casa_na_Escurid%C3%A3o" title="Uma Casa na Escuridão">Uma Casa na Escuridão</a></i></li>
+<li><a href="/wiki/2003" title="2003">2003</a> - <i><a href="/wiki/Ant%C3%ADdoto_(livro)" title="Antídoto (livro)">Antídoto</a></i></li>
+<li><a href="/wiki/2006" title="2006">2006</a> - <i><a href="/wiki/Cemit%C3%A9rio_de_Pianos" title="Cemitério de Pianos">Cemitério de Pianos</a></i></li>
+<li><a href="/wiki/2007" title="2007">2007</a> - <i><a href="/wiki/Cal_(livro)" title="Cal (livro)">Cal</a></i></li>
+<li><a href="/wiki/2010" title="2010">2010</a> - <i><a href="/w/index.php?title=Livro_(livro)&amp;action=edit&amp;redlink=1" class="new" title="Livro (livro) (página não existe)">Livro</a></i></li>
+<li><a href="/wiki/2011" title="2011">2011</a> - <i>Abraço</i></li>
+<li><a href="/wiki/2014" title="2014">2014</a> - <i><a href="/wiki/Galveias" title="Galveias">Galveias</a></i></li>
+<li><a href="/wiki/2015" title="2015">2015</a> - <i>Em Teu Ventre</i></li>
+</ul>
+<h3><span class="mw-headline" id="Poesia">Poesia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Editar secção: Poesia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=8" title="Editar secção: Poesia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/2001" title="2001">2001</a> - <i>A Criança em Ruínas</i></li>
+<li><a href="/wiki/2002" title="2002">2002</a> - <i>A Casa, a Escuridão</i></li>
+<li><a href="/wiki/2008" title="2008">2008</a> - <i>Gaveta de papéis</i></li>
+</ul>
+<h3><span class="mw-headline" id="Literatura_de_Viagem">Literatura de Viagem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Editar secção: Literatura de Viagem">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=9" title="Editar secção: Literatura de Viagem">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/2012" title="2012">2012</a> - <i>Dentro do Segredo - Uma viagem na Coreia do Norte</i></li>
+<li><a href="/wiki/2017" title="2017">2017</a> - <i>O Caminho Imperfeito</i></li>
+</ul>
+<h3><span class="mw-headline" id="Literatura_Infanto-Juvenil">Literatura Infanto-Juvenil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Editar secção: Literatura Infanto-Juvenil">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=10" title="Editar secção: Literatura Infanto-Juvenil">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/2012" title="2012">2012</a> - <i>A Mãe que Chovia</i></li>
+<li>2016 - <i>Todos os Escritores do Mundo Têm a Cabeça Cheia de Piolhos</i></li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style=""></div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://papeisjlp.blogs.sapo.pt/visao-7-novembro-2002-5150">Revista Visão, 7 de novembro de 2002</a></li>
+<li><a rel="nofollow" class="external text" href="http://papeisjlp.blogs.sapo.pt/noticias-magazine-28-setembro-2003-10389">Notícias Magazine, 28 de setembro de 2003</a></li>
+<li><a rel="nofollow" class="external text" href="http://papeisjlp.blogs.sapo.pt/jornal-de-letras-2-janeiro-2007-32786">Jornal de Letras, 2 de janeiro de 2007</a></li>
+<li><a rel="nofollow" class="external text" href="http://papeisjlp.blogs.sapo.pt/ler-outubro-2010-27806">Revista LER, outubro de 2010</a></li>
+</ul>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit&amp;section=11" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.joseluispeixoto.net">Site Oficial</a></li>
+<li><a rel="nofollow" class="external text" href="http://papeisjlp.blogs.sapo.pt">papéis jlp - Arquivo de recortes sobre José Luís Peixoto e a sua obra.</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;width: 12%; text-align:center;"><a href="/wiki/Ajuda:Controle_de_autoridade" title="Ajuda:Controle de autoridade">Controle de autoridade</a><br /></th>
+<td class="navbox-list navbox-odd plainlinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>: <span class="uid"><a href="https://www.wikidata.org/wiki/Q314474" class="extiw" title="wikidata:Q314474">Q314474</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" class="mw-redirect" title="Virtual International Authority File">VIAF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/87307201">87307201</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Espanha" title="Biblioteca Nacional da Espanha">BNE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX1582849">XX1582849</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb145611935">145611935</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/142975745">142975745</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" class="mw-redirect" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://id.sbn.it/af/IT\ICCU\UBOV\624281">IT\ICCU\UBOV\624281</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=213&amp;url_prefix=http://isni.org/&amp;id=0000">0001 2142 517X 0000 0001 2142 517X</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" class="mw-redirect" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2004043312">no2004043312</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Rep%C3%BAblica_Checa" title="Biblioteca Nacional da República Checa">NKC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=mzk2004261303">mzk2004261303</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Real_dos_Pa%C3%ADses_Baixos" title="Biblioteca Real dos Países Baixos">NTA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p256592764">256592764</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Open_Library" title="Open Library">OL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL4939060A">OL4939060A</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Sistema_Universit%C3%A1rio_de_Documenta%C3%A7%C3%A3o" title="Sistema Universitário de Documentação">SUDOC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.idref.fr/08171405X">08171405X</a></span></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180525092937
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.508 seconds
+Real time usage: 0.557 seconds
+Preprocessor visited node count: 3511/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25098/2097152 bytes
+Template argument size: 7092/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 2.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  519.001      1 -total
+ 62.39%  323.827      1 Predefinição:Info/Escritor
+ 56.69%  294.247      1 Predefinição:Info
+ 36.36%  188.701      1 Predefinição:Controle_de_autoridade
+  3.07%   15.948      1 Predefinição:Wikidata_image
+  2.45%   12.738      1 Predefinição:Dnibr
+  2.16%   11.236      1 Predefinição:Dni
+  1.31%    6.777      6 Predefinição:Info/lang
+  1.27%    6.606      2 Predefinição:MONTHNAME
+  0.89%    4.624      2 Predefinição:LCMONTHNAME
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:98049-0!canonical and timestamp 20180525092936 and revision id 51209659
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=José_Luís_Peixoto&amp;oldid=51209659">https://pt.wikipedia.org/w/index.php?title=José_Luís_Peixoto&amp;oldid=51209659</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1974" title="Categoria:Nascidos em 1974">Nascidos em 1974</a></li><li><a href="/wiki/Categoria:Jos%C3%A9_Lu%C3%ADs_Peixoto" title="Categoria:José Luís Peixoto">José Luís Peixoto</a></li><li><a href="/wiki/Categoria:Naturais_de_Ponte_de_Sor" title="Categoria:Naturais de Ponte de Sor">Naturais de Ponte de Sor</a></li><li><a href="/wiki/Categoria:Escritores_de_Portugal" title="Categoria:Escritores de Portugal">Escritores de Portugal</a></li><li><a href="/wiki/Categoria:Letristas_de_Portugal" title="Categoria:Letristas de Portugal">Letristas de Portugal</a></li><li><a href="/wiki/Categoria:Dramaturgos_de_Portugal" title="Categoria:Dramaturgos de Portugal">Dramaturgos de Portugal</a></li><li><a href="/wiki/Categoria:Poetas_de_Portugal" title="Categoria:Poetas de Portugal">Poetas de Portugal</a></li><li><a href="/wiki/Categoria:Vencedores_do_Pr%C3%A9mio_Jos%C3%A9_Saramago" title="Categoria:Vencedores do Prémio José Saramago">Vencedores do Prémio José Saramago</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Jos%C3%A9+Lu%C3%ADs+Peixoto" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Jos%C3%A9+Lu%C3%ADs+Peixoto" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Jos%C3%A9_Lu%C3%ADs_Peixoto" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Jos%C3%A9+Lu%C3%ADs+Peixoto">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Jos%C3%A9+Lu%C3%ADs+Peixoto&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Lu%C3%ADs_Peixoto" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Jos%C3%A9_Lu%C3%ADs_Peixoto" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;oldid=51209659" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q314474" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;id=51209659" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — africanês" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — islandês" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9A%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88" title="ホセ・ルイス・ペイショット — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%9C_%EB%A3%A8%EC%9D%B4%EC%8A%A4_%ED%8E%98%EC%9D%B4%EC%87%BC%ED%88%AC" title="조제 루이스 페이쇼투 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B9%D1%88%D0%BE%D1%82%D1%83,_%D0%96%D0%BE%D0%B7%D0%B5_%D0%9B%D1%83%D0%B8%D1%88" title="Пейшоту, Жозе Луиш — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Peixoto" title="José Luís Peixoto — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q314474#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 12h51min de 6 de fevereiro de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Jos%C3%A9_Lu%C3%ADs_Peixoto&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.557","ppvisitednodes":{"value":3511,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25098,"limit":2097152},"templateargumentsize":{"value":7092,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":12,"limit":400},"timingprofile":["100.00%  519.001      1 -total"," 62.39%  323.827      1 Predefinição:Info/Escritor"," 56.69%  294.247      1 Predefinição:Info"," 36.36%  188.701      1 Predefinição:Controle_de_autoridade","  3.07%   15.948      1 Predefinição:Wikidata_image","  2.45%   12.738      1 Predefinição:Dnibr","  2.16%   11.236      1 Predefinição:Dni","  1.31%    6.777      6 Predefinição:Info/lang","  1.27%    6.606      2 Predefinição:MONTHNAME","  0.89%    4.624      2 Predefinição:LCMONTHNAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":2982130,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180525092937","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":660,"wgHostname":"mw1332"});});</script>
+	</body>
+</html>

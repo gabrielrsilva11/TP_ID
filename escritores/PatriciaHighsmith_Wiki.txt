@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Patricia Highsmith – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Patricia_Highsmith","wgTitle":"Patricia Highsmith","wgCurRevisionId":51641264,"wgRevisionId":51641264,"wgArticleId":261373,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Artigos que carecem de notas de rodapé desde outubro de 2013","!Imagem local idêntica à do Wikidata","!Esboços sobre literatura","!Esboços maiores que 1000 bytes","Nascidos em 1921","Mortos em 1995","Roteiristas de histórias em quadrinhos dos Estados Unidos","Autores da Era de Ouro das histórias em quadrinhos","Patricia Highsmith","Romancistas dos Estados Unidos","Escritores LGBT dos Estados Unidos","Escritores de literatura policial","Mulheres na literatura"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Patricia_Highsmith","wgRelevantArticleId":261373,"wgRequestId":"Wwf59wpAMEoAACkeDqkAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q270635","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/1200px-Highsmith_on_After_Dark.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Patricia_Highsmith"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Patricia_Highsmith&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Patricia_Highsmith&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Patricia_Highsmith"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Patricia_Highsmith rootpage-Patricia_Highsmith skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Patricia Highsmith</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
+<tr>
+<td width="8%" align="center">
+<div style="width:52px; padding-top:5px">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Question_book-4.svg" class="image"><img alt="Question book-4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/45px-Question_book-4.svg.png" width="45" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/68px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/90px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</div>
+</div>
+</td>
+<td width="91%">Esta página ou secção cita <a href="/wiki/Wikip%C3%A9dia:Fontes_fi%C3%A1veis" class="mw-redirect" title="Wikipédia:Fontes fiáveis">fontes fiáveis</a> e <a href="/wiki/Wikip%C3%A9dia:Fontes_independentes" title="Wikipédia:Fontes independentes">independentes</a>, mas que <b>não cobrem</b> todo o conteúdo, o que <b>compromete a <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">verificabilidade</a></b> <small>(desde outubro de 2013)</small>. Por favor, <a href="/wiki/Wikip%C3%A9dia:CITE" class="mw-redirect" title="Wikipédia:CITE">insira</a> mais <a href="/wiki/Refer%C3%AAncia_bibliogr%C3%A1fica" title="Referência bibliográfica">referências</a> no <a href="/wiki/Wikip%C3%A9dia:REF" class="mw-redirect" title="Wikipédia:REF">texto</a>. Material sem fontes poderá ser <a href="/wiki/Wikip%C3%A9dia:Verificabilidade#Política_de_verificabilidade" title="Wikipédia:Verificabilidade">removido</a>.<br />
+—<small><i>Encontre fontes:</i> <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.google.com/#q=Patricia+Highsmith">Google</a> (<a rel="nofollow" class="external text" href="https://www.google.com/search?hl=pt&amp;tbm=nws&amp;q=Patricia+Highsmith&amp;oq=Patricia+Highsmith">notícias</a>, <a rel="nofollow" class="external text" href="http://books.google.com/books?&amp;as_brr=0&amp;as_epq=Patricia+Highsmith">livros</a> e <a rel="nofollow" class="external text" href="https://scholar.google.com.br/scholar?hl=pt&amp;q=Patricia+Highsmith">acadêmico</a>)</span></small></td>
+<td width="1%" align="center"></td>
+</tr>
+</table>
+<div class="hatnote"><img alt="Disambig grey.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Disambig_grey.svg/20px-Disambig_grey.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Disambig_grey.svg/30px-Disambig_grey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Disambig_grey.svg/40px-Disambig_grey.svg.png 2x" data-file-width="260" data-file-height="200" />&#160;<b>Nota:</b> Para outros resultados, veja <a href="/wiki/Patr%C3%ADcia_(desambigua%C3%A7%C3%A3o)" class="mw-disambig" title="Patrícia (desambiguação)">Patrícia (desambiguação)</a>.</div>
+<table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Patricia Highsmith</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Highsmith_on_After_Dark.JPG" class="image" title="Patricia Highsmith"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/200px-Highsmith_on_After_Dark.JPG" width="200" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/300px-Highsmith_on_After_Dark.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/400px-Highsmith_on_After_Dark.JPG 2x" data-file-width="1372" data-file-height="1002" /></a></div>
+</div>
+<small>Patricia Highsmith (1988)</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/19_de_janeiro#Nascimentos" title="19 de janeiro">19 de janeiro</a> de <a href="/wiki/1921" title="1921">1921</a><br />
+<a href="/wiki/Texas" title="Texas">Texas</a>, <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;<a href="/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Morte</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><span style="white-space:nowrap;"><a href="/wiki/4_de_fevereiro" title="4 de fevereiro">4 de fevereiro</a> de <a href="/wiki/1995" title="1995">1995</a>&#160;(74&#160;anos)</span><br />
+<a href="/wiki/Locarno" title="Locarno">Locarno</a>, <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/22px-Flag_of_Switzerland.svg.png" width="22" height="22" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/33px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/44px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /> <a href="/wiki/Su%C3%AD%C3%A7a" title="Suíça">Suíça</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Influências</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">
+<hr />
+<div class="NavFrame collapsed" style="border:none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent; text-align:left;">Lista</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align:left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><a href="/wiki/Franz_Kafka" title="Franz Kafka">Franz Kafka</a>, <a href="/wiki/Fyodor_Dostoevsky" class="mw-redirect" title="Fyodor Dostoevsky">Fyodor Dostoevsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/G%C3%AAnero_liter%C3%A1rio" title="Gênero literário">Género literário</a></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Suspense" title="Suspense">Suspense</a>, <a href="/wiki/Thriller_(g%C3%AAnero)" title="Thriller (gênero)">thriller psicológico</a>, <a href="/wiki/Romance_policial" title="Romance policial">romance policial</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><a href="/wiki/Movimento_art%C3%ADstico" title="Movimento artístico">Movimento</a> literário</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Literatura_moderna" title="Literatura moderna">Literatura moderna</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i>Inocência Perversa</i></td>
+</tr>
+</table>
+<p><b>Patricia Highsmith</b> (<a href="/wiki/Fort_Worth" title="Fort Worth">Fort Worth</a>, <a href="/wiki/Texas" title="Texas">Texas</a>, <a href="/wiki/19_de_Janeiro" class="mw-redirect" title="19 de Janeiro">19 de Janeiro</a> de <a href="/wiki/1921" title="1921">1921</a> - <a href="/wiki/Locarno" title="Locarno">Locarno</a>, <a href="/wiki/Su%C3%AD%C3%A7a" title="Suíça">Suíça</a>, <a href="/wiki/4_de_Fevereiro" class="mw-redirect" title="4 de Fevereiro">4 de Fevereiro</a> de <a href="/wiki/1995" title="1995">1995</a>) foi uma <a href="/wiki/Escritora" class="mw-redirect" title="Escritora">escritora</a> <a href="/wiki/Estado-unidense" class="mw-redirect" title="Estado-unidense">estado-unidense</a> famosa pelos seus <a href="/wiki/Suspense" title="Suspense">thrillers</a> criminais psicológicos. Iniciou a carreira na década de <a href="/wiki/1940" title="1940">1940</a>, escrevendo <a href="/wiki/Roteiro_de_quadrinhos" title="Roteiro de quadrinhos">roteiros para histórias quadrinhos</a> para editora Nedor, sobretudo as do super-herói <a href="/wiki/Black_Terror" title="Black Terror">Black Terror</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>. Tornou-se mundialmente famosa por <i><a href="/w/index.php?title=Strangers_on_a_Train_(livro)&amp;action=edit&amp;redlink=1" class="new" title="Strangers on a Train (livro) (página não existe)">Strangers on a Train</a></i>, que teve já várias adaptações para cinema, sendo a <a href="/wiki/Strangers_on_a_Train_(filme)" class="mw-redirect" title="Strangers on a Train (filme)">mais famosa</a> dirigida por <a href="/wiki/Alfred_Hitchcock" title="Alfred Hitchcock">Alfred Hitchcock</a> em <a href="/wiki/1951" title="1951">1951</a>, e pela série <i><a href="/w/index.php?title=Ripliad&amp;action=edit&amp;redlink=1" class="new" title="Ripliad (página não existe)">Ripliad</a></i> com a personagem <a href="/wiki/Thomas_Ripley" class="mw-redirect" title="Thomas Ripley">Thomas Ripley</a>. Escreveu também muitas <a href="/wiki/Conto" title="Conto">histórias curtas</a>, frequentemente macabras, <a href="/wiki/S%C3%A1tira" title="Sátira">satíricas</a> ou tingidas de <a href="/wiki/Humor_negro" title="Humor negro">humor negro</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bibliografia_seleccionada"><span class="tocnumber">2</span> <span class="toctext">Bibliografia seleccionada</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Romances"><span class="tocnumber">2.1</span> <span class="toctext">Romances</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Colecções_de_histórias"><span class="tocnumber">2.2</span> <span class="toctext">Colecções de histórias</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">3</span> <span class="toctext">Referências</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patricia_Highsmith&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Highsmith nasceu com o nome de Mary Patricia Plangman em <a href="/wiki/Fort_Worth" title="Fort Worth">Fort Worth</a>, <a href="/wiki/Texas" title="Texas">Texas</a>. Foi filha única dos artistas Jay Bernard Plangman (1889–1975), que tinha ascendência alemã, e Mary Plangman (nascida Coates; 3 de Setembro de 1895 – 12 de Março de 1991). O casal divorciou-se 10 dias antes do nascimento da sua filha.</p>
+<p>Patricia Highsmith morreu aos 74 anos, no dia 4 de Fevereiro de 1995, de complicações resultantes de uma <a href="/wiki/Anemia_apl%C3%A1stica" title="Anemia aplástica">anemia aplástica</a> e cancro pulmonar no hospital Carita em Locarno, Suíça, próximo da vila onde viveu desde 1982.</p>
+<h2><span class="mw-headline" id="Bibliografia_seleccionada">Bibliografia seleccionada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patricia_Highsmith&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Bibliografia seleccionada">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=edit&amp;section=2" title="Editar secção: Bibliografia seleccionada">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Romances">Romances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patricia_Highsmith&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Romances">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=edit&amp;section=3" title="Editar secção: Romances">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Strangers_on_a_Train" title="Strangers on a Train">Strangers on a Train</a></i> (<a href="/wiki/1950" title="1950">1950</a>)</li>
+<li><i>Carol (ou O Preço do Sal)</i> - no original <i><a href="/wiki/The_Price_of_Salt" title="The Price of Salt">The Price of Salt</a></i> ou <i><a href="/wiki/Carol_(filme)" title="Carol (filme)">Carol</a></i> (como Claire Morgan) (<a href="/wiki/1953" title="1953">1953</a>)</li>
+<li><i><a href="/w/index.php?title=The_Blunderer&amp;action=edit&amp;redlink=1" class="new" title="The Blunderer (página não existe)">The Blunderer</a></i> (<a href="/wiki/1954" title="1954">1954</a>)</li>
+<li><a href="/wiki/O_talentoso_Mr._Ripley" class="mw-redirect" title="O talentoso Mr. Ripley">O talentoso Mr. Ripley</a> - no original <i><a href="https://en.wikipedia.org/wiki/en:The_Talented_Mr._Ripley" class="extiw" title="w:en:The Talented Mr. Ripley">The Talented Mr. Ripley</a></i> (em inglês) (<a href="/wiki/1955" title="1955">1955</a>)</li>
+<li><i><a href="/wiki/Deep_Water" title="Deep Water">Deep Water</a></i> (<a href="/wiki/1957" title="1957">1957</a>)</li>
+<li><i><a href="/w/index.php?title=A_Game_for_the_Living&amp;action=edit&amp;redlink=1" class="new" title="A Game for the Living (página não existe)">A Game for the Living</a></i> (<a href="/wiki/1958" title="1958">1958</a>)</li>
+<li><i><a href="/w/index.php?title=This_Sweet_Sickness&amp;action=edit&amp;redlink=1" class="new" title="This Sweet Sickness (página não existe)">This Sweet Sickness</a></i> (<a href="/wiki/1960" title="1960">1960</a>)</li>
+<li><i><a href="/w/index.php?title=The_Two_Faces_of_January&amp;action=edit&amp;redlink=1" class="new" title="The Two Faces of January (página não existe)">The Two Faces of January</a></i> (<a href="/wiki/1961" title="1961">1961</a>)</li>
+<li><i><a href="/w/index.php?title=The_Cry_of_the_Owl&amp;action=edit&amp;redlink=1" class="new" title="The Cry of the Owl (página não existe)">The Cry of the Owl</a></i> (<a href="/wiki/1962" title="1962">1962</a>)</li>
+<li><i><a href="/w/index.php?title=The_Glass_Cell&amp;action=edit&amp;redlink=1" class="new" title="The Glass Cell (página não existe)">The Glass Cell</a></i> (<a href="/wiki/1964" title="1964">1964</a>)</li>
+<li><i><a href="/w/index.php?title=A_Suspension_of_Mercy&amp;action=edit&amp;redlink=1" class="new" title="A Suspension of Mercy (página não existe)">A Suspension of Mercy</a></i> (<a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><i><a href="/w/index.php?title=Those_Who_Walk_Away&amp;action=edit&amp;redlink=1" class="new" title="Those Who Walk Away (página não existe)">Those Who Walk Away</a></i> (<a href="/wiki/1967" title="1967">1967</a>)</li>
+<li><i><a href="/w/index.php?title=The_Tremor_of_Forgery&amp;action=edit&amp;redlink=1" class="new" title="The Tremor of Forgery (página não existe)">The Tremor of Forgery</a></i> (<a href="/wiki/1969" title="1969">1969</a>)</li>
+<li><i><a href="/w/index.php?title=Ripley_Under_Ground&amp;action=edit&amp;redlink=1" class="new" title="Ripley Under Ground (página não existe)">Ripley Under Ground</a></i> (<a href="/wiki/1970" title="1970">1970</a>)</li>
+<li><i><a href="/w/index.php?title=A_Dog%27s_Ransom&amp;action=edit&amp;redlink=1" class="new" title="A Dog's Ransom (página não existe)">A Dog's Ransom</a></i> (<a href="/wiki/1972" title="1972">1972</a>)</li>
+<li><i><a href="/w/index.php?title=Ripley%27s_Game_(livre)&amp;action=edit&amp;redlink=1" class="new" title="Ripley's Game (livre) (página não existe)">Ripley's Game</a></i> (<a href="/wiki/1974" title="1974">1974</a>)</li>
+<li><i><a href="/w/index.php?title=Edith%27s_Diary&amp;action=edit&amp;redlink=1" class="new" title="Edith's Diary (página não existe)">Edith's Diary</a></i> (<a href="/wiki/1977" title="1977">1977</a>)</li>
+<li><i><a href="/w/index.php?title=The_Boy_Who_Followed_Ripley&amp;action=edit&amp;redlink=1" class="new" title="The Boy Who Followed Ripley (página não existe)">The Boy Who Followed Ripley</a></i> (<a href="/wiki/1980" title="1980">1980</a>)</li>
+<li><i><a href="/w/index.php?title=People_Who_Knock_on_the_Door&amp;action=edit&amp;redlink=1" class="new" title="People Who Knock on the Door (página não existe)">People Who Knock on the Door</a></i> (<a href="/wiki/1983" title="1983">1983</a>)</li>
+<li><i><a href="/w/index.php?title=Found_in_the_Street&amp;action=edit&amp;redlink=1" class="new" title="Found in the Street (página não existe)">Found in the Street</a></i> (<a href="/wiki/1987" title="1987">1987</a>)</li>
+<li><i><a href="/w/index.php?title=Ripley_Under_Water&amp;action=edit&amp;redlink=1" class="new" title="Ripley Under Water (página não existe)">Ripley Under Water</a></i> (<a href="/wiki/1991" title="1991">1991</a>)</li>
+</ul>
+<h3><span id="Colec.C3.A7.C3.B5es_de_hist.C3.B3rias"></span><span class="mw-headline" id="Colecções_de_histórias">Colecções de histórias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patricia_Highsmith&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Colecções de histórias">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=edit&amp;section=4" title="Editar secção: Colecções de histórias">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Eleven" class="mw-disambig" title="Eleven">Eleven</a></i> (1970)</li>
+<li><i><a href="/w/index.php?title=Little_Tales_of_Misogyny&amp;action=edit&amp;redlink=1" class="new" title="Little Tales of Misogyny (página não existe)">Little Tales of Misogyny</a></i> (1974)</li>
+<li><i><a href="/w/index.php?title=The_Animal_Lover%27s_Book_of_Beastly_Murder&amp;action=edit&amp;redlink=1" class="new" title="The Animal Lover's Book of Beastly Murder (página não existe)">The Animal Lover's Book of Beastly Murder</a></i> (1975)</li>
+<li><i><a href="/w/index.php?title=Slowly,_Slowly_in_the_Wind&amp;action=edit&amp;redlink=1" class="new" title="Slowly, Slowly in the Wind (página não existe)">Slowly, Slowly in the Wind</a></i> (1979)</li>
+<li><i><a href="/w/index.php?title=The_Black_House&amp;action=edit&amp;redlink=1" class="new" title="The Black House (página não existe)">The Black House</a></i> (1981)</li>
+<li><i>Sereias no campo de golfe</i> - no original <i><a href="/w/index.php?title=Mermaids_on_the_Golf_Course&amp;action=edit&amp;redlink=1" class="new" title="Mermaids on the Golf Course (página não existe)">Mermaids on the Golf Course</a></i> (1985)</li>
+<li><i><a href="/w/index.php?title=Tales_of_Natural_and_Unnatural_Catastrophes&amp;action=edit&amp;redlink=1" class="new" title="Tales of Natural and Unnatural Catastrophes (página não existe)">Tales of Natural and Unnatural Catastrophes</a></i> (1987)</li>
+<li><i><a href="/w/index.php?title=Nothing_That_Meets_the_Eye:_The_Uncollected_Stories&amp;action=edit&amp;redlink=1" class="new" title="Nothing That Meets the Eye: The Uncollected Stories (página não existe)">Nothing That Meets the Eye: The Uncollected Stories</a></i> (2002)</li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation book">Peter Hogan (2014). <i>Terra Obscura: S.M.A.S.H. of Two Worlds</i>. [S.l.]: <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>. 9781401249915</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3APatricia+Highsmith&amp;rft.au=Peter+Hogan&amp;rft.btitle=Terra+Obscura%3A+S.M.A.S.H.+of+Two+Worlds&amp;rft.date=2014&amp;rft.genre=book&amp;rft.pub=DC+Comics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<table class="noprint" style="border-top:none; border-bottom:none; background:none;">
+<tr>
+<td align="center"><a href="/wiki/Ficheiro:Open_book_01.svg" class="image"><img alt="Ícone de esboço" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/30px-Open_book_01.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/45px-Open_book_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/60px-Open_book_01.svg.png 2x" data-file-width="360" data-file-height="360" /></a></td>
+<td><i>Este artigo sobre <span><a href="/wiki/Literatura" title="Literatura">literatura</a></span> é um <a href="/wiki/Wikip%C3%A9dia:Esbo%C3%A7o" title="Wikipédia:Esboço">esboço</a>. Você pode ajudar a Wikipédia <span class="plainlinks" style="font-weight:bold;"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Patricia_Highsmith&amp;action=edit">expandindo-o</a></span>.</i>
+<div class="noprint plainlinksneverexpand navbar plainlinks" style="background:none; padding:0; font-weight:normal;; font-size:xx-small; position:absolute; right:15px; font-size:smaller; display:none;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Esbo%C3%A7o-literatura" title="Predefinição:Esboço-literatura"><span title="Ver esta predefinição" style="">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Esbo%C3%A7o-literatura&amp;action=edit"><span title="Editar esta predefinição" style=";">e</span></a></div>
+</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;width: 12%; text-align:center;"><a href="/wiki/Ajuda:Controle_de_autoridade" title="Ajuda:Controle de autoridade">Controle de autoridade</a><br /></th>
+<td class="navbox-list navbox-odd plainlinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>: <span class="uid"><a href="https://www.wikidata.org/wiki/Q270635" class="extiw" title="wikidata:Q270635">Q270635</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" class="mw-redirect" title="Virtual International Authority File">VIAF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/66468662">66468662</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AllMovie" title="AllMovie">AllMovie</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allmovie.com/artist/p217495">p217495</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/AlloCin%C3%A9" title="AlloCiné">AlloCiné</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=36380.html?nopub=1">36380</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Espanha" title="Biblioteca Nacional da Espanha">BNE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX896115">XX896115</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119075049">119075049</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Cat%C3%A1logo_de_autoridades_de_nomes_e_t%C3%ADtulos_da_Catalunha" title="Catálogo de autoridades de nomes e títulos da Catalunha">CANTIC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a10632566">a10632566</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Digital_para_a_Literatura_Holandesa" title="Biblioteca Digital para a Literatura Holandesa">DBNL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.dbnl.org/auteurs/auteur.php?id=high001">high001</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Discogs" title="Discogs">Discogs</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/610824">610824</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">EBID</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Patricia-Highsmith">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Faceted_Application_of_Subject_Terminology" title="Faceted Application of Subject Terminology">FAST</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://experimental.worldcat.org/fast/48082/">48082</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Filmportal: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.filmportal.de/film/7279ed1e77d645f2825893b302118312">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gran_Enciclop%C3%A8dia_Catalana" title="Gran Enciclopèdia Catalana">GEC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/EC-GEC-0032632.xml">0032632</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/11855087X">11855087X</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" class="mw-redirect" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://id.sbn.it/af/IT\ICCU\CFIV\006585">IT\ICCU\CFIV\006585</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">IMDb</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=345&amp;url_prefix=http://www.imdb.com/&amp;id=nm0383604">nm0383604</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url/?p=213&amp;url_prefix=http://isni.org/&amp;id=0000">0001 2027 551X 0000 0001 2027 551X</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" class="mw-redirect" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n79151196">n79151196</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/c9e938a6-8e4a-43da-850d-2f4bfc9bbe87">ID</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Munzinger: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.munzinger.de/search/go/document.jsp?id=00000014231">00000014231</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Dieta" title="Biblioteca Nacional da Dieta">NDL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00443293">00443293</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Rep%C3%BAblica_Checa" title="Biblioteca Nacional da República Checa">NKC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19990003501">jn19990003501</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Gr%C3%A9cia" class="mw-redirect" title="Biblioteca Nacional da Grécia">NLG</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://nlg.okfn.gr/resource/authority/record80603">80603</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Notable_Names_Database" title="Notable Names Database">NNDB</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.nndb.com/people/106/000113764/">000113764</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Portrait_Gallery" title="National Portrait Gallery">NPG</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.npg.org.uk/collections/search/person/mp10827">mp10827</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Real_dos_Pa%C3%ADses_Baixos" title="Biblioteca Real dos Países Baixos">NTA</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p069046697">069046697</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Open_Library" title="Open Library">OL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL28577A">OL28577A</a></span></span></span></li>
+<li><span style="white-space:nowrap;">openMLOL: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openmlol.it/autore/180043">180043</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Portugal" title="Biblioteca Nacional de Portugal">PTBNP</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://urn.bn.pt/nca/unimarc-authorities/txt?id=41723">41723</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/229445">229445</a></span></span></span></li>
+<li><span style="white-space:nowrap;">SNAC: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://snaccooperative.org/ark:/99166/w6988j75">w6988j75</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Sistema_Universit%C3%A1rio_de_Documenta%C3%A7%C3%A3o" title="Sistema Universitário de Documentação">SUDOC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.idref.fr/026921979">026921979</a></span></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1334
+Cached time: 20180525051402
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.716 seconds
+Real time usage: 0.814 seconds
+Preprocessor visited node count: 5116/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45801/2097152 bytes
+Template argument size: 8675/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 33/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 861/5000000 bytes
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 6.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  760.227      1 -total
+ 42.84%  325.662      1 Predefinição:Controle_de_autoridade
+ 41.99%  319.245      1 Predefinição:Info/Biografia
+ 37.42%  284.478      1 Predefinição:Info
+  6.76%   51.381      1 Predefinição:Mais_fontes
+  5.14%   39.110      1 Predefinição:Manutenção/Categorizando_por_assunto
+  5.09%   38.688      1 Predefinição:Referências
+  4.30%   32.686      1 Predefinição:Citar_livro
+  3.23%   24.538      1 Predefinição:Wikidata_image
+  2.01%   15.292      1 Predefinição:Esboço-literatura
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:261373-0!canonical and timestamp 20180525051402 and revision id 51641264
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Patricia_Highsmith&amp;oldid=51641264">https://pt.wikipedia.org/w/index.php?title=Patricia_Highsmith&amp;oldid=51641264</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1921" title="Categoria:Nascidos em 1921">Nascidos em 1921</a></li><li><a href="/wiki/Categoria:Mortos_em_1995" title="Categoria:Mortos em 1995">Mortos em 1995</a></li><li><a href="/wiki/Categoria:Roteiristas_de_hist%C3%B3rias_em_quadrinhos_dos_Estados_Unidos" title="Categoria:Roteiristas de histórias em quadrinhos dos Estados Unidos">Roteiristas de histórias em quadrinhos dos Estados Unidos</a></li><li><a href="/wiki/Categoria:Autores_da_Era_de_Ouro_das_hist%C3%B3rias_em_quadrinhos" title="Categoria:Autores da Era de Ouro das histórias em quadrinhos">Autores da Era de Ouro das histórias em quadrinhos</a></li><li><a href="/wiki/Categoria:Patricia_Highsmith" title="Categoria:Patricia Highsmith">Patricia Highsmith</a></li><li><a href="/wiki/Categoria:Romancistas_dos_Estados_Unidos" title="Categoria:Romancistas dos Estados Unidos">Romancistas dos Estados Unidos</a></li><li><a href="/wiki/Categoria:Escritores_LGBT_dos_Estados_Unidos" title="Categoria:Escritores LGBT dos Estados Unidos">Escritores LGBT dos Estados Unidos</a></li><li><a href="/wiki/Categoria:Escritores_de_literatura_policial" title="Categoria:Escritores de literatura policial">Escritores de literatura policial</a></li><li><a href="/wiki/Categoria:Mulheres_na_literatura" title="Categoria:Mulheres na literatura">Mulheres na literatura</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!Artigos_que_carecem_de_notas_de_rodap%C3%A9_desde_outubro_de_2013" title="Categoria:!Artigos que carecem de notas de rodapé desde outubro de 2013">!Artigos que carecem de notas de rodapé desde outubro de 2013</a></li><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_sobre_literatura" title="Categoria:!Esboços sobre literatura">!Esboços sobre literatura</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_maiores_que_1000_bytes" title="Categoria:!Esboços maiores que 1000 bytes">!Esboços maiores que 1000 bytes</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Patricia+Highsmith" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Patricia+Highsmith" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Patricia_Highsmith" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Patricia_Highsmith" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Patricia_Highsmith">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Patricia_Highsmith&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Patricia_Highsmith&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Patricia+Highsmith">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Patricia+Highsmith&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Patricia_Highsmith&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Patricia_Highsmith" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Patricia_Highsmith" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Patricia_Highsmith" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Patricia_Highsmith&amp;oldid=51641264" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Patricia_Highsmith&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q270635" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Patricia_Highsmith&amp;id=51641264" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AA%D8%B1%D9%8A%D8%B4%D8%A7_%D9%87%D8%A7%D9%8A%D8%B3%D9%85%D9%8A%D8%AB" title="باتريشا هايسميث — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — asturiano" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%D8%A7_%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A7%D8%B3%D9%85%DB%8C%D8%AA" title="پاتریشا های‌اسمیت — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%88%D0%B0_%D0%A5%D0%B0%D0%B9%D1%81%D0%BC%D0%B8%D1%82" title="Патриша Хайсмит — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Patricia_Highsmithov%C3%A1" title="Patricia Highsmithová — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="artigo bom"><a href="https://de.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%84%CF%81%CE%AF%CF%83%CE%B9%CE%B1_%CE%A7%CE%AC%CE%B9%CF%83%CE%BC%CE%B9%CE%B8" title="Πατρίσια Χάισμιθ — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%D8%A7_%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A7%D8%B3%D9%85%DB%8C%D8%AA" title="پاتریشا های‌اسمیت — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%A9%D7%94_%D7%94%D7%99%D7%99%D7%A1%D7%9E%D7%99%D7%AA%27" title="פטרישה הייסמית&#039; — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — islandês" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%9F%E3%82%B9" title="パトリシア・ハイスミス — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8D%BC%ED%8A%B8%EB%A6%AC%EC%83%A4_%ED%95%98%EC%9D%B4%EC%8A%A4%EB%AF%B8%EC%8A%A4" title="퍼트리샤 하이스미스 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — latim" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — luxemburguês" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — pampango" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — quíchua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D1%81%D0%BC%D0%B8%D1%82,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B8%D1%8F" title="Хайсмит, Патриция — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%88%D0%B0_%D0%A5%D0%B0%D1%98%D1%81%D0%BC%D0%B8%D1%82" title="Патриша Хајсмит — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Patricia_Highsmith" title="Patricia Highsmith — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%96%D1%8F_%D0%93%D0%B0%D0%B9%D1%81%D0%BC%D1%96%D1%82" title="Патриція Гайсміт — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B4%BE%E7%BF%A0%E8%A5%BF%E4%BA%9E%C2%B7%E6%B5%B7%E5%8F%B2%E5%AF%86%E6%96%AF" title="派翠西亞·海史密斯 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q270635#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 14h22min de 28 de março de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Patricia_Highsmith&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.716","walltime":"0.814","ppvisitednodes":{"value":5116,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45801,"limit":2097152},"templateargumentsize":{"value":8675,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":861,"limit":5000000},"entityaccesscount":{"value":32,"limit":400},"timingprofile":["100.00%  760.227      1 -total"," 42.84%  325.662      1 Predefinição:Controle_de_autoridade"," 41.99%  319.245      1 Predefinição:Info/Biografia"," 37.42%  284.478      1 Predefinição:Info","  6.76%   51.381      1 Predefinição:Mais_fontes","  5.14%   39.110      1 Predefinição:Manutenção/Categorizando_por_assunto","  5.09%   38.688      1 Predefinição:Referências","  4.30%   32.686      1 Predefinição:Citar_livro","  3.23%   24.538      1 Predefinição:Wikidata_image","  2.01%   15.292      1 Predefinição:Esboço-literatura"]},"scribunto":{"limitreport-timeusage":{"value":"0.312","limit":"10.000"},"limitreport-memusage":{"value":7198462,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20180525051402","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

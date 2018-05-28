@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Raymond Clevie Carver, Jr. – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Raymond_Clevie_Carver,_Jr.","wgTitle":"Raymond Clevie Carver, Jr.","wgCurRevisionId":51642479,"wgRevisionId":51642479,"wgArticleId":196697,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Imagem local idêntica à do Wikidata","Nascidos em 1938","Mortos em 1988","Escritores dos Estados Unidos","Escritores minimalistas","Poetas da segunda vanguarda","Mortes por câncer"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Raymond_Clevie_Carver,_Jr.","wgRelevantArticleId":196697,"wgRequestId":"Wwof5gpAMFgAAC3K-kIAAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Raymond_Carver","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Raymond_Clevie_Carver,_Jr.","wgWikibaseItemId":"Q219862","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cc/Raymond_Carver.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Raymond_Clevie_Carver,_Jr."/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Raymond_Clevie_Carver,_Jr."/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Raymond_Clevie_Carver_Jr rootpage-Raymond_Clevie_Carver_Jr skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Raymond Clevie Carver, Jr.</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"><span class="mw-redirectedfrom">(Redirecionado de <b><a href="/w/index.php?title=Raymond_Carver&amp;redirect=no" class="mw-redirect" title="Raymond Carver">Raymond Carver</a></b>)</span></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Raymond Carver</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Raymond_Carver.jpg" class="image" title="Raymond Clevie Carver, Jr."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Raymond_Carver.jpg/200px-Raymond_Carver.jpg" width="200" height="197" srcset="//upload.wikimedia.org/wikipedia/commons/c/cc/Raymond_Carver.jpg 1.5x" data-file-width="288" data-file-height="284" /></a></div>
+</div>
+<small>Raymond Clevie Carver, Jr.</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Raymond Clevie Carver, Jr.</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/25_de_maio#Nascimentos" title="25 de maio">25 de maio</a> de <a href="/wiki/1938" title="1938">1938</a><br />
+<a href="/wiki/Clatskanie" title="Clatskanie">Clatskanie</a>, <a href="/wiki/Oregon" class="mw-redirect" title="Oregon">Oregon</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Morte</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><span style="white-space:nowrap;"><a href="/wiki/02_de_agosto" class="mw-redirect" title="02 de agosto">02 de agosto</a> de <a href="/wiki/1988" title="1988">1988</a>&#160;(50&#160;anos)</span><br />
+<a href="/wiki/Port_Angeles" title="Port Angeles">Port Angeles</a>, <a href="/wiki/Washington" title="Washington">Washington</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Povo_dos_Estados_Unidos" title="Povo dos Estados Unidos">norte-americano</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">Maryann Burk<br />
+Tess Gallagher</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Escritor" title="Escritor">Escritor</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Influenciados</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;">
+<hr />
+<div class="NavFrame collapsed" style="border:none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent; text-align:left;">Lista</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align:left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=David_Sedaris&amp;action=edit&amp;redlink=1" class="new" title="David Sedaris (página não existe)">David Sedaris</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;"><i><a href="/wiki/Magnum_opus" title="Magnum opus">Magnum opus</a></i></td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><i>Cathedral</i></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Escola/tradição</td>
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/Minimalismo" title="Minimalismo">Minimalismo</a>, <a href="/wiki/Realismo_sujo" title="Realismo sujo">Realismo sujo</a></td>
+</tr>
+</table>
+<p><b>Raymond Clevie Carver, Jr.</b> (<a href="/wiki/25_de_Maio" class="mw-redirect" title="25 de Maio">25 de Maio</a> de <a href="/wiki/1938" title="1938">1938</a> – <a href="/wiki/2_de_Agosto" class="mw-redirect" title="2 de Agosto">2 de Agosto</a> de <a href="/wiki/1988" title="1988">1988</a>) foi um <a href="/wiki/Escritor" title="Escritor">escritor</a> <a href="/wiki/Estados_Unidos" title="Estados Unidos">norte-americano</a>, participante do chamado <a href="/wiki/Realismo_sujo" title="Realismo sujo">Realismo sujo</a> e célebre por seus <a href="/wiki/Conto" title="Conto">contos</a> e <a href="/wiki/Poesia" title="Poesia">poemas</a> <a href="/wiki/Minimalismo" title="Minimalismo">minimalistas</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Obras"><span class="tocnumber">2</span> <span class="toctext">Obras</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Filmes"><span class="tocnumber">3</span> <span class="toctext">Filmes</span></a></li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">4</span> <span class="toctext">Referências</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ligações_externas"><span class="tocnumber">5</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carver nasceu em Clatskanie, <a href="/wiki/Oregon" class="mw-redirect" title="Oregon">Oregon</a> e cresceu em <a href="/wiki/Yakima" title="Yakima">Yakima</a>, <a href="/wiki/Washington" title="Washington">Washington</a>. Carver estudou por um tempo com o escritor e teórico <a href="/w/index.php?title=John_Gardner&amp;action=edit&amp;redlink=1" class="new" title="John Gardner (página não existe)">John Gardner</a> na <i>Chico State College</i> em <a href="/wiki/Chico_(Calif%C3%B3rnia)" title="Chico (Califórnia)">Chico</a>, <a href="/wiki/Calif%C3%B3rnia" title="Califórnia">Califórnia</a>. Publicou um grande número de contos em diversos periódicos, incluindo <i>The New Yorker</i> e <i>Esquire</i>, contos que mais tarde foram reunidos em livros. Suas histórias têm sido incluídas nas mais importantes coleções norte-americanas, como <i>Best American Short Stories</i> and <i>O. Henry Prize Stories</i>.</p>
+<p>A escrita de Carver é normalmente associada ao minimalismo. Seu editor na <i>Esquire</i>, Gordon Lish, foi fundamental neste processo. Por exemplo, quando Gardner aconselhava Carver a usar 15 palavras ao invés de 25, Lish aconselhava Carver a usar 5 no lugar de 15. Durante este tempo, Carver também submeteu suas poesias a <a href="/w/index.php?title=James_Dickey&amp;action=edit&amp;redlink=1" class="new" title="James Dickey (página não existe)">James Dickey</a>, então editor de poesia da <i>Esquire</i>.</p>
+<p>Carver morreu em Port Angeles, <a href="/wiki/Washington" title="Washington">Washington</a>, aos 50 anos, vítima de um câncer. Está enterrado no Cemitério Ocean View em <a href="/wiki/Port_Angeles" title="Port Angeles">Port Angeles, Washington</a>. A sua campa tem inscrita a seguinte citação<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>:</p>
+<pre>“And did you get what you wanted from this life, even so?”
+“I did.”
+“And what did you want?”
+“To call myself beloved, to feel myself beloved on the earth.”
+</pre>
+<h2><span class="mw-headline" id="Obras">Obras</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Obras">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit&amp;section=2" title="Editar secção: Obras">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Ficção</b></p>
+<ul>
+<li><i>Furious Seasons</i> (1960-1961)</li>
+<li><i>Neighbors</i> (1971)</li>
+<li><i>Tell the Women We’re Going</i> (1971)</li>
+<li><i>Jerry and Molly and Sam</i> (1972)</li>
+<li><i>They’re Not Your Husband</i> (1973)</li>
+<li><i>So Much Water So Close to Home</i> (1975)</li>
+<li><i>Collectors</i> (1975)</li>
+<li><i>Queres fazer o favor de te calares?</i> - no original <i>Will You Please Be Quiet, Please?</i> (1976)</li>
+<li><i>Vitamins</i> (1981)</li>
+<li><i>A Small, Good Thing</i> (1981)</li>
+<li><i>De que falamos quando falamos de amor</i> - no original <i>What We Talk About When We Talk About Love</i> (1981)</li>
+<li><i>Catedral</i> - no original <i>Cathedral</i> (1981)</li>
+<li><i>Where I'm Calling From: New and Selected Stories</i> (1982)</li>
+<li><i>Elephant</i> (1986)</li>
+<li><i>Short Cuts</i> (1993)</li>
+</ul>
+<p><b>Poesia</b></p>
+<ul>
+<li><i>Near Klamath</i> (1968)</li>
+<li><i>Winter Insomnia</i> (1970)</li>
+<li><i>So Much Water So Close To Home</i> (1975)</li>
+<li><i>At Night the Salmon Move</i> (1976)</li>
+<li><i>Where Water Comes Together with Other Water</i> (1985)</li>
+<li><i>Ultramarine</i> (1986)</li>
+<li><i>A New Path to the Waterfall</i> (1989)</li>
+<li><i>All of Us: The Collected Poems</i> (2000)</li>
+</ul>
+<p><b>Antologias</b></p>
+<ul>
+<li><i>Fogos</i> - no original <i>Fires</i> (1983)</li>
+<li><i>Where I'm Calling From</i> (1988)</li>
+<li><i>Heroísmos não, por favor</i> - no original <i>No Heroics, Please</i> (1991)</li>
+<li><i>Telefona-me se precisares de mim</i> - no original <i>Call if you Need Me</i> (2000)</li>
+</ul>
+<h2><span class="mw-headline" id="Filmes">Filmes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Filmes">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit&amp;section=3" title="Editar secção: Filmes">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Short Cuts</i> dirigido por Robert Altman</li>
+<li><i>Everything Goes</i> dirigido por Andrew Kotatko</li>
+<li><i><a href="/wiki/Birdman_ou_(A_Inesperada_Virtude_da_Ignor%C3%A2ncia)" title="Birdman ou (A Inesperada Virtude da Ignorância)">Birdman ou (A Inesperada Virtude da Ignorância)</a></i> por <a href="/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu" title="Alejandro González Iñárritu">Alejandro González Iñárritu</a></li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web">Tomás Agostinho, Cinema ParaIST (12 de Janeiro de 2015). <a rel="nofollow" class="external text" href="http://groups.ist.utl.pt/cinemaparaist/?p=9757">«<span style="padding-left:0.2em;">"</span>Birdman ou (A Inesperada Virtude da Ignorância)" de Alejandro González Iñárritu»</a><span class="reference-accessdate">. Consultado em 28 de Março de 2018.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ARaymond+Clevie+Carver%2C+Jr.&amp;rft.au=Tom%C3%A1s+Agostinho%2C+Cinema+ParaIST&amp;rft.btitle=%9CBirdman+ou+%28A+Inesperada+Virtude+da+Ignor%C3%A2ncia%29%9D+de+Alejandro+Gonz%C3%A1lez+I%C3%B1%C3%A1rritu&amp;rft.date=2015-01-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgroups.ist.utl.pt%2Fcinemaparaist%2F%3Fp%3D9757&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit&amp;section=4" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.philandjulie.com/carver/">Página de Raymond Carver</a></li>
+<li><a rel="nofollow" class="external text" href="http://wiredforbooks.org/raymondcarver/">Duas entrevistas de áudio de Raymond Carver (1983,1986), RealAudio</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sophieswoods.com/carver.html">Entrevista de Raymond Carver Interview (Abril de 1978)</a></li>
+<li><a rel="nofollow" class="external text" href="http://anonimo21.wordpress.com/2009/06/21/raymond-carver-seu-cachorro-morre/">Poema de Carver em tradução portuguesa</a></li>
+</ul>
+<p><br /></p>
+<ul class="noprint" style="border-top: solid silver 1px; border-bottom:1px solid silver; padding:3px; background-color: #F9F9F9; text-align: center; margin-top:10px; margin-left: 0; clear: both;">
+<li style="display: inline;"><span style="white-space: nowrap; margin: auto 1.5em"><span style="margin-right: 0.5em"><a href="/wiki/Ficheiro:Books-aj.svg_aj_ashton_01.png" title="Portal da literatura"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/25px-Books-aj.svg_aj_ashton_01.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/38px-Books-aj.svg_aj_ashton_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Books-aj.svg_aj_ashton_01.png/50px-Books-aj.svg_aj_ashton_01.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span style="font-weight:bold"><a href="/wiki/Portal:Literatura" title="Portal:Literatura">Portal da literatura</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20180523192959
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.456 seconds
+Preprocessor visited node count: 4408/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24876/2097152 bytes
+Template argument size: 5895/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1278/5000000 bytes
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  427.371      1 -total
+ 73.23%  312.952      1 Predefinição:Info/Biografia
+ 66.26%  283.196      1 Predefinição:Info
+ 13.24%   56.590      1 Predefinição:Portal3
+ 12.61%   53.908      1 Predefinição:Portal3/Portais
+ 11.51%   49.182      1 Predefinição:Referências
+  9.79%   41.838      1 Predefinição:Citar_web
+  4.75%   20.286      1 Predefinição:Collapsible_list
+  4.62%   19.756      1 Predefinição:Wikidata_image
+  2.55%   10.878      1 Predefinição:Nowrap
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:196697-0!canonical and timestamp 20180523192959 and revision id 51642479
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;oldid=51642479">https://pt.wikipedia.org/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;oldid=51642479</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1938" title="Categoria:Nascidos em 1938">Nascidos em 1938</a></li><li><a href="/wiki/Categoria:Mortos_em_1988" title="Categoria:Mortos em 1988">Mortos em 1988</a></li><li><a href="/wiki/Categoria:Escritores_dos_Estados_Unidos" title="Categoria:Escritores dos Estados Unidos">Escritores dos Estados Unidos</a></li><li><a href="/wiki/Categoria:Escritores_minimalistas" title="Categoria:Escritores minimalistas">Escritores minimalistas</a></li><li><a href="/wiki/Categoria:Poetas_da_segunda_vanguarda" title="Categoria:Poetas da segunda vanguarda">Poetas da segunda vanguarda</a></li><li><a href="/wiki/Categoria:Mortes_por_c%C3%A2ncer" title="Categoria:Mortes por câncer">Mortes por câncer</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categoria oculta: <ul><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Raymond+Clevie+Carver%2C+Jr." title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Raymond+Clevie+Carver%2C+Jr." title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Raymond_Clevie_Carver,_Jr." title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Raymond_Clevie_Carver,_Jr." rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Raymond_Clevie_Carver,_Jr.">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Raymond+Clevie+Carver%2C+Jr.">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Raymond+Clevie+Carver%2C+Jr.&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Raymond_Carver" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Raymond_Clevie_Carver,_Jr." title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Raymond_Clevie_Carver,_Jr." rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;oldid=51642479" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219862" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Raymond_Clevie_Carver%2C_Jr.&amp;id=51642479" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D9%85%D9%88%D9%86%D8%AF_%D9%83%D8%A7%D8%B1%D9%81%D8%B1" title="ريموند كارفر — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B1%DB%8C%D9%85%D9%88%D9%86%D8%AF_%DA%A9%D8%A7%D8%B1%D9%88%D8%B1" title="ریموند کارور — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B9%D0%BC%D0%B0%D0%BD%D0%B4_%D0%9A%D0%B0%D1%80%D0%B2%D1%8D%D1%80" title="Рэйманд Карвэр — Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D0%BC%D1%8A%D0%BD%D0%B4_%D0%9A%D0%B0%D1%80%D0%B2%D1%8A%D1%80" title="Реймънд Карвър — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — bretão" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%85%D9%88%D9%86%D8%AF_%DA%A9%D8%A7%D8%B1%D9%88%D8%B1" title="ریموند کارور — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%93_%D7%A7%D7%90%D7%A8%D7%91%D7%A8" title="ריימונד קארבר — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — islandês" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC" title="レイモンド・カーヴァー — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A0%88%EC%9D%B4%EB%A8%BC%EB%93%9C_%EC%B9%B4%EB%B2%84" title="레이먼드 카버 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B2%D0%B5%D1%80,_%D0%A0%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4" title="Карвер, Раймонд — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Raymond_Carver" title="Raymond Carver — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A8%D7%99%D7%99%D7%9E%D7%90%D7%A0%D7%93_%D7%A7%D7%90%D7%A8%D7%95%D7%95%D7%A2%D7%A8" title="ריימאנד קארווער — iídiche" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%91%9E%E8%92%99%C2%B7%E5%8D%A1%E4%BD%9B" title="瑞蒙·卡佛 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219862#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 16h44min de 28 de março de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Raymond_Clevie_Carver,_Jr.&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.456","ppvisitednodes":{"value":4408,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24876,"limit":2097152},"templateargumentsize":{"value":5895,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1278,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  427.371      1 -total"," 73.23%  312.952      1 Predefinição:Info/Biografia"," 66.26%  283.196      1 Predefinição:Info"," 13.24%   56.590      1 Predefinição:Portal3"," 12.61%   53.908      1 Predefinição:Portal3/Portais"," 11.51%   49.182      1 Predefinição:Referências","  9.79%   41.838      1 Predefinição:Citar_web","  4.75%   20.286      1 Predefinição:Collapsible_list","  4.62%   19.756      1 Predefinição:Wikidata_image","  2.55%   10.878      1 Predefinição:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1328295,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180523192959","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1253"});});</script>
+	</body>
+</html>
