@@ -36,11 +36,11 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="Wook">
 
-
-
+        <!-- Google SEO Optimization -->
+        
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197-vendor.min.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199-vendor.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199.min.css" />
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 28-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -279,54 +279,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/o-vampiro-lestat-i-anne-rice/65395">
-                                                                    <img src="https://img.wook.pt/images/o-vampiro-lestat-i-anne-rice/MXw2NTM5NXw5NTQ2MnwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="O Vampiro Lestat I">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Vampiro Lestat I" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="95462" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="95462" data-mesart="65395" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=95462&ficha=S&kpi=12&tipo=N&mesArtId=65395'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-vampiro-lestat-i-anne-rice/65395">
-                                O Vampiro Lestat I                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    21,09€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/azrael-o-anjo-da-vinganca-anne-rice/65574">
                                                                     <img src="https://img.wook.pt/images/azrael---o-anjo-da-vinganca-anne-rice/MXw2NTU3NHw5NTY0MXwxNDYzNjk4ODAwMDAw/170x" class="img-responsive" alt="Azrael - O Anjo da Vingança">
                                                             </a>
@@ -372,7 +324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/principe-lestat-anne-rice/17436874">
@@ -412,6 +364,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     18,00€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-vampiro-lestat-i-anne-rice/65395">
+                                                                    <img src="https://img.wook.pt/images/o-vampiro-lestat-i-anne-rice/MXw2NTM5NXw5NTQ2MnwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="O Vampiro Lestat I">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Vampiro Lestat I" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="95462" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="95462" data-mesart="65395" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=95462&ficha=S&kpi=12&tipo=N&mesArtId=65395'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-vampiro-lestat-i-anne-rice/65395">
+                                O Vampiro Lestat I                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    21,09€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -711,6 +711,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/belinda-anne-rice/206469">
+                                                                    <img src="https://img.wook.pt/images/belinda-anne-rice/MXwyMDY0Njl8MzIxNjczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Belinda">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Belinda" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="321673" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="321673" data-mesart="206469" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=321673&ficha=S&kpi=12&tipo=N&mesArtId=206469'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/belinda-anne-rice/206469">
+                                Belinda                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    24,21€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/a-libertacao-da-bela-adormecida-anne-rice/223544">
                                                                     <img src="https://img.wook.pt/images/a-libertacao-da-bela-adormecida-anne-rice/MXwyMjM1NDR8MzM5NTYyfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Libertação da Bela Adormecida">
                                                             </a>
@@ -757,56 +807,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     19,08€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/belinda-anne-rice/206469">
-                                                                    <img src="https://img.wook.pt/images/belinda-anne-rice/MXwyMDY0Njl8MzIxNjczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Belinda">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Belinda" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="321673" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="321673" data-mesart="206469" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=321673&ficha=S&kpi=12&tipo=N&mesArtId=206469'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/belinda-anne-rice/206469">
-                                Belinda                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    24,21€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -920,56 +920,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/o-castigo-da-bela-adormecida-anne-rice/181047">
-                                                                    <img src="https://img.wook.pt/images/o-castigo-da-bela-adormecida-anne-rice/MXwxODEwNDd8MjI5Njk5fDE0NTkxMTk2MDAwMDA=/170x" class="img-responsive" alt="O Castigo da Bela Adormecida">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Castigo da Bela Adormecida" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="229699" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="229699" data-mesart="181047" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=229699&ficha=S&kpi=12&tipo=N&mesArtId=181047'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-castigo-da-bela-adormecida-anne-rice/181047">
-                                O Castigo da Bela Adormecida                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,65€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/memnoch-o-demonio-anne-rice/65600">
                                                                     <img src="https://img.wook.pt/images/memnoch-o-demonio-anne-rice/MXw2NTYwMHw5NTY2N3wxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Memnoch, o Demónio">
                                                             </a>
@@ -1013,6 +963,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                             <div>Envio até 10 dias
 
 </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-castigo-da-bela-adormecida-anne-rice/181047">
+                                                                    <img src="https://img.wook.pt/images/o-castigo-da-bela-adormecida-anne-rice/MXwxODEwNDd8MjI5Njk5fDE0NTkxMTk2MDAwMDA=/170x" class="img-responsive" alt="O Castigo da Bela Adormecida">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Castigo da Bela Adormecida" data-autores="de Anne Rice" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="229699" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="229699" data-mesart="181047" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=229699&ficha=S&kpi=12&tipo=N&mesArtId=181047'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-castigo-da-bela-adormecida-anne-rice/181047">
+                                O Castigo da Bela Adormecida                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/anne-rice/15252">Anne Rice</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,65€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+ </div>                            
                                                                 </div>
 
                     </div>
@@ -1577,9 +1577,9 @@ O botão do Checkout Expresso só será visível se:
             </div>
             <!-- /#wrapper -->
 
-            <script type="text/javascript" src="//cdn.wook.pt/js/197-vendor.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-main.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-pesquisacontroller.min.js"></script>
+            <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Anne+Rice","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Anne Rice&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Anne+Rice";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Anne+Rice';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
                 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 

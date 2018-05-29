@@ -25,8 +25,9 @@ public class Trabalho_Pratico {
      */
     public static void main(String[] args) throws IOException {
        buscaAutoresFicheiro("escritores.txt");
-       // retiraNomeWiki("AntonioLoboAntunes_Wiki.txt");
+       //retiraNomeWiki("./escritores/AlexandreHerculano_Wiki.txt");
        //retiraDataNascimentoWiki("./escritores/JorgeAmado_Wiki.txt");
+       //retiraNacionalidadeWiki("./escritores/JamesJoyce_Wiki.txt");
     }
     
     /*input: autor - nome do autor da qual queremos a pagina
@@ -64,8 +65,8 @@ public class Trabalho_Pratico {
             autor = input.nextLine();
             getWikiFile(autor);
             getWookFile(autor);
-            //retiraNomeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ", ""));
-            //retiraDataNascimentoWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
+            retiraNomeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ", ""));
+            retiraDataNascimentoWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
             retiraNacionalidadeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
         }
         input.close();
@@ -80,7 +81,7 @@ public class Trabalho_Pratico {
         Scanner input = new Scanner(new FileInputStream(ficheiro));
         int found=0;
         String linha;
-        //String er="<td style=\"vertical-align: top; text-align: left; padding:4px 4px 4px 0;\">([a-zA-Zàáâāéí'\\s]*)<br />";
+        
         String er="<p><b>([a-zA-Zàáâāéíóú',.\\s]*)</b>[\\s,]";
         Pattern p = Pattern.compile(er);
         Matcher m;
@@ -106,8 +107,9 @@ public class Trabalho_Pratico {
         int found=0;
         String linha;
         String data_nasc;
-        //String er="title=\"10 de agosto\">10 de agosto</a> de <a href=\"/wiki/1912\"";
-        String er="title=\"([1-9a-zA-Zç\\s]+)\">[1-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([1-9]{4})\" title=\"[1-9]{4}\">[1-9]{4}</a>.*";
+        //"title=\"10 de agosto\">10 de agosto</a> de <a href=\"/wiki/1912\""
+        
+        String er="title=\"([0-9a-zA-Zç\\s]+)\">[0-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([0-9]{4})\" title=\"[0-9]{4}\">[0-9]{4}</a>";
         Pattern p = Pattern.compile(er);
         Matcher m;
         
@@ -131,18 +133,28 @@ public class Trabalho_Pratico {
     {
         Scanner input = new Scanner(new FileInputStream(ficheiro));
         String linha;
-        
-        String er="<a href=\"/wiki/[a-zA-Z]\" title=\"([a-zA-Z])*\"</a>,";
-        Pattern p = Pattern.compile(er);
+        int found=0;
+        String er1=">Nacionalidade</td>";  
+        String er2="<a href=\"/wiki/[a-zA-Zàáâāéíóúê',()\\s-_%0-9]*\" title=\"[a-zA-Zàáâāéíóúê',()%\\s-_]*\">([a-zA-Zàáâāéíóúê',-_%()\\s]*)</a>";
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
         Matcher m;
+        Matcher m2;
+        String nacionalidade;
         
         while(input.hasNextLine())
         {
             linha = input.nextLine();
-            m=p.matcher(linha);
-            while(m.find())
+            m=p1.matcher(linha);
+            if(m.find())
             {
-                System.out.println(m.group(1) + "\n");
+                nacionalidade = input.nextLine();
+                m2=p2.matcher(nacionalidade);
+                if(m2.find()){
+                    System.out.println(m2.group(1) + "\n");
+                    break;
+                }
+                
             }
         }
     }

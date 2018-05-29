@@ -36,11 +36,11 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="Wook">
 
-
-
+        <!-- Google SEO Optimization -->
+        
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197-vendor.min.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199-vendor.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199.min.css" />
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 28-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -619,63 +619,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920">
-                                                                    <img src="https://img.wook.pt/images/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/MXwxODgyMTkyMHwxNDU0NDEwMHwxNDc0ODQ0NDAwMDAw/170x" class="img-responsive" alt="Para Aquela que Está Sentada no Escuro à Minha Espera">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Para Aquela que Está Sentada no Escuro à Minha Espera" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14544100" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14544100" data-mesart="18821920" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14544100&ficha=S&kpi=12&tipo=N&mesArtId=18821920'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920">
-                                Para Aquela que Está Sentada no Escuro à Minha Espera                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-lobo-antunes/4007">António Lobo Antunes</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    19,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/da-natureza-dos-deuses-antonio-lobo-antunes/16807876">
                                                                     <img src="https://img.wook.pt/images/da-natureza-dos-deuses-antonio-lobo-antunes/MXwxNjgwNzg3NnwxMjQyNTk1OHwxNDQyNDQ0NDAwMDAw/170x" class="img-responsive" alt="Da Natureza dos Deuses">
                                                             </a>
@@ -722,6 +665,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     21,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920">
+                                                                    <img src="https://img.wook.pt/images/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/MXwxODgyMTkyMHwxNDU0NDEwMHwxNDc0ODQ0NDAwMDAw/170x" class="img-responsive" alt="Para Aquela que Está Sentada no Escuro à Minha Espera">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Para Aquela que Está Sentada no Escuro à Minha Espera" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14544100" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14544100" data-mesart="18821920" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14544100&ficha=S&kpi=12&tipo=N&mesArtId=18821920'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920">
+                                Para Aquela que Está Sentada no Escuro à Minha Espera                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-lobo-antunes/4007">António Lobo Antunes</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/para-aquela-que-esta-sentada-no-escuro-a-minha-espera-antonio-lobo-antunes/18821920"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,90€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -999,20 +999,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/memoria-de-elefante-antonio-lobo-antunes/15008102">
-                                                                    <img src="https://img.wook.pt/images/memoria-de-elefante-antonio-lobo-antunes/MXwxNTAwODEwMnwxMDQ5Mjk2MnwxNTExOTEzNjAwMDAw/170x" class="img-responsive" alt="Memória de Elefante">
+                            <a href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032">
+                                                                    <img src="https://img.wook.pt/images/sobolos-rios-que-vao-antonio-lobo-antunes/MXw5NjI1MDMyfDUyMTMzMDZ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Sôbolos Rios que Vão">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Memória de Elefante" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10492962" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10492962" data-mesart="15008102" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10492962&ficha=S&kpi=12&tipo=N&mesArtId=15008102'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Sôbolos Rios que Vão" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5213306" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5213306" data-mesart="9625032" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5213306&ficha=S&kpi=12&tipo=N&mesArtId=9625032'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/memoria-de-elefante-antonio-lobo-antunes/15008102">
-                                Memória de Elefante                            </a>
+                            <a class="title-lnk" href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032">
+                                Sôbolos Rios que Vão                            </a>
                             
                         </div>
 
@@ -1024,7 +1024,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             de <a href="/autor/antonio-lobo-antunes/4007">António Lobo Antunes</a>&nbsp;                        </div>
 
                         
-                                                <div class="col-xs-12">
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
                                     <div class="discount-percent big-discount">
@@ -1104,20 +1113,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032">
-                                                                    <img src="https://img.wook.pt/images/sobolos-rios-que-vao-antonio-lobo-antunes/MXw5NjI1MDMyfDUyMTMzMDZ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Sôbolos Rios que Vão">
+                            <a href="/livro/memoria-de-elefante-antonio-lobo-antunes/15008102">
+                                                                    <img src="https://img.wook.pt/images/memoria-de-elefante-antonio-lobo-antunes/MXwxNTAwODEwMnwxMDQ5Mjk2MnwxNTExOTEzNjAwMDAw/170x" class="img-responsive" alt="Memória de Elefante">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Sôbolos Rios que Vão" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5213306" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5213306" data-mesart="9625032" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5213306&ficha=S&kpi=12&tipo=N&mesArtId=9625032'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Memória de Elefante" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10492962" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10492962" data-mesart="15008102" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10492962&ficha=S&kpi=12&tipo=N&mesArtId=15008102'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032">
-                                Sôbolos Rios que Vão                            </a>
+                            <a class="title-lnk" href="/livro/memoria-de-elefante-antonio-lobo-antunes/15008102">
+                                Memória de Elefante                            </a>
                             
                         </div>
 
@@ -1129,16 +1138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             de <a href="/autor/antonio-lobo-antunes/4007">António Lobo Antunes</a>&nbsp;                        </div>
 
                         
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/sobolos-rios-que-vao-antonio-lobo-antunes/9625032"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
+                                                <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
                                     <div class="discount-percent big-discount">
@@ -1266,32 +1266,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/fado-alexandrino-antonio-lobo-antunes/223898">
-                                                                    <img src="https://img.wook.pt/images/fado-alexandrino-antonio-lobo-antunes/MXwyMjM4OTh8MzM5OTEzfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Fado Alexandrino">
+                            <a href="/livro/ilusoes-perdidas-honore-de-balzac/1875730">
+                                                                    <img src="https://img.wook.pt/images/ilusoes-perdidas-honore-de-balzac/MXwxODc1NzMwfDE2ODg3NTl8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Ilusões Perdidas">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fado Alexandrino" data-autores="de António Lobo Antunes" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="339913" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="339913" data-mesart="223898" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=339913&ficha=S&kpi=12&tipo=N&mesArtId=223898'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ilusões Perdidas" data-autores="de Honoré de Balzac" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1688759" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1688759" data-mesart="1875730" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1688759&ficha=S&kpi=12&tipo=N&mesArtId=1875730'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/fado-alexandrino-antonio-lobo-antunes/223898">
-                                Fado Alexandrino                            </a>
+                            <a class="title-lnk" href="/livro/ilusoes-perdidas-honore-de-balzac/1875730">
+                                Ilusões Perdidas                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">Obras Completas - Ne Varietur</div>
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
 
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-lobo-antunes/4007">António Lobo Antunes</a>&nbsp;                        </div>
+                            de <a href="/autor/honore-de-balzac/7125">Honoré de Balzac</a>&nbsp;                        </div>
 
                         
-                                                <div class="col-xs-12">
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/ilusoes-perdidas-honore-de-balzac/1875730"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
                                     <div class="discount-percent big-discount">
@@ -1302,11 +1311,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    22,90€                            </div>
+                                    9,90€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1665,10 +1673,10 @@ O botão do Checkout Expresso só será visível se:
             </div>
             <!-- /#wrapper -->
 
-            <script type="text/javascript" src="//cdn.wook.pt/js/197-vendor.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-main.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-pesquisacontroller.min.js"></script>
+            <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Ant%C3%B3nio+Lobo+Antunes","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Ant\u00f3nio Lobo Antunes&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Ant%C3%B3nio+Lobo+Antunes";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Ant%C3%B3nio+Lobo+Antunes';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":16,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

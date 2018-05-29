@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>871 resultados para "Fernando Pessoa"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>267 resultados para "Roberto Bolaño"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -231,20 +231,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/livro-do-desassossego-fernando-pessoa/11237291">
-                                                                    <img src="https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxMTIzNzI5MXwxNjEyODE1OHwxNTA4ODg2MDAwMDAw/170x" class="img-responsive" alt="Livro do Desassossego">
+                            <a href="/livro/2666-roberto-bolano/2181325">
+                                                                    <img src="https://img.wook.pt/images/2666-roberto-bolano/MXwyMTgxMzI1fDE5MDU1NTh8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="2666">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro do Desassossego" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16128158" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16128158" data-mesart="11237291" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16128158&ficha=S&kpi=12&tipo=N&mesArtId=11237291'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="2666" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1905558" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1905558" data-mesart="2181325" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1905558&ficha=S&kpi=12&tipo=N&mesArtId=2181325'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/11237291">
-                                Livro do Desassossego                            </a>
+                            <a class="title-lnk" href="/livro/2666-roberto-bolano/2181325">
+                                2666                            </a>
                             
                         </div>
 
@@ -253,433 +253,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/11237291"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(5)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    22,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/fausto-fernando-pessoa/21683292">
-                                                                    <img src="https://img.wook.pt/images/fausto-fernando-pessoa/MXwyMTY4MzI5MnwxNzUzNDk1OHwxNTIyMTA1MjAwMDAw/170x" class="img-responsive" alt="Fausto">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fausto" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17534958" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17534958" data-mesart="21683292" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17534958&ficha=S&kpi=12&tipo=N&mesArtId=21683292'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/fausto-fernando-pessoa/21683292">
-                                Fausto                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,20€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
-                                                                    <img src="https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxNTkyNzI2NXwxNzMwNjY2MHwxNTE5Nzc2MDAwMDAw/170x" class="img-responsive" alt="Livro do desassossego">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro do desassossego" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17306660" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17306660" data-mesart="15927265" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17306660&ficha=S&kpi=12&tipo=N&mesArtId=15927265'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
-                                Livro do desassossego                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(3)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,94€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
-                                                                    <img src="https://img.wook.pt/images/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/MXwxMzAyOTYyM3wxMjA4OTAwNXwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz" data-autores="de Fernando Pessoa e Ofélia Queiroz" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12089005" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12089005" data-mesart="13029623" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12089005&ficha=S&kpi=12&tipo=N&mesArtId=13029623'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
-                                Cartas de Amor de Fernando Pessoa e Ofélia Queiroz                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a> e <a href="/autor/ofelia-queiroz/2658813">Ofélia Queiroz</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(6)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/tenho-medo-de-partir-fernando-pessoa/21825828">
-                                                                    <img src="https://img.wook.pt/images/tenho-medo-de-partir-fernando-pessoa/MXwyMTgyNTgyOHwxNzY3OTIyM3wxNTI0MDkyNDAwMDAw/170x" class="img-responsive" alt="Tenho Medo de Partir">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Tenho Medo de Partir" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17679223" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17679223" data-mesart="21825828" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17679223&ficha=S&kpi=12&tipo=N&mesArtId=21825828'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/tenho-medo-de-partir-fernando-pessoa/21825828">
-                                Tenho Medo de Partir                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Um Livro de Viagens</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    12,15€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/absinto-opio-tabaco-e-outros-fumos-fernando-pessoa/21521019">
-                                                                    <img src="https://img.wook.pt/images/absinto-opio-tabaco-e-outros-fumos-fernando-pessoa/MXwyMTUyMTAxOXwxNzM2ODIxOXwxNTIwMzgwODAwMDAw/170x" class="img-responsive" alt="Absinto, Ópio, Tabaco e Outros Fumos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Absinto, Ópio, Tabaco e Outros Fumos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17368219" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17368219" data-mesart="21521019" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17368219&ficha=S&kpi=12&tipo=N&mesArtId=21521019'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/absinto-opio-tabaco-e-outros-fumos-fernando-pessoa/21521019">
-                                Absinto, Ópio, Tabaco e Outros Fumos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Um livro de vícios</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    10,80€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Envio até 4 dias
-
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/mensagem-fernando-pessoa/9616420">
-                                                                    <img src="https://img.wook.pt/images/mensagem-fernando-pessoa/MXw5NjE2NDIwfDE1NzE1MTg1fDE1MDg4ODYwMDAwMDA=/170x" class="img-responsive" alt="Mensagem">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Mensagem" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15715185" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15715185" data-mesart="9616420" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15715185&ficha=S&kpi=12&tipo=N&mesArtId=9616420'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/mensagem-fernando-pessoa/9616420">
-                                Mensagem                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/mensagem-fernando-pessoa/9616420"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(5)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    5,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/lisboa-revisitada-lisbon-revisited-fernando-pessoa/21600122">
-                                                                    <img src="https://img.wook.pt/images/lisboa-revisitada--lisbon-revisited-fernando-pessoa/MXwyMTYwMDEyMnwxNzQ1MDczMHwxNTIxNTA0MDAwMDAw/170x" class="img-responsive" alt="Lisboa Revisitada | Lisbon Revisited">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Lisboa Revisitada | Lisbon Revisited" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17450730" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17450730" data-mesart="21600122" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17450730&ficha=S&kpi=12&tipo=N&mesArtId=21600122'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/lisboa-revisitada-lisbon-revisited-fernando-pessoa/21600122">
-                                Lisboa Revisitada | Lisbon Revisited                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                                                    <div class="flag col-xs-12">
-                                <span class = "idioma"> idioma: Português, Inglês</span>       
-                            </div>
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,30€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
-                                                                    <img src="https://img.wook.pt/images/afinal-o-caracol-mafalda-milhoes/MXwxODAzMzI4N3wxMzcxNDAxNHwxNDY1OTQ1MjAwMDAw/170x" class="img-responsive" alt="Afinal o Caracol">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afinal o Caracol" data-autores="de Mafalda Milhões e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13714014" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13714014" data-mesart="18033287" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13714014&ficha=S&kpi=12&tipo=N&mesArtId=18033287'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
-                                Afinal o Caracol                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/mafalda-milhoes/43635">Mafalda Milhões</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/2666-roberto-bolano/2181325"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
@@ -698,10 +276,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    10,90€                            </div>
+                                    19,90€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -709,20 +288,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
-                                                                    <img src="https://img.wook.pt/images/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/MXwyMDUwNjF8MTI4NjU1NzN8MTQ1MzMzNDQwMDAwMA==/170x" class="img-responsive" alt="Poesia de Fernando Pessoa Para Todos">
+                            <a href="/livro/os-detetives-selvagens-roberto-bolano/19741836">
+                                                                    <img src="https://img.wook.pt/images/os-detetives-selvagens-roberto-bolano/MXwxOTc0MTgzNnwxNTU3NTEyNXwxNTA3NTAzNjAwMDAw/170x" class="img-responsive" alt="Os Detetives Selvagens">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia de Fernando Pessoa Para Todos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12865573" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12865573" data-mesart="205061" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12865573&ficha=S&kpi=12&tipo=N&mesArtId=205061'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Detetives Selvagens" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15575125" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15575125" data-mesart="19741836" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15575125&ficha=S&kpi=12&tipo=N&mesArtId=19741836'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
-                                Poesia de Fernando Pessoa Para Todos                            </a>
+                            <a class="title-lnk" href="/livro/os-detetives-selvagens-roberto-bolano/19741836">
+                                Os Detetives Selvagens                            </a>
                             
                         </div>
 
@@ -731,7 +310,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
 
                         
                                                 <div class="col-xs-12">
@@ -745,10 +324,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    14,40€                            </div>
+                                    21,96€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -756,20 +336,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/a-mensagem-fernando-pessoa/204148">
-                                                                    <img src="https://img.wook.pt/images/a-mensagem-fernando-pessoa/MXwyMDQxNDh8MzAzMTk2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Mensagem">
+                            <a href="/livro/noturno-chileno-roberto-bolano/16046045">
+                                                                    <img src="https://img.wook.pt/images/noturno-chileno-roberto-bolano/MXwxNjA0NjA0NXwxMTU5MTExMXwxNDIzNTI2NDAwMDAw/170x" class="img-responsive" alt="Noturno Chileno">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Mensagem" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="303196" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="303196" data-mesart="204148" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=303196&ficha=S&kpi=12&tipo=N&mesArtId=204148'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Noturno Chileno" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11591111" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11591111" data-mesart="16046045" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11591111&ficha=S&kpi=12&tipo=N&mesArtId=16046045'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/a-mensagem-fernando-pessoa/204148">
-                                A Mensagem                            </a>
+                            <a class="title-lnk" href="/livro/noturno-chileno-roberto-bolano/16046045">
+                                Noturno Chileno                            </a>
                             
                         </div>
 
@@ -778,11 +358,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-espirito-da-ficcao-cientifica-roberto-bolano/19008398">
+                                                                    <img src="https://img.wook.pt/images/o-espirito-da-ficcao-cientifica-roberto-bolano/MXwxOTAwODM5OHwxNDc3MjEyMXwxNDg4NDk5MjAwMDAw/170x" class="img-responsive" alt="O Espírito da Ficção Científica">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Espírito da Ficção Científica" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14772121" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14772121" data-mesart="19008398" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14772121&ficha=S&kpi=12&tipo=N&mesArtId=19008398'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-espirito-da-ficcao-cientifica-roberto-bolano/19008398">
+                                O Espírito da Ficção Científica                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/a-mensagem-fernando-pessoa/204148"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/o-espirito-da-ficcao-cientifica-roberto-bolano/19008398"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
                                     </div>
@@ -801,54 +429,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    12,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/fausto-fernando-pessoa/15104990">
-                                                                    <img src="https://img.wook.pt/images/fausto-fernando-pessoa/MXwxNTEwNDk5MHwxMDU5MTYzMHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Fausto">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fausto" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10591630" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10591630" data-mesart="15104990" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10591630&ficha=S&kpi=12&tipo=N&mesArtId=15104990'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/fausto-fernando-pessoa/15104990">
-                                Fausto                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,00€                            </div>
+                                    17,70€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -860,20 +441,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
-                                                                    <img src="https://img.wook.pt/images/um-retrato-fora-da-arca-zetho-cunha-goncalves/MXwyMTY4MzExNnwxNzUzNDY3NnwxNTIyMDE4ODAwMDAw/170x" class="img-responsive" alt="Um Retrato Fora da Arca">
+                            <a href="/livro/a-literatura-nazi-nas-americas-roberto-bolano/9856532">
+                                                                    <img src="https://img.wook.pt/images/a-literatura-nazi-nas-americas-roberto-bolano/MXw5ODU2NTMyfDU0NDQ4OTR8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="A Literatura Nazi nas Américas">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Um Retrato Fora da Arca" data-autores="de Zetho Cunha Gonçalves e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17534676" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17534676" data-mesart="21683116" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17534676&ficha=S&kpi=12&tipo=N&mesArtId=21683116'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Literatura Nazi nas Américas" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5444894" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5444894" data-mesart="9856532" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5444894&ficha=S&kpi=12&tipo=N&mesArtId=9856532'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
-                                Um Retrato Fora da Arca                            </a>
+                            <a class="title-lnk" href="/livro/a-literatura-nazi-nas-americas-roberto-bolano/9856532">
+                                A Literatura Nazi nas Américas                            </a>
                             
                         </div>
 
@@ -882,380 +463,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/zetho-cunha-goncalves/3189877">Zetho Cunha Gonçalves</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/livro-do-desassossego-fernando-pessoa/15249698">
-                                                                    <img src="https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxNTI0OTY5OHwxMDczODgyNXwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Livro do Desassossego">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro do Desassossego" data-autores="de Fernando Pessoa e Jerónimo Pizarro" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10738825" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10738825" data-mesart="15249698" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10738825&ficha=S&kpi=12&tipo=N&mesArtId=15249698'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15249698">
-                                Livro do Desassossego                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a> e <a href="/autor/jeronimo-pizarro/41946">Jerónimo Pizarro</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    25,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/poesia-inglesa-fernando-pessoa/11237375">
-                                                                    <img src="https://img.wook.pt/images/poesia-inglesa-fernando-pessoa/MXwxMTIzNzM3NXwxNzExMzA1M3wxNTE0MzMyODAwMDAw/170x" class="img-responsive" alt="Poesia Inglesa">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia Inglesa" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17113053" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17113053" data-mesart="11237375" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17113053&ficha=S&kpi=12&tipo=N&mesArtId=11237375'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/poesia-inglesa-fernando-pessoa/11237375">
-                                Poesia Inglesa                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                                                    <div class="flag col-xs-12">
-                                <span class = "idioma"> idioma: Português, Inglês</span>       
-                            </div>
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    19,80€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
-                                                                    <img src="https://img.wook.pt/images/cancioneiro-uma-antologia-fernando-pessoa/MXwxNDg0NTYyMXwxMzA0NzU2NXwxNDU2ODc2ODAwMDAw/170x" class="img-responsive" alt="Cancioneiro: Uma Antologia">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cancioneiro: Uma Antologia" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13047565" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13047565" data-mesart="14845621" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13047565&ficha=S&kpi=12&tipo=N&mesArtId=14845621'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
-                                Cancioneiro: Uma Antologia                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    9,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/poesia-de-alvaro-de-campos-fernando-pessoa/11237082">
-                                                                    <img src="https://img.wook.pt/images/poesia-de-alvaro-de-campos-fernando-pessoa/MXwxMTIzNzA4Mnw3OTU4MDY0fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Poesia de Álvaro de Campos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia de Álvaro de Campos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7958064" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7958064" data-mesart="11237082" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7958064&ficha=S&kpi=12&tipo=N&mesArtId=11237082'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/poesia-de-alvaro-de-campos-fernando-pessoa/11237082">
-                                Poesia de Álvaro de Campos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/poesia-de-alvaro-de-campos-fernando-pessoa/11237082"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/a-literatura-nazi-nas-americas-roberto-bolano/9856532"#productPageSectionComments>
                                     <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
                                     <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    22,20€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993">
-                                                                    <img src="https://img.wook.pt/images/livro-de-notas-c-elastico-fernando-pessoa---a-minha-patria-e-a-lingua-portuguesa/MXwxODg5Njk5M3wxNDYyNjc5OHwxNDc4MjE3NjAwMDAw/170x" class="img-responsive" alt="Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14626798" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14626798" data-mesart="18896993" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14626798&ficha=S&kpi=12&tipo=N&mesArtId=18896993'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993">
-                                Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                                                    </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,82€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265">
-                                                                    <img src="https://img.wook.pt/images/obra-completa-de-ricardo-reis-fernando-pessoa/MXwxODg4NDI2NXwxNDYxMjcyNHwxNDc2Mzk5NjAwMDAw/170x" class="img-responsive" alt="Obra Completa de Ricardo Reis">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Obra Completa de Ricardo Reis" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14612724" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14612724" data-mesart="18884265" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14612724&ficha=S&kpi=12&tipo=N&mesArtId=18884265'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265">
-                                Obra Completa de Ricardo Reis                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    24,99€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-banqueiro-anarquista-e-outros-contos-fernando-pessoa/15767015">
-                                                                    <img src="https://img.wook.pt/images/o-banqueiro-anarquista-e-outros-contos-fernando-pessoa/MXwxNTc2NzAxNXwxMTI2MjM2NnwxNDQ2NTk1MjAwMDAw/170x" class="img-responsive" alt="O Banqueiro Anarquista e Outros Contos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Banqueiro Anarquista e Outros Contos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11262366" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11262366" data-mesart="15767015" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11262366&ficha=S&kpi=12&tipo=N&mesArtId=15767015'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-banqueiro-anarquista-e-outros-contos-fernando-pessoa/15767015">
-                                O Banqueiro Anarquista e Outros Contos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-banqueiro-anarquista-e-outros-contos-fernando-pessoa/15767015"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -1277,6 +494,797 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/putas-assassinas-roberto-bolano/19366642">
+                                                                    <img src="https://img.wook.pt/images/putas-assassinas-roberto-bolano/MXwxOTM2NjY0MnwxNTE4MjYxMnwxNDk3ODI2ODAwMDAw/170x" class="img-responsive" alt="Putas Assassinas">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Putas Assassinas" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15182612" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15182612" data-mesart="19366642" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15182612&ficha=S&kpi=12&tipo=N&mesArtId=19366642'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/putas-assassinas-roberto-bolano/19366642">
+                                Putas Assassinas                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    17,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/amuleto-roberto-bolano/14827908">
+                                                                    <img src="https://img.wook.pt/images/amuleto-roberto-bolano/MXwxNDgyNzkwOHwxMDMxMDU2OHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Amuleto">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Amuleto" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10310568" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10310568" data-mesart="14827908" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10310568&ficha=S&kpi=12&tipo=N&mesArtId=14827908'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/amuleto-roberto-bolano/14827908">
+                                Amuleto                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/amuleto-roberto-bolano/14827908"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/a-pista-de-gelo-roberto-bolano/12446672">
+                                                                    <img src="https://img.wook.pt/images/a-pista-de-gelo-roberto-bolano/MXwxMjQ0NjY3Mnw4MDE4NzU2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Pista de Gelo">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Pista de Gelo" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="8018756" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="8018756" data-mesart="12446672" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=8018756&ficha=S&kpi=12&tipo=N&mesArtId=12446672'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/a-pista-de-gelo-roberto-bolano/12446672">
+                                A Pista de Gelo                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/a-pista-de-gelo-roberto-bolano/12446672"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,60€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/os-dissabores-do-verdadeiro-policia-roberto-bolano/10641483">
+                                                                    <img src="https://img.wook.pt/images/os-dissabores-do-verdadeiro-policia-roberto-bolano/MXwxMDY0MTQ4M3w2MjEwOTIzfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Os Dissabores do Verdadeiro Polícia">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Dissabores do Verdadeiro Polícia" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="6210923" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="6210923" data-mesart="10641483" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=6210923&ficha=S&kpi=12&tipo=N&mesArtId=10641483'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/os-dissabores-do-verdadeiro-policia-roberto-bolano/10641483">
+                                Os Dissabores do Verdadeiro Polícia                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/os-dissabores-do-verdadeiro-policia-roberto-bolano/10641483"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,60€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/2666-roberto-bolano/10547994">
+                                                                    <img src="https://img.wook.pt/images/2666-roberto-bolano/MXwxMDU0Nzk5NHw2MTIzNjM2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="2666">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="2666" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="6123636" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="6123636" data-mesart="10547994" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=6123636&ficha=S&kpi=12&tipo=N&mesArtId=10547994'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/2666-roberto-bolano/10547994">
+                                2666                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,63€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/2666-roberto-bolano/16465145">
+                                                                    <img src="https://img.wook.pt/images/2666-roberto-bolano/MXwxNjQ2NTE0NXwxMjA1NTAyNHwxNDUwNDgzMjAwMDAw/170x" class="img-responsive" alt="2666">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="2666" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12055024" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12055024" data-mesart="16465145" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12055024&ficha=S&kpi=12&tipo=N&mesArtId=16465145'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/2666-roberto-bolano/16465145">
+                                2666                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Picador Classic</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/the-romantic-dogs-roberto-bolano/17233859">
+                                                                    <img src="https://img.wook.pt/images/the-romantic-dogs-roberto-bolano/MXwxNzIzMzg1OXwxMjg1OTcxM3wxNTA3ODQ5MjAwMDAw/170x" class="img-responsive" alt="The Romantic Dogs">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="The Romantic Dogs" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12859713" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12859713" data-mesart="17233859" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12859713&ficha=S&kpi=12&tipo=N&mesArtId=17233859'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/the-romantic-dogs-roberto-bolano/17233859">
+                                The Romantic Dogs                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    12,07€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/woes-of-the-true-policeman-roberto-bolano/15285417">
+                                                                    <img src="https://img.wook.pt/images/woes-of-the-true-policeman-roberto-bolano/MXwxNTI4NTQxN3wxMDc3NTQ5NHwxMzk0NzU1MjAwMDAw/170x" class="img-responsive" alt="Woes Of The True Policeman">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Woes Of The True Policeman" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10775494" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10775494" data-mesart="15285417" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10775494&ficha=S&kpi=12&tipo=N&mesArtId=15285417'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/woes-of-the-true-policeman-roberto-bolano/15285417">
+                                Woes Of The True Policeman                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    12,07€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/the-insufferable-gaucho-roberto-bolano/15284262">
+                                                                    <img src="https://img.wook.pt/images/the-insufferable-gaucho-roberto-bolano/MXwxNTI4NDI2MnwxMDc3NDMzOXwxMzg0ODE5MjAwMDAw/170x" class="img-responsive" alt="The Insufferable Gaucho">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="The Insufferable Gaucho" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10774339" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10774339" data-mesart="15284262" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10774339&ficha=S&kpi=12&tipo=N&mesArtId=15284262'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/the-insufferable-gaucho-roberto-bolano/15284262">
+                                The Insufferable Gaucho                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    18,11€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/return-roberto-bolano/12848479">
+                                                                    <img src="https://img.wook.pt/images/return-roberto-bolano/MXwxMjg0ODQ3OXw4NDIwODg3fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Return">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Return" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="8420887" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="8420887" data-mesart="12848479" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=8420887&ficha=S&kpi=12&tipo=N&mesArtId=12848479'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/return-roberto-bolano/12848479">
+                                Return                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    18,11€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/monsieur-pain-roberto-bolano/10888900">
+                                                                    <img src="https://img.wook.pt/images/monsieur-pain-roberto-bolano/MXwxMDg4ODkwMHw2NDU4NTM3fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Monsieur Pain">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Monsieur Pain" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="6458537" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="6458537" data-mesart="10888900" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=6458537&ficha=S&kpi=12&tipo=N&mesArtId=10888900'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/monsieur-pain-roberto-bolano/10888900">
+                                Monsieur Pain                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,66€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/2666-roberto-bolano/1874574">
+                                                                    <img src="https://img.wook.pt/images/2666-roberto-bolano/MXwxODc0NTc0fDE2ODc5MDd8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="2666">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="2666" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1687907" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1687907" data-mesart="1874574" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1687907&ficha=S&kpi=12&tipo=N&mesArtId=1874574'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/2666-roberto-bolano/1874574">
+                                2666                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,25€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/last-evenings-on-earth-roberto-bolano/578657">
+                                                                    <img src="https://img.wook.pt/images/last-evenings-on-earth-roberto-bolano/MXw1Nzg2NTd8NjgwNDI1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Last Evenings On Earth">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Last Evenings On Earth" data-autores="de Roberto Bolaño" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="680425" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="680425" data-mesart="578657" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=680425&ficha=S&kpi=12&tipo=N&mesArtId=578657'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/last-evenings-on-earth-roberto-bolano/578657">
+                                Last Evenings On Earth                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/roberto-bolano/17899">Roberto Bolaño</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,32€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/maximalist-novel-stefano-ercolino/20210221">
+                                                                    <img src="https://img.wook.pt/images/maximalist-novel-stefano-ercolino/MXwyMDIxMDIyMXwxNjA2MTE4NXwxNTA3ODQ5MjAwMDAw/170x" class="img-responsive" alt="Maximalist Novel">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Maximalist Novel" data-autores="de Stefano Ercolino" data-epub="16061185" data-ewook="" type="button" data-kpicesto="5" data-subart="16061185" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16061185" data-mesart="20210221" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16061185&ficha=S&kpi=12&tipo=N&mesArtId=20210221'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/maximalist-novel-stefano-ercolino/20210221">
+                                Maximalist Novel                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">From Thomas Pynchon'S Gravity'S Rainbow To Roberto Bolano'S 2666</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/stefano-ercolino/3150865">Stefano Ercolino</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    35,04€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/maximalist-novel-stefano-ercolino/20210129">
+                                                                    <img src="https://img.wook.pt/images/maximalist-novel-stefano-ercolino/MXwyMDIxMDEyOXwxNjA2MTA5M3wxNTA3ODQ5MjAwMDAw/170x" class="img-responsive" alt="Maximalist Novel">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Maximalist Novel" data-autores="de Stefano Ercolino" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16061093" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16061093" data-mesart="20210129" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16061093&ficha=S&kpi=12&tipo=N&mesArtId=20210129'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/maximalist-novel-stefano-ercolino/20210129">
+                                Maximalist Novel                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">From Thomas Pynchon'S Gravity'S Rainbow To Roberto Bolano'S 2666</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/stefano-ercolino/3150865">Stefano Ercolino</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    35,04€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                 <span class="clearfix visible-lg"></span></div>
 
         <div class="col-xs-12" id="loader-page">
@@ -1291,7 +1299,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="scroll-to-top hidden"></div>    <input id = "actual-page" name = "actual-page" type = "hidden" value = "1">
 
     <!-- novos campos -->
-    <input id = "palavra" name = "palavra" type = "hidden" value = "Fernando+Pessoa">
+    <input id = "palavra" name = "palavra" type = "hidden" value = "Roberto+Bola%C3%B1o">
     <input id = "filterKey" name = "filterKey" type = "hidden" value = "">
     <input id = "filterValue" name = "filterValue" type = "hidden" value = "">
     <input id = "filterName" name = "filterName" type = "hidden" value = "">
@@ -1634,7 +1642,7 @@ O botão do Checkout Expresso só será visível se:
             <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
-<script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Fernando+Pessoa","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Fernando Pessoa&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Fernando+Pessoa";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Fernando+Pessoa';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":16,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Roberto+Bola%C3%B1o","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Roberto Bola\u00f1o&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Roberto+Bola%C3%B1o";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Roberto+Bola%C3%B1o';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":439,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

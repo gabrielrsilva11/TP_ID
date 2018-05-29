@@ -36,11 +36,11 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="Wook">
 
-
-
+        <!-- Google SEO Optimization -->
+        
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197-vendor.min.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199-vendor.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199.min.css" />
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 28-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>218 resultados para "Nicholas Sparks"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>219 resultados para "Nicholas Sparks"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -1290,20 +1290,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover disable">
-                            <a href="/livro/um-homem-com-sorte-nicholas-sparks/220339">
-                                                                    <img src="https://img.wook.pt/images/um-homem-com-sorte-nicholas-sparks/MXwyMjAzMzl8MzM2MjM1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Um Homem Com Sorte">
+                            <a href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145">
+                                                                    <img src="https://img.wook.pt/images/a-melodia-do-adeus-nicholas-sparks/MXwyODQzMTQ1fDIzOTc4OTd8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="A Melodia do Adeus">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Um Homem Com Sorte" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="336235" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="336235" data-mesart="220339" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=336235&ficha=S&kpi=12&tipo=N&mesArtId=220339'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Melodia do Adeus" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2397897" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2397897" data-mesart="2843145" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2397897&ficha=S&kpi=12&tipo=N&mesArtId=2843145'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/um-homem-com-sorte-nicholas-sparks/220339">
-                                Um Homem Com Sorte                            </a>
+                            <a class="title-lnk" href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145">
+                                A Melodia do Adeus                            </a>
                             
                         </div>
 
@@ -1316,7 +1316,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/um-homem-com-sorte-nicholas-sparks/220339"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
@@ -1690,10 +1690,10 @@ O botão do Checkout Expresso só será visível se:
             </div>
             <!-- /#wrapper -->
 
-            <script type="text/javascript" src="//cdn.wook.pt/js/197-vendor.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-main.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-pesquisacontroller.min.js"></script>
+            <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Nicholas+Sparks","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Nicholas Sparks&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Nicholas+Sparks";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Nicholas+Sparks';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

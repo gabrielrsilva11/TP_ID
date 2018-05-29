@@ -36,11 +36,11 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="Wook">
 
-
-
+        <!-- Google SEO Optimization -->
+        
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197-vendor.min.css" />
-<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/197.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199-vendor.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199.min.css" />
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 28-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -1626,9 +1626,9 @@ O botão do Checkout Expresso só será visível se:
             </div>
             <!-- /#wrapper -->
 
-            <script type="text/javascript" src="//cdn.wook.pt/js/197-vendor.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-main.min.js"></script>
-<script type="text/javascript" src="//cdn.wook.pt/js/197-pesquisacontroller.min.js"></script>
+            <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Emma+Donoghue","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Emma Donoghue&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Emma+Donoghue";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Emma+Donoghue';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
                 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
