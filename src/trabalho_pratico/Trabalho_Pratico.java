@@ -63,11 +63,15 @@ public class Trabalho_Pratico {
         while(input.hasNextLine())
         {
             autor = input.nextLine();
-            getWikiFile(autor);
-            getWookFile(autor);
+            //getWikiFile(autor);
+            //getWookFile(autor);
             retiraNomeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ", ""));
             retiraDataNascimentoWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
             retiraNacionalidadeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
+            retiraDataMorteWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
+            retiraOcupWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
+            retiraPremWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
+            System.out.println("\n");
         }
         input.close();
     }
@@ -90,9 +94,9 @@ public class Trabalho_Pratico {
         {
             linha = input.nextLine();
             m=p.matcher(linha);
-            while(m.find())
+            if(m.find())
             {
-                System.out.println(m.group(1));
+                System.out.println("Nome: "+m.group(1));
                 found =1;
             }
             if(found==1)
@@ -107,7 +111,6 @@ public class Trabalho_Pratico {
         int found=0;
         String linha;
         String data_nasc;
-        //"title=\"10 de agosto\">10 de agosto</a> de <a href=\"/wiki/1912\""
         
         String er="title=\"([0-9a-zA-Zç\\s]+)\">[0-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([0-9]{4})\" title=\"[0-9]{4}\">[0-9]{4}</a>";
         Pattern p = Pattern.compile(er);
@@ -117,10 +120,10 @@ public class Trabalho_Pratico {
         {
             linha = input.nextLine();
             m=p.matcher(linha);
-            while(m.find())
+            if(m.find())
             {
                 data_nasc = m.group(1)+ " de " + m.group(2);
-                System.out.println(data_nasc+"\n");
+                System.out.println("Data Nascimento: "+data_nasc);
                 found =1;
             }
             if(found==1)
@@ -133,7 +136,7 @@ public class Trabalho_Pratico {
     {
         Scanner input = new Scanner(new FileInputStream(ficheiro));
         String linha;
-        int found=0;
+        
         String er1=">Nacionalidade</td>";  
         String er2="<a href=\"/wiki/[a-zA-Zàáâāéíóúê',()\\s-_%0-9]*\" title=\"[a-zA-Zàáâāéíóúê',()%\\s-_]*\">([a-zA-Zàáâāéíóúê',-_%()\\s]*)</a>";
         Pattern p1 = Pattern.compile(er1);
@@ -151,11 +154,123 @@ public class Trabalho_Pratico {
                 nacionalidade = input.nextLine();
                 m2=p2.matcher(nacionalidade);
                 if(m2.find()){
-                    System.out.println(m2.group(1) + "\n");
+                    System.out.println("Nacionalidade: "+m2.group(1));
                     break;
                 }
                 
             }
         }
     }
-}
+    
+    public static void retiraDataMorteWiki(String ficheiro) throws FileNotFoundException
+    {
+        Scanner input = new Scanner(new FileInputStream(ficheiro));
+        String linha;
+        String morte;
+        String data_morte;
+        String er1=">Morte</td>";  
+        String er2="title=\"([0-9a-zA-Zç\\s]+)\">[0-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([0-9]{4})\" title=\"[0-9]{4}\">[0-9]{4}</a>";
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+        Matcher m;
+        Matcher m2;
+       
+        
+        while(input.hasNextLine())
+        {
+            linha = input.nextLine();
+            m=p1.matcher(linha);
+            if(m.find())
+            {
+                morte = input.nextLine();
+                m2=p2.matcher(morte);
+                if(m2.find())
+                {
+                    data_morte = m2.group(1)+ " de " + m2.group(2);
+                    System.out.println("Data de morte: "+data_morte);
+                    break;
+                }
+                
+            }
+        }
+    }
+    
+    public static void retiraOcupWiki(String ficheiro) throws FileNotFoundException
+    {
+        Scanner input = new Scanner(new FileInputStream(ficheiro));
+        String ocup;
+        String linha;
+        int group=1;
+        String er1=">Ocupação</td>";  
+        String er2=">([a-zA-Zàáâāéíóúê',()\\s-_]*)[</a>]?</td>|<a href=\"/wiki/[a-zA-Z]*\"[ class=\"mw\\-redirect\"]*title=\"[a-zA-Z]*\">([a-zA-Z]*)</a>";
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+        Matcher m;
+        Matcher m2;
+        String ocupacao;
+        
+        while(input.hasNextLine())
+        {
+            linha = input.nextLine();
+            m=p1.matcher(linha);
+            if(m.find())
+            {
+                ocup = input.nextLine();
+                m2=p2.matcher(ocup);
+                while(m2.find())
+                {
+                    ocupacao = m2.group(1);
+                    if(ocupacao==null)
+                    {    
+                        ocupacao = m2.group(2);
+                    } 
+                    System.out.println("Ocupacao: "+ocupacao);
+                    break;
+                }
+                
+            }
+        }
+    }
+    public static void retiraPremWiki(String ficheiro) throws FileNotFoundException
+    {
+        Scanner input = new Scanner(new FileInputStream(ficheiro));
+        String prem, linha, premios;
+        String er1=">Prémios</td>|>Prêmios</td>";
+        String er2="title=\"[a-zA-Zàáâāéíóúêõ',.()\\s/-_]*\">([a-zA-Zàáâāéíóúêõ'.,()\\s/-_]*)</a> ([(0-9),\\s]*)<br />|title=\"(Prémio [a-zA-Zàáâāéíóúê]*)\">";
+        Pattern p1=Pattern.compile(er1);
+        Pattern p2=Pattern.compile(er2);
+        Matcher m, m2;
+        
+        while(input.hasNextLine())
+        {
+            linha = input.nextLine();
+            m=p1.matcher(linha);
+            if(m.find())
+            {
+                while(input.hasNextLine())
+                {
+                    prem = input.nextLine();
+                    m2=p2.matcher(prem);
+                    while(m2.find())
+                    {
+                        premios = m2.group(1);
+                        if(premios==null)
+                        {
+                            premios=m2.group(3);
+                            System.out.println("grupo3");
+                            System.out.println("Premios: "+premios);
+                            break;
+                        }
+                        System.out.println("Premios: "+premios);
+                    }
+                }
+                break;
+            }
+        }
+    }
+    
+    public static void retiraImgWiki(String ficheiro) throws FileNotFoundException
+    {
+        
+    }
+ }

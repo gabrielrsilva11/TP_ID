@@ -4,14 +4,14 @@
 <meta charset="UTF-8"/>
 <title>Gabriela Mistral – Wikipédia, a enciclopédia livre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gabriela_Mistral","wgTitle":"Gabriela Mistral","wgCurRevisionId":48263924,"wgRevisionId":48263924,"wgArticleId":14011,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Imagem local diferente da no Wikidata","!Esboços sobre literatura","!Esboços maiores que 5000 bytes","Nascidos em 1889","Mortos em 1957","Nobel de Literatura","Laureados com o Nobel por país - Chile","Poetas do Chile","Feministas do Chile","Pseudónimos","Vencedores do Prêmio Nacional de Literatura do Chile","Naturais de Vicuña","Mulheres laureadas com o Nobel","Mulheres na literatura","Liberais clássicos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Gabriela_Mistral","wgRelevantArticleId":14011,"wgRequestId":"WweaFQpAMFUAAB6pp8UAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q80871","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gabriela_Mistral","wgTitle":"Gabriela Mistral","wgCurRevisionId":48263924,"wgRevisionId":48263924,"wgArticleId":14011,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Imagem local diferente da no Wikidata","!Esboços sobre literatura","!Esboços maiores que 5000 bytes","Nascidos em 1889","Mortos em 1957","Nobel de Literatura","Laureados com o Nobel por país - Chile","Poetas do Chile","Feministas do Chile","Pseudónimos","Vencedores do Prêmio Nacional de Literatura do Chile","Naturais de Vicuña","Mulheres laureadas com o Nobel","Mulheres na literatura","Liberais clássicos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Gabriela_Mistral","wgRelevantArticleId":14011,"wgRequestId":"Ww3GswpAADwAAFk30L8AAADG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q80871","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
 });mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.5"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -251,12 +251,12 @@ Edifício no <a href="/wiki/Bairro_Azul" title="Bairro Azul">Bairro Azul</a>, on
 
 <!-- 
 NewPP limit report
-Parsed by mw1243
-Cached time: 20180525042940
+Parsed by mw1299
+Cached time: 20180529201014
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.788 seconds
-Real time usage: 0.900 seconds
+CPU time usage: 0.820 seconds
+Real time usage: 0.896 seconds
 Preprocessor visited node count: 7208/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 61468/2097152 bytes
@@ -265,24 +265,24 @@ Highest expansion depth: 21/40
 Expensive parser function count: 39/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1495/5000000 bytes
-Lua time usage: 0.284/10.000 seconds
-Lua memory usage: 6.48 MB/50 MB
+Lua time usage: 0.257/10.000 seconds
+Lua memory usage: 6.75 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  820.943      1 -total
- 37.75%  309.894      1 Predefinição:Controle_de_autoridade
- 32.50%  266.779      1 Predefinição:Info/Biografia
- 28.80%  236.410      1 Predefinição:Info
- 16.51%  135.530      1 Predefinição:Link
- 16.29%  133.750      1 Predefinição:Link/código
- 15.66%  128.595      1 Predefinição:Link/línguas
-  5.33%   43.741      1 Predefinição:Referências
-  4.99%   40.980      1 Predefinição:Língua-meta
-  4.73%   38.799      1 Predefinição:Citar_livro
+100.00%  832.727      1 -total
+ 38.07%  317.059      1 Predefinição:Info/Biografia
+ 35.75%  297.709      1 Predefinição:Info
+ 30.58%  254.615      1 Predefinição:Controle_de_autoridade
+ 18.80%  156.529      1 Predefinição:Link
+ 18.52%  154.252      1 Predefinição:Link/código
+ 17.44%  145.233      1 Predefinição:Link/línguas
+  5.21%   43.363      1 Predefinição:Língua-meta
+  5.09%   42.401      1 Predefinição:Referências
+  4.45%   37.088      1 Predefinição:Citar_livro
 -->
 </div>
-<!-- Saved in parser cache with key ptwiki:pcache:idhash:14011-0!canonical and timestamp 20180525042939 and revision id 48263924
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:14011-0!canonical and timestamp 20180529201014 and revision id 48263924
  -->
 <noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Gabriela_Mistral&amp;oldid=48263924">https://pt.wikipedia.org/w/index.php?title=Gabriela_Mistral&amp;oldid=48263924</a>"					</div>
@@ -408,6 +408,6 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.788","walltime":"0.900","ppvisitednodes":{"value":7208,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61468,"limit":2097152},"templateargumentsize":{"value":16498,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":39,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1495,"limit":5000000},"entityaccesscount":{"value":38,"limit":400},"timingprofile":["100.00%  820.943      1 -total"," 37.75%  309.894      1 Predefinição:Controle_de_autoridade"," 32.50%  266.779      1 Predefinição:Info/Biografia"," 28.80%  236.410      1 Predefinição:Info"," 16.51%  135.530      1 Predefinição:Link"," 16.29%  133.750      1 Predefinição:Link/código"," 15.66%  128.595      1 Predefinição:Link/línguas","  5.33%   43.741      1 Predefinição:Referências","  4.99%   40.980      1 Predefinição:Língua-meta","  4.73%   38.799      1 Predefinição:Citar_livro"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":6792271,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20180525042940","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1250"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.820","walltime":"0.896","ppvisitednodes":{"value":7208,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61468,"limit":2097152},"templateargumentsize":{"value":16498,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":39,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1495,"limit":5000000},"entityaccesscount":{"value":38,"limit":400},"timingprofile":["100.00%  832.727      1 -total"," 38.07%  317.059      1 Predefinição:Info/Biografia"," 35.75%  297.709      1 Predefinição:Info"," 30.58%  254.615      1 Predefinição:Controle_de_autoridade"," 18.80%  156.529      1 Predefinição:Link"," 18.52%  154.252      1 Predefinição:Link/código"," 17.44%  145.233      1 Predefinição:Link/línguas","  5.21%   43.363      1 Predefinição:Língua-meta","  5.09%   42.401      1 Predefinição:Referências","  4.45%   37.088      1 Predefinição:Citar_livro"]},"scribunto":{"limitreport-timeusage":{"value":"0.257","limit":"10.000"},"limitreport-memusage":{"value":7074501,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20180529201014","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1265"});});</script>
 	</body>
 </html>
