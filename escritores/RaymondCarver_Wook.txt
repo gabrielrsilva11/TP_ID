@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -435,20 +435,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/beginners-raymond-carver/8803035">
-                                                                    <img src="https://img.wook.pt/images/beginners-raymond-carver/MXw4ODAzMDM1fDQ1NTg5MTB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Beginners">
+                            <a href="/livro/cathedral-raymond-carver/1994819">
+                                                                    <img src="https://img.wook.pt/images/cathedral-raymond-carver/MXwxOTk0ODE5fDE3NjA5MzN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Cathedral">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Beginners" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4558910" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4558910" data-mesart="8803035" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4558910&ficha=S&kpi=12&tipo=N&mesArtId=8803035'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cathedral" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1760933" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1760933" data-mesart="1994819" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1760933&ficha=S&kpi=12&tipo=N&mesArtId=1994819'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/beginners-raymond-carver/8803035">
-                                Beginners                            </a>
+                            <a class="title-lnk" href="/livro/cathedral-raymond-carver/1994819">
+                                Cathedral                            </a>
                             
                         </div>
 
@@ -476,228 +476,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    10,86€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/all-of-us-raymond-carver/322831">
-                                                                    <img src="https://img.wook.pt/images/all-of-us-raymond-carver/MXwzMjI4MzF8NDM4OTczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="All Of Us">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="All Of Us" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="438973" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="438973" data-mesart="322831" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=438973&ficha=S&kpi=12&tipo=N&mesArtId=322831'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/all-of-us-raymond-carver/322831">
-                                All Of Us                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">The Collected Poems</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    20,53€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/fires-raymond-carver/1991487">
-                                                                    <img src="https://img.wook.pt/images/fires-raymond-carver/MXwxOTkxNDg3fDE3NTgxNDJ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Fires">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fires" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1758142" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1758142" data-mesart="1991487" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1758142&ficha=S&kpi=12&tipo=N&mesArtId=1991487'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/fires-raymond-carver/1991487">
-                                Fires                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    10,86€                            </div>
+                                    12,07€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
 
  </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/elephant-raymond-carver/1994821">
-                                                                    <img src="https://img.wook.pt/images/elephant-raymond-carver/MXwxOTk0ODIxfDE3NjA5MzV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Elephant">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Elephant" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1760935" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1760935" data-mesart="1994821" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1760935&ficha=S&kpi=12&tipo=N&mesArtId=1994821'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/elephant-raymond-carver/1994821">
-                                Elephant                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    9,66€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/beginners-raymond-carver/1966094">
-                                                                    <img src="https://img.wook.pt/images/beginners-raymond-carver/MXwxOTY2MDk0fDE3MzcwMTN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Beginners">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Beginners" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1737013" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1737013" data-mesart="1966094" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1737013&ficha=S&kpi=12&tipo=N&mesArtId=1966094'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/beginners-raymond-carver/1966094">
-                                Beginners                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    20,53€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
                                                                 </div>
 
                     </div>
@@ -810,20 +594,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/will-you-please-be-quiet-please-raymond-carver/1994825">
-                                                                    <img src="https://img.wook.pt/images/will-you-please-be-quiet-please-raymond-carver/MXwxOTk0ODI1fDE3NjA5Mzl8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Will You Please Be Quiet, Please">
+                            <a href="/livro/beginners-raymond-carver/8803035">
+                                                                    <img src="https://img.wook.pt/images/beginners-raymond-carver/MXw4ODAzMDM1fDQ1NTg5MTB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Beginners">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Will You Please Be Quiet, Please" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1760939" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1760939" data-mesart="1994825" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1760939&ficha=S&kpi=12&tipo=N&mesArtId=1994825'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Beginners" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4558910" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4558910" data-mesart="8803035" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4558910&ficha=S&kpi=12&tipo=N&mesArtId=8803035'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/will-you-please-be-quiet-please-raymond-carver/1994825">
-                                Will You Please Be Quiet, Please                            </a>
+                            <a class="title-lnk" href="/livro/beginners-raymond-carver/8803035">
+                                Beginners                            </a>
                             
                         </div>
 
@@ -856,7 +640,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
 
- </div>                            
+</div>                            
                                                                 </div>
 
                     </div>
@@ -864,24 +648,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/cathedral-raymond-carver/1994819">
-                                                                    <img src="https://img.wook.pt/images/cathedral-raymond-carver/MXwxOTk0ODE5fDE3NjA5MzN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Cathedral">
+                            <a href="/livro/all-of-us-raymond-carver/322831">
+                                                                    <img src="https://img.wook.pt/images/all-of-us-raymond-carver/MXwzMjI4MzF8NDM4OTczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="All Of Us">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cathedral" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1760933" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1760933" data-mesart="1994819" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1760933&ficha=S&kpi=12&tipo=N&mesArtId=1994819'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="All Of Us" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="438973" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="438973" data-mesart="322831" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=438973&ficha=S&kpi=12&tipo=N&mesArtId=322831'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/cathedral-raymond-carver/1994819">
-                                Cathedral                            </a>
+                            <a class="title-lnk" href="/livro/all-of-us-raymond-carver/322831">
+                                All Of Us                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
+                        <div class="col-xs-12 hidden-xs sub-title">The Collected Poems</div>
 
 
 
@@ -905,61 +689,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    12,07€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/call-if-you-need-me-raymond-carver/374768">
-                                                                    <img src="https://img.wook.pt/images/call-if-you-need-me-raymond-carver/MXwzNzQ3Njh8NDkwOTEwfDE1MjU4MjA0MDAwMDA=/170x" class="img-responsive" alt="Call If You Need Me">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Call If You Need Me" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="490910" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="490910" data-mesart="374768" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=490910&ficha=S&kpi=12&tipo=N&mesArtId=374768'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/call-if-you-need-me-raymond-carver/374768">
-                                Call If You Need Me                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,11€                            </div>
+                                    20,53€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -970,116 +700,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/short-cuts-raymond-carver/228742">
-                                                                    <img src="https://img.wook.pt/images/short-cuts-raymond-carver/MXwyMjg3NDJ8MzQ0ODc2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Short Cuts">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Short Cuts" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="344876" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="344876" data-mesart="228742" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=344876&ficha=S&kpi=12&tipo=N&mesArtId=228742'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/short-cuts-raymond-carver/228742">
-                                Short Cuts                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    12,07€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/where-im-calling-from-raymond-carver/232687">
-                                                                    <img src="https://img.wook.pt/images/where-im-calling-from-raymond-carver/MXwyMzI2ODd8MzQ4ODIxfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Where I'M Calling From">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Where I'M Calling From" data-autores="de Raymond Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="348821" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="348821" data-mesart="232687" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=348821&ficha=S&kpi=12&tipo=N&mesArtId=232687'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/where-im-calling-from-raymond-carver/232687">
-                                Where I'M Calling From                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Selected Stories</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/raymond-carver/22239">Raymond Carver</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,11€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/ebook/not-far-from-here-vasiliki-fachard/15698670">
@@ -1125,7 +746,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/the-carver-chronotope-gp-lainsbury/3435041">
@@ -1178,7 +799,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/so-what-kept-you-tess-gallagher/374037">
@@ -1232,7 +853,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/ebook/raymond-carvers-chronotope-gp-lainsbury/14865275">
@@ -1259,6 +880,343 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="col-xs-12 autor">
                             de <a href="/autor/g-p-lainsbury/1242455">G.P. Lainsbury</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    42,05€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/raymond-carvers-chronotope-gp-lainsbury/14865276">
+                                                                    <img src="https://img.wook.pt/images/raymond-carvers-chronotope-gp-lainsbury/MXwxNDg2NTI3NnwxMDM0ODM2MnwxNTE1MDI0MDAwMDAw/170x" class="img-responsive" alt="Raymond Carver'S Chronotope">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Raymond Carver'S Chronotope" data-autores="de G.P. Lainsbury" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10348362" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10348362" data-mesart="14865276" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10348362&ficha=S&kpi=12&tipo=N&mesArtId=14865276'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/raymond-carvers-chronotope-gp-lainsbury/14865276">
+                                Raymond Carver'S Chronotope                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Contextualizing Raymond Carver</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/g-p-lainsbury/1242455">G.P. Lainsbury</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    42,05€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/raymond-carver-remembered-by-his-brother-james-james-carver/19078671">
+                                                                    <img src="https://img.wook.pt/images/raymond-carver-remembered-by-his-brother-james-james-carver/MXwxOTA3ODY3MXwxNDg0OTIwNnwxNDk2NzkwMDAwMDAw/170x" class="img-responsive" alt="Raymond Carver Remembered By His Brother James">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Raymond Carver Remembered By His Brother James" data-autores="de James Carver" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14849206" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14849206" data-mesart="19078671" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14849206&ficha=S&kpi=12&tipo=N&mesArtId=19078671'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/raymond-carver-remembered-by-his-brother-james-james-carver/19078671">
+                                Raymond Carver Remembered By His Brother James                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/james-carver/1872335">James Carver</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,66€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/17458145">
+                                                                    <img src="https://img.wook.pt/images/poetry-of-raymond-carver-sandra-lee-kleppe/MXwxNzQ1ODE0NXwxMzA5NDE0MXwxNDk5MjA5MjAwMDAw/170x" class="img-responsive" alt="Poetry Of Raymond Carver">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Poetry Of Raymond Carver" data-autores="de Sandra Lee Kleppe" data-epub="13094141" data-ewook="" type="button" data-kpicesto="5" data-subart="13094141" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13094141" data-mesart="17458145" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13094141&ficha=S&kpi=12&tipo=N&mesArtId=17458145'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/17458145">
+                                Poetry Of Raymond Carver                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Against The Current</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/sandra-lee-kleppe/3171151">Sandra Lee Kleppe</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    48,07€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/17458146">
+                                                                    <img src="https://img.wook.pt/images/poetry-of-raymond-carver-sandra-lee-kleppe/MXwxNzQ1ODE0NnwxMzA5NDE0MnwxNDk5MjA5MjAwMDAw/170x" class="img-responsive" alt="Poetry Of Raymond Carver">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Poetry Of Raymond Carver" data-autores="de Sandra Lee Kleppe" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13094142" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13094142" data-mesart="17458146" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13094142&ficha=S&kpi=12&tipo=N&mesArtId=17458146'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/17458146">
+                                Poetry Of Raymond Carver                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Against The Current</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/sandra-lee-kleppe/3171151">Sandra Lee Kleppe</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    48,07€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/15623288">
+                                                                    <img src="https://img.wook.pt/images/poetry-of-raymond-carver-sandra-lee-kleppe/MXwxNTYyMzI4OHwxMTExNzEwNXwxNDk4NDMxNjAwMDAw/170x" class="img-responsive" alt="Poetry Of Raymond Carver">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Poetry Of Raymond Carver" data-autores="de Sandra Lee Kleppe" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11117105" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11117105" data-mesart="15623288" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11117105&ficha=S&kpi=12&tipo=N&mesArtId=15623288'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/poetry-of-raymond-carver-sandra-lee-kleppe/15623288">
+                                Poetry Of Raymond Carver                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Against The Current</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/sandra-lee-kleppe/3171151">Sandra Lee Kleppe</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    133,21€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/the-poetry-of-raymond-carver-sandra-lee-kleppe/15710865">
+                                                                    <img src="https://img.wook.pt/images/the-poetry-of-raymond-carver-sandra-lee-kleppe/MXwxNTcxMDg2NXwxMTIwNTkyMnwxNDEyOTgyMDAwMDAw/170x" class="img-responsive" alt="The Poetry Of Raymond Carver">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="The Poetry Of Raymond Carver" data-autores="de Sandra Lee Kleppe" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11205922" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11205922" data-mesart="15710865" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11205922&ficha=S&kpi=12&tipo=N&mesArtId=15710865'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/the-poetry-of-raymond-carver-sandra-lee-kleppe/15710865">
+                                The Poetry Of Raymond Carver                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Against The Current</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/sandra-lee-kleppe/3171151">Sandra Lee Kleppe</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    138,97€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/ebook/technique-and-sensibility-in-the-fiction-and-poetry-of-raymond-carver-arthur-f-bethea/14917563">
+                                                                    <img src="https://img.wook.pt/images/technique-and-sensibility-in-the-fiction-and-poetry-of-raymond-carver-arthur-f-bethea/MXwxNDkxNzU2M3wxMDQwMTA3OXwxNTE1MDI0MDAwMDAw/170x" class="img-responsive" alt="Technique And Sensibility In The Fiction And Poetry Of Raymond Carver">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Technique And Sensibility In The Fiction And Poetry Of Raymond Carver" data-autores="de Arthur F. Bethea" data-epub="10401079" data-ewook="" type="button" data-kpicesto="5" data-subart="10401079" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10401079" data-mesart="14917563" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10401079&ficha=S&kpi=12&tipo=N&mesArtId=14917563'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/technique-and-sensibility-in-the-fiction-and-poetry-of-raymond-carver-arthur-f-bethea/14917563">
+                                Technique And Sensibility In The Fiction And Poetry Of Raymond Carver                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/arthur-f-bethea/700208">Arthur F. Bethea</a>&nbsp;                        </div>
 
                                                     <!-- bandeira da lingua-->
                             <div class="flag col-xs-12">
@@ -1636,6 +1594,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Raymond+Carver","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Raymond Carver&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Raymond+Carver";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Raymond+Carver';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":484,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

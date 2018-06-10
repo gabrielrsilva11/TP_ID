@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>412 resultados para "José Saramago"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>413 resultados para "José Saramago"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -788,54 +788,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/o-caderno-jose-saramago/21041829">
-                                                                    <img src="https://img.wook.pt/images/o-caderno-jose-saramago/MXwyMTA0MTgyOXwxNjkwNDY0MnwxNTIyMjc4MDAwMDAw/170x" class="img-responsive" alt="O Caderno">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Caderno" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16904642" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16904642" data-mesart="21041829" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16904642&ficha=S&kpi=12&tipo=N&mesArtId=21041829'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-caderno-jose-saramago/21041829">
-                                O Caderno                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,93€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/a-viagem-do-elefante-jose-saramago/15612435">
                                                                     <img src="https://img.wook.pt/images/a-viagem-do-elefante-jose-saramago/MXwxNTYxMjQzNXwxNDY0MjIyNHwxNDAxNzUwMDAwMDAw/170x" class="img-responsive" alt="A Viagem do Elefante">
                                                             </a>
@@ -881,184 +833,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/20276978">
-                                                                    <img src="https://img.wook.pt/images/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/MXwyMDI3Njk3OHwxNjEyODIyOXwxNTA2Mjk0MDAwMDAw/170x" class="img-responsive" alt="O Ano da Morte de Ricardo Reis">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Ano da Morte de Ricardo Reis" data-autores="de Ana Paula Arnaut" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16128229" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16128229" data-mesart="20276978" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16128229&ficha=S&kpi=12&tipo=N&mesArtId=20276978'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/20276978">
-                                O Ano da Morte de Ricardo Reis                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">de José Saramago</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/ana-paula-arnaut/24451">Ana Paula Arnaut</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442">
-                                                                    <img src="https://img.wook.pt/images/ensaio-sobre-a-lucidez-jose-saramago/MXwxNTYxMjQ0MnwxNjE0MTM3MHwxNTA4MzY3NjAwMDAw/170x" class="img-responsive" alt="Ensaio sobre a Lucidez">
+                            <a href="/livro/o-caderno-jose-saramago/21041829">
+                                                                    <img src="https://img.wook.pt/images/o-caderno-jose-saramago/MXwyMTA0MTgyOXwxNjkwNDY0MnwxNTIyMjc4MDAwMDAw/170x" class="img-responsive" alt="O Caderno">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ensaio sobre a Lucidez" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16141370" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16141370" data-mesart="15612442" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16141370&ficha=S&kpi=12&tipo=N&mesArtId=15612442'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Caderno" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16904642" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16904642" data-mesart="21041829" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16904642&ficha=S&kpi=12&tipo=N&mesArtId=21041829'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442">
-                                Ensaio sobre a Lucidez                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    17,70€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-homem-duplicado-jose-saramago/15497956">
-                                                                    <img src="https://img.wook.pt/images/o-homem-duplicado-jose-saramago/MXwxNTQ5Nzk1NnwxMzAxMjc0OXwxNDU1MTQ4ODAwMDAw/170x" class="img-responsive" alt="O Homem Duplicado">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Homem Duplicado" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13012749" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13012749" data-mesart="15497956" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13012749&ficha=S&kpi=12&tipo=N&mesArtId=15497956'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-homem-duplicado-jose-saramago/15497956">
-                                O Homem Duplicado                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-homem-duplicado-jose-saramago/15497956"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(4)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    17,70€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/a-jangada-de-pedra-jose-saramago/16393940">
-                                                                    <img src="https://img.wook.pt/images/a-jangada-de-pedra-jose-saramago/MXwxNjM5Mzk0MHwxMTk3ODAyNnwxNDQ1OTkwNDAwMDAw/170x" class="img-responsive" alt="A jangada de pedra">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A jangada de pedra" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11978026" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11978026" data-mesart="16393940" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11978026&ficha=S&kpi=12&tipo=N&mesArtId=16393940'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-jangada-de-pedra-jose-saramago/16393940">
-                                A jangada de pedra                            </a>
+                            <a class="title-lnk" href="/livro/o-caderno-jose-saramago/21041829">
+                                O Caderno                            </a>
                             
                         </div>
 
@@ -1081,124 +872,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    17,70€                            </div>
+                                    15,93€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/todos-os-nomes-jose-saramago/16392341">
-                                                                    <img src="https://img.wook.pt/images/todos-os-nomes-jose-saramago/MXwxNjM5MjM0MXwxMTk3NjMyMnwxNDQ1OTkwNDAwMDAw/170x" class="img-responsive" alt="Todos os nomes">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Todos os nomes" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11976322" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11976322" data-mesart="16392341" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11976322&ficha=S&kpi=12&tipo=N&mesArtId=16392341'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/todos-os-nomes-jose-saramago/16392341">
-                                Todos os nomes                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/todos-os-nomes-jose-saramago/16392341"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,60€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/caim-jose-saramago/18941657">
-                                                                    <img src="https://img.wook.pt/images/caim-jose-saramago/MXwxODk0MTY1N3wxNDY3NTc2MHwxNDg1MTI5NjAwMDAw/170x" class="img-responsive" alt="Caim">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Caim" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14675760" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14675760" data-mesart="18941657" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14675760&ficha=S&kpi=12&tipo=N&mesArtId=18941657'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/caim-jose-saramago/18941657">
-                                Caim                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/caim-jose-saramago/18941657"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
@@ -1264,6 +941,283 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/20276978">
+                                                                    <img src="https://img.wook.pt/images/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/MXwyMDI3Njk3OHwxNjEyODIyOXwxNTA2Mjk0MDAwMDAw/170x" class="img-responsive" alt="O Ano da Morte de Ricardo Reis">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Ano da Morte de Ricardo Reis" data-autores="de Ana Paula Arnaut" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16128229" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16128229" data-mesart="20276978" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16128229&ficha=S&kpi=12&tipo=N&mesArtId=20276978'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-ano-da-morte-de-ricardo-reis-ana-paula-arnaut/20276978">
+                                O Ano da Morte de Ricardo Reis                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">de José Saramago</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/ana-paula-arnaut/24451">Ana Paula Arnaut</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    8,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 4 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442">
+                                                                    <img src="https://img.wook.pt/images/ensaio-sobre-a-lucidez-jose-saramago/MXwxNTYxMjQ0MnwxNjE0MTM3MHwxNTA4MzY3NjAwMDAw/170x" class="img-responsive" alt="Ensaio sobre a Lucidez">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ensaio sobre a Lucidez" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16141370" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16141370" data-mesart="15612442" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16141370&ficha=S&kpi=12&tipo=N&mesArtId=15612442'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442">
+                                Ensaio sobre a Lucidez                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/ensaio-sobre-a-lucidez-jose-saramago/15612442"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    17,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-homem-duplicado-jose-saramago/15497956">
+                                                                    <img src="https://img.wook.pt/images/o-homem-duplicado-jose-saramago/MXwxNTQ5Nzk1NnwxMzAxMjc0OXwxNDU1MTQ4ODAwMDAw/170x" class="img-responsive" alt="O Homem Duplicado">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Homem Duplicado" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13012749" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13012749" data-mesart="15497956" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13012749&ficha=S&kpi=12&tipo=N&mesArtId=15497956'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-homem-duplicado-jose-saramago/15497956">
+                                O Homem Duplicado                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/o-homem-duplicado-jose-saramago/15497956"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(4)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    17,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/caim-jose-saramago/18941657">
+                                                                    <img src="https://img.wook.pt/images/caim-jose-saramago/MXwxODk0MTY1N3wxNDY3NTc2MHwxNDg1MTI5NjAwMDAw/170x" class="img-responsive" alt="Caim">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Caim" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14675760" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14675760" data-mesart="18941657" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14675760&ficha=S&kpi=12&tipo=N&mesArtId=18941657'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/caim-jose-saramago/18941657">
+                                Caim                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/caim-jose-saramago/18941657"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/todos-os-nomes-jose-saramago/16392341">
+                                                                    <img src="https://img.wook.pt/images/todos-os-nomes-jose-saramago/MXwxNjM5MjM0MXwxMTk3NjMyMnwxNDQ1OTkwNDAwMDAw/170x" class="img-responsive" alt="Todos os nomes">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Todos os nomes" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11976322" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11976322" data-mesart="16392341" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11976322&ficha=S&kpi=12&tipo=N&mesArtId=16392341'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/todos-os-nomes-jose-saramago/16392341">
+                                Todos os nomes                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/todos-os-nomes-jose-saramago/16392341"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,60€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/levantado-do-chao-jose-saramago/15840288">
                                                                     <img src="https://img.wook.pt/images/levantado-do-chao-jose-saramago/MXwxNTg0MDI4OHwxNzI4Mjk3MnwxNTE5MTcxMjAwMDAw/170x" class="img-responsive" alt="Levantado do Chão">
                                                             </a>
@@ -1313,6 +1267,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                                                                 <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/a-jangada-de-pedra-jose-saramago/16393940">
+                                                                    <img src="https://img.wook.pt/images/a-jangada-de-pedra-jose-saramago/MXwxNjM5Mzk0MHwxMTk3ODAyNnwxNDQ1OTkwNDAwMDAw/170x" class="img-responsive" alt="A jangada de pedra">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A jangada de pedra" data-autores="de José Saramago" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11978026" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11978026" data-mesart="16393940" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11978026&ficha=S&kpi=12&tipo=N&mesArtId=16393940'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/a-jangada-de-pedra-jose-saramago/16393940">
+                                A jangada de pedra                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-saramago/2316">José Saramago</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    17,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
@@ -1676,6 +1678,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Jos%C3%A9+Saramago","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Jos\u00e9 Saramago&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Jos%C3%A9+Saramago";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Jos%C3%A9+Saramago';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":517,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":476,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

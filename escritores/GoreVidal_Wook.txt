@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>143 resultados para "Gore Vidal"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>144 resultados para "Gore Vidal"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -489,24 +489,78 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/washington-dc-gore-vidal/124141">
-                                                                    <img src="https://img.wook.pt/images/washington-dc-gore-vidal/MXwxMjQxNDF8MTU0MjA4fDE1MDE1NDIwMDAwMDA=/170x" class="img-responsive" alt="Washington DC">
+                            <a href="/livro/lincoln-gore-vidal/9624611">
+                                                                    <img src="https://img.wook.pt/images/lincoln-gore-vidal/MXw5NjI0NjExfDUyMTI4NTV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Lincoln">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Washington DC" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="154208" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="154208" data-mesart="124141" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=154208&ficha=S&kpi=12&tipo=N&mesArtId=124141'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Lincoln" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5212855" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5212855" data-mesart="9624611" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5212855&ficha=S&kpi=12&tipo=N&mesArtId=9624611'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/washington-dc-gore-vidal/124141">
-                                Washington DC                            </a>
+                            <a class="title-lnk" href="/livro/lincoln-gore-vidal/9624611">
+                                Lincoln                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">Number 6 In Series</div>
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    32,12€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Normalmente segue para o correio em 30 dias.
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/creation-gore-vidal/124114">
+                                                                    <img src="https://img.wook.pt/images/creation-gore-vidal/MXwxMjQxMTR8MTU0MTgxfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Creation">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Creation" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="154181" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="154181" data-mesart="124114" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=154181&ficha=S&kpi=12&tipo=N&mesArtId=124114'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/creation-gore-vidal/124114">
+                                Creation                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
 
 
 
@@ -534,7 +588,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                            <div>Envio até 10 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/burr-gore-vidal/124148">
+                                                                    <img src="https://img.wook.pt/images/burr-gore-vidal/MXwxMjQxNDh8MTU0MjE1fDE1MTU1NDI0MDAwMDA=/170x" class="img-responsive" alt="Burr">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Burr" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="154215" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="154215" data-mesart="124148" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=154215&ficha=S&kpi=12&tipo=N&mesArtId=124148'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/burr-gore-vidal/124148">
+                                Burr                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Number 1 In Series</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,70€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+ </div>                            
                                                                 </div>
 
                     </div>
@@ -542,20 +653,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/creation-gore-vidal/124114">
-                                                                    <img src="https://img.wook.pt/images/creation-gore-vidal/MXwxMjQxMTR8MTU0MTgxfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Creation">
+                            <a href="/livro/julian-gore-vidal/1500068">
+                                                                    <img src="https://img.wook.pt/images/julian-gore-vidal/MXwxNTAwMDY4fDE0MjQyNTh8MTUxODM5MzYwMDAwMA==/170x" class="img-responsive" alt="Julian">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Creation" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="154181" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="154181" data-mesart="124114" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=154181&ficha=S&kpi=12&tipo=N&mesArtId=124114'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Julian" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1424258" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1424258" data-mesart="1500068" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1424258&ficha=S&kpi=12&tipo=N&mesArtId=1500068'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/creation-gore-vidal/124114">
-                                Creation                            </a>
+                            <a class="title-lnk" href="/livro/julian-gore-vidal/1500068">
+                                Julian                            </a>
                             
                         </div>
 
@@ -703,60 +814,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/lincoln-gore-vidal/9624611">
-                                                                    <img src="https://img.wook.pt/images/lincoln-gore-vidal/MXw5NjI0NjExfDUyMTI4NTV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Lincoln">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Lincoln" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5212855" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5212855" data-mesart="9624611" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5212855&ficha=S&kpi=12&tipo=N&mesArtId=9624611'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/lincoln-gore-vidal/9624611">
-                                Lincoln                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    32,12€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Normalmente segue para o correio em 30 dias.
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/williwaw-gore-vidal/348855">
                                                                     <img src="https://img.wook.pt/images/williwaw-gore-vidal/MXwzNDg4NTV8NDY0OTk4fDE0OTAzMTM2MDAwMDA=/170x" class="img-responsive" alt="Williwaw">
                                                             </a>
@@ -806,7 +863,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/in-a-yellow-wood-gore-vidal/299097">
@@ -858,7 +915,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/season-of-comfort-gore-vidal/605451">
@@ -906,61 +963,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/lincoln-gore-vidal/124129">
-                                                                    <img src="https://img.wook.pt/images/lincoln-gore-vidal/MXwxMjQxMjl8MTU0MTk2fDE1MDE1NDIwMDAwMDA=/170x" class="img-responsive" alt="Lincoln">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Lincoln" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="154196" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="154196" data-mesart="124129" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=154196&ficha=S&kpi=12&tipo=N&mesArtId=124129'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/lincoln-gore-vidal/124129">
-                                Lincoln                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Number 2 In Series</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,11€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
                                                                 </div>
 
                     </div>
@@ -1023,61 +1025,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/julian-gore-vidal/1500068">
-                                                                    <img src="https://img.wook.pt/images/julian-gore-vidal/MXwxNTAwMDY4fDE0MjQyNTh8MTUxODM5MzYwMDAwMA==/170x" class="img-responsive" alt="Julian">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Julian" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="1424258" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="1424258" data-mesart="1500068" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=1424258&ficha=S&kpi=12&tipo=N&mesArtId=1500068'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/julian-gore-vidal/1500068">
-                                Julian                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,11€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/myra-breckinridge-gore-vidal/124133">
                                                                     <img src="https://img.wook.pt/images/myra-breckinridge-gore-vidal/MXwxMjQxMzN8MTU0MjAwfDE1MDE1NDIwMDAwMDA=/170x" class="img-responsive" alt="Myra Breckinridge">
                                                             </a>
@@ -1130,7 +1077,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/duluth-gore-vidal/124116">
@@ -1182,7 +1129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/live-from-golgotha-gore-vidal/124125">
@@ -1234,7 +1181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/the-essential-gore-vidal-gore-vidal/3094783">
@@ -1283,6 +1230,60 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
                                                                             <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/thieves-fall-out-gore-vidal/17374423">
+                                                                    <img src="https://img.wook.pt/images/thieves-fall-out-gore-vidal/MXwxNzM3NDQyM3wxMzAwMTkzMnwxNDg1NTYxNjAwMDAw/170x" class="img-responsive" alt="Thieves Fall Out">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Thieves Fall Out" data-autores="de Gore Vidal" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13001932" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13001932" data-mesart="17374423" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13001932&ficha=S&kpi=12&tipo=N&mesArtId=17374423'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/thieves-fall-out-gore-vidal/17374423">
+                                Thieves Fall Out                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gore-vidal/4351">Gore Vidal</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,66€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+</div>                            
                                                                 </div>
 
                     </div>
@@ -1645,6 +1646,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Gore+Vidal","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Gore Vidal&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Gore+Vidal";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Gore+Vidal';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":15,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":112,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

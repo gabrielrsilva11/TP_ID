@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -573,6 +573,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223">
+                                                                    <img src="https://img.wook.pt/images/uma-escolha-por-amor-nicholas-sparks/MXwxNzM3OTIyM3wxMzAwNzUwMnwxNDUyODE2MDAwMDAw/170x" class="img-responsive" alt="Uma Escolha por Amor">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Uma Escolha por Amor" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13007502" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13007502" data-mesart="17379223" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13007502&ficha=S&kpi=12&tipo=N&mesArtId=17379223'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223">
+                                Uma Escolha por Amor                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(4)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/quem-ama-acredita-nicholas-sparks/15724261">
                                                                     <img src="https://img.wook.pt/images/quem-ama-acredita-nicholas-sparks/MXwxNTcyNDI2MXwxMTIxOTM1OHwxMzk4ODEyNDAwMDAw/170x" class="img-responsive" alt="Quem Ama Acredita">
                                                             </a>
@@ -627,7 +684,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/16936729">
@@ -684,7 +741,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/a-primeira-vista-nicholas-sparks/15934356">
@@ -741,23 +798,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223">
-                                                                    <img src="https://img.wook.pt/images/uma-escolha-por-amor-nicholas-sparks/MXwxNzM3OTIyM3wxMzAwNzUwMnwxNDUyODE2MDAwMDAw/170x" class="img-responsive" alt="Uma Escolha por Amor">
+                        <div class="cover disable">
+                            <a href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133">
+                                                                    <img src="https://img.wook.pt/images/uma-vida-ao-teu-lado-nicholas-sparks/MXwxNTIyMjEzM3wxMDcwOTU4NHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Uma Vida ao Teu Lado">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Uma Escolha por Amor" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13007502" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13007502" data-mesart="17379223" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13007502&ficha=S&kpi=12&tipo=N&mesArtId=17379223'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Uma Vida ao Teu Lado" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10709584" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10709584" data-mesart="15222133" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10709584&ficha=S&kpi=12&tipo=N&mesArtId=15222133'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223">
-                                Uma Escolha por Amor                            </a>
+                            <a class="title-lnk" href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133">
+                                Uma Vida ao Teu Lado                            </a>
                             
                         </div>
 
@@ -770,12 +827,175 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/uma-escolha-por-amor-nicholas-sparks/17379223"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(4)</div>
+                                    <div class="comments-nr pull-left">(55)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    17,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Esgotado</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001">
+                                                                    <img src="https://img.wook.pt/images/o-diario-da-nossa-paixao-nicholas-sparks/MXwyMDI3NzAwMXwxNjEyODI3M3wxNTA2Mjk0MDAwMDAw/170x" class="img-responsive" alt="O Diário da Nossa Paixão">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Diário da Nossa Paixão" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16128273" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16128273" data-mesart="20277001" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16128273&ficha=S&kpi=12&tipo=N&mesArtId=20277001'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001">
+                                O Diário da Nossa Paixão                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693">
+                                                                    <img src="https://img.wook.pt/images/as-palavras-que-nunca-te-direi-nicholas-sparks/MXwxOTU1ODY5M3wxNTM3OTI4MXwxNDk2MDEyNDAwMDAw/170x" class="img-responsive" alt="As Palavras que Nunca te Direi">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="As Palavras que Nunca te Direi" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15379281" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15379281" data-mesart="19558693" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15379281&ficha=S&kpi=12&tipo=N&mesArtId=19558693'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693">
+                                As Palavras que Nunca te Direi                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/lacos-que-perduram-nicholas-sparks/15008090">
+                                                                    <img src="https://img.wook.pt/images/lacos-que-perduram-nicholas-sparks/MXwxNTAwODA5MHwxMDQ5Mjk1MHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Laços que Perduram">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Laços que Perduram" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10492950" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10492950" data-mesart="15008090" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10492950&ficha=S&kpi=12&tipo=N&mesArtId=15008090'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/lacos-que-perduram-nicholas-sparks/15008090">
+                                Laços que Perduram                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/lacos-que-perduram-nicholas-sparks/15008090"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(8)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -850,227 +1070,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
+                                                                            <div>Envio até 4 dias
 
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover disable">
-                            <a href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133">
-                                                                    <img src="https://img.wook.pt/images/uma-vida-ao-teu-lado-nicholas-sparks/MXwxNTIyMjEzM3wxMDcwOTU4NHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Uma Vida ao Teu Lado">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Uma Vida ao Teu Lado" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10709584" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10709584" data-mesart="15222133" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10709584&ficha=S&kpi=12&tipo=N&mesArtId=15222133'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133">
-                                Uma Vida ao Teu Lado                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/uma-vida-ao-teu-lado-nicholas-sparks/15222133"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(55)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    17,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Esgotado</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001">
-                                                                    <img src="https://img.wook.pt/images/o-diario-da-nossa-paixao-nicholas-sparks/MXwyMDI3NzAwMXwxNjEyODI3M3wxNTA2Mjk0MDAwMDAw/170x" class="img-responsive" alt="O Diário da Nossa Paixão">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Diário da Nossa Paixão" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="16128273" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="16128273" data-mesart="20277001" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=16128273&ficha=S&kpi=12&tipo=N&mesArtId=20277001'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001">
-                                O Diário da Nossa Paixão                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/20277001"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693">
-                                                                    <img src="https://img.wook.pt/images/as-palavras-que-nunca-te-direi-nicholas-sparks/MXwxOTU1ODY5M3wxNTM3OTI4MXwxNDk2MDEyNDAwMDAw/170x" class="img-responsive" alt="As Palavras que Nunca te Direi">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="As Palavras que Nunca te Direi" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15379281" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15379281" data-mesart="19558693" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15379281&ficha=S&kpi=12&tipo=N&mesArtId=19558693'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693">
-                                As Palavras que Nunca te Direi                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/as-palavras-que-nunca-te-direi-nicholas-sparks/19558693"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/lacos-que-perduram-nicholas-sparks/15008090">
-                                                                    <img src="https://img.wook.pt/images/lacos-que-perduram-nicholas-sparks/MXwxNTAwODA5MHwxMDQ5Mjk1MHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Laços que Perduram">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Laços que Perduram" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10492950" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10492950" data-mesart="15008090" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10492950&ficha=S&kpi=12&tipo=N&mesArtId=15008090'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/lacos-que-perduram-nicholas-sparks/15008090">
-                                Laços que Perduram                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/lacos-que-perduram-nicholas-sparks/15008090"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(8)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+</div>                            
                                                                 </div>
 
                     </div>
@@ -1134,55 +1136,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover disable">
-                            <a href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956">
-                                                                    <img src="https://img.wook.pt/images/dei-te-o-melhor-de-mim-nicholas-sparks/MXwxMTkxNjk1Nnw3NDg4MzQxfDE0MTQ3MTM2MDAwMDA=/170x" class="img-responsive" alt="Dei-te o Melhor de Mim">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dei-te o Melhor de Mim" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7488341" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7488341" data-mesart="11916956" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7488341&ficha=S&kpi=12&tipo=N&mesArtId=11916956'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956">
-                                Dei-te o Melhor de Mim                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(36)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Esgotado</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/a-alquimia-do-amor-nicholas-sparks/16565403">
                                                                     <img src="https://img.wook.pt/images/a-alquimia-do-amor-nicholas-sparks/MXwxNjU2NTQwM3wxMjE2OTAyMHwxNDM0OTI3NjAwMDAw/170x" class="img-responsive" alt="A Alquimia do Amor">
@@ -1238,7 +1191,104 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover disable">
+                            <a href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956">
+                                                                    <img src="https://img.wook.pt/images/dei-te-o-melhor-de-mim-nicholas-sparks/MXwxMTkxNjk1Nnw3NDg4MzQxfDE0MTQ3MTM2MDAwMDA=/170x" class="img-responsive" alt="Dei-te o Melhor de Mim">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dei-te o Melhor de Mim" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7488341" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7488341" data-mesart="11916956" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7488341&ficha=S&kpi=12&tipo=N&mesArtId=11916956'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956">
+                                Dei-te o Melhor de Mim                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/dei-te-o-melhor-de-mim-nicholas-sparks/11916956"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(36)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    16,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Esgotado</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/um-homem-com-sorte-nicholas-sparks/21980239">
+                                                                    <img src="https://img.wook.pt/images/um-homem-com-sorte-nicholas-sparks/MXwyMTk4MDIzOXwxNzg0Mjk5N3wxNTI3NTQ4NDAwMDAw/170x" class="img-responsive" alt="Um Homem com Sorte">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Um Homem com Sorte" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17842997" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17842997" data-mesart="21980239" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17842997&ficha=S&kpi=12&tipo=N&mesArtId=21980239'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/um-homem-com-sorte-nicholas-sparks/21980239">
+                                Um Homem com Sorte                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,21€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="pre-launch">Pré-lançamento</div>
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover disable">
                             <a href="/livro/o-diario-da-nossa-paixao-nicholas-sparks/46623">
@@ -1273,55 +1323,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <!--deve ser o nr de comentarios-->
                                     <div class="comments-nr pull-left">(13)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Esgotado</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover disable">
-                            <a href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145">
-                                                                    <img src="https://img.wook.pt/images/a-melodia-do-adeus-nicholas-sparks/MXwyODQzMTQ1fDIzOTc4OTd8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="A Melodia do Adeus">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Melodia do Adeus" data-autores="de Nicholas Sparks" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2397897" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2397897" data-mesart="2843145" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2397897&ficha=S&kpi=12&tipo=N&mesArtId=2843145'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145">
-                                A Melodia do Adeus                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/nicholas-sparks/4895">Nicholas Sparks</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/a-melodia-do-adeus-nicholas-sparks/2843145"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(15)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -1694,6 +1695,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Nicholas+Sparks","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Nicholas Sparks&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Nicholas+Sparks";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Nicholas+Sparks';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":24,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

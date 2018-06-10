@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>150 resultados para "Antonio Tabucchi"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>151 resultados para "Antonio Tabucchi"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -398,46 +398,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover disable">
-                            <a href="/livro/autobiografias-alheias-antonio-tabucchi/21607815">
-                                                                    <img src="https://img.wook.pt/images/autobiografias-alheias-antonio-tabucchi/MXwyMTYwNzgxNXwxNzQ1ODcwNHwxNTIxNjc2ODAwMDAw/170x" class="img-responsive" alt="Autobiografias Alheias">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Autobiografias Alheias" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17458704" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17458704" data-mesart="21607815" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17458704&ficha=S&kpi=12&tipo=N&mesArtId=21607815'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/autobiografias-alheias-antonio-tabucchi/21607815">
-                                Autobiografias Alheias                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    13,41€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Esgotado</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/viagens-e-outras-viagens-antonio-tabucchi/14930633">
                                                                     <img src="https://img.wook.pt/images/viagens-e-outras-viagens-antonio-tabucchi/MXwxNDkzMDYzM3wxMDQxNDYwMXwxNDM2ODI4NDAwMDAw/170x" class="img-responsive" alt="Viagens e Outras Viagens">
@@ -493,7 +453,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/o-anjo-negro-antonio-tabucchi/15934313">
@@ -545,6 +505,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/afirma-pereira-pierre-henry-gomont/22005517">
+                                                                    <img src="https://img.wook.pt/images/afirma-pereira-pierre-henry-gomont/MXwyMjAwNTUxN3wxNzg3MDk3NnwxNTI4MTUzMjAwMDAw/170x" class="img-responsive" alt="Afirma Pereira">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afirma Pereira" data-autores="de Pierre-Henry Gomont e Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17870976" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17870976" data-mesart="22005517" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17870976&ficha=S&kpi=12&tipo=N&mesArtId=22005517'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/afirma-pereira-pierre-henry-gomont/22005517">
+                                Afirma Pereira                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pierre-henry-gomont/3765191">Pierre-Henry Gomont</a> e <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,20€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+</div>                            
                                                                 </div>
 
                     </div>
@@ -601,6 +611,311 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/afirma-pereira-antonio-tabucchi/16807878">
+                                                                    <img src="https://img.wook.pt/images/afirma-pereira-antonio-tabucchi/MXwxNjgwNzg3OHwxMjQyNTk2MHwxNDQyNDQ0NDAwMDAw/170x" class="img-responsive" alt="Afirma Pereira">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afirma Pereira" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12425960" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12425960" data-mesart="16807878" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12425960&ficha=S&kpi=12&tipo=N&mesArtId=16807878'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/afirma-pereira-antonio-tabucchi/16807878">
+                                Afirma Pereira                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/afirma-pereira-antonio-tabucchi/16807878"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-jogo-do-reverso-antonio-tabucchi/15222287">
+                                                                    <img src="https://img.wook.pt/images/o-jogo-do-reverso-antonio-tabucchi/MXwxNTIyMjI4N3wxMDcwOTc4MHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="O Jogo do Reverso">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Jogo do Reverso" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10709780" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10709780" data-mesart="15222287" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10709780&ficha=S&kpi=12&tipo=N&mesArtId=15222287'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-jogo-do-reverso-antonio-tabucchi/15222287">
+                                O Jogo do Reverso                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">e Pequenos Equívocos sem Importância</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410">
+                                                                    <img src="https://img.wook.pt/images/os-volateis-de-fra-angelico--sonhos-de-sonhos--os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/MXwxNjU2NTQxMHwxMjE2OTAyN3wxNDM0OTI3NjAwMDAw/170x" class="img-responsive" alt="Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12169027" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12169027" data-mesart="16565410" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12169027&ficha=S&kpi=12&tipo=N&mesArtId=16565410'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410">
+                                Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/nocturno-indiano-antonio-tabucchi/14319583">
+                                                                    <img src="https://img.wook.pt/images/nocturno-indiano-antonio-tabucchi/MXwxNDMxOTU4M3w5ODQwMTE0fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Nocturno Indiano">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Nocturno Indiano" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9840114" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9840114" data-mesart="14319583" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9840114&ficha=S&kpi=12&tipo=N&mesArtId=14319583'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/nocturno-indiano-antonio-tabucchi/14319583">
+                                Nocturno Indiano                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/tristano-morre-antonio-tabucchi/178993">
+                                                                    <img src="https://img.wook.pt/images/tristano-morre-antonio-tabucchi/MXwxNzg5OTN8MjI3NDMyfDE0NTkxMTk2MDAwMDA=/170x" class="img-responsive" alt="Tristano Morre">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Tristano Morre" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="227432" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="227432" data-mesart="178993" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=227432&ficha=S&kpi=12&tipo=N&mesArtId=178993'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/tristano-morre-antonio-tabucchi/178993">
+                                Tristano Morre                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/tristano-morre-antonio-tabucchi/178993"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover disable">
+                            <a href="/livro/autobiografias-alheias-antonio-tabucchi/21607815">
+                                                                    <img src="https://img.wook.pt/images/autobiografias-alheias-antonio-tabucchi/MXwyMTYwNzgxNXwxNzQ1ODcwNHwxNTIxNjc2ODAwMDAw/170x" class="img-responsive" alt="Autobiografias Alheias">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Autobiografias Alheias" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17458704" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17458704" data-mesart="21607815" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17458704&ficha=S&kpi=12&tipo=N&mesArtId=21607815'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/autobiografias-alheias-antonio-tabucchi/21607815">
+                                Autobiografias Alheias                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    13,41€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Esgotado</div>                            
                                                                 </div>
 
                     </div>
@@ -666,271 +981,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/afirma-pereira-antonio-tabucchi/16807878">
-                                                                    <img src="https://img.wook.pt/images/afirma-pereira-antonio-tabucchi/MXwxNjgwNzg3OHwxMjQyNTk2MHwxNDQyNDQ0NDAwMDAw/170x" class="img-responsive" alt="Afirma Pereira">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afirma Pereira" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12425960" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12425960" data-mesart="16807878" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12425960&ficha=S&kpi=12&tipo=N&mesArtId=16807878'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/afirma-pereira-antonio-tabucchi/16807878">
-                                Afirma Pereira                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/afirma-pereira-antonio-tabucchi/16807878"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-jogo-do-reverso-antonio-tabucchi/15222287">
-                                                                    <img src="https://img.wook.pt/images/o-jogo-do-reverso-antonio-tabucchi/MXwxNTIyMjI4N3wxMDcwOTc4MHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="O Jogo do Reverso">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Jogo do Reverso" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10709780" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10709780" data-mesart="15222287" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10709780&ficha=S&kpi=12&tipo=N&mesArtId=15222287'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-jogo-do-reverso-antonio-tabucchi/15222287">
-                                O Jogo do Reverso                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">e Pequenos Equívocos sem Importância</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410">
-                                                                    <img src="https://img.wook.pt/images/os-volateis-de-fra-angelico--sonhos-de-sonhos--os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/MXwxNjU2NTQxMHwxMjE2OTAyN3wxNDM0OTI3NjAwMDAw/170x" class="img-responsive" alt="Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12169027" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12169027" data-mesart="16565410" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12169027&ficha=S&kpi=12&tipo=N&mesArtId=16565410'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410">
-                                Os Voláteis de Fra Angelico / Sonhos de Sonhos / Os Três Últimos Dias de Fernando Pessoa                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/os-volateis-de-fra-angelico-sonhos-de-sonhos-os-tres-ultimos-dias-de-fernando-pessoa-antonio-tabucchi/16565410"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/nocturno-indiano-antonio-tabucchi/14319583">
-                                                                    <img src="https://img.wook.pt/images/nocturno-indiano-antonio-tabucchi/MXwxNDMxOTU4M3w5ODQwMTE0fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Nocturno Indiano">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Nocturno Indiano" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9840114" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9840114" data-mesart="14319583" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9840114&ficha=S&kpi=12&tipo=N&mesArtId=14319583'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/nocturno-indiano-antonio-tabucchi/14319583">
-                                Nocturno Indiano                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/tristano-morre-antonio-tabucchi/178993">
-                                                                    <img src="https://img.wook.pt/images/tristano-morre-antonio-tabucchi/MXwxNzg5OTN8MjI3NDMyfDE0NTkxMTk2MDAwMDA=/170x" class="img-responsive" alt="Tristano Morre">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Tristano Morre" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="227432" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="227432" data-mesart="178993" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=227432&ficha=S&kpi=12&tipo=N&mesArtId=178993'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/tristano-morre-antonio-tabucchi/178993">
-                                Tristano Morre                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/tristano-morre-antonio-tabucchi/178993"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/afirma-pereira-antonio-tabucchi/13027515">
                                                                     <img src="https://img.wook.pt/images/afirma-pereira-antonio-tabucchi/MXwxMzAyNzUxNXw4NjAwNzE1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Afirma Pereira">
                                                             </a>
@@ -976,59 +1026,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Envio até 20 dias
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/requiem-antonio-tabucchi/7562724">
-                                                                    <img src="https://img.wook.pt/images/requiem-antonio-tabucchi/MXw3NTYyNzI0fDQwNzEzMjZ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Requiem">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Requiem" data-autores="de Antonio Tabucchi" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4071326" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4071326" data-mesart="7562724" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4071326&ficha=S&kpi=12&tipo=N&mesArtId=7562724'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/requiem-antonio-tabucchi/7562724">
-                                Requiem                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-tabucchi/4948">Antonio Tabucchi</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,71€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Normalmente segue para o correio em 30 dias.
  </div>                            
                                                                 </div>
 
@@ -1637,6 +1634,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Antonio+Tabucchi","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Antonio Tabucchi&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Antonio+Tabucchi";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Antonio+Tabucchi';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":473,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

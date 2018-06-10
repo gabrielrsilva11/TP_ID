@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -434,8 +434,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/inocencia-perversa-patricia-highsmith/60075">
+                                                                    <img src="https://img.wook.pt/images/inocencia-perversa-patricia-highsmith/MXw2MDA3NXw5MDE0MnwxNDYzNjk4ODAwMDAw/170x" class="img-responsive" alt="Inocência Perversa">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Inocência Perversa" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="90142" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="90142" data-mesart="60075" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=90142&ficha=S&kpi=12&tipo=N&mesArtId=60075'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/inocencia-perversa-patricia-highsmith/60075">
+                                Inocência Perversa                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    10,10€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/deep-water-patricia-highsmith/19312924">
-                                                                    <img src="https://img.wook.pt/images/deep-water-patricia-highsmith/MXwxOTMxMjkyNHwxNTEyMDg3MXwxNTI1NzM0MDAwMDAw/170x" class="img-responsive" alt="Deep Water">
+                                                                    <img src="https://img.wook.pt/images/deep-water-patricia-highsmith/MXwxOTMxMjkyNHwxNTEyMDg3MXwxNTI4MzI2MDAwMDAw/170x" class="img-responsive" alt="Deep Water">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
                                                                     <button id="addCart-btn" data-tipoArtigo="livro" data-title="Deep Water" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15120871" class="btn add-cart "></button>
@@ -485,7 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/o-amigo-americano-patricia-highsmith/18498252">
@@ -533,77 +580,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/ripley-et-les-ombres-ned-2018-patricia-highsmith/21609130">
-                                                                    <img src="https://img.wook.pt/images/ripley-et-les-ombres---ned-2018-patricia-highsmith/MXwyMTYwOTEzMHwxNzQ2MDQ1NXwxNTI2MjUyNDAwMDAw/170x" class="img-responsive" alt="Ripley Et Les Ombres - Ned 2018">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ripley Et Les Ombres - Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460455" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460455" data-mesart="21609130" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460455&ficha=S&kpi=12&tipo=N&mesArtId=21609130'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/ripley-et-les-ombres-ned-2018-patricia-highsmith/21609130">
-                                Ripley Et Les Ombres - Ned 2018                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,88€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Normalmente segue para o correio em 30 dias.
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/21609133">
-                                                                    <img src="https://img.wook.pt/images/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/MXwyMTYwOTEzM3wxNzQ2MDQ1OHwxNTI2MjUyNDAwMDAw/170x" class="img-responsive" alt="Le Talentueux Mr Ripley Ned 2018">
+                            <a href="/livro/a-mascara-de-ripley-patricia-highsmith/18498226">
+                                                                    <img src="https://img.wook.pt/images/a-mascara-de-ripley-patricia-highsmith/MXwxODQ5ODIyNnwxNDE5MzI2NXwxNDcwMTc4ODAwMDAw/170x" class="img-responsive" alt="A Máscara de Ripley">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Le Talentueux Mr Ripley Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460458" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460458" data-mesart="21609133" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460458&ficha=S&kpi=12&tipo=N&mesArtId=21609133'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Máscara de Ripley" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14193265" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14193265" data-mesart="18498226" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14193265&ficha=S&kpi=12&tipo=N&mesArtId=18498226'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/21609133">
-                                Le Talentueux Mr Ripley Ned 2018                            </a>
+                            <a class="title-lnk" href="/livro/a-mascara-de-ripley-patricia-highsmith/18498226">
+                                A Máscara de Ripley                            </a>
                             
                         </div>
 
@@ -614,12 +607,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 autor">
                             de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
 
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
+                        
                                                 <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
@@ -631,75 +619,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    15,88€                            </div>
+                                    16,00€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Normalmente segue para o correio em 30 dias.
-</div>                            
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
                 </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/ripley-samuse-ned-2018-patricia-highsmith/21609131">
-                                                                    <img src="https://img.wook.pt/images/ripley-samuse---ned-2018-patricia-highsmith/MXwyMTYwOTEzMXwxNzQ2MDQ1NnwxNTI2MjUyNDAwMDAw/170x" class="img-responsive" alt="Ripley S'Amuse - Ned 2018">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ripley S'Amuse - Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460456" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460456" data-mesart="21609131" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460456&ficha=S&kpi=12&tipo=N&mesArtId=21609131'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/ripley-samuse-ned-2018-patricia-highsmith/21609131">
-                                Ripley S'Amuse - Ned 2018                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,88€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Normalmente segue para o correio em 30 dias.
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/sur-les-pas-de-ripley-ned-2018-patricia-highsmith/21609132">
-                                                                    <img src="https://img.wook.pt/images/sur-les-pas-de-ripley---ned-2018-patricia-highsmith/MXwyMTYwOTEzMnwxNzQ2MDQ1N3wxNTI2MjUyNDAwMDAw/170x" class="img-responsive" alt="Sur Les Pas De Ripley - Ned 2018">
+                                                                    <img src="https://img.wook.pt/images/sur-les-pas-de-ripley---ned-2018-patricia-highsmith/MXwyMTYwOTEzMnwxNzQ2MDQ1N3wxNTI3NTQ4NDAwMDAw/170x" class="img-responsive" alt="Sur Les Pas De Ripley - Ned 2018">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
                                                                     <button id="addCart-btn" data-tipoArtigo="livro" data-title="Sur Les Pas De Ripley - Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460457" class="btn add-cart "></button>
@@ -749,23 +682,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/inocencia-perversa-patricia-highsmith/60075">
-                                                                    <img src="https://img.wook.pt/images/inocencia-perversa-patricia-highsmith/MXw2MDA3NXw5MDE0MnwxNDYzNjk4ODAwMDAw/170x" class="img-responsive" alt="Inocência Perversa">
+                            <a href="/livro/ripley-samuse-ned-2018-patricia-highsmith/21609131">
+                                                                    <img src="https://img.wook.pt/images/ripley-samuse---ned-2018-patricia-highsmith/MXwyMTYwOTEzMXwxNzQ2MDQ1NnwxNTI3NTQ4NDAwMDAw/170x" class="img-responsive" alt="Ripley S'Amuse - Ned 2018">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Inocência Perversa" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="90142" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="90142" data-mesart="60075" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=90142&ficha=S&kpi=12&tipo=N&mesArtId=60075'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ripley S'Amuse - Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460456" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460456" data-mesart="21609131" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460456&ficha=S&kpi=12&tipo=N&mesArtId=21609131'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/inocencia-perversa-patricia-highsmith/60075">
-                                Inocência Perversa                            </a>
+                            <a class="title-lnk" href="/livro/ripley-samuse-ned-2018-patricia-highsmith/21609131">
+                                Ripley S'Amuse - Ned 2018                            </a>
                             
                         </div>
 
@@ -776,7 +709,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 autor">
                             de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
 
-                        
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
                                                 <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
@@ -788,10 +726,66 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    10,10€                            </div>
+                                    15,88€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Normalmente segue para o correio em 30 dias.
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/21609133">
+                                                                    <img src="https://img.wook.pt/images/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/MXwyMTYwOTEzM3wxNzQ2MDQ1OHwxNTI3NTQ4NDAwMDAw/170x" class="img-responsive" alt="Le Talentueux Mr Ripley Ned 2018">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Le Talentueux Mr Ripley Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460458" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460458" data-mesart="21609133" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460458&ficha=S&kpi=12&tipo=N&mesArtId=21609133'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/le-talentueux-mr-ripley-ned-2018-patricia-highsmith/21609133">
+                                Le Talentueux Mr Ripley Ned 2018                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,88€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Normalmente segue para o correio em 30 dias.
+</div>                            
                                                                 </div>
 
                     </div>
@@ -799,20 +793,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/a-mascara-de-ripley-patricia-highsmith/18498226">
-                                                                    <img src="https://img.wook.pt/images/a-mascara-de-ripley-patricia-highsmith/MXwxODQ5ODIyNnwxNDE5MzI2NXwxNDcwMTc4ODAwMDAw/170x" class="img-responsive" alt="A Máscara de Ripley">
+                            <a href="/livro/ripley-et-les-ombres-ned-2018-patricia-highsmith/21609130">
+                                                                    <img src="https://img.wook.pt/images/ripley-et-les-ombres---ned-2018-patricia-highsmith/MXwyMTYwOTEzMHwxNzQ2MDQ1NXwxNTI3NTQ4NDAwMDAw/170x" class="img-responsive" alt="Ripley Et Les Ombres - Ned 2018">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Máscara de Ripley" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14193265" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14193265" data-mesart="18498226" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14193265&ficha=S&kpi=12&tipo=N&mesArtId=18498226'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ripley Et Les Ombres - Ned 2018" data-autores="de Patricia Highsmith" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17460455" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17460455" data-mesart="21609130" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17460455&ficha=S&kpi=12&tipo=N&mesArtId=21609130'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/a-mascara-de-ripley-patricia-highsmith/18498226">
-                                A Máscara de Ripley                            </a>
+                            <a class="title-lnk" href="/livro/ripley-et-les-ombres-ned-2018-patricia-highsmith/21609130">
+                                Ripley Et Les Ombres - Ned 2018                            </a>
                             
                         </div>
 
@@ -823,7 +817,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 autor">
                             de <a href="/autor/patricia-highsmith/19537">Patricia Highsmith</a>&nbsp;                        </div>
 
-                        
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
                                                 <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
@@ -835,11 +834,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    16,00€                            </div>
+                                    15,88€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Normalmente segue para o correio em 30 dias.
+</div>                            
                                                                 </div>
 
                     </div>

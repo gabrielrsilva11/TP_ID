@@ -4,14 +4,14 @@
 <meta charset="UTF-8"/>
 <title>Paul Auster – Wikipédia, a enciclopédia livre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Auster","wgTitle":"Paul Auster","wgCurRevisionId":50455005,"wgRevisionId":50455005,"wgArticleId":177110,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","Pessoas vivas","!Imagem local idêntica à do Wikidata","!Esboços sobre literatura","!Esboços maiores que 10000 bytes","Nascidos em 1947","Romancistas dos Estados Unidos","Ensaístas dos Estados Unidos","Roteiristas dos Estados Unidos","Tradutores dos Estados Unidos","Roteiristas premiados com o Independent Spirit Award","Prémio Médicis","Prémio Princesa de Astúrias de Letras","Naturais de Newark (Nova Jérsia)"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Paul_Auster","wgRelevantArticleId":177110,"wgRequestId":"Ww20XgpAICMAAL4s6gQAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q214642","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Auster","wgTitle":"Paul Auster","wgCurRevisionId":50455005,"wgRevisionId":50455005,"wgArticleId":177110,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","Pessoas vivas","!Imagem local idêntica à do Wikidata","!Esboços sobre literatura","!Esboços maiores que 10000 bytes","Nascidos em 1947","Romancistas dos Estados Unidos","Ensaístas dos Estados Unidos","Roteiristas dos Estados Unidos","Tradutores dos Estados Unidos","Roteiristas premiados com o Independent Spirit Award","Prémio Médicis","Prémio Princesa de Astúrias de Letras","Naturais de Newark (Nova Jérsia)"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Paul_Auster","wgRelevantArticleId":177110,"wgRequestId":"WxmTCgpAIDAAAFUEbiMAAABK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q214642","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
 });mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.7"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -37,9 +37,8 @@
 </div>
 <h1 id="firstHeading" class="firstHeading" lang="pt">Paul Auster</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
-								<div id="jump-to-nav" class="mw-jump">
-					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
-				</div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
 				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
 <tr>
 <th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Paul Auster</span></th>
@@ -291,38 +290,39 @@
 
 <!-- 
 NewPP limit report
-Parsed by mw1333
-Cached time: 20180529201319
+Parsed by mw1327
+Cached time: 20180607201819
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.688 seconds
-Real time usage: 0.796 seconds
-Preprocessor visited node count: 4282/1000000
+CPU time usage: 0.732 seconds
+Real time usage: 0.829 seconds
+Preprocessor visited node count: 4287/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 47770/2097152 bytes
+Post‐expand include size: 47768/2097152 bytes
 Template argument size: 9267/2097152 bytes
 Highest expansion depth: 21/40
 Expensive parser function count: 36/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 5623/5000000 bytes
-Lua time usage: 0.341/10.000 seconds
-Lua memory usage: 8.21 MB/50 MB
+Number of Wikibase entities loaded: 36/400
+Lua time usage: 0.374/10.000 seconds
+Lua memory usage: 7.32 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  736.569      1 -total
- 49.64%  365.639      1 Predefinição:Controle_de_autoridade
- 39.38%  290.076      1 Predefinição:Info/Biografia
- 35.68%  262.796      1 Predefinição:Info
-  6.43%   47.381      1 Predefinição:Referências
-  5.10%   37.561      2 Predefinição:Citar_web
-  2.50%   18.411      1 Predefinição:Wikidata_image
-  2.28%   16.820      1 Predefinição:Esboço-escritor
-  2.10%   15.433      1 Predefinição:Esboço_personalizado
-  2.03%   14.965      1 Predefinição:Collapsible_list
+100.00%  773.549      1 -total
+ 45.88%  354.886      1 Predefinição:Controle_de_autoridade
+ 40.98%  316.974      1 Predefinição:Info/Biografia
+ 39.40%  304.803      1 Predefinição:Info
+  7.82%   60.463      1 Predefinição:Referências
+  5.72%   44.270      2 Predefinição:Citar_web
+  4.51%   34.896      1 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+  2.68%   20.749      1 Predefinição:Esboço-escritor
+  2.48%   19.146      1 Predefinição:Esboço_personalizado
+  1.97%   15.232      1 Predefinição:Collapsible_list
 -->
 </div>
-<!-- Saved in parser cache with key ptwiki:pcache:idhash:177110-0!canonical and timestamp 20180529201318 and revision id 50455005
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:177110-0!canonical and timestamp 20180607201818 and revision id 50455005
  -->
 <noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Paul_Auster&amp;oldid=50455005">https://pt.wikipedia.org/w/index.php?title=Paul_Auster&amp;oldid=50455005</a>"					</div>
@@ -448,6 +448,7 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.688","walltime":"0.796","ppvisitednodes":{"value":4282,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47770,"limit":2097152},"templateargumentsize":{"value":9267,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":36,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5623,"limit":5000000},"entityaccesscount":{"value":36,"limit":400},"timingprofile":["100.00%  736.569      1 -total"," 49.64%  365.639      1 Predefinição:Controle_de_autoridade"," 39.38%  290.076      1 Predefinição:Info/Biografia"," 35.68%  262.796      1 Predefinição:Info","  6.43%   47.381      1 Predefinição:Referências","  5.10%   37.561      2 Predefinição:Citar_web","  2.50%   18.411      1 Predefinição:Wikidata_image","  2.28%   16.820      1 Predefinição:Esboço-escritor","  2.10%   15.433      1 Predefinição:Esboço_personalizado","  2.03%   14.965      1 Predefinição:Collapsible_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":8612746,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180529201319","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":904,"wgHostname":"mw1333"});});</script>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.732","walltime":"0.829","ppvisitednodes":{"value":4287,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47768,"limit":2097152},"templateargumentsize":{"value":9267,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":36,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5623,"limit":5000000},"entityaccesscount":{"value":36,"limit":400},"timingprofile":["100.00%  773.549      1 -total"," 45.88%  354.886      1 Predefinição:Controle_de_autoridade"," 40.98%  316.974      1 Predefinição:Info/Biografia"," 39.40%  304.803      1 Predefinição:Info","  7.82%   60.463      1 Predefinição:Referências","  5.72%   44.270      2 Predefinição:Citar_web","  4.51%   34.896      1 Predefinição:Categorização_AD_e_AB_de_outras_wikis","  2.68%   20.749      1 Predefinição:Esboço-escritor","  2.48%   19.146      1 Predefinição:Esboço_personalizado","  1.97%   15.232      1 Predefinição:Collapsible_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.374","limit":"10.000"},"limitreport-memusage":{"value":7676660,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20180607201819","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":933,"wgHostname":"mw1327"});});</script>
 	</body>
 </html>

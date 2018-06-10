@@ -4,14 +4,14 @@
 <meta charset="UTF-8"/>
 <title>Gore Vidal – Wikipédia, a enciclopédia livre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gore_Vidal","wgTitle":"Gore Vidal","wgCurRevisionId":50796182,"wgRevisionId":50796182,"wgArticleId":112695,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Páginas com erros CS1: datas","!Imagem local idêntica à do Wikidata","Palavras que diferem em versões da língua portuguesa","Nascidos em 1925","Mortos em 2012","Ateus dos Estados Unidos","Ativistas dos direitos LGBT dos Estados Unidos","Escritores LGBT dos Estados Unidos","Teóricos da conspiração","Ensaístas dos Estados Unidos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Gore_Vidal","wgRelevantArticleId":112695,"wgRequestId":"Ww20YgpAAD8AAFa9jZUAAABR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q167821","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gore_Vidal","wgTitle":"Gore Vidal","wgCurRevisionId":50796182,"wgRevisionId":50796182,"wgArticleId":112695,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Páginas com erros CS1: datas","!Imagem local idêntica à do Wikidata","Palavras que diferem em versões da língua portuguesa","Nascidos em 1925","Mortos em 2012","Ateus dos Estados Unidos","Ativistas dos direitos LGBT dos Estados Unidos","Escritores LGBT dos Estados Unidos","Teóricos da conspiração","Ensaístas dos Estados Unidos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Gore_Vidal","wgRelevantArticleId":112695,"wgRequestId":"WxxUcwpAICoAAF5-6MYAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q167821","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
 });mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.7"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -37,9 +37,8 @@
 </div>
 <h1 id="firstHeading" class="firstHeading" lang="pt">Gore Vidal</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
-								<div id="jump-to-nav" class="mw-jump">
-					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
-				</div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
 				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
 <tr>
 <th colspan="2" class="" style="text-align:center; font-size:larger; background-color:transparent; border-radius: 3px 3px 0 0;"><span class="">Gore Vidal</span></th>
@@ -219,6 +218,7 @@ Gore Vidal em 2008, no Los Angeles Times Festival of Books.</div>
 <li><span style="white-space:nowrap;"><a href="/wiki/AlloCin%C3%A9" title="AlloCiné">AlloCiné</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=15351.html?nopub=1">15351</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Espanha" title="Biblioteca Nacional da Espanha">BNE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX959388">XX959388</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119282164">119282164</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Grande_Enciclop%C3%A9dia_Sovi%C3%A9tica" title="Grande Enciclopédia Soviética">BRE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://bigenc.ru/text/5208863">5208863</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Cat%C3%A1logo_de_autoridades_de_nomes_e_t%C3%ADtulos_da_Catalunha" title="Catálogo de autoridades de nomes e títulos da Catalunha">CANTIC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a10175155">a10175155</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Digital_para_a_Literatura_Holandesa" title="Biblioteca Digital para a Literatura Holandesa">DBNL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.dbnl.org/auteurs/auteur.php?id=vida002">vida002</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">EBID</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Gore-Vidal">ID</a></span></span></span></li>
@@ -259,38 +259,39 @@ Gore Vidal em 2008, no Los Angeles Times Festival of Books.</div>
 
 <!-- 
 NewPP limit report
-Parsed by mw1268
-Cached time: 20180529201323
+Parsed by mw1321
+Cached time: 20180609222804
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.796 seconds
-Real time usage: 0.911 seconds
-Preprocessor visited node count: 5315/1000000
+CPU time usage: 0.784 seconds
+Real time usage: 0.887 seconds
+Preprocessor visited node count: 5323/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 45730/2097152 bytes
+Post‐expand include size: 46092/2097152 bytes
 Template argument size: 6029/2097152 bytes
 Highest expansion depth: 21/40
-Expensive parser function count: 37/500
+Expensive parser function count: 38/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 14565/5000000 bytes
-Lua time usage: 0.366/10.000 seconds
-Lua memory usage: 6.64 MB/50 MB
+Number of Wikibase entities loaded: 37/400
+Lua time usage: 0.316/10.000 seconds
+Lua memory usage: 6.36 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  831.308      1 -total
- 44.76%  372.123      1 Predefinição:Controle_de_autoridade
- 35.01%  291.027      1 Predefinição:Info/Escritor
- 29.95%  248.973      1 Predefinição:Info
- 10.42%   86.610      1 Predefinição:Referências
-  6.12%   50.877      1 Predefinição:Portal3
-  6.05%   50.329      2 Predefinição:Citar_web
-  5.88%   48.858      2 Predefinição:Portal3/Portais
-  3.48%   28.954      1 Predefinição:Wikidata_image
-  2.22%   18.476      5 Predefinição:Citar_jornal
+100.00%  789.452      1 -total
+ 43.48%  343.237      1 Predefinição:Info/Escritor
+ 41.21%  325.319      1 Predefinição:Info
+ 34.89%  275.467      1 Predefinição:Controle_de_autoridade
+ 11.70%   92.345      1 Predefinição:Referências
+  6.31%   49.792      1 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+  6.00%   47.340      2 Predefinição:Citar_web
+  5.71%   45.056      1 Predefinição:Portal3
+  5.34%   42.178      2 Predefinição:Portal3/Portais
+  2.74%   21.595      5 Predefinição:Citar_jornal
 -->
 </div>
-<!-- Saved in parser cache with key ptwiki:pcache:idhash:112695-0!canonical and timestamp 20180529201322 and revision id 50796182
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:112695-0!canonical and timestamp 20180609222803 and revision id 50796182
  -->
 <noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Gore_Vidal&amp;oldid=50796182">https://pt.wikipedia.org/w/index.php?title=Gore_Vidal&amp;oldid=50796182</a>"					</div>
@@ -416,6 +417,7 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"0.911","ppvisitednodes":{"value":5315,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45730,"limit":2097152},"templateargumentsize":{"value":6029,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14565,"limit":5000000},"entityaccesscount":{"value":36,"limit":400},"timingprofile":["100.00%  831.308      1 -total"," 44.76%  372.123      1 Predefinição:Controle_de_autoridade"," 35.01%  291.027      1 Predefinição:Info/Escritor"," 29.95%  248.973      1 Predefinição:Info"," 10.42%   86.610      1 Predefinição:Referências","  6.12%   50.877      1 Predefinição:Portal3","  6.05%   50.329      2 Predefinição:Citar_web","  5.88%   48.858      2 Predefinição:Portal3/Portais","  3.48%   28.954      1 Predefinição:Wikidata_image","  2.22%   18.476      5 Predefinição:Citar_jornal"]},"scribunto":{"limitreport-timeusage":{"value":"0.366","limit":"10.000"},"limitreport-memusage":{"value":6962564,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180529201323","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1034,"wgHostname":"mw1268"});});</script>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.784","walltime":"0.887","ppvisitednodes":{"value":5323,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46092,"limit":2097152},"templateargumentsize":{"value":6029,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14565,"limit":5000000},"entityaccesscount":{"value":37,"limit":400},"timingprofile":["100.00%  789.452      1 -total"," 43.48%  343.237      1 Predefinição:Info/Escritor"," 41.21%  325.319      1 Predefinição:Info"," 34.89%  275.467      1 Predefinição:Controle_de_autoridade"," 11.70%   92.345      1 Predefinição:Referências","  6.31%   49.792      1 Predefinição:Categorização_AD_e_AB_de_outras_wikis","  6.00%   47.340      2 Predefinição:Citar_web","  5.71%   45.056      1 Predefinição:Portal3","  5.34%   42.178      2 Predefinição:Portal3/Portais","  2.74%   21.595      5 Predefinição:Citar_jornal"]},"scribunto":{"limitreport-timeusage":{"value":"0.316","limit":"10.000"},"limitreport-memusage":{"value":6664208,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20180609222804","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1013,"wgHostname":"mw1321"});});</script>
 	</body>
 </html>

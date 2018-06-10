@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -231,6 +231,66 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/gabriela-mistrals-letters-to-doris-dana/21488401">
+                                
+<div class="image-not-available" style="">
+    <div class="description">
+        <span>imagem não disponível</span>
+    </div>
+            <div class="product-title" data-title="Gabriela Mistral'S Letters To Doris Dana">
+            <span>Gabriela Mistral'S Letters To Doris Dana</span>
+        </div>
+    </div>                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela Mistral'S Letters To Doris Dana" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17337871" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17337871" data-mesart="21488401" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17337871&ficha=S&kpi=12&tipo=N&mesArtId=21488401'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/gabriela-mistrals-letters-to-doris-dana/21488401">
+                                Gabriela Mistral'S Letters To Doris Dana                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                                                    </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    81,03€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/gabriela-mistral-claudia-cabello-hutt/21676014">
                                 
 <div class="image-not-available" style="">
@@ -288,7 +348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/madwomen-gabriela-mistral/15107942">
@@ -333,59 +393,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     25,38€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/madwomen-gabriela-mistral/14485813">
-                                                                    <img src="https://img.wook.pt/images/madwomen-gabriela-mistral/MXwxNDQ4NTgxM3w5OTc0NzgwfDE0NjAwNzAwMDAwMDA=/170x" class="img-responsive" alt="Madwomen">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Madwomen" data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9974780" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9974780" data-mesart="14485813" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9974780&ficha=S&kpi=12&tipo=N&mesArtId=14485813'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/madwomen-gabriela-mistral/14485813">
-                                Madwomen                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">The Locas Mujeres Poems Of Gabriela Mistral</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    47,13€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -496,6 +503,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/madwomen-gabriela-mistral/14485813">
+                                                                    <img src="https://img.wook.pt/images/madwomen-gabriela-mistral/MXwxNDQ4NTgxM3w5OTc0NzgwfDE0NjAwNzAwMDAwMDA=/170x" class="img-responsive" alt="Madwomen">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Madwomen" data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9974780" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9974780" data-mesart="14485813" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9974780&ficha=S&kpi=12&tipo=N&mesArtId=14485813'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/madwomen-gabriela-mistral/14485813">
+                                Madwomen                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">The Locas Mujeres Poems Of Gabriela Mistral</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    47,13€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/selected-poems-of-gabriela-mistral-gabriela-mistral/15305544">
                                                                     <img src="https://img.wook.pt/images/selected-poems-of-gabriela-mistral-gabriela-mistral/MXwxNTMwNTU0NHwxMDc5NjI3NXwxNDY4Mjc4MDAwMDAw/170x" class="img-responsive" alt="Selected Poems Of Gabriela Mistral">
                                                             </a>
@@ -546,7 +606,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/gabriela-mistral-gabriela-mistral/15137449">
@@ -599,7 +659,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/gabriela-mistral-reader-gabriela-mistral/439962">
@@ -652,7 +712,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/ebook/gabriela-mistrals-struggle-with-god-and-man-martin-c-taylor/19059238">
@@ -698,7 +758,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/mothers-poems-poemas-de-las-madres-gabriela-mistral/12964981">
@@ -747,6 +807,60 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
                                                                             <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/antologia-de-poesia-y-prosa-gabriela-mistral/3733811">
+                                                                    <img src="https://img.wook.pt/images/antologia-de-poesia-y-prosa---gabriela-mistral/MXwzNzMzODExfDI3MTkzMjZ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Antologia De Poesia Y Prosa  ">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Antologia De Poesia Y Prosa  " data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2719326" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2719326" data-mesart="3733811" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2719326&ficha=S&kpi=12&tipo=N&mesArtId=3733811'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/antologia-de-poesia-y-prosa-gabriela-mistral/3733811">
+                                Antologia De Poesia Y Prosa                              </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Espanhol"></span>
+                                <span class="idioma">  idioma: Espanhol</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    17,84€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 15 dias
+ </div>                            
                                                                 </div>
 
                     </div>
@@ -814,20 +928,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/antologia-de-poesia-y-prosa-gabriela-mistral/3733811">
-                                                                    <img src="https://img.wook.pt/images/antologia-de-poesia-y-prosa---gabriela-mistral/MXwzNzMzODExfDI3MTkzMjZ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Antologia De Poesia Y Prosa  ">
+                            <a href="/livro/antologia-esencial-gabriela-mistral/7461732">
+                                                                    <img src="https://img.wook.pt/images/antologia-esencial---gabriela-mistral/MXw3NDYxNzMyfDQwMDkwNDB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Antologia Esencial  ">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Antologia De Poesia Y Prosa  " data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2719326" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2719326" data-mesart="3733811" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2719326&ficha=S&kpi=12&tipo=N&mesArtId=3733811'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Antologia Esencial  " data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4009040" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4009040" data-mesart="7461732" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4009040&ficha=S&kpi=12&tipo=N&mesArtId=7461732'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/antologia-de-poesia-y-prosa-gabriela-mistral/3733811">
-                                Antologia De Poesia Y Prosa                              </a>
+                            <a class="title-lnk" href="/livro/antologia-esencial-gabriela-mistral/7461732">
+                                Antologia Esencial                              </a>
                             
                         </div>
 
@@ -855,17 +969,70 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    17,84€                            </div>
+                                    16,30€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 15 dias
+                                                                            <div>Envio até 20 dias
  </div>                            
                                                                 </div>
 
                     </div>
                 </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/locas-mujeres-gabriela-mistral/2591430">
+                                                                    <img src="https://img.wook.pt/images/locas-mujeres---gabriela-mistral/MXwyNTkxNDMwfDIyOTk1NDF8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Locas Mujeres  ">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Locas Mujeres  " data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2299541" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2299541" data-mesart="2591430" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2299541&ficha=S&kpi=12&tipo=N&mesArtId=2591430'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/locas-mujeres-gabriela-mistral/2591430">
+                                Locas Mujeres                              </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Espanhol"></span>
+                                <span class="idioma">  idioma: Espanhol</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    4,46€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 15 dias
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/my-name-is-gabrielame-llamo-gabriela-bilingual-monica-brown/19372264">
@@ -924,7 +1091,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/chilean-educators-including-hephaestus-books/11738881">
@@ -977,7 +1144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/poetry-and-the-realm-of-the-public-intellectual-karen-pena/15142193">
@@ -1037,7 +1204,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/queer-mother-for-the-nation-licia-fiol-matta/886689">
@@ -1090,7 +1257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/queer-mother-for-the-nation-licia-fiol-matta/1355830">
@@ -1135,166 +1302,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     55,59€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/gabriela-mistral-para-ninos-y-ninas-y-otros-seres-curiosos-gabriela-mistral/9605967">
-                                                                    <img src="https://img.wook.pt/images/gabriela-mistral-para-ninos-y-ninas-y-otros-seres-curiosos--gabriela-mistral/MXw5NjA1OTY3fDUxOTQxNDB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Gabriela Mistral Para Niños Y Niñas... Y Otros Seres Curiosos ">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela Mistral Para Niños Y Niñas... Y Otros Seres Curiosos " data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5194140" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5194140" data-mesart="9605967" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5194140&ficha=S&kpi=12&tipo=N&mesArtId=9605967'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/gabriela-mistral-para-ninos-y-ninas-y-otros-seres-curiosos-gabriela-mistral/9605967">
-                                Gabriela Mistral Para Niños Y Niñas... Y Otros Seres Curiosos                             </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Espanhol"></span>
-                                <span class="idioma">  idioma: Espanhol</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    12,23€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 15 dias
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/gabriela-mistral-seleccion-poetica-7-anos-mistral-valdivia-/2404110">
-                                                                    <img src="https://img.wook.pt/images/gabriela-mistral-seleccion-poetica-7-anos-mistral--valdivia-/MXwyNDA0MTEwfDIxMTg5MDd8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Gabriela Mistral: Seleccion Poetica (+7 Años)">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela Mistral: Seleccion Poetica (+7 Años)" data-autores="de Mistral / Valdivia " data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2118907" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2118907" data-mesart="2404110" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2118907&ficha=S&kpi=12&tipo=N&mesArtId=2404110'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/gabriela-mistral-seleccion-poetica-7-anos-mistral-valdivia-/2404110">
-                                Gabriela Mistral: Seleccion Poetica (+7 Años)                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/mistral-valdivia/986479">Mistral / Valdivia </a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Espanhol"></span>
-                                <span class="idioma">  idioma: Espanhol</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,29€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Envio até 20 dias
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/gabriela-mistral-gabriela-mistral/11354434">
-                                                                    <img src="https://img.wook.pt/images/gabriela-mistral-gabriela-mistral/MXwxMTM1NDQzNHw2OTI1NDkwfDE1MjA4MTI4MDAwMDA=/170x" class="img-responsive" alt="Gabriela Mistral">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela Mistral" data-autores="de Gabriela Mistral" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="6925490" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="6925490" data-mesart="11354434" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=6925490&ficha=S&kpi=12&tipo=N&mesArtId=11354434'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/gabriela-mistral-gabriela-mistral/11354434">
-                                Gabriela Mistral                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Selected Poems</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/gabriela-mistral/19129">Gabriela Mistral</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    21,75€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -1661,6 +1668,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Gabriela+Mistral","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Gabriela Mistral&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Gabriela+Mistral";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Gabriela+Mistral';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":25,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":459,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

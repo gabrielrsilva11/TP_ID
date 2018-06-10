@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalogo>
+   <autor cod="19398">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="19398">
+          <nome>Oscar Fingal O'Flahertie Wills Wilde</nome>
+          <data_nasc>16 de outubro de 1854</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Oscar_Wilde_Sarony.jpg/1200px-Oscar_Wilde_Sarony.jpg</fotografia>
+          <data_morte>30 de novembro de 1900</data_morte>
+          <nacionalidade>irlandês</nacionalidade>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789726997948">
+            <titulo>O Gigante Egoísta</titulo>
+            <cod_autor>19398</cod_autor>
+            <editora>Nova Vega</editora>
+            <npaginas>40</npaginas>
+            <preco>13.78</preco>
+            <imagem>https://img.wook.pt/images/o-gigante-egoista-oscar-wilde/MXwxOTQxMDJ8MjQ1MTE2fDE0OTg2OTA4MDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-72716-9">
+            <titulo>O Menino-Estrela</titulo>
+            <cod_autor>19398</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>64</npaginas>
+            <preco>7.70</preco>
+            <imagem>https://img.wook.pt/images/o-menino-estrela-oscar-wilde/MXwxNTg0MDI4N3wxNDg0Mjk1MXwxNDg1OTkzNjAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="19587">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="19587">
+          <nome>Paul Benjamin Auster</nome>
+          <data_nasc>03 de fevereiro de 1947</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/0/04/Paul_Auster_in_New_York_City_2008.jpg</fotografia>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Médicis</premios>
+          <premios>Prémio Príncipe das Astúrias</premios>
+          <premios>Prémio Príncipe das Astúrias</premios>
+          <genero>Romance</genero>
+          <genero>conto</genero>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892324517">
+            <titulo>Relatório do Interior</titulo>
+            <cod_autor>19587</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>288</npaginas>
+            <preco>16.50</preco>
+            <imagem>https://img.wook.pt/images/relatorio-do-interior-paul-auster/MXwxNTIyMjI2NnwxMDcwOTc1OXwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892307657">
+            <titulo>No País das Últimas Coisas</titulo>
+            <cod_autor>19587</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>160</npaginas>
+            <preco>14.90</preco>
+            <imagem>https://img.wook.pt/images/no-pais-das-ultimas-coisas-paul-auster/MXw1MTAxNzc3fDMxNjkyODF8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="19466">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="19466">
+          <nome>Pablo Neruda</nome>
+          <data_nasc>12 de julho de 1904</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/0/04/Pablo_Neruda.jpg</fotografia>
+          <data_morte>23 de setembro de 1973</data_morte>
+          <nacionalidade>Chileno</nacionalidade>
+          <premios>Prêmio Nacional de Literatura do Chile</premios>
+          <premios>Prémio Nobel</premios>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896413378">
+            <titulo>Vinte Poemas de Amor e Uma Canção Desesperada</titulo>
+            <cod_autor>19466</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>168</npaginas>
+            <preco>12.00</preco>
+            <imagem>https://img.wook.pt/images/vinte-poemas-de-amor-e-uma-cancao-desesperada-pablo-neruda/MXwxNDczMzI3MnwxMDIxNTIxMXwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721060128">
+            <titulo>Confesso que Vivi</titulo>
+            <cod_autor>19466</cod_autor>
+            <editora/>
+            <npaginas>352</npaginas>
+            <preco>25.14</preco>
+            <imagem>https://img.wook.pt/images/confesso-que-vivi-pablo-neruda/MXwxOTk1NjU4fDE3NjE3ODB8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9788432212796">
+            <titulo>Veinte Poemas De Amor Y Una Cancion Desesperada</titulo>
+            <cod_autor>19466</cod_autor>
+            <editora>SEIX BARRAL</editora>
+            <npaginas>64</npaginas>
+            <preco>7.64</preco>
+            <imagem>https://img.wook.pt/images/veinte-poemas-de-amor-y-una-cancion-desesperada-pablo-neruda/MXwzNzMwNzYzfDI3MTYyNzh8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781944682989">
+            <titulo>Grapes And The Wind</titulo>
+            <cod_autor>19466</cod_autor>
+            <editora>Spuyten Duyvil</editora>
+            <npaginas>344</npaginas>
+            <preco>19.58</preco>
+            <imagem>https://img.wook.pt/images/grapes-and-the-wind-pablo-neruda/MXwyMTI3Njc5MHwxNzE0ODUyOXwxNTIwODEyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721061156">
+            <titulo>Nasci Para Nascer</titulo>
+            <cod_autor>19466</cod_autor>
+            <editora/>
+            <npaginas>320</npaginas>
+            <preco>24.98</preco>
+            <imagem>https://img.wook.pt/images/nasci-para-nascer-pablo-neruda/MXw5NTczMTU2fDUxNjExMzl8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="19537">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="19537">
+          <nome>Patricia Highsmith</nome>
+          <data_nasc>19 de janeiro de 1921</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/1200px-Highsmith_on_After_Dark.JPG</fotografia>
+          <data_morte>4 de fevereiro de 1995</data_morte>
+          <genero>Suspense</genero>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896412142">
+            <titulo>O Desconhecido do Norte Expresso</titulo>
+            <cod_autor>19537</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>280</npaginas>
+            <preco>16.00</preco>
+            <imagem>https://img.wook.pt/images/o-desconhecido-do-norte-expresso-patricia-highsmith/MXwxNTYyNjU5NHwxMTEyMDQ3N3wxMzkzNDU5MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896417246">
+            <titulo>Ripley Debaixo de Água</titulo>
+            <cod_autor>19537</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>312</npaginas>
+            <preco>16.00</preco>
+            <imagem>https://img.wook.pt/images/ripley-debaixo-de-agua-patricia-highsmith/MXwxOTMzNzIxOXwxNTE0ODIzMXwxNDk0ODg5MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721059542">
+            <titulo>O Preço do Sal</titulo>
+            <cod_autor>19537</cod_autor>
+            <editora/>
+            <npaginas>254</npaginas>
+            <preco>20.09</preco>
+            <imagem>https://img.wook.pt/images/o-preco-do-sal-patricia-highsmith/MXwyMjUwNDl8MzQxMDc4fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721046085">
+            <titulo>O Talentoso Mr. Ripley</titulo>
+            <cod_autor>19537</cod_autor>
+            <editora/>
+            <npaginas>232</npaginas>
+            <preco>19.08</preco>
+            <imagem>https://img.wook.pt/images/o-talentoso-mr-ripley-patricia-highsmith/MXw2NTY3MXw5NTczOHwxNDg0MDkyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789726620587">
+            <titulo>Inocência Perversa</titulo>
+            <cod_autor>19537</cod_autor>
+            <editora>Gradiva</editora>
+            <npaginas>324</npaginas>
+            <preco>10.10</preco>
+            <imagem>https://img.wook.pt/images/inocencia-perversa-patricia-highsmith/MXw2MDA3NXw5MDE0MnwxNDYzNjk4ODAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="4895">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="4895">
+          <nome>Nicholas Sparks</nome>
+          <data_nasc>31 de dezembro de 1965</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg</fotografia>
+          <nacionalidade>norte-americano</nacionalidade>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892341422">
+            <titulo>Juntos ao Luar</titulo>
+            <cod_autor>4895</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>304</npaginas>
+            <preco>15.21</preco>
+            <imagem>https://img.wook.pt/images/juntos-ao-luar-nicholas-sparks/MXwyMTM3ODkxNHwxNzI1ODc3MHwxNTE3MzU2ODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892336930">
+            <titulo>Só Nós Dois</titulo>
+            <cod_autor>4895</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>568</npaginas>
+            <preco>18.90</preco>
+            <imagem>https://img.wook.pt/images/so-nos-dois-nicholas-sparks/MXwxODkwOTkxNHwxNDY0MDkxNXwxNDc3NTIyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892333786">
+            <titulo>No teu Olhar</titulo>
+            <cod_autor>4895</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>520</npaginas>
+            <preco>18.50</preco>
+            <imagem>https://img.wook.pt/images/no-teu-olhar-nicholas-sparks/MXwxNjk1MzU5MnwxMjU3NDMxN3wxNDQ2NDIyNDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892337340">
+            <titulo>Um Momento Inesquecível</titulo>
+            <cod_autor>4895</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>208</npaginas>
+            <preco>15.90</preco>
+            <imagem>https://img.wook.pt/images/um-momento-inesquecivel-nicholas-sparks/MXwxOTE3MzM3MHwxNDk1NzkwOHwxNDg3ODk0NDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789892335568">
+            <titulo>Corações em Silêncio</titulo>
+            <cod_autor>4895</cod_autor>
+            <editora>Edições Asa</editora>
+            <npaginas>368</npaginas>
+            <preco>16.90</preco>
+            <imagem>https://img.wook.pt/images/coracoes-em-silencio-nicholas-sparks/MXwxNzk3NDM1MnwxMzYyMzMwMHwxNDYzOTU4MDAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="2103">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="2103">
+          <nome>Fernando António Nogueira Pessoa</nome>
+          <data_nasc>13 de junho de 1888</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/3/32/Pessoa_chapeu.jpg</fotografia>
+          <data_morte>30 de novembro de 1935</data_morte>
+          <nacionalidade>Português</nacionalidade>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Antero de Quental</premios>
+          <premios>Prémio Pessoa</premios>
+          <ocupacao>Poeta</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-37-1774-7">
+            <titulo>Livro do Desassossego</titulo>
+            <cod_autor>2103</cod_autor>
+            <editora>Assírio &amp; Alvim</editora>
+            <npaginas>480</npaginas>
+            <preco>15.40</preco>
+            <imagem>https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxMTIzNzI5MXwxNjEyODE1OHwxNTA4ODg2MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-37-1787-7">
+            <titulo>Livro do desassossego</titulo>
+            <cod_autor>2103</cod_autor>
+            <editora>Assírio &amp; Alvim</editora>
+            <npaginas>480</npaginas>
+            <preco>11.62</preco>
+            <imagem>https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxNTkyNzI2NXwxNzMwNjY2MHwxNTE5Nzc2MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896714239">
+            <titulo>Fausto</titulo>
+            <cod_autor>2103</cod_autor>
+            <editora>Tinta da China</editora>
+            <npaginas>576</npaginas>
+            <preco>16.20</preco>
+            <imagem>https://img.wook.pt/images/fausto-fernando-pessoa/MXwyMTY4MzI5MnwxNzUzNDk1OHwxNTIyMTA1MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897023897">
+            <titulo>Tenho Medo de Partir</titulo>
+            <cod_autor>2103</cod_autor>
+            <editora>Editora Guerra &amp; Paz</editora>
+            <npaginas>192</npaginas>
+            <preco>12.15</preco>
+            <imagem>https://img.wook.pt/images/tenho-medo-de-partir-fernando-pessoa/MXwyMTgyNTgyOHwxNzY3OTIyM3wxNTI0MDkyNDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897023736">
+            <titulo>Absinto, Ópio, Tabaco e Outros Fumos</titulo>
+            <cod_autor>2103</cod_autor>
+            <editora>Editora Guerra &amp; Paz</editora>
+            <npaginas>112</npaginas>
+            <preco>10.80</preco>
+            <imagem>https://img.wook.pt/images/absinto-opio-tabaco-e-outros-fumos-fernando-pessoa/MXwyMTUyMTAxOXwxNzM2ODIxOXwxNTIwMzgwODAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="20202">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="20202">
+          <nome>Paulo Coelho de Souza</nome>
+          <data_nasc>24 de agosto de 1947</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/a/a7/Paulo_Coelho_30102007.jpg</fotografia>
+          <nacionalidade>brasileiro</nacionalidade>
+          <genero>Drama</genero>
+          <genero>romance</genero>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722524223">
+            <titulo>O Alquimista</titulo>
+            <cod_autor>20202</cod_autor>
+            <editora>11 X 17</editora>
+            <npaginas>200</npaginas>
+            <preco>8.00</preco>
+            <imagem>https://img.wook.pt/images/o-alquimista-paulo-coelho/MXwxNTIzNzEzOXwxMDcyNTQ3NXwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896875053">
+            <titulo>Hippie</titulo>
+            <cod_autor>20202</cod_autor>
+            <editora>Pergaminho</editora>
+            <npaginas>224</npaginas>
+            <preco>14.94</preco>
+            <imagem>https://img.wook.pt/images/hippie-paulo-coelho/MXwyMTYwMjc3MnwxNzQ1MzQ4NHwxNTI2MjUyNDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789727115112">
+            <titulo>Onze Minutos</titulo>
+            <cod_autor>20202</cod_autor>
+            <editora>Pergaminho</editora>
+            <npaginas>280</npaginas>
+            <preco>13.95</preco>
+            <imagem>https://img.wook.pt/images/onze-minutos-paulo-coelho/MXw4MTAxOXwxMTEwODZ8MTUyODE1MzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722525732">
+            <titulo>O Diário de Um Mago</titulo>
+            <cod_autor>20202</cod_autor>
+            <editora>11 X 17</editora>
+            <npaginas>256</npaginas>
+            <preco>8.00</preco>
+            <imagem>https://img.wook.pt/images/o-diario-de-um-mago-paulo-coelho/MXwxNDczNDEzOHwxMDIxNjExMHwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896872083">
+            <titulo>Adultério</titulo>
+            <cod_autor>20202</cod_autor>
+            <editora>Pergaminho</editora>
+            <npaginas>232</npaginas>
+            <preco>14.94</preco>
+            <imagem>https://img.wook.pt/images/adulterio-paulo-coelho/MXwxNTU3MTQyOXwxMTA2MTcwMnwxNTI4MTUzMjAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="25993">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="25993">
+          <nome>José Luís Peixoto</nome>
+          <data_nasc>4 de setembro de 1974</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/1200px-JoseLuisPeixoto.JPG</fotografia>
+          <nacionalidade>Português</nacionalidade>
+          <premios>Prémio José Saramago</premios>
+          <premios>Prémio de Poesia Daniel Faria</premios>
+          <premios>Prémio Literário José Saramago</premios>
+          <premios>Prémio José Saramago</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789725648025">
+            <titulo>Morreste-me</titulo>
+            <cod_autor>25993</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas>64</npaginas>
+            <preco>12.20</preco>
+            <imagem>https://img.wook.pt/images/morreste-me-jose-luis-peixoto/MXwxODc2MDMzfDE2ODkwNzN8MTUxODczOTIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789725648995">
+            <titulo>Livro</titulo>
+            <cod_autor>25993</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas>264</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/livro-jose-luis-peixoto/MXw5NTk5NzIzfDUxODc4Njd8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897223563">
+            <titulo>O Caminho Imperfeito</titulo>
+            <cod_autor>25993</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas>192</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/o-caminho-imperfeito-jose-luis-peixoto/MXwxOTY3NTM2NHwxNTUwMjgyOXwxNTA0NTY2MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897220609">
+            <titulo>Dentro do Segredo</titulo>
+            <cod_autor>25993</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas>240</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/dentro-do-segredo-jose-luis-peixoto/MXwxNDM4NDg1Nnw5OTA1NDI0fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="7870">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="7870">
+          <nome>Isabel Allende Llona</nome>
+          <data_nasc>2 de agosto de 1942</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/c/c2/Isabel_allende.jpg</fotografia>
+          <nacionalidade>chilena</nacionalidade>
+          <premios>Prêmio Nacional de Literatura do Chile</premios>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-03022-1">
+            <titulo>Para lá do inverno</titulo>
+            <cod_autor>7870</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>336</npaginas>
+            <preco>16.92</preco>
+            <imagem>https://img.wook.pt/images/para-la-do-inverno-isabel-allende/MXwxOTg0OTQ0OHwxNzIwNTg3MXwxNTE2NjY1NjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04445-7">
+            <titulo>A casa dos espíritos</titulo>
+            <cod_autor>7870</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>408</npaginas>
+            <preco>18.80</preco>
+            <imagem>https://img.wook.pt/images/a-casa-dos-espiritos-isabel-allende/MXwxNDU5MTQ2NHwxMjI1ODM0NnwxNDM4NjQyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04774-8">
+            <titulo>O amante japonês</titulo>
+            <cod_autor>7870</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>336</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/o-amante-japones-isabel-allende/MXwxNjU5MTI2OXwxNDg1ODY1MXwxNDg3MDMwNDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04498-3">
+            <titulo>O jogo de Ripper</titulo>
+            <cod_autor>7870</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>400</npaginas>
+            <preco>18.80</preco>
+            <imagem>https://img.wook.pt/images/o-jogo-de-ripper-isabel-allende/MXwxNTE3MjkwOXwxNDY2MzYyOXwxNDc5NDI3MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04442-6">
+            <titulo>Paula</titulo>
+            <cod_autor>7870</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>336</npaginas>
+            <preco>18.80</preco>
+            <imagem>https://img.wook.pt/images/paula-isabel-allende/MXwxNDU5MjE2MnwxNDYxMDY5N3wxNDc5MTY4MDAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="19129">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="19129">
+          <nome>Gabriela Mistral</nome>
+          <data_nasc>7 de abril de 1889</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/5/5e/Gabriela_Mistral-01.jpg</fotografia>
+          <data_morte>10 de janeiro de 1957</data_morte>
+          <nacionalidade>Chilena</nacionalidade>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780226531915">
+            <titulo>Madwomen</titulo>
+            <cod_autor>19129</cod_autor>
+            <editora>THE UNIVERSITY OF CHICAGO PRESS</editora>
+            <npaginas>160</npaginas>
+            <preco>25.38</preco>
+            <imagem>https://img.wook.pt/images/madwomen-gabriela-mistral/MXwxNTEwNzk0MnwxMDU5NDgwNXwxNDYwMDcwMDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9788441406704">
+            <titulo>Gabriela Mistral. Antología Poética</titulo>
+            <cod_autor>19129</cod_autor>
+            <editora>EDAF</editora>
+            <npaginas>296</npaginas>
+            <preco>10.71</preco>
+            <imagem>https://img.wook.pt/images/gabriela-mistral-antologia-poetica-gabriela-mistral/MXwyMzE2MDM4fDIwMzEzMTV8MTQ0OTc5MjAwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780226531908">
+            <titulo>Madwomen</titulo>
+            <cod_autor>19129</cod_autor>
+            <editora>THE UNIVERSITY OF CHICAGO PRESS</editora>
+            <npaginas>160</npaginas>
+            <preco>47.13</preco>
+            <imagem>https://img.wook.pt/images/madwomen-gabriela-mistral/MXwxNDQ4NTgxM3w5OTc0NzgwfDE0NjAwNzAwMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780826328199">
+            <titulo>Selected Poems Of Gabriela Mistral</titulo>
+            <cod_autor>19129</cod_autor>
+            <editora>UNIVERSITY OF NEW MEXICO PRESS</editora>
+            <npaginas>432</npaginas>
+            <preco>42.23</preco>
+            <imagem>https://img.wook.pt/images/selected-poems-of-gabriela-mistral-gabriela-mistral/MXwxNTMwNTU0NHwxMDc5NjI3NXwxNDY4Mjc4MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781877727184">
+            <titulo>Gabriela Mistral Reader</titulo>
+            <cod_autor>19129</cod_autor>
+            <editora>WHITE PINE PRESS</editora>
+            <npaginas>227</npaginas>
+            <preco>15.70</preco>
+            <imagem>https://img.wook.pt/images/gabriela-mistral-reader-gabriela-mistral/MXw0Mzk5NjJ8NTU2MTEwfDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="15252">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="15252">
+          <nome>Howard Allen O'Brien</nome>
+          <data_nasc>4 de outubro de 1941</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/5/55/Anne_Rice.jpg</fotografia>
+          <nacionalidade>norte-americana</nacionalidade>
+          <genero>erotismo</genero>
+          <genero>literatura</genero>
+          <genero>crist</genero>
+          <ocupacao>Escritora</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721059603">
+            <titulo>Cristo, o Senhor</titulo>
+            <cod_autor>15252</cod_autor>
+            <editora/>
+            <npaginas>200</npaginas>
+            <preco>19.08</preco>
+            <imagem>https://img.wook.pt/images/cristo-o-senhor-anne-rice/MXwxNDIyMDU3fDEzNDU2NTh8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721040021">
+            <titulo>O Vampiro Lestat I</titulo>
+            <cod_autor>15252</cod_autor>
+            <editora/>
+            <npaginas>256</npaginas>
+            <preco>21.09</preco>
+            <imagem>https://img.wook.pt/images/o-vampiro-lestat-i-anne-rice/MXw2NTM5NXw5NTQ2MnwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897242618">
+            <titulo>Príncipe Lestat</titulo>
+            <cod_autor>15252</cod_autor>
+            <editora>Clube do Autor</editora>
+            <npaginas>368</npaginas>
+            <preco>18.00</preco>
+            <imagem>https://img.wook.pt/images/principe-lestat---anne-rice/MXwxNzQzNjg3NHwxMzA3MDU0NnwxNDU2MjcyMDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721041653">
+            <titulo>Rainha dos Malditos I</titulo>
+            <cod_autor>15252</cod_autor>
+            <editora/>
+            <npaginas>264</npaginas>
+            <preco>21.09</preco>
+            <imagem>https://img.wook.pt/images/rainha-dos-malditos-i-anne-rice/MXw2NTQ3OXw5NTU0NnwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789721043794">
+            <titulo>Azrael - O Anjo da Vingança</titulo>
+            <cod_autor>15252</cod_autor>
+            <editora/>
+            <npaginas>424</npaginas>
+            <preco>22.20</preco>
+            <imagem>https://img.wook.pt/images/azrael---o-anjo-da-vinganca-anne-rice/MXw2NTU3NHw5NTY0MXwxNDYzNjk4ODAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="22239">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="22239">
+          <nome>Raymond Clevie Carver, Jr.</nome>
+          <data_nasc>25 de maio de 1938</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/c/cc/Raymond_Carver.jpg</fotografia>
+          <data_morte>02 de agosto de 1988</data_morte>
+          <nacionalidade>norte-americano</nacionalidade>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896415174">
+            <titulo>De Que Falamos Quando Falamos de Amor</titulo>
+            <cod_autor>22239</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>152</npaginas>
+            <preco>14.00</preco>
+            <imagem>https://img.wook.pt/images/de-que-falamos-quando-falamos-de-amor-raymond-carver/MXwxNjM0NjYwNnwxMTkzMDE5M3wxNDI3NzU2NDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789725648452">
+            <titulo>O Que Sabemos do Amor</titulo>
+            <cod_autor>22239</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas/>
+            <preco>10.00</preco>
+            <imagem>https://img.wook.pt/images/o-que-sabemos-do-amor-raymond-carver/MXwzNTQ5NjM4fDI2NTk0OTh8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897220272">
+            <titulo>Fogos</titulo>
+            <cod_autor>22239</cod_autor>
+            <editora>Quetzal Editores</editora>
+            <npaginas/>
+            <preco>5.00</preco>
+            <imagem>https://img.wook.pt/images/fogos-raymond-carver/MXwxMzE1MjE2MXw4NzI1NzAxfDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780099530329">
+            <titulo>What We Talk About When We Talk About Love</titulo>
+            <cod_autor>22239</cod_autor>
+            <editora>Vintage Publishing</editora>
+            <npaginas>144</npaginas>
+            <preco>10.86</preco>
+            <imagem>https://img.wook.pt/images/what-we-talk-about-when-we-talk-about-love-raymond-carver/MXwxOTk0ODE1fDE3NjA5Mjl8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780099530336">
+            <titulo>Cathedral</titulo>
+            <cod_autor>22239</cod_autor>
+            <editora>Vintage Publishing</editora>
+            <npaginas>224</npaginas>
+            <preco>12.07</preco>
+            <imagem>https://img.wook.pt/images/cathedral-raymond-carver/MXwxOTk0ODE5fDE3NjA5MzN8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="4351">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="4351">
+          <nome>Gore Vidal</nome>
+          <data_nasc>3 de outubro de 1925</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gore_Vidal_2_Shankbone_2009_NYC.jpg/1200px-Gore_Vidal_2_Shankbone_2009_NYC.jpg</fotografia>
+          <data_morte>31 de julho de 2012</data_morte>
+          <nacionalidade>Estados Unidos</nacionalidade>
+          <premios>National Book Critics Circle Award</premios>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724619606">
+            <titulo>Washington D. C.</titulo>
+            <cod_autor>4351</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>408</npaginas>
+            <preco>19.90</preco>
+            <imagem>https://img.wook.pt/images/washington-d-c-gore-vidal/MXw4MDE3MTkwfDQ1MjQyNzF8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724619804">
+            <titulo>Navegação Ponto por Ponto</titulo>
+            <cod_autor>4351</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>272</npaginas>
+            <preco>9.90</preco>
+            <imagem>https://img.wook.pt/images/navegacao-ponto-por-ponto-gore-vidal/MXw4MDE3MTkxfDQ1MjQyNzJ8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9782351760154">
+            <titulo>Palimpseste</titulo>
+            <cod_autor>4351</cod_autor>
+            <editora>GALAADE</editora>
+            <npaginas>635</npaginas>
+            <preco>28.00</preco>
+            <imagem>https://img.wook.pt/images/palimpseste-gore-vidal/MXw3NzUxNjcxfDQyNTk5MDF8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789726994985">
+            <titulo>Myron</titulo>
+            <cod_autor>4351</cod_autor>
+            <editora>Vega</editora>
+            <npaginas>208</npaginas>
+            <preco>14.79</preco>
+            <imagem>https://img.wook.pt/images/myron-gore-vidal/MXw4NTg3OHwxMTU5NDV8MTQ1OTExOTYwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780349106571">
+            <titulo>City And The Pillar</titulo>
+            <cod_autor>4351</cod_autor>
+            <editora>LITTLE, BROWN BOOK GROUP</editora>
+            <npaginas>192</npaginas>
+            <preco>12.07</preco>
+            <imagem>https://img.wook.pt/images/city-and-the-pillar-gore-vidal/MXwxMjQxNTF8MTU0MjE4fDE1MDE1NDIwMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="9854">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="9854">
+          <nome>James Augustine Aloysius Joyce</nome>
+          <data_nasc>6 de novembro de 1918</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg</fotografia>
+          <data_morte>13 de janeiro de 1941</data_morte>
+          <nacionalidade>britânico</nacionalidade>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896413798">
+            <titulo>Ulisses</titulo>
+            <cod_autor>9854</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>752</npaginas>
+            <preco>24.00</preco>
+            <imagem>https://img.wook.pt/images/ulisses-james-joyce/MXwxNTMyMjUyOHwxMDgxMzc3OXwxMzg1NDI0MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896412692">
+            <titulo>Retrato do Artista Quando Jovem</titulo>
+            <cod_autor>9854</cod_autor>
+            <editora>Relógio D'Água</editora>
+            <npaginas>272</npaginas>
+            <preco>16.00</preco>
+            <imagem>https://img.wook.pt/images/retrato-do-artista-quando-jovem-james-joyce/MXwxMjQ0NTU4OXw4MDE3NjU3fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781840226355">
+            <titulo>Ulysses</titulo>
+            <cod_autor>9854</cod_autor>
+            <editora>Wordsworth Books Ltd.</editora>
+            <npaginas>736</npaginas>
+            <preco>3.02</preco>
+            <imagem>https://img.wook.pt/images/ulysses-james-joyce/MXwyMTE5NTczfDE4NjAzMzh8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789726999928">
+            <titulo>O Gato e o Diabo</titulo>
+            <cod_autor>9854</cod_autor>
+            <editora>Nova Vega</editora>
+            <npaginas>28</npaginas>
+            <preco>11.98</preco>
+            <imagem>https://img.wook.pt/images/o-gato-e-o-diabo-james-joyce/MXwxNTMwOTAzNnwxMDc5OTg0N3wxMzg0NzMyODAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="189432">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="189432">
+          <nome>Emma Donoghue</nome>
+          <data_nasc>24 de outubro de 1969</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Irish-Canadian_author_Emma_Donoghue.JPG/1200px-Irish-Canadian_author_Emma_Donoghue.JPG</fotografia>
+          <genero>Romance</genero>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04343-6">
+            <titulo>O Quarto de Jack</titulo>
+            <cod_autor>189432</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>336</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/o-quarto-de-jack-emma-donoghue/MXwxMDcwOTI1NnwxMzA4NDUxMHwxNDU4MTcyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04039-8">
+            <titulo>O Prodígio</titulo>
+            <cod_autor>189432</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>328</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/o-prodigio-emma-donoghue/MXwxOTI0OTk1N3wxNTA1MjcyMnwxNDk0ODg5MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781509803200">
+            <titulo>The Lotterys Plus One</titulo>
+            <cod_autor>189432</cod_autor>
+            <editora>Pan MacMillan</editora>
+            <npaginas>320</npaginas>
+            <preco>7.61</preco>
+            <imagem>https://img.wook.pt/images/the-lotterys-plus-one-emma-donoghue/MXwyMDg5NDY5MnwxNjc1MTkyMnwxNTE1NjI4ODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780330519021">
+            <titulo>Room</titulo>
+            <cod_autor>189432</cod_autor>
+            <editora>Pan MacMillan</editora>
+            <npaginas>416</npaginas>
+            <preco>15.75</preco>
+            <imagem>https://img.wook.pt/images/room-emma-donoghue/MXwxMDA1NDY1OHw1NjQzMDQ5fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781509803156">
+            <titulo>Room</titulo>
+            <cod_autor>189432</cod_autor>
+            <editora>Pan MacMillan</editora>
+            <npaginas>416</npaginas>
+            <preco>10.86</preco>
+            <imagem>https://img.wook.pt/images/room-emma-donoghue/MXwxNjI0MzAxN3wxMTgyMzA5NnwxNDQxODM5NjAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="39176">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="39176">
+          <nome>Alexandre Herculano de Carvalho e Araújo</nome>
+          <data_nasc>28 de março de 1810</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/7/72/AlexandreHerculano.png</fotografia>
+          <data_morte>18 de setembro de 1877</data_morte>
+          <nacionalidade>Portuguesa</nacionalidade>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-72676-6">
+            <titulo>A Abóbada</titulo>
+            <cod_autor>39176</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>96</npaginas>
+            <preco>7.70</preco>
+            <imagem>https://img.wook.pt/images/a-abobada-alexandre-herculano/MXwxNTcyNDE4NHwxNjEzOTU2M3wxNTA4ODg2MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-72705-3">
+            <titulo>O Castelo de Faria e outras narrativas</titulo>
+            <cod_autor>39176</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>64</npaginas>
+            <preco>7.70</preco>
+            <imagem>https://img.wook.pt/images/o-castelo-de-faria-e-outras-narrativas-alexandre-herculano/MXwxNTcyNDE4OXwxMzI0OTMxNHwxNDYxNzExNjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722533294">
+            <titulo>História da Origem e Estabelecimento da Inquisição em Portugal</titulo>
+            <cod_autor>39176</cod_autor>
+            <editora>11 X 17</editora>
+            <npaginas>240</npaginas>
+            <preco>7.00</preco>
+            <imagem>https://img.wook.pt/images/historia-da-origem-e-estabelecimento-da-inquisicao-em-portugal-alexandre-herculano/MXwxODkyNTc4NXwxNDY1ODU3NHwxNDgyMTkyMDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722637015">
+            <titulo>A Dama Pé-de-Cabra / A Abóbada</titulo>
+            <cod_autor>39176</cod_autor>
+            <editora>Livraria Civilização Editora</editora>
+            <npaginas>120</npaginas>
+            <preco>11.90</preco>
+            <imagem>https://img.wook.pt/images/a-dama-pe-de-cabra--a-abobada-alexandre-herculano/MXwxNjI2OTQ4NHwxMTg1MTQ5N3wxNDI2NTUwNDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722522991">
+            <titulo>Eurico, o Presbítero</titulo>
+            <cod_autor>39176</cod_autor>
+            <editora>11 X 17</editora>
+            <npaginas>240</npaginas>
+            <preco>6.00</preco>
+            <imagem>https://img.wook.pt/images/eurico-o-presbitero-alexandre-herculano/MXwxMDcwODM3N3w2Mjc3ODc0fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="2316">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="2316">
+          <nome>José de Sousa Saramago</nome>
+          <data_nasc>16 de novembro de 1922</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/8/82/Saramago%2C_Jos%C3%A9_%281922%29-2.jpg</fotografia>
+          <data_morte>18 de junho de 2010</data_morte>
+          <nacionalidade>português</nacionalidade>
+          <premios>Prémio Cidade de Lisboa</premios>
+          <premios>Prémio Literário Município de Lisboa</premios>
+          <premios>Prémio P.E.N. Clube Português de Novelística</premios>
+          <premios>Prémio D. Dinis</premios>
+          <premios>Grande Prémio de Romance e Novela APE/DGLB</premios>
+          <premios>Prémio Bordalo de Literatura da Casa da Imprensa</premios>
+          <premios>Grande Prémio Vida Literária APE/CGD</premios>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Literário José Saramago</premios>
+          <ocupacao>escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04882-0">
+            <titulo>O Ano da Morte de Ricardo Reis</titulo>
+            <cod_autor>2316</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>496</npaginas>
+            <preco>15.93</preco>
+            <imagem>https://img.wook.pt/images/o-ano-da-morte-de-ricardo-reis-jose-saramago/MXwxODQ5MzUwOXwxNzY5OTI2N3wxNTI3MDMwMDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04671-0">
+            <titulo>Memorial do Convento</titulo>
+            <cod_autor>2316</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>402</npaginas>
+            <preco>15.93</preco>
+            <imagem>https://img.wook.pt/images/memorial-do-convento-jose-saramago/MXwxNTc0NzQ0NHwxNzIwNTkyOHwxNTE2NjY1NjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-72822-7">
+            <titulo>A maior flor do mundo</titulo>
+            <cod_autor>2316</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>32</npaginas>
+            <preco>11.97</preco>
+            <imagem>https://img.wook.pt/images/a-maior-flor-do-mundo-jose-saramago/MXwxNTg3MDIwNnwxNzM0Nzk0OHwxNTIyODgyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04683-3">
+            <titulo>Ensaio sobre a Cegueira</titulo>
+            <cod_autor>2316</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>344</npaginas>
+            <preco>17.70</preco>
+            <imagem>https://img.wook.pt/images/ensaio-sobre-a-cegueira-jose-saramago/MXwxNTgyNTQ4NnwxNTYwNjM1MXwxNTA0NTY2MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="978-972-0-04667-3">
+            <titulo>As Intermitências da Morte</titulo>
+            <cod_autor>2316</cod_autor>
+            <editora>Porto Editora</editora>
+            <npaginas>232</npaginas>
+            <preco>16.60</preco>
+            <imagem>https://img.wook.pt/images/as-intermitencias-da-morte-jose-saramago/MXwxNTcyMzg4NHwxNTY4MTU5NnwxNTA0ODI1MjAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="4007">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="4007">
+          <nome>António Lobo Antunes</nome>
+          <data_nasc>1 de setembro de 1942</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/1200px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg</fotografia>
+          <nacionalidade>português</nacionalidade>
+          <premios>Grande Prémio de Romance e Novela APE/DGLB</premios>
+          <premios>Prémio D. Dinis</premios>
+          <premios>Prémio Fernando Namora</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Fernando Namora</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Clube Literário do Porto</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722063548">
+            <titulo>Até Que as Pedras se Tornem Mais Leves Que a Água</titulo>
+            <cod_autor>4007</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>456</npaginas>
+            <preco>20.90</preco>
+            <imagem>https://img.wook.pt/images/ate-que-as-pedras-se-tornem-mais-leves-que-a-agua-antonio-lobo-antunes/MXwyMDI3NzAwNnwxNjEyODI3OHwxNTA2Mjk0MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722036757">
+            <titulo>Os Cus de Judas</titulo>
+            <cod_autor>4007</cod_autor>
+            <editora>BIS</editora>
+            <npaginas>224</npaginas>
+            <preco>5.95</preco>
+            <imagem>https://img.wook.pt/images/os-cus-de-judas-antonio-lobo-antunes/MXwyMTk4NDB8MzM1NjMzfDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722064798">
+            <titulo>As Naus</titulo>
+            <cod_autor>4007</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>192</npaginas>
+            <preco>17.01</preco>
+            <imagem>https://img.wook.pt/images/as-naus-antonio-lobo-antunes/MXwyMTg0NzEzNXwxNzcwMTk4OXwxNTI0NzgzNjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722028981">
+            <titulo>Cartas da Guerra</titulo>
+            <cod_autor>4007</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>576</npaginas>
+            <preco>19.90</preco>
+            <imagem>https://img.wook.pt/images/cartas-da-guerra-antonio-lobo-antunes/MXwxNzMyODh8MjIxMTQyfDE0NzI2ODQ0MDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722050722">
+            <titulo>Livro de Crónicas</titulo>
+            <cod_autor>4007</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>432</npaginas>
+            <preco>18.90</preco>
+            <imagem>https://img.wook.pt/images/livro-de-cronicas-antonio-lobo-antunes/MXwxMzYzODc5Mnw5MjEyMzg0fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="4948">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="4948">
+          <nome>Antonio Tabucchi</nome>
+          <data_nasc>24 de setembro de 1943</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/f/f5/Antonio_Tabucchi.jpg</fotografia>
+          <data_morte>25 de março de 2012</data_morte>
+          <nacionalidade>Italiano</nacionalidade>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Aristeion</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722049627">
+            <titulo>O Tempo Envelhece Depressa</titulo>
+            <cod_autor>4948</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>152</npaginas>
+            <preco>14.90</preco>
+            <imagem>https://img.wook.pt/images/o-tempo-envelhece-depressa-antonio-tabucchi/MXwxMjg1MDgzMnw4NDIzMjM4fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896602116">
+            <titulo>Afirma Pereira</titulo>
+            <cod_autor>4948</cod_autor>
+            <editora>BIS</editora>
+            <npaginas>224</npaginas>
+            <preco>7.50</preco>
+            <imagem>https://img.wook.pt/images/afirma-pereira-antonio-tabucchi/MXwxMjk0MDUwOHw4NTEzNjE4fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722054409">
+            <titulo>Para Isabel</titulo>
+            <cod_autor>4948</cod_autor>
+            <editora>PUBLICACOES D.QUIXOTE</editora>
+            <npaginas>112</npaginas>
+            <preco>13.90</preco>
+            <imagem>https://img.wook.pt/images/para-isabel-antonio-tabucchi/MXwxNTYxNTAwOXwxMTEwODc5MHwxMzkyOTQwODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722052252">
+            <titulo>Viagens e Outras Viagens</titulo>
+            <cod_autor>4948</cod_autor>
+            <editora>PUBLICACOES D.QUIXOTE</editora>
+            <npaginas>256</npaginas>
+            <preco>15.90</preco>
+            <imagem>https://img.wook.pt/images/viagens-e-outras-viagens-antonio-tabucchi/MXwxNDkzMDYzM3wxMDQxNDYwMXwxNDM2ODI4NDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722055642">
+            <titulo>O Anjo Negro</titulo>
+            <cod_autor>4948</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>144</npaginas>
+            <preco>14.90</preco>
+            <imagem>https://img.wook.pt/images/o-anjo-negro-antonio-tabucchi/MXwxNTkzNDMxM3wxMTQ2MzkzNnwxNDA5MjY2ODAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="14089">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="14089">
+          <nome>Jorge Leal Amado de Faria</nome>
+          <data_nasc>10 de agosto de 1912</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/9/96/Jorge_Amado_-_1997.jpg</fotografia>
+          <data_morte>6 de agosto de 2001</data_morte>
+          <nacionalidade>brasileiro</nacionalidade>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Nobel de Literatura</premios>
+          <genero>Romance</genero>
+          <genero>conto</genero>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789896530075">
+            <titulo>Capitães da Areia</titulo>
+            <cod_autor>14089</cod_autor>
+            <editora>BIS</editora>
+            <npaginas>208</npaginas>
+            <preco>7.50</preco>
+            <imagem>https://img.wook.pt/images/capitaes-da-areia-jorge-amado/MXwxNDU3ODY0fDEzODE3NjZ8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722020244">
+            <titulo>O Gato Malhado e a Andorinha Sinhá</titulo>
+            <cod_autor>14089</cod_autor>
+            <editora>BIS</editora>
+            <npaginas/>
+            <preco>7.50</preco>
+            <imagem>https://img.wook.pt/images/o-gato-malhado-e-a-andorinha-sinha-jorge-amado/MXw3MTUxNHwxMDE1ODF8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722051941">
+            <titulo>Tieta do Agreste</titulo>
+            <cod_autor>14089</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>656</npaginas>
+            <preco>22.90</preco>
+            <imagem>https://img.wook.pt/images/tieta-do-agreste-jorge-amado/MXwxNDg3NTM0OHwxMDM1ODU2MHwxMzgzNTIzMjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722064583">
+            <titulo>Dona Flor e os Seus Dois Maridos</titulo>
+            <cod_autor>14089</cod_autor>
+            <editora>Dom Quixote</editora>
+            <npaginas>512</npaginas>
+            <preco>17.91</preco>
+            <imagem>https://img.wook.pt/images/dona-flor-e-os-seus-dois-maridos-jorge-amado/MXwyMTUwMjIzMXwxNzM0ODAzMXwxNTE5Njg5NjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722060356">
+            <titulo>Capitães da Areia</titulo>
+            <cod_autor>14089</cod_autor>
+            <editora>Leya</editora>
+            <npaginas>288</npaginas>
+            <preco>10.00</preco>
+            <imagem>https://img.wook.pt/images/capitaes-da-areia-jorge-amado/MXwxODQzODQxNXwxNDEzMDY3OHwxNDY5NDg3NjAwMDAw/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="28642">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="28642">
+          <nome>Haruki Murakami</nome>
+          <data_nasc>12 de janeiro de 1949</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/e/eb/Murakami_Haruki_%282009%29.jpg</fotografia>
+          <premios>Prémio Tanizaki</premios>
+          <premios>Prémio Franz Kafka</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Internacional Catalunha</premios>
+          <premios>Prémio de literatura Hans Christian Andersen</premios>
+          <genero>romancista</genero>
+          <genero>contista</genero>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789897418105">
+            <titulo>Homens sem Mulheres</titulo>
+            <cod_autor>28642</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>256</npaginas>
+            <preco>18.90</preco>
+            <imagem>https://img.wook.pt/images/homens-sem-mulheres-haruki-murakami/MXwxOTg0OTg3M3wxNTY4OTE2NnwxNTA0MTM0MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724616469">
+            <titulo>Kafka à Beira-Mar</titulo>
+            <cod_autor>28642</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>590</npaginas>
+            <preco>22.20</preco>
+            <imagem>https://img.wook.pt/images/kafka-a-beira-mar-haruki-murakami/MXwxNzgyODF8MjI2NTc2fDE1MTIzNDU2MDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724619231">
+            <titulo>Auto-Retrato do Escritor Enquanto Corredor de Fundo</titulo>
+            <cod_autor>28642</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>192</npaginas>
+            <preco>12.90</preco>
+            <imagem>https://img.wook.pt/images/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/MXwyOTkwNjg1fDI0NDcxNzd8MTQ0NTM4MjAwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724622033">
+            <titulo>Sono</titulo>
+            <cod_autor>28642</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>96</npaginas>
+            <preco>14.90</preco>
+            <imagem>https://img.wook.pt/images/sono-haruki-murakami/MXwxNTI0OTI1MXwxMDczODIwOHwxNDQyNDQ0NDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789724615820">
+            <titulo>Sputnik Meu Amor</titulo>
+            <cod_autor>28642</cod_autor>
+            <editora>Casa das Letras</editora>
+            <npaginas>238</npaginas>
+            <preco>14.90</preco>
+            <imagem>https://img.wook.pt/images/sputnik-meu-amor-haruki-murakami/MXw3ODAzOXwxMDgxMDZ8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="12564">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="12564">
+          <nome>Ferit Orhan Pamuk</nome>
+          <data_nasc>7 de junho de 1952</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orhan_Pamuk_2009_Shankbone.jpg/1200px-Orhan_Pamuk_2009_Shankbone.jpg</fotografia>
+          <nacionalidade>turco</nacionalidade>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Nobel</premios>
+          <ocupacao>Romancista</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722362108">
+            <titulo>A Mulher de Cabelo Ruivo</titulo>
+            <cod_autor>12564</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>248</npaginas>
+            <preco>16.11</preco>
+            <imagem>https://img.wook.pt/images/a-mulher-de-cabelo-ruivo-orhan-pamuk/MXwyMTgyNTkwNHwxNzY3OTM1NHwxNTI0MTc4ODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722339766">
+            <titulo>Istambul</titulo>
+            <cod_autor>12564</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>368</npaginas>
+            <preco>19.90</preco>
+            <imagem>https://img.wook.pt/images/istambul-orhan-pamuk/MXwyMTEwNzd8MzI2MzM2fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722343558">
+            <titulo>O Museu da Inocência</titulo>
+            <cod_autor>12564</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>652</npaginas>
+            <preco>24.90</preco>
+            <imagem>https://img.wook.pt/images/o-museu-da-inocencia-orhan-pamuk/MXw2Njc0MTAxfDMyMjEzNTZ8MTUxODEzNDQwMDAwMA==/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722358958">
+            <titulo>Uma Estranheza em Mim</titulo>
+            <cod_autor>12564</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>640</npaginas>
+            <preco>24.90</preco>
+            <imagem>https://img.wook.pt/images/uma-estranheza-em-mim-orhan-pamuk/MXwxODY4MDkwNnwxNDQwMDE0MHwxNDczODk0MDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722348010">
+            <titulo>O Romancista Ingénuo e o Sentimental</titulo>
+            <cod_autor>12564</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>144</npaginas>
+            <preco>13.90</preco>
+            <imagem>https://img.wook.pt/images/o-romancista-ingenuo-e-o-sentimental-orhan-pamuk/MXwxMjYzOTExNXw4MjExMjIwfDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="205736">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="205736">
+          <nome>Heather Elizabeth Morris</nome>
+          <data_nasc>1 de fevereiro de 1987</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Heather_Morris_PaleyFest_11a_crop.jpg/1200px-Heather_Morris_PaleyFest_11a_crop.jpg</fotografia>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9789722361668">
+            <titulo>O Tatuador de Auschwitz</titulo>
+            <cod_autor>205736</cod_autor>
+            <editora>Editorial Presença</editora>
+            <npaginas>232</npaginas>
+            <preco>14.85</preco>
+            <imagem>https://img.wook.pt/images/o-tatuador-de-auschwitz-heather-morris/MXwyMTM3MDQwNnwxNzI1MjkwM3wxNTE2NzUyMDAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781785763649">
+            <titulo>The Tattooist Of Auschwitz</titulo>
+            <cod_autor>205736</cod_autor>
+            <editora>Zaffre Publishing</editora>
+            <npaginas>288</npaginas>
+            <preco>14.13</preco>
+            <imagem>https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781785763656">
+            <titulo>Tattooist Of Auschwitz</titulo>
+            <cod_autor>205736</cod_autor>
+            <editora>Zaffre Publishing</editora>
+            <npaginas>288</npaginas>
+            <preco>14.13</preco>
+            <imagem>https://img.wook.pt/images/tattooist-of-auschwitz-heather-morris/MXwyMTM2NDAzNHwxNzI0OTgyOHwxNTIwODEyODAwMDAw/260x</imagem>
+         </livro>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780273774747">
+            <titulo>Starting Up An Online Business In Simple Steps</titulo>
+            <cod_autor>205736</cod_autor>
+            <editora>Pearson Education Limited</editora>
+            <npaginas>192</npaginas>
+            <preco>15.70</preco>
+            <imagem>https://img.wook.pt/images/starting-up-an-online-business-in-simple-steps-heather-morris/MXwxMzE3Mzg4NXw4NzQ3NDM5fDEzODM1MjMyMDAwMDA=/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="267285">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="267285">
+          <nome>Tom Hardy</nome>
+          <data_nasc>15 de setembro de 1977</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/3/30/Tom_Hardy_Locke_Premiere.jpg</fotografia>
+          <nacionalidade>inglês</nacionalidade>
+          <ocupacao>Ator</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781841503028">
+            <titulo>Art Education In The Postmodern World</titulo>
+            <cod_autor>267285</cod_autor>
+            <editora>Intellect Books</editora>
+            <npaginas>168</npaginas>
+            <preco>32.02</preco>
+            <imagem>https://img.wook.pt/images/art-education-in-the-postmodern-world-tom-hardy/MXwxODc2NTY0fDE2ODk2MDZ8MTQ3MjU5ODAwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="">
+          <nome>Emily Jean Stone</nome>
+          <data_nasc>6 de novembro de 1988</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/9/9a/Emma_Stone_at_the_39th_Mill_Valley_Film_Festival_%28cropped%29.jpg</fotografia>
+          <nacionalidade>norte-americana</nacionalidade>
+          <ocupacao>Atriz</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9781906210199">
+            <titulo>Loholt Scrimminge And The Moor-Land Quest</titulo>
+            <cod_autor/>
+            <editora>GROSVENOR HOUSE PUBLISHING LTD</editora>
+            <npaginas>140</npaginas>
+            <preco>10.86</preco>
+            <imagem>https://img.wook.pt/images/loholt-scrimminge-and-the-moor-land-quest-emma-stone/MXwxMTc1NDM4fDExMDQwMDR8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+   <autor cod="612697">
+      <autor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cod="612697">
+          <nome>Emma Charlotte Duerre Watson</nome>
+          <data_nasc>15 de abril de 1990</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/7/7f/Emma_Watson_2013.jpg</fotografia>
+          <ocupacao>Atriz</ocupacao>
+     </autor>
+      <livros>
+         <livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" isbn="9780470721667">
+            <titulo>Turkey Cruising Companion</titulo>
+            <cod_autor>612697</cod_autor>
+            <editora>Fernhurst Books Limited</editora>
+            <npaginas>224</npaginas>
+            <preco>42.28</preco>
+            <imagem>https://img.wook.pt/images/turkey-cruising-companion-emma-watson/MXwxNDUzNjU4fDEzNzcyNTZ8MTM4MzUyMzIwMDAwMA==/260x</imagem>
+         </livro>
+      </livros>
+   </autor>
+</Catalogo>

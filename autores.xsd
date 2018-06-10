@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+
+<xsd:element name = "nome" type = "xsd:string"/>
+<xsd:element name = "data_nasc" type = "xsd:string"/>
+<xsd:element name = "fotografia" type = "xsd:string"/>
+<xsd:element name = "data_morte" type = "xsd:string"/>
+<xsd:element name = "nacionalidade" type = "xsd:string"/>
+<xsd:element name = "premios" type = "xsd:string"/>
+<xsd:element name = "ocupacao" type = "xsd:string"/>
+<xsd:element name ="genero" type = "xsd:string"/>
+<xsd:attribute name="cod" type="xsd:string"/>
+
+<xsd:element name = "autor">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element ref="nome"/>
+            <xsd:element ref="data_nasc"/>
+            <xsd:element ref="fotografia"/>
+            <xsd:choice minOccurs="0" maxOccurs="unbounded">
+                <xsd:element ref="data_morte" minOccurs="0"/>
+                <xsd:element ref="nacionalidade" minOccurs="0"/>
+                <xsd:element ref="premios" minOccurs="0"/>
+                <xsd:element ref="ocupacao" minOccurs="0"/>
+                <xsd:element ref="genero" minOccurs="0"/>
+            </xsd:choice>
+        </xsd:sequence>
+        <xsd:attribute ref = "cod" use = "required"/>
+    </xsd:complexType>
+</xsd:element>
+
+<xsd:element name = "Autores">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element ref="autor" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+
+</xs:schema>

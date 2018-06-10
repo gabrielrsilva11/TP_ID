@@ -1,0 +1,13 @@
+<!ELEMENT Autores (#PCDATA | autor)*>
+<!ATTLIST Autores xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST Autores xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+<!ELEMENT ocupacao (#PCDATA)>
+<!ELEMENT premios (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT data_nasc (#PCDATA)>
+<!ELEMENT nacionalidade (#PCDATA)>
+<!ELEMENT autor (#PCDATA | nome | data_nasc | fotografia | premios | genero | data_morte | nacionalidade | ocupacao)*>
+<!ATTLIST autor cod CDATA #IMPLIED>
+<!ELEMENT fotografia (#PCDATA)>
+<!ELEMENT data_morte (#PCDATA)>

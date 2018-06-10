@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Autores>
+     <autor cod="19398">
+          <nome>Oscar Fingal O'Flahertie Wills Wilde</nome>
+          <data_nasc>16 de outubro de 1854</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Oscar_Wilde_Sarony.jpg/1200px-Oscar_Wilde_Sarony.jpg</fotografia>
+          <data_morte>30 de novembro de 1900</data_morte>
+          <nacionalidade>irlandês</nacionalidade>
+     </autor>
+     <autor cod="19587">
+          <nome>Paul Benjamin Auster</nome>
+          <data_nasc>03 de fevereiro de 1947</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/0/04/Paul_Auster_in_New_York_City_2008.jpg</fotografia>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Médicis</premios>
+          <premios>Prémio Príncipe das Astúrias</premios>
+          <premios>Prémio Príncipe das Astúrias</premios>
+          <genero>Romance</genero>
+          <genero>conto</genero>
+     </autor>
+     <autor cod="19466">
+          <nome>Pablo Neruda</nome>
+          <data_nasc>12 de julho de 1904</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/0/04/Pablo_Neruda.jpg</fotografia>
+          <data_morte>23 de setembro de 1973</data_morte>
+          <nacionalidade>Chileno</nacionalidade>
+          <premios>Prêmio Nacional de Literatura do Chile</premios>
+          <premios>Prémio Nobel</premios>
+     </autor>
+     <autor cod="19537">
+          <nome>Patricia Highsmith</nome>
+          <data_nasc>19 de janeiro de 1921</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Highsmith_on_After_Dark.JPG/1200px-Highsmith_on_After_Dark.JPG</fotografia>
+          <data_morte>4 de fevereiro de 1995</data_morte>
+          <genero>Suspense</genero>
+     </autor>
+     <autor cod="4895">
+          <nome>Nicholas Sparks</nome>
+          <data_nasc>31 de dezembro de 1965</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg</fotografia>
+          <nacionalidade>norte-americano</nacionalidade>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="2103">
+          <nome>Fernando António Nogueira Pessoa</nome>
+          <data_nasc>13 de junho de 1888</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/3/32/Pessoa_chapeu.jpg</fotografia>
+          <data_morte>30 de novembro de 1935</data_morte>
+          <nacionalidade>Português</nacionalidade>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Antero de Quental</premios>
+          <premios>Prémio Pessoa</premios>
+          <ocupacao>Poeta</ocupacao>
+     </autor>
+     <autor cod="20202">
+          <nome>Paulo Coelho de Souza</nome>
+          <data_nasc>24 de agosto de 1947</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/a/a7/Paulo_Coelho_30102007.jpg</fotografia>
+          <nacionalidade>brasileiro</nacionalidade>
+          <genero>Drama</genero>
+          <genero>romance</genero>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="25993">
+          <nome>José Luís Peixoto</nome>
+          <data_nasc>4 de setembro de 1974</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/1200px-JoseLuisPeixoto.JPG</fotografia>
+          <nacionalidade>Português</nacionalidade>
+          <premios>Prémio José Saramago</premios>
+          <premios>Prémio de Poesia Daniel Faria</premios>
+          <premios>Prémio Literário José Saramago</premios>
+          <premios>Prémio José Saramago</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="7870">
+          <nome>Isabel Allende Llona</nome>
+          <data_nasc>2 de agosto de 1942</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/c/c2/Isabel_allende.jpg</fotografia>
+          <nacionalidade>chilena</nacionalidade>
+          <premios>Prêmio Nacional de Literatura do Chile</premios>
+     </autor>
+     <autor cod="19129">
+          <nome>Gabriela Mistral</nome>
+          <data_nasc>7 de abril de 1889</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/5/5e/Gabriela_Mistral-01.jpg</fotografia>
+          <data_morte>10 de janeiro de 1957</data_morte>
+          <nacionalidade>Chilena</nacionalidade>
+     </autor>
+     <autor cod="15252">
+          <nome>Howard Allen O'Brien</nome>
+          <data_nasc>4 de outubro de 1941</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/5/55/Anne_Rice.jpg</fotografia>
+          <nacionalidade>norte-americana</nacionalidade>
+          <genero>erotismo</genero>
+          <genero>literatura</genero>
+          <genero>crist</genero>
+          <ocupacao>Escritora</ocupacao>
+     </autor>
+     <autor cod="22239">
+          <nome>Raymond Clevie Carver, Jr.</nome>
+          <data_nasc>25 de maio de 1938</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/c/cc/Raymond_Carver.jpg</fotografia>
+          <data_morte>02 de agosto de 1988</data_morte>
+          <nacionalidade>norte-americano</nacionalidade>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="4351">
+          <nome>Gore Vidal</nome>
+          <data_nasc>3 de outubro de 1925</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gore_Vidal_2_Shankbone_2009_NYC.jpg/1200px-Gore_Vidal_2_Shankbone_2009_NYC.jpg</fotografia>
+          <data_morte>31 de julho de 2012</data_morte>
+          <nacionalidade>Estados Unidos</nacionalidade>
+          <premios>National Book Critics Circle Award</premios>
+     </autor>
+     <autor cod="9854">
+          <nome>James Augustine Aloysius Joyce</nome>
+          <data_nasc>6 de novembro de 1918</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg</fotografia>
+          <data_morte>13 de janeiro de 1941</data_morte>
+          <nacionalidade>britânico</nacionalidade>
+     </autor>
+     <autor cod="189432">
+          <nome>Emma Donoghue</nome>
+          <data_nasc>24 de outubro de 1969</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Irish-Canadian_author_Emma_Donoghue.JPG/1200px-Irish-Canadian_author_Emma_Donoghue.JPG</fotografia>
+          <genero>Romance</genero>
+     </autor>
+     <autor cod="39176">
+          <nome>Alexandre Herculano de Carvalho e Araújo</nome>
+          <data_nasc>28 de março de 1810</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/7/72/AlexandreHerculano.png</fotografia>
+          <data_morte>18 de setembro de 1877</data_morte>
+          <nacionalidade>Portuguesa</nacionalidade>
+     </autor>
+     <autor cod="2316">
+          <nome>José de Sousa Saramago</nome>
+          <data_nasc>16 de novembro de 1922</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/8/82/Saramago%2C_Jos%C3%A9_%281922%29-2.jpg</fotografia>
+          <data_morte>18 de junho de 2010</data_morte>
+          <nacionalidade>português</nacionalidade>
+          <premios>Prémio Cidade de Lisboa</premios>
+          <premios>Prémio Literário Município de Lisboa</premios>
+          <premios>Prémio P.E.N. Clube Português de Novelística</premios>
+          <premios>Prémio D. Dinis</premios>
+          <premios>Grande Prémio de Romance e Novela APE/DGLB</premios>
+          <premios>Prémio Bordalo de Literatura da Casa da Imprensa</premios>
+          <premios>Grande Prémio Vida Literária APE/CGD</premios>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Literário José Saramago</premios>
+          <ocupacao>escritor</ocupacao>
+     </autor>
+     <autor cod="4007">
+          <nome>António Lobo Antunes</nome>
+          <data_nasc>1 de setembro de 1942</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/1200px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg</fotografia>
+          <nacionalidade>português</nacionalidade>
+          <premios>Grande Prémio de Romance e Novela APE/DGLB</premios>
+          <premios>Prémio D. Dinis</premios>
+          <premios>Prémio Fernando Namora</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Fernando Namora</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Clube Literário do Porto</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="4948">
+          <nome>Antonio Tabucchi</nome>
+          <data_nasc>24 de setembro de 1943</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/f/f5/Antonio_Tabucchi.jpg</fotografia>
+          <data_morte>25 de março de 2012</data_morte>
+          <nacionalidade>Italiano</nacionalidade>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Aristeion</premios>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="14089">
+          <nome>Jorge Leal Amado de Faria</nome>
+          <data_nasc>10 de agosto de 1912</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/9/96/Jorge_Amado_-_1997.jpg</fotografia>
+          <data_morte>6 de agosto de 2001</data_morte>
+          <nacionalidade>brasileiro</nacionalidade>
+          <premios>Prémio Nobel</premios>
+          <premios>Prémio Nobel de Literatura</premios>
+          <genero>Romance</genero>
+          <genero>conto</genero>
+          <ocupacao>Escritor</ocupacao>
+     </autor>
+     <autor cod="28642">
+          <nome>Haruki Murakami</nome>
+          <data_nasc>12 de janeiro de 1949</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/e/eb/Murakami_Haruki_%282009%29.jpg</fotografia>
+          <premios>Prémio Tanizaki</premios>
+          <premios>Prémio Franz Kafka</premios>
+          <premios>Prémio Jerusalém</premios>
+          <premios>Prémio Internacional Catalunha</premios>
+          <premios>Prémio de literatura Hans Christian Andersen</premios>
+          <genero>romancista</genero>
+          <genero>contista</genero>
+     </autor>
+     <autor cod="12564">
+          <nome>Ferit Orhan Pamuk</nome>
+          <data_nasc>7 de junho de 1952</data_nasc>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orhan_Pamuk_2009_Shankbone.jpg/1200px-Orhan_Pamuk_2009_Shankbone.jpg</fotografia>
+          <nacionalidade>turco</nacionalidade>
+          <premios>Prémio Médicis estrangeiro</premios>
+          <premios>Prémio Nobel</premios>
+          <ocupacao>Romancista</ocupacao>
+     </autor>
+</Autores>

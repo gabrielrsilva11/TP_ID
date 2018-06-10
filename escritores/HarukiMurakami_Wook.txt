@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -280,7 +280,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                            <div>Envio até 4 dias
+
+</div>                            
                                                                 </div>
 
                     </div>
@@ -345,62 +347,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685">
-                                                                    <img src="https://img.wook.pt/images/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/MXwyOTkwNjg1fDI0NDcxNzd8MTQ0NTM4MjAwMDAwMA==/170x" class="img-responsive" alt="Auto-Retrato do Escritor Enquanto Corredor de Fundo">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Auto-Retrato do Escritor Enquanto Corredor de Fundo" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2447177" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2447177" data-mesart="2990685" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2447177&ficha=S&kpi=12&tipo=N&mesArtId=2990685'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685">
-                                Auto-Retrato do Escritor Enquanto Corredor de Fundo                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Um livro de memórias</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(8)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    12,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/1q84-haruki-murakami/11534249">
                                                                     <img src="https://img.wook.pt/images/1q84-haruki-murakami/MXwxMTUzNDI0OXw3MTA1NTI4fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="1Q84">
                                                             </a>
@@ -451,6 +397,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685">
+                                                                    <img src="https://img.wook.pt/images/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/MXwyOTkwNjg1fDI0NDcxNzd8MTQ0NTM4MjAwMDAwMA==/170x" class="img-responsive" alt="Auto-Retrato do Escritor Enquanto Corredor de Fundo">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Auto-Retrato do Escritor Enquanto Corredor de Fundo" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2447177" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2447177" data-mesart="2990685" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2447177&ficha=S&kpi=12&tipo=N&mesArtId=2990685'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685">
+                                Auto-Retrato do Escritor Enquanto Corredor de Fundo                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Um livro de memórias</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/2990685"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(8)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    12,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1005,6 +1007,110 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046">
+                                                                    <img src="https://img.wook.pt/images/cronica-do-passaro-de-corda-haruki-murakami/MXwxNjQxMDA0NnwxMTk5NjQ1N3wxNDI5NzQzNjAwMDAw/170x" class="img-responsive" alt="Crónica do Pássaro de Corda">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Crónica do Pássaro de Corda" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11996457" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11996457" data-mesart="16410046" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11996457&ficha=S&kpi=12&tipo=N&mesArtId=16410046'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046">
+                                Crónica do Pássaro de Corda                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Livro de Bolso</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(3)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,95€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-elefante-evapora-se-haruki-murakami/7419555">
+                                                                    <img src="https://img.wook.pt/images/o-elefante-evapora-se-haruki-murakami/MXw3NDE5NTU1fDM5NjY5MDJ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="O Elefante Evapora-se">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Elefante Evapora-se" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="3966902" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="3966902" data-mesart="7419555" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=3966902&ficha=S&kpi=12&tipo=N&mesArtId=7419555'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-elefante-evapora-se-haruki-murakami/7419555">
+                                O Elefante Evapora-se                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    18,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/a-sul-da-fronteira-a-oeste-do-sol-haruki-murakami/1459697">
                                                                     <img src="https://img.wook.pt/images/a-sul-da-fronteira-a-oeste-do-sol-haruki-murakami/MXwxNDU5Njk3fDEzODM4ODJ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="A Sul da Fronteira, a Oeste do Sol">
                                                             </a>
@@ -1062,62 +1168,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046">
-                                                                    <img src="https://img.wook.pt/images/cronica-do-passaro-de-corda-haruki-murakami/MXwxNjQxMDA0NnwxMTk5NjQ1N3wxNDI5NzQzNjAwMDAw/170x" class="img-responsive" alt="Crónica do Pássaro de Corda">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Crónica do Pássaro de Corda" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11996457" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11996457" data-mesart="16410046" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11996457&ficha=S&kpi=12&tipo=N&mesArtId=16410046'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046">
-                                Crónica do Pássaro de Corda                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Livro de Bolso</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/cronica-do-passaro-de-corda-haruki-murakami/16410046"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(3)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    9,95€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/ouve-a-cancao-do-vento-fliper-1973-haruki-murakami/17974334">
                                                                     <img src="https://img.wook.pt/images/ouve-a-cancao-do-vento--fliper-1973-haruki-murakami/MXwxNzk3NDMzNHwxMzYyMzI2MnwxNDYzOTU4MDAwMDAw/170x" class="img-responsive" alt="Ouve a Canção do Vento & Flíper, 1973">
                                                             </a>
@@ -1155,54 +1205,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     17,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-elefante-evapora-se-haruki-murakami/7419555">
-                                                                    <img src="https://img.wook.pt/images/o-elefante-evapora-se-haruki-murakami/MXw3NDE5NTU1fDM5NjY5MDJ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="O Elefante Evapora-se">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Elefante Evapora-se" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="3966902" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="3966902" data-mesart="7419555" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=3966902&ficha=S&kpi=12&tipo=N&mesArtId=7419555'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-elefante-evapora-se-haruki-murakami/7419555">
-                                O Elefante Evapora-se                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/haruki-murakami/28642">Haruki Murakami</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,90€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -1271,20 +1273,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/em-busca-do-carneiro-selvagem-haruki-murakami/191671">
-                                                                    <img src="https://img.wook.pt/images/em-busca-do-carneiro-selvagem-haruki-murakami/MXwxOTE2NzF8MjQyMTY4fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Em Busca do Carneiro Selvagem">
+                            <a href="/livro/danca-danca-danca-haruki-murakami/198994">
+                                                                    <img src="https://img.wook.pt/images/danca-danca-danca-haruki-murakami/MXwxOTg5OTR8MjUzOTc4fDE0ODIzNjQ4MDAwMDA=/170x" class="img-responsive" alt="Dança, Dança, Dança">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Em Busca do Carneiro Selvagem" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="242168" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="242168" data-mesart="191671" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=242168&ficha=S&kpi=12&tipo=N&mesArtId=191671'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dança, Dança, Dança" data-autores="de Haruki Murakami" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="253978" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="253978" data-mesart="198994" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=253978&ficha=S&kpi=12&tipo=N&mesArtId=198994'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/em-busca-do-carneiro-selvagem-haruki-murakami/191671">
-                                Em Busca do Carneiro Selvagem                            </a>
+                            <a class="title-lnk" href="/livro/danca-danca-danca-haruki-murakami/198994">
+                                Dança, Dança, Dança                            </a>
                             
                         </div>
 
@@ -1297,12 +1299,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/em-busca-do-carneiro-selvagem-haruki-murakami/191671"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/danca-danca-danca-haruki-murakami/198994"#productPageSectionComments>
                                     <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
+                                    <div class="comments-nr pull-left">(2)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -1316,7 +1318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    18,90€                            </div>
+                                    22,20€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -1683,6 +1685,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Haruki+Murakami","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Haruki Murakami&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Haruki+Murakami";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Haruki+Murakami';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":21,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":540,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

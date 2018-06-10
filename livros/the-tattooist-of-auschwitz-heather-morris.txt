@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+
+<html class="no-js" lang="pt-PT">
+    <!--<![endif]-->
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEFWFBACQEAUFFSDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, minimal-ui" />  
+        <meta name="HandheldFriendly" content="True">
+        <meta name="format-detection" content="telephone=no">
+
+        <!-- <meta http-equiv="expires" content="0">   -->
+
+        <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/img/wook-icon-180x180.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/wook-icon-152x152.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/wook-icon-144x144.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/img/wook-icon-120x120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/wook-icon-114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/img/wook-icon-76x76.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/wook-icon-72x72.png">
+        <link rel="apple-touch-icon-precomposed" href="/img/wook-icon-57x57.png">
+        <link rel="icon" href="/img/wook-icon.png">
+        <link rel="icon" sizes="192x192" href="/img/wook-icon-192x192.png">
+        <link rel="icon" sizes="128x128" href="/img/wook-icon-128x128.png">
+       
+        <title>The Tattooist Of Auschwitz, Heather Morris - Livro - WOOK</title>
+<meta name="description" content="Compre o livro «The Tattooist Of Auschwitz» de Heather Morris em wook.pt. 10% de desconto imediato, portes grátis." /><link rel="canonical" href="https://www.wook.pt/livro/the-tattooist-of-auschwitz-heather-morris/19871742" /><meta property="og:url" content="https://www.wook.pt/livro/the-tattooist-of-auschwitz-heather-morris/19871742" /><meta property="og:title" content="The Tattooist Of Auschwitz, Heather Morris - Livro - WOOK" /><meta property="og:image" content="https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/500x" /><meta property="og:description" content="Livro com 10% de desconto e portes grátis. Só em wook.pt. Compre já!" />        <!-- Add to homescreen  -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-mobile-web-app-title" content="Wook">
+
+        <!-- Google SEO Optimization -->
+        <script type="application/ld+json">
+        {"@context":"http://schema.org/","@type":"Book","additionalType": "http://schema.org/Product","inLanguage": "Inglês","alternativeHeadline":"Based On The Heart-Breaking True Story Of Love And Survival","headline":"The Tattooist Of Auschwitz","name":"The Tattooist Of Auschwitz","image":"https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw","description":"And he was determined not only to survive himself, but to ensure this woman, Gita, did, too.So begins one of the most life-affirming, courageous, unforgettable and human stories of the Holocaust: the love story of the tattooist of Auschwitz.-----'Extraordinary - moving, confronting and uplifting .","url":"https://www.wook.pt/livro/the-tattooist-of-auschwitz-heather-morris/19871742","offers":{"@type":"Offer","priceCurrency":"EUR","price":14.13,"seller":{"@type":"Organization","name":"wook.pt"}},"bookFormat":"http://schema.org/Hardcover","author": {
+    "@type":"Person",
+    "name":"Heather Morris"
+  },"publisher": {
+    "@type": "Organization",
+    "name": "Zaffre Publishing"
+  },"isbn": "9781785763649",  "bookEdition": "01-2018","datePublished": "2018-01-11","numberOfPages":"288","potentialAction":{
+    "@type":"ReadAction"},"aggregateRating": {"@type": "AggregateRating", "ratingValue": "5","reviewCount": "2"}}
+      </script>
+        <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199-vendor.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.wook.pt/css/199.min.css" />
+            <!-- Data Layer -->
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                                    window.dataLayer.push({"ecommerce":{"detail":{"products":[{"name":"The Tattooist Of Auschwitz","id":19871742,"price":"14.13","brand":"Zaffre Publishing"}]}}});
+                                </script>
+            <!-- End Data Layer -->
+            <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=9B5Z75vdZ4Z9b4RXEuzicA&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TB3SVG');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="F7Be5_IkfbIjgk2xkriMfwC7YF2UC0CDcx547wdQ5lc" />
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.portoeditora.pt/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TB3SVG+ '&gtm_auth=9B5Z75vdZ4Z9b4RXEuzicA&gtm_preview=env-2&gtm_cookies_win=x'"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->        
+        
+        <div>
+            <input id="focus-out" type="text" style="display: none;" />
+            <!--[if lt IE 7]>
+                <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+            <![endif]-->
+
+            <!-- lateral-menu Menu -->
+            <div id="wrapper" class="closed-menu closed-shopping-cart-menu open-menu-on-width">
+
+                <!-- sidebar-wrapper -->
+                <div id="sidebar-wrapper">
+                    <nav>
+                    <nav class="lateral-menu">
+                        
+                                                <ul class="top"></ul>
+                        
+                        <ul class='nav nav-stacked' id='thematic-tree'><li class='panel'><a  data-norma='8066' data-toggle='collapse' data-parent='#thematic-tree' data-target='#collapse-8066'><span>Livros</span></a><ul class='collapse panel-collapse' id='collapse-8066'><li class='panel'><a href="/arvoretematica/livros-em-portugues/8066x5839/P" data-norma='8066x5839' data-toggle='collapse' data-parent='#collapse-8066' data-target='#collapse-5839'><span>em Português</span></a><ul class='collapse panel-collapse' id='collapse-5839'></ul></li><li class='panel'><a href="/arvoretematica/livros-em-ingles/8066x8067/P" data-norma='8066x8067' data-toggle='collapse' data-parent='#collapse-8066' data-target='#collapse-8067'><span>em Inglês</span></a><ul class='collapse panel-collapse' id='collapse-8067'><li class='panel'><a href="/arvoretematica/livros-em-ingles-literatura/8066x8067x8229/P" data-norma='8066x8067x8229' data-toggle='collapse' data-parent='#collapse-8067' data-target='#collapse-8229'><span>Literatura</span></a><ul class='collapse panel-collapse' id='collapse-8229'><li><a href="/arvoretematica/livros-em-ingles-literatura-ficcao-cientifica/8066x8067x8229x8230/P" data-norma='8066x8067x8229x8230'><span>Ficção Científica</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-literatura-fantastica/8066x8067x8229x8249/P" data-norma='8066x8067x8229x8249'><span>Literatura Fantástica</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-literatura-de-viagem/8066x8067x8229x8250/P" data-norma='8066x8067x8229x8250'><span>Literatura de Viagem</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-policial-e-thriller/8066x8067x8229x8231/P" data-norma='8066x8067x8229x8231'><span>Policial e Thriller</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-poesia/8066x8067x8229x8232/P" data-norma='8066x8067x8229x8232'><span>Poesia</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-romance/8066x8067x8229x8233/P" data-norma='8066x8067x8229x8233'><span>Romance</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-cronicas/8066x8067x8229x8251/P" data-norma='8066x8067x8229x8251'><span>Crónicas</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-biografias/8066x8067x8229x8234/P" data-norma='8066x8067x8229x8234'><span>Biografias</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-memorias-e-testemunhos/8066x8067x8229x8235/P" data-norma='8066x8067x8229x8235'><span>Memórias e Testemunhos</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-outras-formas-literarias/8066x8067x8229x8236/P" data-norma='8066x8067x8229x8236'><span>Outras Formas Literárias</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-linguistica-e-filologia/8066x8067x8229x8237/P" data-norma='8066x8067x8229x8237'><span>Linguística e Filologia</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-ensaios/8066x8067x8229x8238/P" data-norma='8066x8067x8229x8238'><span>Ensaios</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-monografias/8066x8067x8229x8239/P" data-norma='8066x8067x8229x8239'><span>Monografias</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-epistolas-e-cartas/8066x8067x8229x8240/P" data-norma='8066x8067x8229x8240'><span>Epístolas e Cartas</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-leituras-orientadas/8066x8067x8229x8241/P" data-norma='8066x8067x8229x8241'><span>Leituras Orientadas</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-ficcao/8066x8067x8229x8242/P" data-norma='8066x8067x8229x8242'><span>Ficção</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-historia-da-literatura/8066x8067x8229x8243/P" data-norma='8066x8067x8229x8243'><span>História da Literatura</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-contos/8066x8067x8229x8244/P" data-norma='8066x8067x8229x8244'><span>Contos</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-humor/8066x8067x8229x8245/P" data-norma='8066x8067x8229x8245'><span>Humor</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-revistas-literarias/8066x8067x8229x8246/P" data-norma='8066x8067x8229x8246'><span>Revistas Literárias</span></a></li><li><a href="/arvoretematica/livros-em-ingles-literatura-thriller/8066x8067x8229x8247/P" data-norma='8066x8067x8229x8247'><span>Thriller</span></a></li></ul></li></ul></li><li class='panel'><a href="/arvoretematica/livros-em-espanhol/8066x8477/P" data-norma='8066x8477' data-toggle='collapse' data-parent='#collapse-8066' data-target='#collapse-8477'><span>em Espanhol</span></a><ul class='collapse panel-collapse' id='collapse-8477'></ul></li><li class='panel'><a href="/arvoretematica/livros-em-frances/8066x9482/P" data-norma='8066x9482' data-toggle='collapse' data-parent='#collapse-8066' data-target='#collapse-9482'><span>em Francês</span></a><ul class='collapse panel-collapse' id='collapse-9482'></ul></li></ul></li><li class='panel'><a  data-norma='11708' data-toggle='collapse' data-parent='#thematic-tree' data-target='#collapse-11708'><span>eBooks</span></a><ul class='collapse panel-collapse' id='collapse-11708'><li class='panel'><a href="/arvoretematica/ebooks-em-portugues/11708x11709/P" data-norma='11708x11709' data-toggle='collapse' data-parent='#collapse-11708' data-target='#collapse-11709'><span>em Português</span></a><ul class='collapse panel-collapse' id='collapse-11709'></ul></li><li class='panel'><a href="/arvoretematica/ebooks-em-ingles/11708x11710/P" data-norma='11708x11710' data-toggle='collapse' data-parent='#collapse-11708' data-target='#collapse-11710'><span>em Inglês</span></a><ul class='collapse panel-collapse' id='collapse-11710'></ul></li><li class='panel'><a href="/arvoretematica/ebooks-em-espanhol/11708x21209/P" data-norma='11708x21209' data-toggle='collapse' data-parent='#collapse-11708' data-target='#collapse-21209'><span>em Espanhol</span></a><ul class='collapse panel-collapse' id='collapse-21209'></ul></li></ul></li><li class='panel'><a href="/livros-escolares" data-norma='8070x5493' data-toggle='collapse' data-parent='#thematic-tree' data-target='#collapse-5493'><span>Livros Escolares</span></a><ul class='collapse panel-collapse' id='collapse-5493'></ul></li><li class='panel'><a href="/arvoretematica/apoio-escolar/8070x5817/P" data-norma='8070x5817' data-toggle='collapse' data-parent='#thematic-tree' data-target='#collapse-5817'><span>Apoio Escolar</span></a><ul class='collapse panel-collapse' id='collapse-5817'></ul></li></ul>
+                        
+                        <ul class="site-areas">
+                                                                    <li><a href="/Ajuda"><span>AJUDA</span></a></li>
+                                                                                <li><a href="/areacliente"><span>ÁREA CLIENTE</span></a></li>
+                                                                                <li><a href="/contactos"><span>CENTRO DE CONTACTO</span></a></li>
+                                                                                <li><a href="/listacompras"><span>LISTA DE DESEJOS</span></a></li>
+                                                                                <li><a href="/areacliente/gestaosubscricoes"><span>SUBSCREVER NEWSLETTER</span></a></li>
+                                                                                <li><a href="/Mensagem/index/?key=cartao-wookmais"><span>Cartão Wookmais</span></a></li>
+                                                                                <li><a href="/Mensagem/index/?key=Passatempodiacrianca"><span>Passatempo Dia da Criança</span></a></li>
+                                                                </ul>
+                        
+                        <ul class="banners-area">
+
+                            <!--<li class="banner-text wookacontece" onclick="window.open('http://wookacontece.wook.pt/', '_self')">wook<span class="label">acontece</span><span class="view-more">eventos, magazine, autores, sala de leitura</span>
+                            </li>-->
+
+                            <li class="banner-text biblioteca" onclick="window.open('/Biblioteca', '_self')">biblioteca<span class="view-more">(eBooks)</span>
+                            </li>
+
+                        </ul>
+
+                        <ul class="site-links">
+                                                                    <li><a href="/Afiliados"><span>Programa de Afiliados</span></a></li>
+                                                                                <li><a href="/sobre-nos/condicoes-de-venda/"><span>Condições de Venda</span></a></li>
+                                                                                <li><a href="/sobre-nos/condicoes-de-venda/?art=27"><span>compras 100% seguras</span></a></li>
+                                                                                <li><a href="/Mensagem/index/?key=politicaprivacidade"><span>política de privacidade</span></a></li>
+                                                                                <li><a href="/mapasite"><span>mapa do site</span></a></li>
+                                                        
+                            <li class="no-link"></li>
+                        </ul>
+
+                        <ul class="social-icons">
+                            <li class="follow-text">Siga-nos:</li>
+                            <li><a href="https://www.facebook.com/livrariawook" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCZOSfNcH4TMjHpcPeXfbJ_A" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com/livrariawook/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.wook.pt/wookacontece/" target="_blank"><i class="wookacontece-icon"></i></a></li>
+                            <li class="no-link"></li>
+                        </ul>
+
+                        <ul class="copyright">
+                            <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 09-06-2018</li>
+                        </ul>
+                    </nav>
+                    </nav>
+                </div>
+                
+                <!-- /#sidebar-wrapper -->
+
+                <!-- page-content-wrapper -->
+                <div id="page-content-wrapper">
+                    <div class="container-alpha" style="display: none;"></div>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <!-- header navbar -->
+<div id="header-navbar" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    
+<div id="cookieLawBar" style="display:none;">
+    <div class="notification">
+        <div class="messageCookie">
+            Este site utiliza <i>cookies</i> para uma melhor experiência de navegação. Ao navegar consente a sua utilização. <a href="/sobre-nos/condicoes-de-venda/?art=27">Saiba mais aqui.</a>
+        </div>
+
+        <div class="buttons-container">
+            <div class="button closeButton">
+                <p>*</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class='navigation-container col-xs-12 no-padding'>
+        <button type="button" class="menu-btn navbar-toggle">
+            <span class="font-icon icon-menu"></span>
+        </button>
+
+        <div class="brand">
+            <a class="navbar-brand" href="/">
+                <div class="branding global-sprite"></div>
+            </a>
+        </div>
+        <div class="search-slide close-search-box">
+            <div class="col-lg-12 search-box">
+                <input value="" type="text" name="palavra" id="form-searchform-palavra" placeholder="wook procuras?" />
+                <button type="button" class="button-start-search hidden">
+                    <span class="font-cart"></span>
+                </button>
+                <button type="button" class="button-clear-search hidden">
+                    <span class="font-close"></span>
+                </button>
+            </div>
+            <button type="button" class="navbar-toggle button-search">
+                <span class="font-icon icon-search"></span>
+            </button>
+            <div id="auto-complete" class="col-lg-12 search-auto-complete hidden">
+                <div id="result-auto-complete"></div>
+            </div>
+        </div> 
+
+        <button type="button" class="navbar-toggle button-list-top" title="a sua lista de desejos">
+            <span class="badge" id="badge-list" ></span>
+            <span class="icon icon-shopping-list"></span>
+        </button>
+
+        <button type="button" class="navbar-toggle button-cart-top">
+            <span class="badge" id="badge-shoppingCart" ></span>
+            <span class="icon icon-shopping-cart"></span>
+        </button>
+    </div>
+
+</div>
+<!-- /#header navbar -->                                <main>
+                                    <!--page content -->
+                                      
+
+<div >
+    <meta  content="https://www.wook.pt/livro/the-tattooist-of-auschwitz-heather-morris/19871742">
+
+    <!--Product card-->
+    <div class="col-xs-12 site-content product-card">
+
+        
+        
+
+                <section class="col-xs-12" id="product_card">
+            
+<!-- Topo da ficha de produto -->
+<div class="col-xs-12 col-md-5 col-lg-4 product-left" id="productPageLeftSectionTop">
+    <div class="noResourses cover" id="productPageLeftSectionTop-image" data-prodid="19871742">
+                    <img sizes="(max-width: 688px) 75vw, 25vw"
+                srcset="
+                https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/260x 265w,
+                https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/320x 325w,
+                https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/350x 355w,
+                https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/502x 500w"
+                src="https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/250x"
+                alt="Wook.pt - The Tattooist Of Auschwitz"
+                title="Wook.pt - The Tattooist Of Auschwitz"
+                onclick="" class="img-responsive ">
+            </div>   
+</div>
+
+
+<!--Right column with information of the book-->
+<div class="col-xs-12 col-md-7  col-lg-8 product-right" id="productPageRightSectionTop">    
+    <h1   id="productPageRightSectionTop-title-h1">The Tattooist Of Auschwitz</h1>
+    <meta   content="The Tattooist Of Auschwitz">
+        
+        <h2   id="productPageRightSectionTop-subtitle-h2">Based On The Heart-Breaking True Story Of Love And Survival</h2>
+                <h3 id="productPageRightSectionTop-authors-h3">de <a id="productPageRightSectionTop-author-lnk" data-id="205736">Heather Morris</a>&nbsp;</h3>
+                <!-- bandeira da lingua-->
+        <div class="flag col-xs-12"><span id="productPageRightSectionTop-languageFlag" class="global-sprite language-flag Inglês"></span>
+            <span id="productPageRightSectionTop-language" class="idioma">  idioma: Inglês</span>       
+        </div>
+            <!-- Aditional info -->
+       
+    <div class='hidden-xs hidden-sm hidden-md col-lg-12 aditional-info'>   
+        <span class='title'>Edição: </span>
+        <span class='text'>
+            Zaffre Publishing, janeiro de 2018        </span> 
+        <span>&nbsp;&#8231;&nbsp;</span>
+
+        <span class='title'>ISBN: </span>
+        <span class='text'>9781785763649</span> 
+        <span>&nbsp;&#8231;&nbsp;</span>
+
+        <span class='product-details title'>ver detalhes do produto</span>
+
+    </div>
+       
+            <div  class="rating">
+            <div class="stars">
+                                    <meta content="5" />
+                                    <span class="star active"></span>
+                                    <span class="star active"></span>
+                                    <span class="star active"></span>
+                                    <span class="star active"></span>
+                                    <span class="star active"></span>
+                
+            </div>
+
+            <div id="productPageRightSectionTop-rating-evaluation" class="coments"><span class="evaluation"> avaliação dos leitores</span> (2 comentários)</div>
+                
+        </div>
+        <!--Formats of the book - select box -->
+    
+    <!-- Actions -->
+    <div class=" col-xs-12 sale-actions" id="productPageRightSectionTop-saleAction">
+        <div   class="visible-lg col-lg-offset-9 col-lg-3 price">
+                        <div class="old" id="productPageRightSectionTop-saleAction-price-old">15,70€</div>
+            <div class="current" id="productPageRightSectionTop-saleAction-price-current"> 14,13€</div>
+        </div>  
+         
+            <div class="col-xs-12 col-sm-12 col-lg-6 stars" id="productPageRightSectionTop-saleAction-stars">
+
+                                    <div class="col-xs-4  col-sm-2 col-lg-4 discount-percent-big" id="productPageRightSectionTop-saleAction-stars-discount">
+                        <div class="twelve-point-star"></div>
+                        <div class="value-discount">
+                             10%                        </div>
+                    </div>
+                    
+                                    <div class="col-xs-4 col-sm-3 col-lg-offset-0 col-lg-4 free-ports " id="productPageRightSectionTop-saleAction-stars-freePorts">
+                        <div class="twelve-point-star grey"></div>
+                        <div class="value-ports">Portes <br>Grátis</div>
+                    </div>
+                    
+                    </div>
+                <div class="hidden-lg pull-right price" id="productPageRightSectionTop-actions-price">
+                        <div class="old" id="productPageRightSectionTop-saleAction-price-old-xs">15,70€</div>
+            <div class="current" id="productPageRightSectionTop-actions-price-current-xs"> 14,13€</div>
+        </div>
+
+        <div class="col-md-12  col-lg-6 actions" id="productPageRightSectionTop-actions">
+            
+                        <button id="productPageRightSectionTop-actions-share-btn" type="button" class="button-share" title="partilhar" >
+            </button>
+            <button id="productPageRightSectionTop-actions-addList-btn" type="button" data-kpilista="10" data-subart="15712874" data-ficha="S" data-mesart="19871742" class="add-list" title="adicionar à lista de desejos" >
+            </button>
+ 
+                    
+                <button id="productPageRightSectionTop-actions-addCart-btn" data-tipoArtigo="livro" type="button" data-kpicesto="7" data-subart="15712874" class="add-cart button-cart " onclick=""  >
+                    <div class="col-xs-12 addCart-btn">
+                        <span class="addCart-btn-text">Comprar</span>
+                        <span class="addCart-btn-checkout-text">Checkout</span>                    
+                    </div>
+                </button>
+                 
+        </div>
+
+    <!-- Sales-infos -->
+    <div class="col-xs-12 sales-infos" id="productPageRightSectionTop-salesInfo">
+
+         
+            <div class="col-xs-12 sale-info no-bold" id="productPageRightSectionTop-salesInfo-discount">
+                <div class="text-info-wrap">
+                                        <span class="text-info">
+                        10% de desconto imediato                                            </span>
+                </div>
+            </div>
+                                    <div class="col-xs-12 sale-info no-bold" id="productPageRightSectionTop-salesInfo-stock24hours">
+                                <div class="text-info-wrap">
+                                    <span class="text-info">Sujeito a confirmação de stock no fornecedor                                        <!--<span class = "icon-info info-discount">i</span>-->
+                                    </span> 
+                                </div>                                
+                            </div>
+                            
+        <div class="col-xs-12 sale-info" id="productPageRightSectionTop-salesInfo-freePorts">
+                <div class="text-info-wrap">
+                    <span class="text-info">portes grátis                        <!--<span class="icon-info info-portes">i</span>-->
+                    </span>
+                </div>
+            </div>
+                            <!--  <div class="col-xs-12 sale-info no-bold" id="productPageRightSectionTop-salesInfo-saleToday">
+              <span class="text-info">receba este produto hoje
+                  <span class="icon-info info-saleToday">i</span>
+              </span>
+          </div> -->
+                <!-- <div class="col-xs-12 sale-info warning" id="productPageRightSectionTop-salesInfo-notAvailable">
+             <div class="text-info-wrap">
+             <span class="text-info notAvailable">//                 <span class="icon-info info-notAvailable">i</span>
+             </span>
+             </div>
+         </div>-->
+            </div>   
+</div>
+        </section>
+        
+        <section class="col-xs-12" id="product_about">
+            <h2 class="hidden">Sobre o livro</h2>
+            <!-- Sobre o Livro -->
+<div class="col-xs-12 section" id="productPageSectionAboutBook">
+    <div style="cursor: pointer;" class="hidden-sm hidden-md hidden-lg col-xs-12 collapse-area filter collapsed" id="productPageSectionAboutBook-collapseArea" data-toggle="collapse" data-target="#productPageSectionAboutBook-collapseSobreLivro" aria-expanded="false" aria-controls="productPageSectionAboutBook-collapseSobreLivro" role="menu">
+        <div class="col-xs-12 content" id="productPageSectionAboutBook-collapseArea-content">
+            <div class="text">
+                <div class="col-xs-10 col-md-4 left-title" id="productPageSectionAboutBook-collapseArea-content-title">
+                    <div class="description">Sobre<span class="hidden-sm hidden-md"><br></span> o Livro</div>
+                </div>
+            </div>
+            <span class="pull-right arrow-down"></span>
+        </div>
+    </div>
+
+    <div class="hidden-xs visible-sm visible-md visible-lg col-sm-12 col-lg-4 left-title" id="productPageSectionAboutBook-title">
+        <h3 class="description">Sobre<span class="hidden-sm hidden-md"><br></span> o Livro</h3>
+    </div>
+
+
+
+    <div class="col-xs-12 col-lg-8 right-side collapse" id="productPageSectionAboutBook-collapseSobreLivro" style="height: auto">
+        <div class="wells">
+            <div class="right-title" id="productPageSectionAboutBook-sinopseTitle">Sinopse</div>
+            <div itemprop="description" class="right-text" id="productPageSectionAboutBook-sinopse"><p>And he was determined not only to survive himself, but to ensure this woman, Gita, did, too.So begins one of the most life-affirming, courageous, unforgettable and human stories of the Holocaust: the love story of the tattooist of Auschwitz.-----'Extraordinary - moving, confronting and uplifting .</p></div>
+        </div>
+            </div>
+
+</div>        </section>
+
+                    <section class="col-xs-12" id="product_reviews">
+                <h2 class="hidden">Comentários</h2>
+                <!-- comentários -->  
+<div class="col-xs-12 section coments" id="productPageSectionComments">
+
+
+    <div style="cursor: pointer;" class="hidden-sm hidden-md hidden-lg col-xs-12 collapse-area filter collapsed" id="productPageSectionComments-collapseArea" data-toggle="collapse" data-target="#productPageSectionComments-collapseComments" aria-expanded="false" aria-controls="productPageSectionComments-collapseComments" role="menu">
+        <div class="col-xs-12 content" id="productPageSectionComments-collapseArea-content">
+            <div class="text">
+                <div class="col-xs-10 col-md-4 left-title">
+                    <div class="description">Opinião<span class="hidden-sm hidden-md"><br></span> dos leitores</div>
+                </div>
+                <span class="pull-right arrow-down"></span>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- $hrefComentar definido no controller depende de condição lá descrita-->
+    <div class="hidden-xs visible-sm visible-md visible-lg col-sm-12 col-lg-4 left-title" id="productPageSectionComments-title">
+        <h3 class="description">Opinião<span class="hidden-sm hidden-md"><br></span> dos leitores</h3>
+        <div class="view-more-login-ficha"><a href="/login/&redirect=fpc">comentar</a>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-lg-8 right-side collapse" id="productPageSectionComments-collapseComments" style="height: auto">
+        <div class="hidden-sm hidden-md hidden-lg col-xs-12 view-more-login-ficha"><a id="product-page-comment-lnk" href="/login/&redirect=fpc">comentar</a></div>
+        <ul class="wells comment-list" id="productPageSectionComments-collapseComments-commentList">
+
+
+                                <li id="productPageSectionComments-collapseComments-commentList-comment-0">
+                                            <div class="rating" id="productPageSectionComments-collapseComments-commentList-comment-rating-0">
+                        <div class="stars">
+                            <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                </div>
+                    </div>
+                    <div class="right-title" id="productPageSectionComments-collapseComments-commentList-comment-title-0"> A masterpiece</div>
+                    <div class="coment-author" id="productPageSectionComments-collapseComments-commentList-comment-author-0">
+                        <div class="coment-name">
+                            Cátia Rato | 10-05-2018 </div>
+                    </div>
+                    <div class="right-text" id="productPageSectionComments-collapseComments-commentList-comment-text-0"><p>The Tattoist Of Auschwitz transports us to Auschwitz with a different perspective than what we are used to. We get to see how it was the life of the jews recruited to work for the nazis in privileged roles and how they used their position to help the other people.
+This book goes beyond the concentration camps and shows us how far determination can take us. It&#39;s not just a book about The Holocaust, it&#39;s also a book about hope, dreams and a way of facing the rocks life throws at us.
+The book was written while one of the protagonists was still alive, so we know the facts are really there. A must read. </p></div>
+                                        <li id="productPageSectionComments-collapseComments-commentList-comment-1">
+                                            <div class="rating" id="productPageSectionComments-collapseComments-commentList-comment-rating-1">
+                        <div class="stars">
+                            <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                <span class="star active"></span>
+                                </div>
+                    </div>
+                    <div class="right-title" id="productPageSectionComments-collapseComments-commentList-comment-title-1"> A must read</div>
+                    <div class="coment-author" id="productPageSectionComments-collapseComments-commentList-comment-author-1">
+                        <div class="coment-name">
+                            Carla Seixas | 02-04-2018 </div>
+                    </div>
+                    <div class="right-text" id="productPageSectionComments-collapseComments-commentList-comment-text-1"><p>Difficult to start reading because of  the title which implies a book rich in human drama, but even more difficult to put down once you&#39;ve started reading it. 
+Lale and Gita&#39;s love story kept me turning the pages, in spite of the heartbreak of certain passages and the sheer savagery of certain events.
+This book will live with me for ever. 
+I strongly recommend it to those who are brave enough to face the heinousness of certain crimes and want to keep on believing in the good within people.  </p></div>
+                                    </li>
+                
+        </ul>
+    </div>
+</div>
+
+            </section>
+            
+        <section class="col-xs-12" id="product_detail">
+            <h2 class="hidden">Detalhes do produto</h2>
+            <link />
+              
+
+
+<!-- Detalhes do produto -->
+<div class="col-xs-12 section" id="productPageSectionDetails">
+    <div style="cursor: pointer;" class="hidden-sm hidden-md hidden-lg col-xs-12 collapse-area filter collapsed" id="productPageSectionDetails-collapseArea" data-toggle="collapse" data-target="#productPageSectionDetails-collapseDetalhes" aria-expanded="false" aria-controls="productPageSectionDetails-collapseDetalhes" role="menu">
+        <div class="col-xs-12 content" id="productPageSectionDetails-collapseArea-content">
+            <div class="text">
+                <div class="col-xs-10 col-md-4 left-title" id="productPageSectionDetails-collapseArea-content-title">
+                    <h3 class="description">Detalhes<span class="hidden-sm hidden-md"><br></span> do Produto</h3>
+                </div>
+            </div>
+            <span class="pull-right arrow-down"></span>
+        </div>
+    </div>
+
+
+
+    <div class="hidden-xs visible-sm visible-md visible-lg col-sm-12 col-lg-4 left-title" id="productPageSectionDetails-title">
+        <h3 class="description">Detalhes<span class="hidden-sm hidden-md"><br></span> do Produto</h3>
+    </div>
+
+    <div class="col-xs-12 col-lg-8 right-side collapse" id="productPageSectionDetails-collapseDetalhes" style="height: auto">
+        <div class="wells">
+            <div class="col-xs-12 col-md-6 info-area" id="productPageSectionDetails-collapseDetalhes-content">
+                <div class="right-title-details" id="productPageSectionDetails-collapseDetalhes-content-title">The Tattooist Of Auschwitz</div>
+
+                                <div class="right-author" id="productPageSectionDetails-collapseDetalhes-content-author">de <a href="/autor/heather-morris/205736">Heather Morris</a>&nbsp;</div>
+                
+                
+                <div class="data">
+                    <span id="productPageSectionDetails-collapseDetalhes-content-isbn" class="col-xs-12">ISBN: <span class="info">9781785763649</span></span><span id="productPageSectionDetails-collapseDetalhes-content-year" class="col-xs-12">Edição ou reimpressão: <span  class="info">01-2018</span></span><span  class="col-xs-12">Editor: <span  class="info">Zaffre Publishing</span></span><span id="productPageSectionDetails-collapseDetalhes-content-language" class="col-xs-12">Idioma: <span  class="info">Inglês</span></span><span id="productPageSectionDetails-collapseDetalhes-content-dimensions" class="col-xs-12">Dimensões: <span class="info">159 x 239 x 25 mm</span></span>                        <span id="productPageSectionDetails-collapseDetalhes-content-bookbinding" class="col-xs-12">
+                            Encadernação: <span class="info">Capa dura</span>
+                        </span>
+                        <span id="productPageSectionDetails-collapseDetalhes-content-nrPages" class="col-xs-12">Páginas: <span class="info">288</span></span><span id="productPageSectionDetails-collapseDetalhes-content-type" class="col-xs-12">Tipo de Produto: <span class="info">Livro</span></span>                        <span id="productPageSectionDetails-collapseDetalhes-content-collection" class="col-xs-12">
+                            Coleção: 
+                            <a class="colection-lnk" href="/pesquisa/+/coleccao/14011305/Flowers+Of+Scotland">
+                                <span class="info">Flowers Of Scotland</span>
+                            </a>                                
+                        </span>
+                                                <span id="productPageSectionDetails-collapseDetalhes-content-themes" class="col-xs-12">
+                            Classificação Temática: 
+                            <span class="info" itemscope itemtype="http://schema.org/BreadcrumbList">
+                            <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/arvoretematica/livros-em-ingles/8066x8067/P"><span itemprop="name">Livros em Inglês</span></a><meta itemprop="position" content="1" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> > <a itemprop="item" href="/arvoretematica/livros-em-ingles-literatura/8066x8067x8229/P"><span itemprop="name">Literatura</span></a><meta itemprop="position" content="2" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> > <a itemprop="item" href="/arvoretematica/livros-em-ingles-literatura-ficcao/8066x8067x8229x8242/P"><span itemprop="name">Ficção</span></a><meta itemprop="position" content="3" /></span><br>                                
+                            </span>
+                        </span>
+                        <!--<span itemprop="category" content=""></span>-->
+                                    </div> 
+            </div>
+
+                            <div class="hidden-xs hidden-sm col-md-6 cover dimensions" id="productPageSectionDetails-collapseDetalhes-content-imageDimensions">
+                                            <img alt="The Tattooist Of Auschwitz"
+                            src="https://img.wook.pt/images/the-tattooist-of-auschwitz-heather-morris/MXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw/136x205"
+                            class="produto_imagem img-responsive"
+                            title="The Tattooist Of Auschwitz">
+                                    </div>
+                    </div>
+    </div>
+</div>        </section>
+        
+        
+        <section class="col-xs-12" id="product_author">
+            <h2 class="hidden">Sobre o autor</h2>
+            <!-- Sobre o Autor -->
+<div class="col-xs-12 section-author" id="productPageSectionAboutAuthor">
+    <div class="col-xs-12 col-lg-4 left-title" id="productPageSectionAboutAuthor-title">
+                        <h3 class="description">Sobre o Autor</h3>
+                    </div>
+    <div class="col-xs-12 col-sm-12 col-lg-8 right-side" id="productPageSectionAboutAuthor-content">
+        <div class="wells">
+                                <div class="author" id="205736">
+                        
+                                <div class=" col-xs-12 author-info">     
+                                    <div class="right-title" id="productPageSectionAboutAuthor-content-title">
+                                        <a href="/autor/heather-morris/205736">Heather Morris</a>                                    </div>
+                                    <div class="right-text" id="productPageSectionAboutAuthor-content-bio">
+                                        <p>Heather Morris nasceu na Nova Zelândia e reside atualmente na Austrália. Durante vários anos, enquanto trabalhava num hospital público em Melbourne, estudou e escreveu argumentos para cinema.<br>Em 2003, Heather foi apresentada a um homem idoso que «tinha uma história que valia a pena contar». O dia em que conheceu Lale Sokolov mudou a vida de ambos, e à medida que a amizade entre os dois crescia, Lale embarcou numa viagem ao seu passado, confiando a Heather os detalhes mais íntimos da sua vida durante o Holocausto. Heather escreveu a primeira versão da história de Lale na forma de um argumento para filme, antes de o transformar no seu romance de estreia, <i>O Tatuador de Auschwitz</i>. Os direitos de publicação deste livro inspirador estão vendidos para mais de 20 países.<a href="/autor/heather-morris/205736">(ver mais)</a>                                        </p>
+                                    </div>
+                                </div>   
+
+                                                            <!-- Bestsellers -->
+                            <div class="col-xs-12 section-bestsellers showcase" id="productPageSectionAboutAuthor-bestsellers"
+                                 data-showcase-id="19871742-dma" 
+                                 data-showcase-name="19871742-dma"
+                                 data-showcase-position="1"> 
+                                <div class="col-xs-12 right-side" id="productPageSectionAboutAuthor-bestsellers-content">
+                                                                                <div class="right-title" id="productPageSectionAboutAuthor-bestsellers-title">do mesmo autor</div>
+                                                                            <div class="col-xs-12 products ">
+                                                                                        <div class=" col-xs-6 col-sm-4 col-md-3  product-portlet" id="productPageSectionAboutAuthor-bestsellers-product-21370406"
+                                                    data-product-id="21370406"
+                                                    data-product-name="O Tatuador de Auschwitz"
+                                                    data-product-position="1">
+                                                    
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/o-tatuador-de-auschwitz-heather-morris/21370406">
+                            <img src="https://img.wook.pt/images/o-tatuador-de-auschwitz-heather-morris/MXwyMTM3MDQwNnwxNzI1MjkwM3wxNTE2NzUyMDAwMDAw/150x" class="img-responsive"
+                 alt="O Tatuador de Auschwitz">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+            <div class="icons">
+            <div class="discount-percent">
+                <div class="twelve-point-star white"></div>
+                <div class="twelve-point-star"></div>
+                <div class="value">10%</div>
+            </div>
+        </div>
+                <div class="shipping">
+                            <div class="free-shipping important">portes grátis</div>
+                        </div>
+            <div class="title">
+            <div class="title-product portlet-product-title--21370406">
+                <p>
+                    <a class="title-lnk track" href="/livro/o-tatuador-de-auschwitz-heather-morris/21370406">
+                        O Tatuador de Auschwitz                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-21370406"><p>de <a href="/autor/heather-morris/205736">Heather Morris</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-21370406">Editorial Presença</div>        
+            <div class="price">14,85€</div>
+            <div class="rating">
+            <a class="title-lnk track" href="/livro/o-tatuador-de-auschwitz-heather-morris/21370406">
+                <div class="stars pull-left">
+                    <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                </div>
+                <!--TODO deve ser o nr de comentarios, serviço ainda não retorna essa informação-->
+                <div class="comments-nr pull-left">(12)</div>
+            </a>
+        </div>
+        </div>
+                                                </div>
+                                                                                                <div class=" col-xs-6 col-sm-4 col-md-3  product-portlet" id="productPageSectionAboutAuthor-bestsellers-product-21364034"
+                                                    data-product-id="21364034"
+                                                    data-product-name="Tattooist Of Auschwitz"
+                                                    data-product-position="3">
+                                                    
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/tattooist-of-auschwitz-heather-morris/21364034">
+                            <img src="https://img.wook.pt/images/tattooist-of-auschwitz-heather-morris/MXwyMTM2NDAzNHwxNzI0OTgyOHwxNTIwODEyODAwMDAw/150x" class="img-responsive"
+                 alt="Tattooist Of Auschwitz">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+            <div class="icons">
+            <div class="discount-percent">
+                <div class="twelve-point-star white"></div>
+                <div class="twelve-point-star"></div>
+                <div class="value">10%</div>
+            </div>
+        </div>
+                <div class="shipping">
+                            <div class="free-shipping important">portes grátis</div>
+                        </div>
+            <div class="title">
+            <div class="title-product portlet-product-title--21364034">
+                <p>
+                    <a class="title-lnk track" href="/livro/tattooist-of-auschwitz-heather-morris/21364034">
+                        Tattooist Of Auschwitz                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-21364034"><p>de <a href="/autor/heather-morris/205736">Heather Morris</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-21364034">Zaffre Publishing</div>        
+            <div class="price">14,13€</div>
+    </div>
+                                                </div>
+                                                                                                <div class="hidden-xs visible-sm visible-md visible-lg col-sm-4 col-md-3  product-portlet" id="productPageSectionAboutAuthor-bestsellers-product-14087424"
+                                                    data-product-id="14087424"
+                                                    data-product-name="Pinterest Kickstart"
+                                                    data-product-position="4">
+                                                    
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/pinterest-kickstart-david-todd/14087424">
+                            <img src="https://img.wook.pt/images/pinterest-kickstart-david-todd/MXwxNDA4NzQyNHw5NjUxNzk3fDE1MjA4MTI4MDAwMDA=/150x" class="img-responsive"
+                 alt="Pinterest Kickstart">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+            <div class="icons">
+            <div class="discount-percent">
+                <div class="twelve-point-star white"></div>
+                <div class="twelve-point-star"></div>
+                <div class="value">10%</div>
+            </div>
+        </div>
+                <div class="shipping">
+                            <div class="discount-card">
+                    10% CARTÃO                </div>
+                                <div class="free-shipping important">portes grátis</div>
+                        </div>
+            <div class="title">
+            <div class="title-product portlet-product-title--14087424">
+                <p>
+                    <a class="title-lnk track" href="/livro/pinterest-kickstart-david-todd/14087424">
+                        Pinterest Kickstart                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-14087424"><p>de <a href="/autor/david-todd/1981859">David Todd</a>e<a href="/autor/heather-morris/205736">Heather Morris</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-14087424">MCGRAW-HILL EDUCATION - EUROPE</div>        
+            <div class="price">20,53€</div>
+    </div>
+                                                </div>
+                                                                                                <div class="hidden-xs hidden-sm visible-md visible-lg col-md-3  product-portlet" id="productPageSectionAboutAuthor-bestsellers-product-3625079"
+                                                    data-product-id="3625079"
+                                                    data-product-name="33 Ways To Help With Spelling"
+                                                    data-product-position="5">
+                                                    
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/33-ways-to-help-with-spelling-heather-morris/3625079">
+                            <img src="https://img.wook.pt/images/33-ways-to-help-with-spelling-heather-morris/MXwzNjI1MDc5fDI2ODI0Nzh8MTM4MzUyMzIwMDAwMA==/150x" class="img-responsive"
+                 alt="33 Ways To Help With Spelling">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+            <div class="icons">
+            <div class="discount-percent">
+                <div class="twelve-point-star white"></div>
+                <div class="twelve-point-star"></div>
+                <div class="value">10%</div>
+            </div>
+        </div>
+                <div class="shipping">
+                            <div class="discount-card">
+                    10% CARTÃO                </div>
+                                <div class="free-shipping important">portes grátis</div>
+                        </div>
+            <div class="title">
+            <div class="title-product portlet-product-title--3625079">
+                <p>
+                    <a class="title-lnk track" href="/livro/33-ways-to-help-with-spelling-heather-morris/3625079">
+                        33 Ways To Help With Spelling                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-3625079"><p>de <a href="/autor/heather-morris/205736">Heather Morris</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-3625079">TAYLOR & FRANCIS LTD</div>        
+            <div class="price">30,20€</div>
+    </div>
+                                                </div>
+                                                                                    </div>
+                                                                        <div class="col-xs-12 see-all " id="productPageSectionAboutAuthor-lnkAuthorPage"> <a href="/autor/heather-morris/205736">ver mais títulos deste autor</a> </div>                                                                
+                                </div>
+                            </div>
+                                            </div>
+                        </div><!--well-->   
+    </div>
+</div>         </section>
+        
+        <section class="col-xs-12 last-section" id="recommendations">
+            <h2 class="hidden">Quem comprou também comprou</h2>
+            <!-- Quem comprou tambem comprou-->
+<div class="col-xs-12 otherShops-section showcase" id="productPageSectionWhoBuy"
+     data-showcase-id="19871742-qctc" 
+     data-showcase-name="19871742-qctc"
+     data-showcase-position="2">
+    <div class="col-sm-12 col-lg-4 left-title" id="productPageSectionWhoBuy-title">
+        <h3 class="description">Quem comprou também comprou</h3>
+    </div>
+    <div class="col-sm-12 col-lg-8 right-side" id="productPageSectionWhoBuy-content">
+
+        <div class="row products">
+            <div class="wells">
+                                            <div class=" col-xs-6 col-sm-4 col-md-3  product-portlet" id="productPageSectionWhoBuy-content-product-19284036"
+                                 data-product-id="19284036"
+                                 data-product-name="Friend Of My Youth"
+                                 data-product-position="1">
+                                     
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/friend-of-my-youth-amit-chaudhuri/19284036">
+                            <img src="https://img.wook.pt/images/friend-of-my-youth-amit-chaudhuri/MXwxOTI4NDAzNnwxNTA4OTk4MnwxNTA2NTUzMjAwMDAw/150x" class="img-responsive"
+                 alt="Friend Of My Youth">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+             <div class="shipping">
+                            <div class="free-shipping important">portes grátis</div>
+                        </div>
+            <div class="title">
+            <div class="title-product portlet-product-title--19284036">
+                <p>
+                    <a class="title-lnk track" href="/livro/friend-of-my-youth-amit-chaudhuri/19284036">
+                        Friend Of My Youth                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-19284036"><p>de <a href="/autor/amit-chaudhuri/309790">Amit Chaudhuri</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-19284036">Faber & Faber</div>        
+            <div class="price">15,70€</div>
+    </div>
+                            </div>
+                                                        <div class=" col-xs-6 col-sm-4 col-md-3  product-portlet" id="productPageSectionWhoBuy-content-product-17345610"
+                                 data-product-id="17345610"
+                                 data-product-name="Anatomy Of A Soldier"
+                                 data-product-position="2">
+                                     
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/anatomy-of-a-soldier-harry-parker/17345610">
+                            <img src="https://img.wook.pt/images/anatomy-of-a-soldier-harry-parker/MXwxNzM0NTYxMHwxMjk3MzExOXwxNDg1NDc1MjAwMDAw/150x" class="img-responsive"
+                 alt="Anatomy Of A Soldier">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+             <div class="title">
+            <div class="title-product portlet-product-title--17345610">
+                <p>
+                    <a class="title-lnk track" href="/livro/anatomy-of-a-soldier-harry-parker/17345610">
+                        Anatomy Of A Soldier                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-17345610"><p>de <a href="/autor/harry-parker/613647">Harry Parker</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-17345610">Faber & Faber</div>        
+            <div class="price">13,28€</div>
+    </div>
+                            </div>
+                                                        <div class=" hidden-xs visible-sm visible-md visible-lg col-sm-4 col-md-3  product-portlet" id="productPageSectionWhoBuy-content-product-16719330"
+                                 data-product-id="16719330"
+                                 data-product-name="The Quality Of Silence"
+                                 data-product-position="3">
+                                     
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/the-quality-of-silence-rosamund-lupton/16719330">
+                            <img src="https://img.wook.pt/images/the-quality-of-silence-rosamund-lupton/MXwxNjcxOTMzMHwxMjMzNDYxOHwxNTE1NTQyNDAwMDAw/150x" class="img-responsive"
+                 alt="The Quality Of Silence">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+             <div class="title">
+            <div class="title-product portlet-product-title--16719330">
+                <p>
+                    <a class="title-lnk track" href="/livro/the-quality-of-silence-rosamund-lupton/16719330">
+                        The Quality Of Silence                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-16719330"><p>de <a href="/autor/rosamund-lupton/1597427">Rosamund Lupton</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-16719330">LITTLE, BROWN BOOK GROUP</div>        
+            <div class="price">10,86€</div>
+    </div>
+                            </div>
+                                                        <div class=" hidden-xs visible-md visible-lg col-md-3  product-portlet" id="productPageSectionWhoBuy-content-product-1499760"
+                                 data-product-id="1499760"
+                                 data-product-name="Friend Of My Youth"
+                                 data-product-position="4">
+                                     
+<div class="col-xs-12 product-img ">
+    <div class=" cover">
+        <a class="track" href="/livro/friend-of-my-youth-alice-munro/1499760">
+                            <img src="https://img.wook.pt/images/friend-of-my-youth-alice-munro/MXwxNDk5NzYwfDE0MjM5NTB8MTM4MzUyMzIwMDAwMA==/150x" class="img-responsive"
+                 alt="Friend Of My Youth">
+                    </a>
+                    </div>
+</div>
+<div class="col-xs-12 product-info ">       
+             <div class="title">
+            <div class="title-product portlet-product-title--1499760">
+                <p>
+                    <a class="title-lnk track" href="/livro/friend-of-my-youth-alice-munro/1499760">
+                        Friend Of My Youth                    </a>
+                </p>
+            </div>
+
+                    </div>  
+
+            <div class="authors portlet-product-author-1499760"><p>de <a href="/autor/alice-munro/30609">Alice Munro</a>&nbsp;</p></div>        
+                <div class="publisher portlet-product-publisher-1499760">Vintage Publishing</div>        
+            <div class="price">12,07€</div>
+    </div>
+                            </div>
+                                        </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+        </section>  
+        
+                    <section class="col-xs-12" id="product_overlay_reviews">
+                <h2 class="hidden">Popup comentários</h2>
+                <div class="overlay-area comment-area hideOverlay" id="productPage-overlay-commentArea">
+    <div class="btn-close">X</div>
+    <div class="content" id="productPage-overlay-commentArea-content">        
+        <form class="form" id="productPage-overlay-commentArea-content-form" >
+            <div class="title-h1">Coloque aqui o seu comentário</div>
+            <div class="subtitle-h2">The Tattooist Of Auschwitz</div>
+            <fieldset>
+                <input id="productPage-overlay-commentArea-content-form-title" name="titulo" class="form-control text-box" type="text" value="" placeholder="Título do comentário">
+                <textarea id="productPage-overlay-commentArea-content-form-message" name="message-comment" class="form-control text-box msg" placeholder="Comentário"></textarea>                
+                <div class="evaluation" id="productPage-overlay-commentArea-content-form-evaluation">
+                    <div class="pull-left text">a sua avaliação:</div>
+                    <div class="pull-left rating" id="productPage-overlay-commentArea-content-form-rating" data-number="">
+                        <span class="ratyStar" id="star1" data-nr="1"></span>
+                        <span class="ratyStar" id="star2" data-nr="2"></span>
+                        <span class="ratyStar" id="star3" data-nr="3"></span>
+                        <span class="ratyStar" id="star4" data-nr="4"></span>
+                        <span class="ratyStar" id="star5" data-nr="5"></span> 
+                    </div>                    
+                </div>
+                <input id="productPage-overlay-commentArea-content-rating-input" name="rating" type="hidden" value=""/>                
+                <input id="productPage-overlay-commentArea-content-assinatura" name="assinatura" class="form-control text-box" type="text" value="" placeholder="Assinatura">
+            </fieldset>
+            <fieldset id="btn-area">
+                <button id="productPage-overlay-commentArea-btnClean" class="col-xs-6 btn-checkout grey"><span class="col-xs-12 description">Limpar</span>
+                </button>
+                <button id="productPage-overlay-commentArea-btnSubmit" class="col-xs-6 btn-checkout red" type="submit"><span class="col-xs-12 description">Enviar</span>
+                </button>
+                <div id="resultComment"></div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div class="overlay-area comment-confirm hideOverlay" id="productPage-overlay-commentConfirm">
+    <div class="btn-close">X</div>
+    <div class="content" id="productPage-overlay-commentConfirm-content">        
+        <div class="form content-text" id="productPage-overlay-commentConfirm-content-text" >
+            <div class="title-h1">Obrigado pela sua contribuição!</div>
+            <h2>O seu comentário foi enviado para validação.</h2>
+            <div class="nota" id="productPage-overlay-commentConfirm-content-text-note">Nota:<br>
+                <span>A WOOK reserva-se ao direito de não validar textos que não se foquem na análise do conteúdo do livro ou produto. Caso pretenda colocar alguma questão sobre o artigo deverá fazê-lo através do Centro de Contacto.</span>
+            </div>
+        </div>
+    </div>
+</div>            </section>
+            
+        <section id="overlays">
+            <h2 class="hidden">Popup</h2>
+            
+<div class="recursos-area hideOverlay" id="productPage-overlay-resourcesArea">
+    <div class="content" id="productPage-overlay-resourcesArea-content">
+        <div class="btn-close" id="productPage-overlay-resourcesArea-content-btnClose" >X</div>
+        <div class="content-area">
+            <div class="conteudoMostrado" id="productPage-overlay-resourcesArea-content-resourceShow">
+                <div class="recurso" id="productPage-overlay-resourcesArea-content-resourceShow-resource">
+                    <img class="img-active hideOverlay" src="about:blank" alt="imagem">
+                    <iframe class="video-active showOverlay" allowfullscreen=""></iframe>
+                    <audio class="audio-active hideOverlay" id="audio-player" controls="controls"></audio>
+                </div>
+                <div class="legenda" id="productPage-overlay-resourcesArea-content-resourceShow-subtitle"></div> 
+            </div> 
+                    </div>
+    </div>
+</div>
+            
+            <div class="overlay-area info-desconto-area hideOverlay" id="productPage-overlay-infoDiscountArea">
+    <div class="btn-close" id="productPage-overlay-infoDiscountArea-content-btnClose">X</div>
+    <div class="content" id="productPage-overlay-infoDiscountArea-content">        
+        <div class="form" id="productPage-overlay-infoDiscountArea-content-form">
+            <div class="title-h1">wook deve saber</div>
+            <div class="header3-h3">Promoção válida para o dia 09-06-2018                <br><br>
+                Saiba mais sobre preços e promoções consultando as nossas  
+                <a class="link" id="productPage-overlay-infoDiscountArea-cgvLnk" href="/Ajuda/cgv">condições gerais de venda.</a>
+            </div>
+        </div>
+    </div>
+</div><div id="overlay-availability-alert" class="overlay-area availability-alert hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">                    
+        <form action="#" method="post" id="overlay-availability-alert-form">
+            <div class="title-h1">alerta de artigo novamente disponível</div>
+            <fieldset>
+                <p>De momento, este produto não se encontra disponível no fornecedor. Caso o mesmo volte a ficar disponível, poderemos notifica-lo, bastando para tal que nos indique o seu endereço de email. </p>
+                <input id="overlay-availability-alert-form-artID" name="subartid" class="hidden"  type="number" value="15712874">
+                <input id="overlay-availability-alert-form-email" name="email" class="form-control email-box"  type="email" placeholder="endereço de email">
+            </fieldset>              
+            <fieldset>
+                <button id="overlay-availability-alert-form-checkout" class="col-xs-6 btn-checkout red"><span class="col-xs-12 description">confirmar</span>
+                </button>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div id="overlay-availability-alert-response" class="overlay-area availability-alert hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">
+        <div class="title-h1">O seu pedido foi registado com sucesso.</div>   
+        <div class="subtitle-h2">Caso este produto fique disponível, será alertado por email</div> 
+    </div>
+</div>
+<div class="overlay-area info-ebookReader-area hideOverlay" id="productPage-overlay-infoReaderArea">
+    <div class="btn-close" id="productPage-overlay-infoReaderArea-content-btnClose">X</div>
+    <div class="content" id="productPage-overlay-infoReaderArea-content">        
+        <div class="col-xs-12 form" id="productPage-overlay-infoReaderArea-content-form">
+            <div class="title-h1">wook deve saber</div>
+            <div class="subtitle-h2">
+    Este eBook pode ser lido em qualquer dispositivo com browser, sem necessidade de fazer o download de qualquer software ou de possuir qualquer tipo de equipamento específico de leitura.<br />
+    Após a compra, o eBook é disponibilizado de imediato na sua Biblioteca Wook, onde poderá ler e organizar todos os seus eBooks e à qual poderá aceder a partir do site WOOK ou da nossa aplicação (APP).<br />
+    A versão web da Biblioteca Wook está otimizada para as versões mais recentes dos browsers Google Chrome, Internet Explorer, Safari, Firefox e Edge.
+</div>
+<div class="subtitle-h2">
+    Para otimizar o acesso à sua Biblioteca Wook e ter acesso à opção de leitura em modo offline (sem ligação à internet) deverá <b>instalar a nossa APP de leitura</b>:
+</div>
+<div class="buttons-install">
+    <a href="https://itunes.apple.com/pt/app/wookreader/id970411199" target="_blank">
+        <p>Instalar a APP versão <b>IOS 7+</b></p>
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=pt.portoeditora.wookreader" target="_blank">
+        <p>Instalar a APP versão <b>Android 4.4+</b></p>
+    </a>
+    <a href="https://www.microsoft.com/pt-pt/store/p/wookreader/9nblggh5kdb9" class="_disabled" target="_blank">
+        <p>Instalar a APP <b>Windows 10+ (FALL CREATORS UPDATE)</b></p>
+    </a>
+</div>
+<div class="sub-info">
+    <a href="/Ajuda" target="_blank">Para saber mais consulte a ajuda</a>
+</div>        </div>
+    </div>
+</div><div class="overlay-area info-ebookAde-area hideOverlay" id="productPage-overlay-infoAdeArea">
+    <div class="btn-close" id="productPage-overlay-infoAdeArea-content-btnClose">X</div>
+    <div class="content" id="productPage-overlay-infoAdeArea-content">        
+        <div class="col-xs-12 form" id="productPage-overlay-infoAdeArea-content-form">
+            <div class="title-h1">wook deve saber</div>
+            <div class="subtitle-h2">Este eBook está encriptado com DRM (Digital rights management) da Adobe e é aberto na aplicação de leitura Adobe Digital Editions (ADE) ou em outras aplicações compatíveis.  <br>Após a compra, o eBook é de imediato disponibilizado na sua área de cliente para efetuar o download.<br><br><b>Para ler este eBook num computador</b> instale a aplicação Adobe Digital Editions.</div>
+            <!--  <iframe src="https://www.youtube.com/embed/ibkd3PSUg8w" allowfullscreen></iframe>-->
+            <div class="buttons">
+                <a href="http://download.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.exe" class="btn-left"><p>Instalar a versão para <b>PC</b></p></a>
+                <a href="http://download.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg" class="btn-right"><p>Instalar a versão para <b>MAC</b></p></a>
+            </div>
+            <!-- <div class="sub-info"><a href="http://www.wook.pt/help/infoebooks/act/00"></a></div> -->
+            <div class="subtitle-h2"><b>Para ler este eBook em tablet e smartphone</b> instale a aplicação Adobe Digital Editions para IOS ou Android.</div>
+            <div class="buttons">
+                <a href="https://itunes.apple.com/pt/app/adobe-digital-editions/id952977781?mt=8" target="_blank" class="btn-left"><p>Instalar a versão para <b>IOS</b></p></a>
+                <a href="https://play.google.com/store/apps/details?id=com.adobe.digitaleditions" target="_blank" class="btn-right"><p>Instalar a versão para <b>Android</b></p></a>
+            </div>
+            <div class="sub-info"><a href="/Ajuda">Para saber mais consulte a ajuda</a></div>
+        </div>
+    </div>
+</div>
+<div id="overlay-ebook-format-pdf" class="overlay-area ebook-format hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">                    
+        <div class="title-h1">wook deve saber</div>
+        <div class="subtitle-h2">O PDF é um formato de arquivo digital desenvolvido pela Adobe e que disponibiliza uma imagem estática das páginas do livro e, independentemente do dispositivo de leitura, não redimensiona o texto ao tamanho do ecrã do dispositivo.</div>
+    </div>
+</div>
+<div id="overlay-ebook-format-epub" class="overlay-area ebook-format hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">                    
+        <div class="title-h1">wook deve saber</div>
+        <div class="subtitle-h2">O ePUB é um formato que proporciona uma excelente experiência de leitura dado que permite o redimensionamento do texto ao ecrã do dispositivo de leitura, aumentar ou diminuir o tamanho do texto, alterar o tipo de fonte, entre outras funcionalidades</div>
+    </div>
+</div>
+
+
+<div class="overlay-area share-area hideOverlay" id="productPage-overlay-share">
+    <div class="btn-close">X</div>
+    <div class="content" id="productPage-overlay-share-content">        
+        <div class="form" id="productPage-overlay-share-content-form" >
+            <div class="title-h1">partilhar:</div>
+            <div class="social">
+                <div class="share-options">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wook.pt%2Flivro%2Fthe-tattooist-of-auschwitz-heather-morris%2F19871742&amp;display=popup&amp;ref=plugin&amp;src=share_button" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+            return false;">
+        <div id="productPageSectionTop-socialnetwork-facebook" class="col-xs-3 social-icons facebook">           
+            <i class="fab fa-facebook" data-network="facebook" data-action="share"></i>
+        </div>
+    </a>
+
+
+
+    <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.wook.pt%2Flivro%2Fthe-tattooist-of-auschwitz-heather-morris%2F19871742&text=The+Tattooist+Of+Auschwitz%2C+de+Heather+Morris%7C " class="twitter-share-button" data-lang="en" data-count="none" target="_blank">
+        <div id="productPageSectionTop-socialnetwork-twitter" class="col-xs-3 social-icons twitter">
+            <i class="fab fa-twitter" data-network="twitter" data-action="share"></i>
+        </div>
+    </a>
+
+
+
+    <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.wook.pt%2Flivro%2Fthe-tattooist-of-auschwitz-heather-morris%2F19871742" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+            return false;">
+        <div id="productPageSectionTop-socialnetwork-gogglePlus" class="col-xs-3 social-icons google-plus">
+            <i class="fab fa-google-plus" data-network="google-plus" data-action="share"></i>
+        </div>
+    </a>
+
+
+
+    <a href="//www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fimg.wook.pt%2Fimages%2Fthe-tattooist-of-auschwitz-heather-morris%2FMXwxOTg3MTc0MnwxNTcxMjg3NHwxNTA3ODQ5MjAwMDAw&description=The+Tattooist+Of+Auschwitz%2C+de+Heather+Morris%7CWOOK" target="_blank">
+        <div id="productPageSectionTop-socialnetwork-pinterest" class="col-xs-3 social-icons pinterest">
+            <i class="fab fa-pinterest" data-network="pinterest" data-action="share"></i>
+        </div>
+    </a>
+    <a id="recomendar" href="" target="_blank">
+        <div id="productPageSectionTop-socialNetwork-recommend-email" class="col-xs-3 social-icons email-share">
+            @
+        </div>
+    </a>
+</div>
+<div id="share-link-box" class="recomendar-link-box">
+    <input id="share-link-box-input" name="link" class="recomendar-link"  type="text" placeholder="" value="https://www.wook.pt/livro/the-tattooist-of-auschwitz-heather-morris/19871742" readonly="readonly">   
+    <span id="share-link-box-chain" class="chain"></span>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</div>        </section>
+
+    </div>
+
+</div>
+
+  
+
+<div id ="bannerFinal">
+    
+    
+</div>
+                                       <!-- /#page content -->
+                                </main>
+                                <div class="overlay-menu" style="display:none;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="loading-montras">
+                        <div class="modal waiting loading"
+                            id="managed-dialog-montras" 
+                            tabindex="-1" 
+                            role="dialog" 
+                            aria-labelledby="managed-label-montras" 
+                            data-keyboard="false" 
+                            data-backdrop="static" 
+                            aria-hidden="true" 
+                            style="display: block;">
+                                <button type="button" 
+                                    class="close" 
+                                    data-dismiss="modal" 
+                                    aria-label="close" 
+                                    title="close" style="display: none;">
+                                </button>
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="loader"></div>
+                                        <div class="modal-body" id="managed-label-montras"><!--texto dinamico--></div>
+                                        <div class="modal-footer"></div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/#page-content-wrapper-->
+
+
+                <!-- sidebar-shopping-cart-wrapper -->
+                <div id="sidebar-shopping-cart-wrapper">
+    <nav class="shopping-cart">
+        <div class="cartoverlay"></div>
+        <ul class="top active">
+            <li>Cesto de compras</li>
+        </ul>
+
+        <ul class="row products" id="cestoProdutos"></ul>
+
+        <div class="shop-info">
+            <div class="shop-info-child">
+                <div class="total row">
+                    <div class="col-xs-12 total">
+                        <div class="col-xs-7 description"></div>
+                        <div class="col-xs-5 value"></div>
+                    </div>
+                    <div class="col-xs-12 shipping">
+                        <div class="col-xs-7 description poupanca">Poupança</div>
+                        <div class="col-xs-5 value"></div>
+                    </div>
+                </div>
+                <div class="sales-infos"></div>
+                <button class="col-xs-12 btn-checkout" onclick="pt.wook.checkout.goToStep(0);">
+                    <span class="col-xs-12 info">Checkout</span>
+                </button>
+
+                <div class="col-xs-12  checkout-express hidden">
+                    <button class="col-xs-12 visible-xs hidden-sm btn-checkout-express-xs">
+                        <span class="col-xs-12 info">Checkout Expresso<br> <b>(dados habituais)</b> </span>
+                    </button>                        
+                    <div class="col-xs-12 hidden-xs visible-sm visible-md visible-lg data">
+                        <button class="col-xs-12 btn-checkout-express">
+                            <span class="col-xs-12 info">Checkout Expresso</span>
+                        </button>
+                            <div class="col-xs-12 "> Siga para a confirmação da encomenda com os dados habituais</div>
+                            <span id="checkExpr-billAddr" class="col-xs-12 ">faturação: <span class="info"></span></span>
+                            <span id="checkExpr-shipAddr" class="col-xs-12 ">morada entrega: <span class="info"></span></span>
+                            <span id="checkExpr-shipOpt" class="col-xs-12 ">envio: <span class="info"></span></span>
+                            <span id="checkExpr-PayOpt" class="col-xs-12 ">pagamento: <span class="info"></span></span>
+                        <span class="col-xs-12 checkout-express-info">
+                            <span class="text-info">
+                                <span class="icon-info">i</span>
+                                <span class="text">Sobre o Checkout Expresso</span>                                        
+                            </span>
+                        </span>
+
+                    </div>
+
+                </div>
+                                    <div class="col-xs-12 checkout-express notlogged hidden">
+                        <button class="col-xs-12 btn-checkout-express-xs">
+                            <span class="col-xs-12 info">Checkout Expresso</span>
+                        </button>  
+                        <div class="col-xs-12 hidden-xs visible-sm visible-md visible-lg data">                        
+                            <span class="col-xs-12 checkout-express-info">
+                                <span class="text-info">
+                                    <span class="icon-info">i</span>
+                                    <span class="text">Sobre o Checkout Expresso</span>                                        
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                                </div>
+        </div>
+    </nav>
+</div>
+                <!-- /#sidebar-shopping-cart-wrapper -->
+                
+            </div>
+        </div>
+
+            <!--overlay content-->
+            <div id="overlay-popup" class="overlay">
+    </div>            <!--/#overlay content-->
+            
+            <div id="overlay-wook-procura" class="overlay-area wook-procura hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <form action="/procuramosporsi/enviaemailprocuramos/" method="post" id="overlay-wook-procura-form">
+            <div class="title-h1">não encontrou wook procura?</div>
+            <div class="subtitle-h2">Nós procuramos por si!</div>
+            <fieldset class="hide">
+                <p>A sua identificação:</p>
+                <input id="overlay-wook-procura-form-name" name="name" class="form-control name-box" type="text" placeholder="nome">
+                <input id="overlay-wook-procura-form-email" name="email" class="form-control email-box" type="email" placeholder="endereço de email">
+            </fieldset>
+            <fieldset>
+                <p>A identificação do livro que procura:</p>
+                <input id="overlay-wook-procura-form-title" name="title" class="form-control title-box" type="text" value="" placeholder="titulo">
+                <input id="overlay-wook-procura-form-author" name="author" class="form-control author-box" type="text" value="" placeholder="autor">
+                <input id="overlay-wook-procura-form-isbn" name="isbn" class="form-control isbn-box" type="number" value="" placeholder="ISBN">
+                <input id="overlay-wook-procura-form-publisher" name="publisher" class="form-control publisher-box" type="text" value="" placeholder="editor">
+                <textarea id="overlay-wook-procura-form-comment" name="comment" class="form-control text-box" placeholder="observações"></textarea>
+            </fieldset>
+            <fieldset>
+                <button id="overlay-wook-procura-form-checkout" class="col-xs-6 btn-checkout red">
+                    <span class="col-xs-12 description">Enviar</span>
+                </button>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div id="overlay-wook-procura-success" class="overlay-area wook-procura hideOverlay">
+    <div class="btn-close"></div>
+    <div class="content">
+        <div class="title-h1">O seu pedido foi enviado com sucesso!</div>            
+    </div>
+</div><div id="overlay-enviar-lista" class="overlay-area enviar-lista hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <form action="#" method="post" id="overlay-enviar-lista-form">
+            <div class="title-h1">envie esta lista aos seus amigos</div>
+            <div class="subtitle-h2">lista de desejos</div>
+            <fieldset class='hidden'>
+                <p>A sua identificação:</p>
+                <input id="overlay-enviar-lista-sender-name" name="sender-name" class="form-control name-box" type="text" placeholder="nome">
+                <input id="overlay-enviar-lista-sender-email" name="sender-email" class="form-control email-box" type="email" placeholder="endereço de email">
+            </fieldset>
+            <fieldset>
+                <p>A identificação da pessoa a quem quer enviar esta lista:</p>
+                <input id="overlay-enviar-lista-receiver-name" name="receiver-name" class="form-control name-box" type="text" value="" placeholder="nome">
+                <input id="overlay-enviar-lista-receiver-email" name="receiver-email" class="form-control email-box" type="email" value="" placeholder="endereço de email">
+                <textarea id="overlay-enviar-lista-comment" name="comment" class="form-control text-box" placeholder="comentário"></textarea>
+            </fieldset>
+            <fieldset>
+                <button id="overlay-enviar-lista-form-submit" class="col-xs-6 btn-checkout red">
+                    <span class="col-xs-12 description">Confirmar</span>
+                </button>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div id="overlay-enviar-lista-success" class="overlay-area enviar-lista hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">
+        <div class="title-h1">A sua lista de compras foi enviada com sucesso para <span class='receiver-email'></span>.</div>            
+    </div>
+</div><div id="overlay-livros-adotados" class="overlay-area hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">
+        <div class="livros-adotados-title">selecione o livro adotado:</div>
+        <div id="v-menu" class="todos" data-visible="false">
+            <!-- Div para mostrar os radio buttons -->
+            <div class="showRadioList" id="showRadioList"></div>
+        </div>
+    </div>
+    <div class="submitButton hidden"><span>CONFIRMAR ADOÇÃO</span></div>
+</div>
+            <div class="overlay-area info-portes-area hideOverlay" id="productPage-overlay-infoPortsArea">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <div class="form">
+            <div class="title-h1">wook deve saber</div>
+
+<BR><BR>
+
+<div data-class="ec_h3">
+<b>Oferta de portes</b> válida para entregas em Portugal Continental, em encomendas de valor igual ou superior a 15€ e devolução, em cartão Wookmais, do valor debitado de portes em encomendas de valor inferior a 15€, para envios em CTT Expresso ou Rede Pickup.<br><br> 
+Oferta de Portes válida para entregas nos Açores e Madeira, em todas as encomendas enviadas por CTT Expresso Clássico. Ofertas de portes válidas para encomendas até 10 kg.<br><br>
+Promoção válida para encomendas de livros não escolares registadas até 31/12/2018. Descontos ou vantagens não acumuláveis com outras promoções.
+</div data-class="ec_h3">        </div>
+    </div>
+</div><div class="overlay-area info-portes-cartao-area hideOverlay" id="productPage-overlay-infoPortsCartaoArea">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <div class="form">
+            <div id="tituloH1" class="title-h1">wook deve saber</div>
+
+<BR><BR>
+
+<div data-class="ec_h3">
+A devolução do valor dos portes de envio, em cartão Wookmais, será efetuada 18 dias após a faturação. Oferta válida para uma encomenda com entrega em Portugal.
+</div data-class="ec_h3">        </div>
+    </div>
+</div>
+
+<div class="overlay-area info-stock-area hideOverlay" id="productPage-overlay-infoStockArea">
+    <div class="btn-close" id="productPage-overlay-infoStockArea-content-btnClose">X</div>
+    <div class="content" id="productPage-overlay-infoStockArea-content">        
+        <div class="form" id="productPage-overlay-infoStockArea-content-form">
+           <div class="title-h1">wook deve saber</div>
+
+<BR><BR>
+
+<div data-class="ec_h3">
+
+EM STOCK – ENVIO EM 24 HORAS<BR>
+Sendo a sua encomenda constituída apenas por produtos <b>Em stock – Envio em 24H</b>*, se efetuar o pagamento <u>até às 16 horas</u> de um dia útil, será processada de imediato e enviada para o correio no próprio dia, recebendo-a no dia útil seguinte. 
+<BR><BR>
+Note que a encomenda só entra em processamento após a receção do pagamento e que, se esse pagamento for rececionado <u>após as 16 horas</u> (hora de Portugal Continental), a encomenda só é enviada no dia útil seguinte. 
+<BR><BR>
+* esta disponibilidade apenas é garantida para uma unidade de cada produto.
+<BR><BR>
+ENVIO ATÉ X DIAS<BR>
+Esta disponibilidade indica que o produto não se encontra em stock e que demorará x dias úteis a chegar do fornecedor. Estes produtos, especialmente as edições mais antigas, estão sujeitos à confirmação de preço e disponibilidade de stock no fornecedor. 
+<BR><BR>
+PRÉ-LANÇAMENTO<BR>
+Os produtos com esta disponibilidade têm entrega prevista a partir da data de lançamento.
+<BR><BR>
+DISPONIBILIDADE IMEDIATA<BR>
+Tipo de disponibilidade associada aos eBooks, que são disponibilizados de imediato, após o pagamento da encomenda, na sua biblioteca.
+<BR><BR>
+Para calcular o tempo de entrega de uma encomenda deverá somar à disponibilidade mais elevada dos artigos que está a encomendar o tempo de entrega associado ao tipo de envio escolhido.
+
+<BR><BR>
+
+</div data-class="ec_h3">        </div>
+    </div>
+</div><div class="overlay-area info-emptyList-area hideOverlay" id="wishlist-overlay-emptyList">
+    <div class="btn-close" id="wishlist-overlay-emptyList-content-btnClose">X</div>
+    <div class="content" id="wishlist-overlay-emptyList-content">        
+        <div class="col-xs-12 form" id="wishlist-overlay-emptyList-content-form">
+            <div class="title-h1">a sua lista de desejos encontra-se vazia</div>
+            <div class="subtitle-h2">Adicione à sua lista de desejos todos os produtos que deseja comprar mais tarde, envie-a aos seus amigos antes do 
+                seu aniversário, Natal ou outras datas especiais - quem sabe se eles o surpreendem!</div>
+            <div class="subtitle-h2">Seja informado sobre promoções destes produtos</div>
+        </div>
+    </div>
+</div><div class="overlay-area info-errbib-area hideOverlay" id="wishlist-overlay-errbib">
+    <div class="btn-close" id="wishlist-overlay-errbib-content-btnClose">X</div>
+    <div class="content" id="wishlist-overlay-errbib-content">        
+        <div class="col-xs-12 form" id="wishlist-overlay-errbib-content-form">
+            <div class="title-h1">Ocorreu um erro</div>
+            <div class="subtitle-h2">Por favor tente novamente mais tarde.</div>
+        </div>
+    </div>
+</div><div class="overlay-area info-errbibDevices-area hideOverlay" id="wishlist-overlay-errbibDevices">
+    <div class="btn-close" id="wishlist-overlay-errbibDevices-content-btnClose">X</div>
+    <div class="content" id="wishlist-overlay-errbibDevices-content">        
+        <div class="col-xs-12 form" id="wishlist-overlay-errbibDevices-content-form">
+            <div class="title-h1">atingiu o limite máximo de dispositivos autorizados</div>
+            <div class="subtitle-h2">Por favor, aceda à area de cliente para gerir os dispositivos ativos.</div>
+        </div>
+    </div>
+</div><div class="overlay-area info-checkoutexpresso-area hideOverlay" id="shoppingcart-overlay-checkoutexpresso">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <div class="form">
+            <div  class="title-h1">wook deve saber</div>
+
+<BR><BR>
+
+<div data-class="ec_h3" style="text-align: left;">
+WOOK É O CHECKOUT EXPRESSO?<br>
+Esta modalidade de checkout permite-lhe comprar em dois cliques, seguindo diretamente para a confirmação de encomenda.<br><br>
+COMO FUNCIONA?<br>
+A encomenda é pré-preenchida com os dados que habitualmente utiliza - morada faturação, morada de entrega, forma de envio e tipo de pagamento. Para finalizar o processo, necessita apenas de confirmar os dados.<br><br>
+POSSO UTILIZAR OS MEUS VALES?<br>
+Vales e outros descontos que se encontrem no prazo de validade, serão igualmente considerados automaticamente na encomenda.<br><br>
+CONSIGO ALTERAR OS DADOS DA ENCOMENDA?<br>
+Sim. Antes de confirmar, tem ainda a possibilidade de alterar todos os dados e opções de compra.<br><br>
+EXCEÇÕES<br>
+O botão do Checkout Expresso só será visível se: 
+<ul>
+<li>Selecionar previamente, na Área Cliente, as moradas habituais de envio e de faturação;</li>
+<li>Associar uma conta wallet, quando a morada de envio selecionada é no estrangeiro;</li>
+<li>Não incluir artigos escolares na encomenda.</li>
+</ul>
+
+<BR><BR>
+
+</div data-class="ec_h3">        </div>
+    </div>
+</div><script>
+    function recaptchaCallback() {
+        pt.wook.productpage.recommend_area.confirm();
+    }
+</script>   
+
+<div class="overlay-rec top-recommend-email">
+<div id="overlay-recommend" class="overlay-area recommend-email">
+    <div class="btn-close">X</div>
+    <div class="content">        
+        <form action="#" method="post" id="overlay-recommend-form">
+            <input type="hidden" name="titulo-obra" id="titulo-obra" value="The Tattooist Of Auschwitz">
+            <input type="hidden" name="url-obra" id="url-obra" value="">
+
+            <div class="title-h1">recomendar</div>
+            <div class="subtitle-h2">The Tattooist Of Auschwitz de Heather Morris&nbsp;</div>
+            <div class="header3-h3">Para recomendar esta obra a um amigo basta preencher o seu nome e email, bem como o nome e email da pessoa a quem pretende fazer a sugestão. Se quiser pode ainda acrescentar um pequeno comentário, de seguida clique em 'confirmar'. A sua recomendação será imediatamente enviada em seu nome, para o email da pessoa a quem pretende fazer a recomendação.</div>
+            <fieldset>
+                <p>A sua identificação:</p>
+                <input id="overlay-recommend-form-name" name="name" class="form-control name-box"  type="text" placeholder="nome">
+                <input id="overlay-recommend-form-email" name="email" class="form-control email-box"  type="email" placeholder="endereço de email">
+            </fieldset>
+            <fieldset>
+                <p>A identificação da pessoa a quem quer recomendar este titulo:</p>
+                <input id="overlay-recommend-form-name-other" name="name-other" class="form-control name-box" type="text" placeholder="nome">
+                 <!-- <div id="overlay-recommend-form-mail-container" class="email-container form-control">   
+
+                </div>
+                 <input id="overlay-recommend-form-email-validator" class="email-validator" name="email-other" type="hidden" value=""/>
+             <input id="overlay-recommend-form-multiple-email" class="multiple-email-input" name="multiple-email" type="hidden" value=""/>
+                <div class="multiple-email-info">
+                    <p>< ?php echo $t->_("ficha.popup.recommend.multiple.email.label"); ?></p>
+                </div>-->
+                <input id="overlay-recommend-form-multipleemail" name="multipleemail" class="form-control email-box"  type="email" placeholder="endereço de email">
+                <textarea id="overlay-recommend-form-comment" name="comment" class="form-control text-box" placeholder="comentário"></textarea>
+            </fieldset>
+            
+            <fieldset>
+              <div class="col-xs-12 no-padding g-recaptcha"  data-sitekey="6LeLdz0UAAAAAJrHkkomneCLc-2nz33HWljuKRUR">  </div> 
+                <input id="overlay-recommend-form-errorcaptcha" name="errorcaptcha"  class="hidden validateRecaptcha" >  
+                                        
+                  
+                <button id="overlay-recommend-form-checkout" class="col-xs-6 btn-checkout red enabled"><span class="col-xs-12 description">Confirmar</span>
+                </button>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div id="overlay-recommend-success" class="overlay-area recommend hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">
+        <div class="title-h1">A sua recomendação foi enviada com sucesso!</div>            
+    </div>
+</div>
+
+<div id="overlay-recommend-error" class="overlay-area recommend hideOverlay">
+    <div class="btn-close">X</div>
+    <div class="content">
+        <div class="title-h1">Ocorreu um erro a obter a informação! Por favor tente mais tarde.</div>            
+    </div>
+</div>
+</div>            
+            <div id="loading-area">
+                <div class="modal waiting loading"
+                     id="managed-dialog" 
+                     tabindex="-1" 
+                     role="dialog" 
+                     aria-labelledby="managed-label" 
+                     data-keyboard="false" 
+                     data-backdrop="static" 
+                     aria-hidden="true" 
+                     style="display: block;">
+                        <button type="button" 
+                            class="close" 
+                            data-dismiss="modal" 
+                            aria-label="close" 
+                            title="close" style="display: none;">
+                        </button>
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="loader"></div> 
+                                <div class="modal-body" id="managed-label"><!--texto dinamico--></div>
+                                <div class="modal-footer"></div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <!-- /#wrapper -->
+
+            <script type="text/javascript" src="//cdn.wook.pt/js/199-vendor.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
+<script type="text/javascript" src="//cdn.wook.pt/js/199-artigoscontroller.min.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=pt-PT"></script>
+<script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.productpage.mensagens = {"notAvailableError":"Ocorreu um erro a obter a informa\u00e7\u00e3o! Por favor tente mais tarde."};pt.wook.generic.mensagens = {"jsLoadingGenerico":"A carregar...","requiredfield":"Campo de preenchimento obrigat\u00f3rio.","jsInvalidIsbnMsgGenerico":"ISBN inv\u00e1lido","jsInvalidEmailMsgGenerico":"E-mail inv\u00e1lido","jsRequiredEmailMsgGenerico":"E-mail","jsInvalidDateDayMsgGenerico":"Data inv\u00e1lida","jsInvalidDateMonthMsgGenerico":"Data inv\u00e1lida","jsInvalidDateYearMsgGenerico":"Data inv\u00e1lida","jsInvalidNifMsgGenerico":"NIF inv\u00e1lido"};pt.wook.productpage.gtmProductData = {"name":"The Tattooist Of Auschwitz","id":19871742,"price":"14.13","brand":"Zaffre Publishing"};pt.wook.productpage.generic.trackCS(15712874);pt.wook.homepage.params = {"restricts":"8066x8067x8229x8242","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGyNKRQxRW0ZJDVZcVUw=","queueTime":0,"applicationTime":701,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+</html>

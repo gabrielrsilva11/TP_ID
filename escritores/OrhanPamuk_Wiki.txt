@@ -4,14 +4,14 @@
 <meta charset="UTF-8"/>
 <title>Orhan Pamuk – Wikipédia, a enciclopédia livre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orhan_Pamuk","wgTitle":"Orhan Pamuk","wgCurRevisionId":51982966,"wgRevisionId":51982966,"wgArticleId":161726,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Biografias de pessoas vivas que carecem de mais fontes desde abril de 2014","!Artigos de arte que carecem de notas de rodapé","Pessoas vivas","!Imagem local idêntica à do Wikidata","Nascidos em 1952","Nobel de Literatura","Laureados com o Nobel por país - Turquia","Doutores honoris causa da Universidade Livre de Berlim","Escritores da Turquia","Escritores em língua turca","Naturais de Istambul","Turcos do século XX","Turcos do século XXI"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Orhan_Pamuk","wgRelevantArticleId":161726,"wgRequestId":"Ww20ZgpAMEoAAK2P-h4AAAAS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q241248","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orhan_Pamuk","wgTitle":"Orhan Pamuk","wgCurRevisionId":51982966,"wgRevisionId":51982966,"wgArticleId":161726,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Biografias de pessoas vivas que carecem de mais fontes desde abril de 2014","!Artigos de arte que carecem de notas de rodapé","Pessoas vivas","!Imagem local idêntica à do Wikidata","Nascidos em 1952","Nobel de Literatura","Laureados com o Nobel por país - Turquia","Doutores honoris causa da Universidade Livre de Berlim","Escritores da Turquia","Escritores em língua turca","Naturais de Istambul","Turcos do século XX","Turcos do século XXI"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Orhan_Pamuk","wgRelevantArticleId":161726,"wgRequestId":"WxxV-gpAAEEAAFH3@Y0AAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q241248","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
 });mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.7"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -37,9 +37,8 @@
 </div>
 <h1 id="firstHeading" class="firstHeading" lang="pt">Orhan Pamuk</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
-								<div id="jump-to-nav" class="mw-jump">
-					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
-				</div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
 				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
 <tr>
 <td width="8%" align="center">
@@ -67,7 +66,7 @@
 </tr>
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
-<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/7_de_junho#Nascimentos" title="7 de junho">7 de junho</a> de <a href="/wiki/1952" title="1952">1952</a>&#160;(65&#160;anos)<br />
+<td style="vertical-align: top; text-align: left; padding:4px 4px 4px 0;"><a href="/wiki/7_de_junho#Nascimentos" title="7 de junho">7 de junho</a> de <a href="/wiki/1952" title="1952">1952</a>&#160;(66&#160;anos)<br />
 <a href="/wiki/Istambul" title="Istambul">Istambul</a>, <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/33px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/44px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turquia" title="Turquia">Turquia</a></td>
 </tr>
 <tr>
@@ -429,7 +428,7 @@ e <a href="/wiki/Imp%C3%A9rio_Otomano" title="Império Otomano">Otomana</a></th>
 <li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_da_Fran%C3%A7a" title="Biblioteca Nacional da França">BNF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12093134m">12093134m</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Grande_Enciclop%C3%A9dia_Sovi%C3%A9tica" title="Grande Enciclopédia Soviética">BRE</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://bigenc.ru/text/2701404">2701404</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Cat%C3%A1logo_de_autoridades_de_nomes_e_t%C3%ADtulos_da_Catalunha" title="Catálogo de autoridades de nomes e títulos da Catalunha">CANTIC</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a1126150x">a1126150x</a></span></span></span></li>
-<li><span style="white-space:nowrap;"><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://ci.nii.ac.jp/author/DA09332779">DA09332779</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA09332779">DA09332779</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Digital_para_a_Literatura_Holandesa" title="Biblioteca Digital para a Literatura Holandesa">DBNL</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.dbnl.org/auteurs/auteur.php?id=pamu001">pamu001</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Discogs" title="Discogs">Discogs</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/656347">656347</a></span></span></span></li>
 <li><span style="white-space:nowrap;"><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">EBID</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Orhan-Pamuk">ID</a></span></span></span></li>
@@ -465,13 +464,13 @@ e <a href="/wiki/Imp%C3%A9rio_Otomano" title="Império Otomano">Otomana</a></th>
 
 <!-- 
 NewPP limit report
-Parsed by mw1239
-Cached time: 20180529201327
+Parsed by mw1263
+Cached time: 20180609222850
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.904 seconds
-Real time usage: 1.056 seconds
-Preprocessor visited node count: 15578/1000000
+CPU time usage: 1.076 seconds
+Real time usage: 1.233 seconds
+Preprocessor visited node count: 15600/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 94604/2097152 bytes
 Template argument size: 34097/2097152 bytes
@@ -479,24 +478,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 33/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1034/5000000 bytes
-Lua time usage: 0.244/10.000 seconds
-Lua memory usage: 6.27 MB/50 MB
+Number of Wikibase entities loaded: 33/400
+Lua time usage: 0.344/10.000 seconds
+Lua memory usage: 6.45 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  948.660      1 -total
- 30.15%  286.052      1 Predefinição:Info/Biografia
- 30.06%  285.213      1 Predefinição:Controle_de_autoridade
- 27.06%  256.730      1 Predefinição:Info
- 18.63%  176.738      3 Predefinição:Link
- 18.34%  173.976      3 Predefinição:Link/código
- 17.55%  166.477      3 Predefinição:Link/línguas
-  5.46%   51.799      1 Predefinição:Portal3
-  5.13%   48.679      3 Predefinição:Portal3/Portais
-  4.99%   47.375      1 Predefinição:Mais_notas-bpv
+100.00% 1116.622      1 -total
+ 32.35%  361.197      1 Predefinição:Info/Biografia
+ 30.91%  345.138      1 Predefinição:Info
+ 28.59%  319.208      1 Predefinição:Controle_de_autoridade
+ 16.27%  181.681      3 Predefinição:Link
+ 16.01%  178.784      3 Predefinição:Link/código
+ 15.30%  170.805      3 Predefinição:Link/línguas
+  6.13%   68.454      2 Predefinição:Navbox
+  6.10%   68.070      3 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+  5.90%   65.856      1 Predefinição:Mais_notas-bpv
 -->
 </div>
-<!-- Saved in parser cache with key ptwiki:pcache:idhash:161726-0!canonical and timestamp 20180529201326 and revision id 51982966
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:161726-0!canonical and timestamp 20180609222849 and revision id 51982966
  -->
 <noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Orhan_Pamuk&amp;oldid=51982966">https://pt.wikipedia.org/w/index.php?title=Orhan_Pamuk&amp;oldid=51982966</a>"					</div>
@@ -622,6 +622,7 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.904","walltime":"1.056","ppvisitednodes":{"value":15578,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94604,"limit":2097152},"templateargumentsize":{"value":34097,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1034,"limit":5000000},"entityaccesscount":{"value":33,"limit":400},"timingprofile":["100.00%  948.660      1 -total"," 30.15%  286.052      1 Predefinição:Info/Biografia"," 30.06%  285.213      1 Predefinição:Controle_de_autoridade"," 27.06%  256.730      1 Predefinição:Info"," 18.63%  176.738      3 Predefinição:Link"," 18.34%  173.976      3 Predefinição:Link/código"," 17.55%  166.477      3 Predefinição:Link/línguas","  5.46%   51.799      1 Predefinição:Portal3","  5.13%   48.679      3 Predefinição:Portal3/Portais","  4.99%   47.375      1 Predefinição:Mais_notas-bpv"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":6572974,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20180529201327","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1174,"wgHostname":"mw1239"});});</script>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.076","walltime":"1.233","ppvisitednodes":{"value":15600,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94604,"limit":2097152},"templateargumentsize":{"value":34097,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1034,"limit":5000000},"entityaccesscount":{"value":33,"limit":400},"timingprofile":["100.00% 1116.622      1 -total"," 32.35%  361.197      1 Predefinição:Info/Biografia"," 30.91%  345.138      1 Predefinição:Info"," 28.59%  319.208      1 Predefinição:Controle_de_autoridade"," 16.27%  181.681      3 Predefinição:Link"," 16.01%  178.784      3 Predefinição:Link/código"," 15.30%  170.805      3 Predefinição:Link/línguas","  6.13%   68.454      2 Predefinição:Navbox","  6.10%   68.070      3 Predefinição:Categorização_AD_e_AB_de_outras_wikis","  5.90%   65.856      1 Predefinição:Mais_notas-bpv"]},"scribunto":{"limitreport-timeusage":{"value":"0.344","limit":"10.000"},"limitreport-memusage":{"value":6765619,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20180609222850","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1270"});});</script>
 	</body>
 </html>

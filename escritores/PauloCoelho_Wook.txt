@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>492 resultados para "Paulo Coelho"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>494 resultados para "Paulo Coelho"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -279,7 +279,114 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     8,00€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 4 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/hippie-paulo-coelho/21602772">
+                                                                    <img src="https://img.wook.pt/images/hippie-paulo-coelho/MXwyMTYwMjc3MnwxNzQ1MzQ4NHwxNTI2MjUyNDAwMDAw/170x" class="img-responsive" alt="Hippie">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Hippie" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17453484" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17453484" data-mesart="21602772" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17453484&ficha=S&kpi=12&tipo=N&mesArtId=21602772'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/hippie-paulo-coelho/21602772">
+                                Hippie                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,94€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/onze-minutos-paulo-coelho/81019">
+                                                                    <img src="https://img.wook.pt/images/onze-minutos-paulo-coelho/MXw4MTAxOXwxMTEwODZ8MTUyODE1MzIwMDAwMA==/170x" class="img-responsive" alt="Onze Minutos">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Onze Minutos" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="111086" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="111086" data-mesart="81019" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=111086&ficha=S&kpi=12&tipo=N&mesArtId=81019'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/onze-minutos-paulo-coelho/81019">
+                                Onze Minutos                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/onze-minutos-paulo-coelho/81019"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(11)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    13,95€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -343,20 +450,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/onze-minutos-paulo-coelho/81019">
-                                                                    <img src="https://img.wook.pt/images/onze-minutos-paulo-coelho/MXw4MTAxOXwxMTEwODZ8MTQxNjQ0MTYwMDAwMA==/170x" class="img-responsive" alt="Onze Minutos">
+                            <a href="/livro/adulterio-paulo-coelho/15571429">
+                                                                    <img src="https://img.wook.pt/images/adulterio-paulo-coelho/MXwxNTU3MTQyOXwxMTA2MTcwMnwxNTI4MTUzMjAwMDAw/170x" class="img-responsive" alt="Adultério">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Onze Minutos" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="111086" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="111086" data-mesart="81019" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=111086&ficha=S&kpi=12&tipo=N&mesArtId=81019'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Adultério" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11061702" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11061702" data-mesart="15571429" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11061702&ficha=S&kpi=12&tipo=N&mesArtId=15571429'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/onze-minutos-paulo-coelho/81019">
-                                Onze Minutos                            </a>
+                            <a class="title-lnk" href="/livro/adulterio-paulo-coelho/15571429">
+                                Adultério                            </a>
                             
                         </div>
 
@@ -369,12 +476,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/onze-minutos-paulo-coelho/81019"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/adulterio-paulo-coelho/15571429"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(11)</div>
+                                    <div class="comments-nr pull-left">(14)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -388,10 +495,126 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
+                                    14,94€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/o-alquimista-paulo-coelho/80681">
+                                                                    <img src="https://img.wook.pt/images/o-alquimista-paulo-coelho/MXw4MDY4MXwxMTA3NDh8MTUyODE1MzIwMDAwMA==/170x" class="img-responsive" alt="O Alquimista">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Alquimista" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110748" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110748" data-mesart="80681" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110748&ficha=S&kpi=12&tipo=N&mesArtId=80681'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-alquimista-paulo-coelho/80681">
+                                O Alquimista                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/o-alquimista-paulo-coelho/80681"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(9)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    13,95€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 4 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/brida-paulo-coelho/80684">
+                                                                    <img src="https://img.wook.pt/images/brida-paulo-coelho/MXw4MDY4NHwxMTA3NTF8MTUyODE1MzIwMDAwMA==/170x" class="img-responsive" alt="Brida">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Brida" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110751" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110751" data-mesart="80684" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110751&ficha=S&kpi=12&tipo=N&mesArtId=80684'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/brida-paulo-coelho/80684">
+                                Brida                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/brida-paulo-coelho/80684"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    13,95€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
@@ -457,6 +680,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/o-aleph-paulo-coelho/10401270">
+                                                                    <img src="https://img.wook.pt/images/o-aleph-paulo-coelho/MXwxMDQwMTI3MHw1OTgxODYwfDE1MjgxNTMyMDAwMDA=/170x" class="img-responsive" alt="O Aleph">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Aleph" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5981860" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5981860" data-mesart="10401270" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5981860&ficha=S&kpi=12&tipo=N&mesArtId=10401270'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-aleph-paulo-coelho/10401270">
+                                O Aleph                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/o-aleph-paulo-coelho/10401270"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(5)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,94€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/liberdade-agenda-paulo-coelho-2018-paulo-coelho/18959119">
                                                                     <img src="https://img.wook.pt/images/liberdade---agenda-paulo-coelho-2018-paulo-coelho/MXwxODk1OTExOXwxNDcxNDc0MXwxNTAzMjcwMDAwMDAw/170x" class="img-responsive" alt="Liberdade - Agenda Paulo Coelho 2018">
                                                             </a>
@@ -511,23 +791,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/adulterio-paulo-coelho/15571429">
-                                                                    <img src="https://img.wook.pt/images/adulterio-paulo-coelho/MXwxNTU3MTQyOXwxMTA2MTcwMnwxMzk1ODc4NDAwMDAw/170x" class="img-responsive" alt="Adultério">
+                            <a href="/livro/o-diario-de-um-mago-paulo-coelho/80682">
+                                                                    <img src="https://img.wook.pt/images/o-diario-de-um-mago-paulo-coelho/MXw4MDY4MnwxMTA3NDl8MTUyODE1MzIwMDAwMA==/170x" class="img-responsive" alt="O Diário de Um Mago">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Adultério" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11061702" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11061702" data-mesart="15571429" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11061702&ficha=S&kpi=12&tipo=N&mesArtId=15571429'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Diário de Um Mago" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110749" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110749" data-mesart="80682" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110749&ficha=S&kpi=12&tipo=N&mesArtId=80682'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/adulterio-paulo-coelho/15571429">
-                                Adultério                            </a>
+                            <a class="title-lnk" href="/livro/o-diario-de-um-mago-paulo-coelho/80682">
+                                O Diário de Um Mago                            </a>
                             
                         </div>
 
@@ -540,12 +820,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/adulterio-paulo-coelho/15571429"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/o-diario-de-um-mago-paulo-coelho/80682"#productPageSectionComments>
                                     <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span><span class="star"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(14)</div>
+                                    <div class="comments-nr pull-left">(1)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -559,16 +839,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    16,60€                            </div>
+                                    13,95€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/veronika-decide-morrer-paulo-coelho/15612660">
@@ -624,7 +904,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/maktub-paulo-coelho/80740">
@@ -676,6 +956,65 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676">
+                                                                    <img src="https://img.wook.pt/images/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/MXw4MDY3NnwxMTA3NDN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Na Margem do Rio Piedra Eu Sentei e Chorei">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Na Margem do Rio Piedra Eu Sentei e Chorei" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110743" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110743" data-mesart="80676" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110743&ficha=S&kpi=12&tipo=N&mesArtId=80676'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676">
+                                Na Margem do Rio Piedra Eu Sentei e Chorei                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 4 dias
+
+ </div>                            
                                                                 </div>
 
                     </div>
@@ -739,20 +1078,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676">
-                                                                    <img src="https://img.wook.pt/images/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/MXw4MDY3NnwxMTA3NDN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Na Margem do Rio Piedra Eu Sentei e Chorei">
+                            <a href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/80717">
+                                                                    <img src="https://img.wook.pt/images/manual-do-guerreiro-da-luz-paulo-coelho/MXw4MDcxN3wxMTA3ODR8MTUyODE1MzIwMDAwMA==/170x" class="img-responsive" alt="Manual do Guerreiro da Luz">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Na Margem do Rio Piedra Eu Sentei e Chorei" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110743" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110743" data-mesart="80676" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110743&ficha=S&kpi=12&tipo=N&mesArtId=80676'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Manual do Guerreiro da Luz" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110784" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110784" data-mesart="80717" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110784&ficha=S&kpi=12&tipo=N&mesArtId=80717'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676">
-                                Na Margem do Rio Piedra Eu Sentei e Chorei                            </a>
+                            <a class="title-lnk" href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/80717">
+                                Manual do Guerreiro da Luz                            </a>
                             
                         </div>
 
@@ -765,12 +1104,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
                                                     <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/80676"#productPageSectionComments>
+                                <a class="title-lnk" href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/80717"#productPageSectionComments>
                                     <div class="stars pull-left">
                                         <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
                                     </div>
                                     <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
+                                    <div class="comments-nr pull-left">(6)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -784,73 +1123,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
+                                    12,96€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                    <div>Envio até 4 dias
+
+ </div>                            
                                                                 </div>
 
                     </div>
                 </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/brida-paulo-coelho/80684">
-                                                                    <img src="https://img.wook.pt/images/brida-paulo-coelho/MXw4MDY4NHwxMTA3NTF8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Brida">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Brida" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110751" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110751" data-mesart="80684" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110751&ficha=S&kpi=12&tipo=N&mesArtId=80684'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/brida-paulo-coelho/80684">
-                                Brida                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/brida-paulo-coelho/80684"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/brida-paulo-coelho/15767456">
@@ -906,7 +1189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/52-ideias-para-o-professor-matematica-1-ciclo-isabel-cabrita/11934704">
@@ -962,7 +1245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/manuscrito-encontrado-em-accra-paulo-coelho/14783440">
@@ -997,279 +1280,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <!--deve ser o nr de comentarios-->
                                     <div class="comments-nr pull-left">(8)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-aleph-paulo-coelho/10401270">
-                                                                    <img src="https://img.wook.pt/images/o-aleph-paulo-coelho/MXwxMDQwMTI3MHw1OTgxODYwfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="O Aleph">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Aleph" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5981860" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5981860" data-mesart="10401270" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5981860&ficha=S&kpi=12&tipo=N&mesArtId=10401270'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-aleph-paulo-coelho/10401270">
-                                O Aleph                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-aleph-paulo-coelho/10401270"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(5)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,60€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-demonio-e-a-senhorita-prym-paulo-coelho/19239604">
-                                                                    <img src="https://img.wook.pt/images/o-demonio-e-a-senhorita-prym-paulo-coelho/MXwxOTIzOTYwNHwxNTAzNzcyNHwxNTAwODUwODAwMDAw/170x" class="img-responsive" alt="O Demónio e a Senhorita Prym">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Demónio e a Senhorita Prym" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15037724" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15037724" data-mesart="19239604" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15037724&ficha=S&kpi=12&tipo=N&mesArtId=19239604'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-demonio-e-a-senhorita-prym-paulo-coelho/19239604">
-                                O Demónio e a Senhorita Prym                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-demonio-e-a-senhorita-prym-paulo-coelho/19239604"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/18223998">
-                                                                    <img src="https://img.wook.pt/images/manual-do-guerreiro-da-luz-paulo-coelho/MXwxODIyMzk5OHwxMzkwODQxMHwxNDc0NDk4ODAwMDAw/170x" class="img-responsive" alt="Manual do Guerreiro da Luz">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Manual do Guerreiro da Luz" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13908410" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13908410" data-mesart="18223998" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13908410&ficha=S&kpi=12&tipo=N&mesArtId=18223998'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/18223998">
-                                Manual do Guerreiro da Luz                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/manual-do-guerreiro-da-luz-paulo-coelho/18223998"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/onze-minutos-paulo-coelho/15439102">
-                                                                    <img src="https://img.wook.pt/images/onze-minutos-paulo-coelho/MXwxNTQzOTEwMnwxMDkzMTk5NnwxNDQzMTM1NjAwMDAw/170x" class="img-responsive" alt="Onze Minutos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Onze Minutos" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10931996" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10931996" data-mesart="15439102" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10931996&ficha=S&kpi=12&tipo=N&mesArtId=15439102'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/onze-minutos-paulo-coelho/15439102">
-                                Onze Minutos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Livro de Bolso</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/o-monte-cinco-paulo-coelho/80680">
-                                                                    <img src="https://img.wook.pt/images/o-monte-cinco-paulo-coelho/MXw4MDY4MHwxMTA3NDd8MTUxODEzNDQwMDAwMA==/170x" class="img-responsive" alt="O Monte Cinco">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Monte Cinco" data-autores="de Paulo Coelho" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="110747" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="110747" data-mesart="80680" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=110747&ficha=S&kpi=12&tipo=N&mesArtId=80680'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-monte-cinco-paulo-coelho/80680">
-                                O Monte Cinco                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paulo-coelho/20202">Paulo Coelho</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/o-monte-cinco-paulo-coelho/80680"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
@@ -1707,6 +1717,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Paulo+Coelho","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Paulo Coelho&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Paulo+Coelho";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Paulo+Coelho';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":177,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

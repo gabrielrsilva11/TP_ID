@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -334,59 +334,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/grapes-and-the-wind-pablo-neruda/21276790">
-                                                                    <img src="https://img.wook.pt/images/grapes-and-the-wind-pablo-neruda/MXwyMTI3Njc5MHwxNzE0ODUyOXwxNTIwODEyODAwMDAw/170x" class="img-responsive" alt="Grapes And The Wind">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Grapes And The Wind" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17148529" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17148529" data-mesart="21276790" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17148529&ficha=S&kpi=12&tipo=N&mesArtId=21276790'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/grapes-and-the-wind-pablo-neruda/21276790">
-                                Grapes And The Wind                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    19,58€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/confesso-que-vivi-pablo-neruda/1995658">
                                                                     <img src="https://img.wook.pt/images/confesso-que-vivi-pablo-neruda/MXwxOTk1NjU4fDE3NjE3ODB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Confesso que Vivi">
                                                             </a>
@@ -434,7 +381,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/veinte-poemas-de-amor-y-una-cancion-desesperada-pablo-neruda/3730763">
@@ -488,6 +435,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/grapes-and-the-wind-pablo-neruda/21276790">
+                                                                    <img src="https://img.wook.pt/images/grapes-and-the-wind-pablo-neruda/MXwyMTI3Njc5MHwxNzE0ODUyOXwxNTIwODEyODAwMDAw/170x" class="img-responsive" alt="Grapes And The Wind">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Grapes And The Wind" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17148529" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17148529" data-mesart="21276790" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17148529&ficha=S&kpi=12&tipo=N&mesArtId=21276790'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/grapes-and-the-wind-pablo-neruda/21276790">
+                                Grapes And The Wind                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,58€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
@@ -531,112 +531,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/cien-sonetos-de-amor-pablo-neruda/12100301">
-                                                                    <img src="https://img.wook.pt/images/cien-sonetos-de-amor-pablo-neruda/MXwxMjEwMDMwMXw3NjcxODc5fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Cien Sonetos De Amor">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cien Sonetos De Amor" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7671879" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7671879" data-mesart="12100301" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7671879&ficha=S&kpi=12&tipo=N&mesArtId=12100301'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/cien-sonetos-de-amor-pablo-neruda/12100301">
-                                Cien Sonetos De Amor                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Espanhol"></span>
-                                <span class="idioma">  idioma: Espanhol</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    7,08€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 20 dias
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/confieso-que-he-vivido-austral-pablo-neruda/7457229">
-                                                                    <img src="https://img.wook.pt/images/confieso-que-he-vivido-austral-pablo-neruda/MXw3NDU3MjI5fDQwMDQ2MDV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Confieso Que He Vivido ("Austral")">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Confieso Que He Vivido ("Austral")" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4004605" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4004605" data-mesart="7457229" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4004605&ficha=S&kpi=12&tipo=N&mesArtId=7457229'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/confieso-que-he-vivido-austral-pablo-neruda/7457229">
-                                Confieso Que He Vivido ("Austral")                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Espanhol"></span>
-                                <span class="idioma">  idioma: Espanhol</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    9,13€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 15 dias
-</div>                            
                                                                 </div>
 
                     </div>
@@ -694,46 +588,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover disable">
-                            <a href="/livro/o-carteiro-de-pablo-neruda-antonio-skarmeta/2616890">
-                                                                    <img src="https://img.wook.pt/images/o-carteiro-de-pablo-neruda-antonio-skarmeta/MXwyNjE2ODkwfDIzMjUwMDN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="O Carteiro de Pablo Neruda">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Carteiro de Pablo Neruda" data-autores="de Antonio Skármeta" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2325003" class="btn add-cart disable"></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2325003" data-mesart="2616890" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2325003&ficha=S&kpi=12&tipo=N&mesArtId=2616890'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/o-carteiro-de-pablo-neruda-antonio-skarmeta/2616890">
-                                O Carteiro de Pablo Neruda                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/antonio-skarmeta/4943">Antonio Skármeta</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    14,13€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Esgotado</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover disable">
                             <a href="/livro/cem-sonetos-de-amor-pablo-neruda/82546">
                                                                     <img src="https://img.wook.pt/images/cem-sonetos-de-amor-pablo-neruda/MXw4MjU0NnwxMTI2MTN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Cem Sonetos de Amor">
                                                             </a>
@@ -764,6 +618,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             
                             <div class="col-xs-6 preco have-star">
                                     12,72€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Esgotado</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover disable">
+                            <a href="/livro/o-carteiro-de-pablo-neruda-antonio-skarmeta/2616890">
+                                                                    <img src="https://img.wook.pt/images/o-carteiro-de-pablo-neruda-antonio-skarmeta/MXwyNjE2ODkwfDIzMjUwMDN8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="O Carteiro de Pablo Neruda">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="O Carteiro de Pablo Neruda" data-autores="de Antonio Skármeta" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2325003" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2325003" data-mesart="2616890" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2325003&ficha=S&kpi=12&tipo=N&mesArtId=2616890'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/o-carteiro-de-pablo-neruda-antonio-skarmeta/2616890">
+                                O Carteiro de Pablo Neruda                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/antonio-skarmeta/4943">Antonio Skármeta</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    14,13€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                                                                     <div>Esgotado</div>                            
@@ -833,25 +727,65 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/twenty-love-poems-and-a-song-of-despair-pablo-neruda/411916">
-                                                                    <img src="https://img.wook.pt/images/twenty-love-poems-and-a-song-of-despair-pablo-neruda/MXw0MTE5MTZ8NTI4MDY1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Twenty Love Poems And A Song Of Despair">
+                        <div class="cover disable">
+                            <a href="/livro/vinte-poemas-de-amor-e-uma-cancao-desesperada-pablo-neruda/71110">
+                                                                    <img src="https://img.wook.pt/images/vinte-poemas-de-amor-e-uma-cancao-desesperada-pablo-neruda/MXw3MTExMHwxMDExNzd8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Vinte Poemas de Amor e uma Canção Desesperada">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Twenty Love Poems And A Song Of Despair" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="528065" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="528065" data-mesart="411916" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=528065&ficha=S&kpi=12&tipo=N&mesArtId=411916'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Vinte Poemas de Amor e uma Canção Desesperada" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="101177" class="btn add-cart disable"></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="101177" data-mesart="71110" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=101177&ficha=S&kpi=12&tipo=N&mesArtId=71110'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info disable">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/vinte-poemas-de-amor-e-uma-cancao-desesperada-pablo-neruda/71110">
+                                Vinte Poemas de Amor e uma Canção Desesperada                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    9,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Esgotado</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/cien-sonetos-de-amor-pablo-neruda/12100301">
+                                                                    <img src="https://img.wook.pt/images/cien-sonetos-de-amor-pablo-neruda/MXwxMjEwMDMwMXw3NjcxODc5fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Cien Sonetos De Amor">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cien Sonetos De Amor" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7671879" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7671879" data-mesart="12100301" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7671879&ficha=S&kpi=12&tipo=N&mesArtId=12100301'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/twenty-love-poems-and-a-song-of-despair-pablo-neruda/411916">
-                                Twenty Love Poems And A Song Of Despair                            </a>
+                            <a class="title-lnk" href="/livro/cien-sonetos-de-amor-pablo-neruda/12100301">
+                                Cien Sonetos De Amor                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">And A Song Of Despair</div>
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
 
 
 
@@ -860,8 +794,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                                     <!-- bandeira da lingua-->
                             <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
+                                <span class="language-flag Espanhol"></span>
+                                <span class="idioma">  idioma: Espanhol</span>       
                             </div>
                             
                                                 <div class="col-xs-12">
@@ -875,17 +809,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    9,66€                            </div>
+                                    7,08€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 20 dias
+</div>                            
                                                                 </div>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/antologia-poetica-pablo-neruda/15129444">
@@ -938,7 +871,114 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/twenty-love-poems-and-a-song-of-despair-pablo-neruda/411916">
+                                                                    <img src="https://img.wook.pt/images/twenty-love-poems-and-a-song-of-despair-pablo-neruda/MXw0MTE5MTZ8NTI4MDY1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Twenty Love Poems And A Song Of Despair">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Twenty Love Poems And A Song Of Despair" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="528065" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="528065" data-mesart="411916" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=528065&ficha=S&kpi=12&tipo=N&mesArtId=411916'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/twenty-love-poems-and-a-song-of-despair-pablo-neruda/411916">
+                                Twenty Love Poems And A Song Of Despair                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">And A Song Of Despair</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,66€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/confieso-que-he-vivido-austral-pablo-neruda/7457229">
+                                                                    <img src="https://img.wook.pt/images/confieso-que-he-vivido-austral-pablo-neruda/MXw3NDU3MjI5fDQwMDQ2MDV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Confieso Que He Vivido ("Austral")">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Confieso Que He Vivido ("Austral")" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4004605" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4004605" data-mesart="7457229" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4004605&ficha=S&kpi=12&tipo=N&mesArtId=7457229'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/confieso-que-he-vivido-austral-pablo-neruda/7457229">
+                                Confieso Que He Vivido ("Austral")                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Espanhol"></span>
+                                <span class="idioma">  idioma: Espanhol</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,13€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 15 dias
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/ode-a-uma-estrela-elena-odriozola/14067367">
@@ -989,6 +1029,58 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/quintana-de-bolso-pablo-neruda/170696">
+                                                                    <img src="https://img.wook.pt/images/quintana-de-bolso-pablo-neruda/MXwxNzA2OTZ8MjE4MTA3fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Quintana de Bolso">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Quintana de Bolso" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="218107" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="218107" data-mesart="170696" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=218107&ficha=S&kpi=12&tipo=N&mesArtId=170696'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/quintana-de-bolso-pablo-neruda/170696">
+                                Quintana de Bolso                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Rua dos Cataventos & Outros Poemas</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
+
+                                                    <div class="flag col-xs-12">
+                                <span class = "idioma"> idioma: Português do Brasil, Português</span>       
+                            </div>
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    8,48€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+ </div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
@@ -1034,111 +1126,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     14,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/canto-general-austral-pablo-neruda/7456745">
-                                                                    <img src="https://img.wook.pt/images/canto-general-austral-pablo-neruda/MXw3NDU2NzQ1fDQwMDQxMjR8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Canto General ("Austral")">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Canto General ("Austral")" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4004124" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4004124" data-mesart="7456745" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4004124&ficha=S&kpi=12&tipo=N&mesArtId=7456745'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/canto-general-austral-pablo-neruda/7456745">
-                                Canto General ("Austral")                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Espanhol"></span>
-                                <span class="idioma">  idioma: Espanhol</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    10,14€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 15 dias
- </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/quintana-de-bolso-pablo-neruda/170696">
-                                                                    <img src="https://img.wook.pt/images/quintana-de-bolso-pablo-neruda/MXwxNzA2OTZ8MjE4MTA3fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Quintana de Bolso">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Quintana de Bolso" data-autores="de Pablo Neruda" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="218107" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="218107" data-mesart="170696" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=218107&ficha=S&kpi=12&tipo=N&mesArtId=170696'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/quintana-de-bolso-pablo-neruda/170696">
-                                Quintana de Bolso                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Rua dos Cataventos & Outros Poemas</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/pablo-neruda/19466">Pablo Neruda</a>&nbsp;                        </div>
-
-                                                    <div class="flag col-xs-12">
-                                <span class = "idioma"> idioma: Português do Brasil, Português</span>       
-                            </div>
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,48€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
@@ -1612,6 +1599,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Pablo+Neruda","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Pablo Neruda&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Pablo+Neruda";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Pablo+Neruda';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":18,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":16,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

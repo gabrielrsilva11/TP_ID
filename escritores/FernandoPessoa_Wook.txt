@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>871 resultados para "Fernando Pessoa"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>876 resultados para "Fernando Pessoa"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -271,21 +271,78 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
+                                        <div class="value">30%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    22,00€                            </div>
+                                    15,40€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
                 </div>
                                                 <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
+                                                                    <img src="https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxNTkyNzI2NXwxNzMwNjY2MHwxNTE5Nzc2MDAwMDAw/170x" class="img-responsive" alt="Livro do desassossego">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro do desassossego" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17306660" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17306660" data-mesart="15927265" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17306660&ficha=S&kpi=12&tipo=N&mesArtId=15927265'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
+                                Livro do desassossego                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(3)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">30%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    11,62€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/fausto-fernando-pessoa/21683292">
@@ -333,121 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
-                                                                    <img src="https://img.wook.pt/images/livro-do-desassossego-fernando-pessoa/MXwxNTkyNzI2NXwxNzMwNjY2MHwxNTE5Nzc2MDAwMDAw/170x" class="img-responsive" alt="Livro do desassossego">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro do desassossego" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17306660" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17306660" data-mesart="15927265" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17306660&ficha=S&kpi=12&tipo=N&mesArtId=15927265'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265">
-                                Livro do desassossego                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/livro-do-desassossego-fernando-pessoa/15927265"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(3)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,94€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
-                                                                    <img src="https://img.wook.pt/images/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/MXwxMzAyOTYyM3wxMjA4OTAwNXwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz" data-autores="de Fernando Pessoa e Ofélia Queiroz" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12089005" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12089005" data-mesart="13029623" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12089005&ficha=S&kpi=12&tipo=N&mesArtId=13029623'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
-                                Cartas de Amor de Fernando Pessoa e Ofélia Queiroz                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a> e <a href="/autor/ofelia-queiroz/2658813">Ofélia Queiroz</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(6)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/tenho-medo-de-partir-fernando-pessoa/21825828">
@@ -494,6 +437,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
+                                                                    <img src="https://img.wook.pt/images/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/MXwxMzAyOTYyM3wxMjA4OTAwNXwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cartas de Amor de Fernando Pessoa e Ofélia Queiroz" data-autores="de Fernando Pessoa e Ofélia Queiroz" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12089005" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12089005" data-mesart="13029623" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12089005&ficha=S&kpi=12&tipo=N&mesArtId=13029623'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623">
+                                Cartas de Amor de Fernando Pessoa e Ofélia Queiroz                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a> e <a href="/autor/ofelia-queiroz/2658813">Ofélia Queiroz</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/13029623"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(6)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">20%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,40€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
@@ -536,9 +536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     10,80€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                                                                    <div>Envio até 4 dias
-
-</div>                            
+                                                                    <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -586,15 +584,118 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
+                                        <div class="value">20%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    5,50€                            </div>
+                                    4,40€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                    <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
+                                                                    <img src="https://img.wook.pt/images/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/MXwyMDUwNjF8MTI4NjU1NzN8MTQ1MzMzNDQwMDAwMA==/170x" class="img-responsive" alt="Poesia de Fernando Pessoa Para Todos">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia de Fernando Pessoa Para Todos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12865573" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12865573" data-mesart="205061" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12865573&ficha=S&kpi=12&tipo=N&mesArtId=205061'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
+                                Poesia de Fernando Pessoa Para Todos                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">20%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    11,52€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
+                                                                    <img src="https://img.wook.pt/images/afinal-o-caracol-mafalda-milhoes/MXwxODAzMzI4N3wxMzcxNDAxNHwxNDY1OTQ1MjAwMDAw/170x" class="img-responsive" alt="Afinal o Caracol">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afinal o Caracol" data-autores="de Mafalda Milhões e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13714014" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13714014" data-mesart="18033287" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13714014&ficha=S&kpi=12&tipo=N&mesArtId=18033287'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
+                                Afinal o Caracol                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/mafalda-milhoes/43635">Mafalda Milhões</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">20%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    8,72€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -653,109 +754,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
-                                                                    <img src="https://img.wook.pt/images/afinal-o-caracol-mafalda-milhoes/MXwxODAzMzI4N3wxMzcxNDAxNHwxNDY1OTQ1MjAwMDAw/170x" class="img-responsive" alt="Afinal o Caracol">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Afinal o Caracol" data-autores="de Mafalda Milhões e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13714014" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13714014" data-mesart="18033287" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13714014&ficha=S&kpi=12&tipo=N&mesArtId=18033287'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287">
-                                Afinal o Caracol                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/mafalda-milhoes/43635">Mafalda Milhões</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/afinal-o-caracol-mafalda-milhoes/18033287"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    10,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
-                                                                    <img src="https://img.wook.pt/images/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/MXwyMDUwNjF8MTI4NjU1NzN8MTQ1MzMzNDQwMDAwMA==/170x" class="img-responsive" alt="Poesia de Fernando Pessoa Para Todos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia de Fernando Pessoa Para Todos" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="12865573" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="12865573" data-mesart="205061" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=12865573&ficha=S&kpi=12&tipo=N&mesArtId=205061'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/poesia-de-fernando-pessoa-para-todos-fernando-pessoa/205061">
-                                Poesia de Fernando Pessoa Para Todos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,40€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/a-mensagem-fernando-pessoa/204148">
                                                                     <img src="https://img.wook.pt/images/a-mensagem-fernando-pessoa/MXwyMDQxNDh8MzAzMTk2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Mensagem">
                                                             </a>
@@ -796,111 +794,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
+                                        <div class="value">20%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    12,00€                            </div>
+                                    9,60€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/fausto-fernando-pessoa/15104990">
-                                                                    <img src="https://img.wook.pt/images/fausto-fernando-pessoa/MXwxNTEwNDk5MHwxMDU5MTYzMHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Fausto">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fausto" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10591630" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10591630" data-mesart="15104990" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10591630&ficha=S&kpi=12&tipo=N&mesArtId=15104990'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/fausto-fernando-pessoa/15104990">
-                                Fausto                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
-                                                                    <img src="https://img.wook.pt/images/um-retrato-fora-da-arca-zetho-cunha-goncalves/MXwyMTY4MzExNnwxNzUzNDY3NnwxNTIyMDE4ODAwMDAw/170x" class="img-responsive" alt="Um Retrato Fora da Arca">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Um Retrato Fora da Arca" data-autores="de Zetho Cunha Gonçalves e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17534676" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17534676" data-mesart="21683116" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17534676&ficha=S&kpi=12&tipo=N&mesArtId=21683116'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
-                                Um Retrato Fora da Arca                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/zetho-cunha-goncalves/3189877">Zetho Cunha Gonçalves</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    18,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                    <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -939,16 +841,111 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
+                                        <div class="value">20%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    25,00€                            </div>
+                                    20,00€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/fausto-fernando-pessoa/15104990">
+                                                                    <img src="https://img.wook.pt/images/fausto-fernando-pessoa/MXwxNTEwNDk5MHwxMDU5MTYzMHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Fausto">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Fausto" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="10591630" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="10591630" data-mesart="15104990" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=10591630&ficha=S&kpi=12&tipo=N&mesArtId=15104990'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/fausto-fernando-pessoa/15104990">
+                                Fausto                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">20%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    12,00€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
+                                                                    <img src="https://img.wook.pt/images/cancioneiro-uma-antologia-fernando-pessoa/MXwxNDg0NTYyMXwxMzA0NzU2NXwxNDU2ODc2ODAwMDAw/170x" class="img-responsive" alt="Cancioneiro: Uma Antologia">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cancioneiro: Uma Antologia" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13047565" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13047565" data-mesart="14845621" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13047565&ficha=S&kpi=12&tipo=N&mesArtId=14845621'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
+                                Cancioneiro: Uma Antologia                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">30%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    6,93€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1007,20 +1004,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
-                                                                    <img src="https://img.wook.pt/images/cancioneiro-uma-antologia-fernando-pessoa/MXwxNDg0NTYyMXwxMzA0NzU2NXwxNDU2ODc2ODAwMDAw/170x" class="img-responsive" alt="Cancioneiro: Uma Antologia">
+                            <a href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
+                                                                    <img src="https://img.wook.pt/images/um-retrato-fora-da-arca-zetho-cunha-goncalves/MXwyMTY4MzExNnwxNzUzNDY3NnwxNTIyMDE4ODAwMDAw/170x" class="img-responsive" alt="Um Retrato Fora da Arca">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Cancioneiro: Uma Antologia" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="13047565" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13047565" data-mesart="14845621" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13047565&ficha=S&kpi=12&tipo=N&mesArtId=14845621'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Um Retrato Fora da Arca" data-autores="de Zetho Cunha Gonçalves e Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17534676" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17534676" data-mesart="21683116" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17534676&ficha=S&kpi=12&tipo=N&mesArtId=21683116'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/cancioneiro-uma-antologia-fernando-pessoa/14845621">
-                                Cancioneiro: Uma Antologia                            </a>
+                            <a class="title-lnk" href="/livro/um-retrato-fora-da-arca-zetho-cunha-goncalves/21683116">
+                                Um Retrato Fora da Arca                            </a>
                             
                         </div>
 
@@ -1029,7 +1026,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+                            de <a href="/autor/zetho-cunha-goncalves/3189877">Zetho Cunha Gonçalves</a> e <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
 
                         
                                                 <div class="col-xs-12">
@@ -1043,10 +1040,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    9,90€                            </div>
+                                    18,00€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1094,128 +1092,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
+                                        <div class="value">20%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    22,20€                            </div>
+                                    17,76€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993">
-                                                                    <img src="https://img.wook.pt/images/livro-de-notas-c-elastico-fernando-pessoa---a-minha-patria-e-a-lingua-portuguesa/MXwxODg5Njk5M3wxNDYyNjc5OHwxNDc4MjE3NjAwMDAw/170x" class="img-responsive" alt="Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14626798" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14626798" data-mesart="18896993" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14626798&ficha=S&kpi=12&tipo=N&mesArtId=18896993'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993">
-                                Livro de Notas c/ elástico Fernando Pessoa - A Minha Pátria é a Língua Portuguesa                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                                                    </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/livro-de-notas-c-elastico-fernando-pessoa-a-minha-patria-e-a-lingua-portuguesa/18896993"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,82€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265">
-                                                                    <img src="https://img.wook.pt/images/obra-completa-de-ricardo-reis-fernando-pessoa/MXwxODg4NDI2NXwxNDYxMjcyNHwxNDc2Mzk5NjAwMDAw/170x" class="img-responsive" alt="Obra Completa de Ricardo Reis">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Obra Completa de Ricardo Reis" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14612724" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14612724" data-mesart="18884265" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14612724&ficha=S&kpi=12&tipo=N&mesArtId=18884265'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265">
-                                Obra Completa de Ricardo Reis                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/obra-completa-de-ricardo-reis-fernando-pessoa/18884265"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    24,99€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
@@ -1264,15 +1149,110 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="discount-percent big-discount">
                                         <div class="twelve-point-star white"></div>
                                         <div class="twelve-point-star"></div>
+                                        <div class="value">20%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    8,00€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/poesia-do-eu-fernando-pessoa/11237308">
+                                                                    <img src="https://img.wook.pt/images/poesia-do-eu-fernando-pessoa/MXwxMTIzNzMwOHwxMTE1MjU3MXwxNDA1MDMzMjAwMDAw/170x" class="img-responsive" alt="Poesia do Eu">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Poesia do Eu" data-autores="de Fernando Pessoa" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="11152571" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="11152571" data-mesart="11237308" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=11152571&ficha=S&kpi=12&tipo=N&mesArtId=11237308'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/poesia-do-eu-fernando-pessoa/11237308">
+                                Poesia do Eu                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/fernando-pessoa/2103">Fernando Pessoa</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">30%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,40€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/livro-de-notas-c-elastico-fernando-pessoa-se-tenho-de-sonhar-porque-nao-sonhar-os-meus-proprios-sonhos/18896995">
+                                                                    <img src="https://img.wook.pt/images/livro-de-notas-c-elastico-fernando-pessoa---se-tenho-de-sonhar-porque-nao-sonhar-os-meus-proprios-sonhos/MXwxODg5Njk5NXwxNDYyNjgwMHwxNDc4MjE3NjAwMDAw/170x" class="img-responsive" alt="Livro de Notas c/ elástico Fernando Pessoa - Se Tenho de Sonhar, Porque não Sonhar os meus Próprios Sonhos">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Livro de Notas c/ elástico Fernando Pessoa - Se Tenho de Sonhar, Porque não Sonhar os meus Próprios Sonhos" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="14626800" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="14626800" data-mesart="18896995" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=14626800&ficha=S&kpi=12&tipo=N&mesArtId=18896995'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/livro-de-notas-c-elastico-fernando-pessoa-se-tenho-de-sonhar-porque-nao-sonhar-os-meus-proprios-sonhos/18896995">
+                                Livro de Notas c/ elástico Fernando Pessoa - Se Tenho de Sonhar, Porque não Sonhar os meus Próprios Sonhos                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                                                    </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
                                         <div class="value">10%</div>
                                     </div>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    10,00€                            </div>
+                                    8,82€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                    <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>

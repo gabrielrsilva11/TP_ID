@@ -4,14 +4,14 @@
 <meta charset="UTF-8"/>
 <title>Fernando Pessoa – Wikipédia, a enciclopédia livre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fernando_Pessoa","wgTitle":"Fernando Pessoa","wgCurRevisionId":51519909,"wgRevisionId":51519909,"wgArticleId":6894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","!Páginas que usam hiperligações mágicas ISBN","!Artigos que carecem de notas de rodapé desde abril de 2017","!Imagem local diferente da no Wikidata","Nascidos em 1888","Mortos em 1935","Fernando Pessoa","Alumni da Faculdade de Letras da Universidade de Lisboa","Críticos de Portugal","Dramaturgos de Portugal","Ensaístas de Portugal","Filatelistas","Mortes por cirrose hepática","Naturais de Lisboa","Poetas de Portugal","Poetas do modernismo","Sepultados no Mosteiro dos Jerónimos","Sonetistas","Teóricos da poesia moderna","Tradutores da poesia moderna","Tradutores de Portugal","Tradutores para a língua portuguesa","Escritores pagãos","Filósofos pagãos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Fernando_Pessoa","wgRelevantArticleId":6894,"wgRequestId":"Ww2yHwpAIDEAACoHKicAAACQ","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q173481","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fernando_Pessoa","wgTitle":"Fernando Pessoa","wgCurRevisionId":51519909,"wgRevisionId":51519909,"wgArticleId":6894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","!Páginas que usam hiperligações mágicas ISBN","!Artigos que carecem de notas de rodapé desde abril de 2017","!Imagem local diferente da no Wikidata","Nascidos em 1888","Mortos em 1935","Fernando Pessoa","Alumni da Faculdade de Letras da Universidade de Lisboa","Críticos de Portugal","Dramaturgos de Portugal","Ensaístas de Portugal","Filatelistas","Mortes por cirrose hepática","Naturais de Lisboa","Poetas de Portugal","Poetas do modernismo","Sepultados no Mosteiro dos Jerónimos","Sonetistas","Teóricos da poesia moderna","Tradutores da poesia moderna","Tradutores de Portugal","Tradutores para a língua portuguesa","Escritores pagãos","Filósofos pagãos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Fernando_Pessoa","wgRelevantArticleId":6894,"wgRequestId":"WxxRUgpAIC0AADtWy2sAAACS","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q173481","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
 });mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.32.0-wmf.4"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.7"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -35,9 +35,8 @@
 </div>
 <h1 id="firstHeading" class="firstHeading" lang="pt">Fernando Pessoa</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
-								<div id="jump-to-nav" class="mw-jump">
-					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
-				</div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
 				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" class="noprint" style="width:80%; margin:0 auto; margin-bottom:5px; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;">
 <tr>
 <td width="8%" align="center">
@@ -47,7 +46,7 @@
 </div>
 </div>
 </td>
-<td width="91%">Esta página ou secção cita <a href="/wiki/Wikip%C3%A9dia:Fontes_fi%C3%A1veis" class="mw-redirect" title="Wikipédia:Fontes fiáveis">fontes fiáveis</a> e <a href="/wiki/Wikip%C3%A9dia:Fontes_independentes" title="Wikipédia:Fontes independentes">independentes</a>, mas que <b>não cobrem</b> todo o conteúdo, o que <b>compromete a <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">verificabilidade</a></b> <small>(desde abril de 2017)</small>. Por favor, <a href="/wiki/Wikip%C3%A9dia:CITE" class="mw-redirect" title="Wikipédia:CITE">insira</a> mais <a href="/wiki/Refer%C3%AAncia_bibliogr%C3%A1fica" title="Referência bibliográfica">referências</a> no <a href="/wiki/Wikip%C3%A9dia:REF" class="mw-redirect" title="Wikipédia:REF">texto</a>. Material sem fontes poderá ser <a href="/wiki/Wikip%C3%A9dia:Verificabilidade#Política_de_verificabilidade" title="Wikipédia:Verificabilidade">removido</a>.<br />
+<td width="91%">Esta página ou secção cita <a href="/wiki/Wikip%C3%A9dia:Fontes_confi%C3%A1veis" title="Wikipédia:Fontes confiáveis">fontes confiáveis</a> e <a href="/wiki/Wikip%C3%A9dia:Fontes_independentes" title="Wikipédia:Fontes independentes">independentes</a>, mas que <b>não cobrem</b> todo o conteúdo, o que <b>compromete a <a href="/wiki/Wikip%C3%A9dia:Verificabilidade" title="Wikipédia:Verificabilidade">verificabilidade</a></b> <small>(desde abril de 2017)</small>. Por favor, <a href="/wiki/Wikip%C3%A9dia:CITE" class="mw-redirect" title="Wikipédia:CITE">insira</a> mais <a href="/wiki/Refer%C3%AAncia_bibliogr%C3%A1fica" title="Referência bibliográfica">referências</a> no <a href="/wiki/Wikip%C3%A9dia:REF" class="mw-redirect" title="Wikipédia:REF">texto</a>. Material sem fontes poderá ser <a href="/wiki/Wikip%C3%A9dia:Verificabilidade#Política_de_verificabilidade" title="Wikipédia:Verificabilidade">removido</a>.<br />
 —<small><i>Encontre fontes:</i> <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.google.com/#q=Fernando+Pessoa">Google</a> (<a rel="nofollow" class="external text" href="https://www.google.com/search?hl=pt&amp;tbm=nws&amp;q=Fernando+Pessoa&amp;oq=Fernando+Pessoa">notícias</a>, <a rel="nofollow" class="external text" href="http://books.google.com/books?&amp;as_brr=0&amp;as_epq=Fernando+Pessoa">livros</a> e <a rel="nofollow" class="external text" href="https://scholar.google.com.br/scholar?hl=pt&amp;q=Fernando+Pessoa">acadêmico</a>)</span></small></td>
 <td width="1%" align="center"></td>
 </tr>
@@ -679,38 +678,39 @@ Fernando Pessoa, um <i>flâneur</i> na Baixa de Lisboa.</div>
 
 <!-- 
 NewPP limit report
-Parsed by mw1328
-Cached time: 20180529200345
+Parsed by mw1269
+Cached time: 20180609215914
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.992 seconds
-Real time usage: 1.151 seconds
-Preprocessor visited node count: 13257/1000000
+CPU time usage: 0.972 seconds
+Real time usage: 1.148 seconds
+Preprocessor visited node count: 13267/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 108893/2097152 bytes
-Template argument size: 24206/2097152 bytes
+Post‐expand include size: 108911/2097152 bytes
+Template argument size: 24212/2097152 bytes
 Highest expansion depth: 21/40
 Expensive parser function count: 38/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 25820/5000000 bytes
-Lua time usage: 0.348/10.000 seconds
-Lua memory usage: 6.99 MB/50 MB
+Number of Wikibase entities loaded: 37/400
+Lua time usage: 0.373/10.000 seconds
+Lua memory usage: 6.1 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1004.973      1 -total
- 33.30%  334.651      1 Predefinição:Controle_de_autoridade
- 31.19%  313.491      1 Predefinição:Info/Biografia
- 27.74%  278.786      1 Predefinição:Info
- 11.47%  115.249      1 Predefinição:Referências
-  7.45%   74.837      4 Predefinição:Manutenção/Categorizando_por_assunto
-  6.45%   64.843      1 Predefinição:Mais_notas
-  5.38%   54.027      8 Predefinição:Citar_web
-  5.27%   52.920      1 Predefinição:Portal3
-  5.03%   50.567      4 Predefinição:Portal3/Portais
+100.00%  987.313      1 -total
+ 33.32%  328.991      1 Predefinição:Info/Biografia
+ 31.69%  312.856      1 Predefinição:Info
+ 30.56%  301.730      1 Predefinição:Controle_de_autoridade
+ 13.20%  130.374      1 Predefinição:Referências
+  6.91%   68.207      8 Predefinição:Citar_web
+  5.89%   58.170      4 Predefinição:Manutenção/Categorizando_por_assunto
+  5.17%   51.070      1 Predefinição:Portal3
+  4.95%   48.905      4 Predefinição:Portal3/Portais
+  4.79%   47.284      1 Predefinição:Mais_notas
 -->
 </div>
-<!-- Saved in parser cache with key ptwiki:pcache:idhash:6894-0!canonical and timestamp 20180529200343 and revision id 51519909
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:6894-0!canonical and timestamp 20180609215913 and revision id 51519909
  -->
 <noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Fernando_Pessoa&amp;oldid=51519909">https://pt.wikipedia.org/w/index.php?title=Fernando_Pessoa&amp;oldid=51519909</a>"					</div>
@@ -836,6 +836,7 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.992","walltime":"1.151","ppvisitednodes":{"value":13257,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108893,"limit":2097152},"templateargumentsize":{"value":24206,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25820,"limit":5000000},"entityaccesscount":{"value":37,"limit":400},"timingprofile":["100.00% 1004.973      1 -total"," 33.30%  334.651      1 Predefinição:Controle_de_autoridade"," 31.19%  313.491      1 Predefinição:Info/Biografia"," 27.74%  278.786      1 Predefinição:Info"," 11.47%  115.249      1 Predefinição:Referências","  7.45%   74.837      4 Predefinição:Manutenção/Categorizando_por_assunto","  6.45%   64.843      1 Predefinição:Mais_notas","  5.38%   54.027      8 Predefinição:Citar_web","  5.27%   52.920      1 Predefinição:Portal3","  5.03%   50.567      4 Predefinição:Portal3/Portais"]},"scribunto":{"limitreport-timeusage":{"value":"0.348","limit":"10.000"},"limitreport-memusage":{"value":7327451,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20180529200345","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1263,"wgHostname":"mw1328"});});</script>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.972","walltime":"1.148","ppvisitednodes":{"value":13267,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108911,"limit":2097152},"templateargumentsize":{"value":24212,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25820,"limit":5000000},"entityaccesscount":{"value":37,"limit":400},"timingprofile":["100.00%  987.313      1 -total"," 33.32%  328.991      1 Predefinição:Info/Biografia"," 31.69%  312.856      1 Predefinição:Info"," 30.56%  301.730      1 Predefinição:Controle_de_autoridade"," 13.20%  130.374      1 Predefinição:Referências","  6.91%   68.207      8 Predefinição:Citar_web","  5.89%   58.170      4 Predefinição:Manutenção/Categorizando_por_assunto","  5.17%   51.070      1 Predefinição:Portal3","  4.95%   48.905      4 Predefinição:Portal3/Portais","  4.79%   47.284      1 Predefinição:Mais_notas"]},"scribunto":{"limitreport-timeusage":{"value":"0.373","limit":"10.000"},"limitreport-memusage":{"value":6395618,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180609215914","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1324"});});</script>
 	</body>
 </html>

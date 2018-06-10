@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>443 resultados para "Paul Auster"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>444 resultados para "Paul Auster"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -457,155 +457,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/mr-vertigo-paul-auster/19727497">
-                                                                    <img src="https://img.wook.pt/images/mr-vertigo-paul-auster/MXwxOTcyNzQ5N3wxNTU1OTg5MHwxNTAwNTkxNjAwMDAw/170x" class="img-responsive" alt="Mr. Vertigo">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Mr. Vertigo" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15559890" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15559890" data-mesart="19727497" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15559890&ficha=S&kpi=12&tipo=N&mesArtId=19727497'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/mr-vertigo-paul-auster/19727497">
-                                Mr. Vertigo                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    16,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/4321-paul-auster/19214179">
-                                                                    <img src="https://img.wook.pt/images/4321-paul-auster/MXwxOTIxNDE3OXwxNTAwOTczOXwxNTE1NTQyNDAwMDAw/170x" class="img-responsive" alt="4321">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="4321" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15009739" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15009739" data-mesart="19214179" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15009739&ficha=S&kpi=12&tipo=N&mesArtId=19214179'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/4321-paul-auster/19214179">
-                                4321                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    8,45€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/invisivel-paul-auster/2552168">
-                                                                    <img src="https://img.wook.pt/images/invisivel-paul-auster/MXwyNTUyMTY4fDIyNjAzMjh8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Invisível">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Invisível" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2260328" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2260328" data-mesart="2552168" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2260328&ficha=S&kpi=12&tipo=N&mesArtId=2552168'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/invisivel-paul-auster/2552168">
-                                Invisível                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/no-pais-das-ultimas-coisas-paul-auster/5101777">
                                                                     <img src="https://img.wook.pt/images/no-pais-das-ultimas-coisas-paul-auster/MXw1MTAxNzc3fDMxNjkyODF8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="No País das Últimas Coisas">
                                                             </a>
@@ -659,6 +510,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/mr-vertigo-paul-auster/19727497">
+                                                                    <img src="https://img.wook.pt/images/mr-vertigo-paul-auster/MXwxOTcyNzQ5N3wxNTU1OTg5MHwxNTAwNTkxNjAwMDAw/170x" class="img-responsive" alt="Mr. Vertigo">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Mr. Vertigo" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15559890" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15559890" data-mesart="19727497" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15559890&ficha=S&kpi=12&tipo=N&mesArtId=19727497'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/mr-vertigo-paul-auster/19727497">
+                                Mr. Vertigo                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    16,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
@@ -707,6 +606,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                                                 <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/invisivel-paul-auster/2552168">
+                                                                    <img src="https://img.wook.pt/images/invisivel-paul-auster/MXwyNTUyMTY4fDIyNjAzMjh8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Invisível">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Invisível" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="2260328" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="2260328" data-mesart="2552168" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=2260328&ficha=S&kpi=12&tipo=N&mesArtId=2552168'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/invisivel-paul-auster/2552168">
+                                Invisível                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/pensei-que-o-meu-pai-era-deus-paul-auster/39636">
@@ -763,7 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/o-livro-das-ilusoes-paul-auster/41157">
@@ -810,110 +756,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/a-historia-de-natal-de-auggie-wren-paul-auster/187148">
-                                                                    <img src="https://img.wook.pt/images/a-historia-de-natal-de-auggie-wren-paul-auster/MXwxODcxNDh8MjM2ODgyfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A História de Natal de Auggie Wren">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A História de Natal de Auggie Wren" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="236882" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="236882" data-mesart="187148" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=236882&ficha=S&kpi=12&tipo=N&mesArtId=187148'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-historia-de-natal-de-auggie-wren-paul-auster/187148">
-                                A História de Natal de Auggie Wren                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    12,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827">
-                                                                    <img src="https://img.wook.pt/images/a-historia-da-minha-maquina-de-escrever-paul-auster/MXwxODM4Mjd8MjMzMDcyfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A História da Minha Máquina de Escrever">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A História da Minha Máquina de Escrever" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="233072" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="233072" data-mesart="183827" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=233072&ficha=S&kpi=12&tipo=N&mesArtId=183827'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827">
-                                A História da Minha Máquina de Escrever                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    4,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/da-mao-para-a-boca-paul-auster/1459731">
@@ -960,7 +803,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/sunset-park-paul-auster/9623566">
@@ -998,6 +841,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </a>
                             </div>
                                                     <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    12,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/a-historia-de-natal-de-auggie-wren-paul-auster/187148">
+                                                                    <img src="https://img.wook.pt/images/a-historia-de-natal-de-auggie-wren-paul-auster/MXwxODcxNDh8MjM2ODgyfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A História de Natal de Auggie Wren">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A História de Natal de Auggie Wren" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="236882" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="236882" data-mesart="187148" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=236882&ficha=S&kpi=12&tipo=N&mesArtId=187148'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/a-historia-de-natal-de-auggie-wren-paul-auster/187148">
+                                A História de Natal de Auggie Wren                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
                                     <div class="discount-percent big-discount">
@@ -1067,6 +957,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827">
+                                                                    <img src="https://img.wook.pt/images/a-historia-da-minha-maquina-de-escrever-paul-auster/MXwxODM4Mjd8MjMzMDcyfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A História da Minha Máquina de Escrever">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A História da Minha Máquina de Escrever" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="233072" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="233072" data-mesart="183827" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=233072&ficha=S&kpi=12&tipo=N&mesArtId=183827'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827">
+                                A História da Minha Máquina de Escrever                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/a-historia-da-minha-maquina-de-escrever-paul-auster/183827"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    4,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/cidade-de-vidro-paul-auster/183590">
                                                                     <img src="https://img.wook.pt/images/cidade-de-vidro-paul-auster/MXwxODM1OTB8MjMyNzg0fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Cidade De Vidro">
                                                             </a>
@@ -1108,6 +1054,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/a-vida-interior-de-martin-frost-paul-auster/197741">
+                                                                    <img src="https://img.wook.pt/images/a-vida-interior-de-martin-frost-paul-auster/MXwxOTc3NDF8MjUwMjYzfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Vida Interior de Martin Frost">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Vida Interior de Martin Frost" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="250263" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="250263" data-mesart="197741" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=250263&ficha=S&kpi=12&tipo=N&mesArtId=197741'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/a-vida-interior-de-martin-frost-paul-auster/197741">
+                                A Vida Interior de Martin Frost                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    4,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1171,24 +1164,76 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/the-book-of-illusions-paul-auster/10897723">
-                                                                    <img src="https://img.wook.pt/images/the-book-of-illusions-paul-auster/MXwxMDg5NzcyM3w2NDY3MzY0fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="The Book Of Illusions">
+                            <a href="/livro/linvention-de-la-solitude-paul-auster/7944904">
+                                                                    <img src="https://img.wook.pt/images/linvention-de-la-solitude-paul-auster/MXw3OTQ0OTA0fDQ0NTIzNjJ8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="L'Invention De La Solitude">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="The Book Of Illusions" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="6467364" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="6467364" data-mesart="10897723" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=6467364&ficha=S&kpi=12&tipo=N&mesArtId=10897723'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="L'Invention De La Solitude" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4452362" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4452362" data-mesart="7944904" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4452362&ficha=S&kpi=12&tipo=N&mesArtId=7944904'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/the-book-of-illusions-paul-auster/10897723">
-                                The Book Of Illusions                            </a>
+                            <a class="title-lnk" href="/livro/linvention-de-la-solitude-paul-auster/7944904">
+                                L'Invention De La Solitude                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">A Novel</div>
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Francês"></span>
+                                <span class="idioma">  idioma: Francês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    9,00€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/4321-paul-auster/19214179">
+                                                                    <img src="https://img.wook.pt/images/4321-paul-auster/MXwxOTIxNDE3OXwxNTAwOTczOXwxNTE1NTQyNDAwMDAw/170x" class="img-responsive" alt="4321">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="4321" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="15009739" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="15009739" data-mesart="19214179" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=15009739&ficha=S&kpi=12&tipo=N&mesArtId=19214179'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/4321-paul-auster/19214179">
+                                4321                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
 
 
 
@@ -1212,59 +1257,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    10,86€                            </div>
+                                    8,45€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
 
 </div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/a-vida-interior-de-martin-frost-paul-auster/197741">
-                                                                    <img src="https://img.wook.pt/images/a-vida-interior-de-martin-frost-paul-auster/MXwxOTc3NDF8MjUwMjYzfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Vida Interior de Martin Frost">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Vida Interior de Martin Frost" data-autores="de Paul Auster" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="250263" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="250263" data-mesart="197741" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=250263&ficha=S&kpi=12&tipo=N&mesArtId=197741'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-vida-interior-de-martin-frost-paul-auster/197741">
-                                A Vida Interior de Martin Frost                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/paul-auster/19587">Paul Auster</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    4,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
@@ -1627,6 +1625,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Paul+Auster","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Paul Auster&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Paul+Auster";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Paul+Auster';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":19,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

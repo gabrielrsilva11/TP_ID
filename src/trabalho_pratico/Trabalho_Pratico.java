@@ -5,272 +5,505 @@
  */
 package trabalho_pratico;
 
+import java.awt.Desktop;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import javax.swing.JOptionPane;
+import net.sf.saxon.s9api.SaxonApiException;
+import net.sf.saxon.s9api.XdmValue;
+import net.sf.saxon.trans.XPathException;
+import org.jdom2.Attribute;
+import org.jdom2.DocType;
+import org.jdom2.Document;
+import org.jdom2.Element;
+import org.jdom2.Namespace;
 
 /**
- *
- * @author gabriel
+  *
+  * @author Gabriel Silva
  */
-public class Trabalho_Pratico {
 
+public class Trabalho_Pratico {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException {
-       buscaAutoresFicheiro("escritores.txt");
-       //retiraNomeWiki("./escritores/AlexandreHerculano_Wiki.txt");
-       //retiraDataNascimentoWiki("./escritores/JorgeAmado_Wiki.txt");
-       //retiraNacionalidadeWiki("./escritores/JamesJoyce_Wiki.txt");
+    public static void main(String[] args) throws IOException, SaxonApiException {
+        new TP_Frame().setVisible(true);
     }
     
-    /*input: autor - nome do autor da qual queremos a pagina
-      output: ficheiro de texto com a sua pagina da wikipedia 
-    */
-    public static void getWikiFile(String autor) throws IOException
-    {
-       String link = "https://pt.wikipedia.org/wiki/";
-       String outputFile = "./escritores/"+autor.concat("_Wiki.txt").replace(" ", "");
-       
-       HttpRequestFunctions.httpRequest1(link,autor,outputFile);
-    }
-    
-    /*input: autor - nome do autor da qual queremos a pagina
-      output: ficheiro de texto com a sua pagina da wook 
-    */
-    public static void getWookFile(String autor) throws IOException
-    {
-       String link = "https://www.wook.pt/pesquisa/";
-       String outputFile = "./escritores/"+autor.concat("_Wook.txt").replace(" ", "");
-       
-       HttpRequestFunctions.httpRequest3(link, autor, outputFile);
-    }
-
-    /*input: ficheiro - nome do ficheiro de texto onde ir buscar os nomes dos autores
-      output: paginas da wiki e da wook para cada autor em formato .txt
-    */
-    public static void buscaAutoresFicheiro(String nomeFich) throws FileNotFoundException, IOException
+    public static void buscaAutoresFicheiro(String nomeFich) throws FileNotFoundException, IOException, SaxonApiException
     {
         Scanner input = new Scanner(new FileInputStream(nomeFich));
         String autor;
+        Autores pessoa = new Autores();
+        ArrayList<Livros> l = new ArrayList<Livros>();
         
         while(input.hasNextLine())
         {
             autor = input.nextLine();
-            //getWikiFile(autor);
-            //getWookFile(autor);
-            retiraNomeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ", ""));
-            retiraDataNascimentoWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
-            retiraNacionalidadeWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
-            retiraDataMorteWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
-            retiraOcupWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
-            retiraPremWiki("./escritores/"+autor.concat("_Wiki.txt").replace(" ",""));
-            System.out.println("\n");
+  
+            pessoa=Autores.getWikiFile(autor);
+            l=Livros.getWookFile(autor);
+            pessoa.setID(l.get(0).getCodautor());
+            Autores.adicionaAutores(pessoa);
         }
         input.close();
     }
     
-        
-    /*input: ficheiro - nome do ficheiro de texto onde ir buscar o nome completo
-     output: nome do autor retirado da pagina da wiki
-    */
-    public static void retiraNomeWiki(String ficheiro) throws FileNotFoundException
+    //funcoes de validacao
+    
+    public static int validarDocumentoXSD(String xmlFile, String XSDFile) throws IOException
     {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        int found=0;
-        String linha;
+        Document doc = XMLJDomFunctions.lerDocumentoXML(xmlFile);
+        File f = new File(XSDFile);
         
-        String er="<p><b>([a-zA-Zàáâāéíóú',.\\s]*)</b>[\\s,]";
-        Pattern p = Pattern.compile(er);
-        Matcher m;
-        
-        while(input.hasNextLine())
-        {
-            linha = input.nextLine();
-            m=p.matcher(linha);
-            if(m.find())
+        if(doc != null && f.exists()) {
+            Element raiz = doc.getRootElement();
+            Namespace XSI = Namespace.getNamespace("xsi","http://www.w3.org/2001/XMLSchema-instance");
+            raiz.addNamespaceDeclaration(XSI);
+            raiz.setAttribute(new Attribute("noNamespaceSchemaLocation", XSDFile,
+            Namespace.getNamespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")));
+            
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc,xmlFile);
+            
+            Document docXSD = JDOMFunctions_Validar.validarXSD(xmlFile);
+            if(docXSD == null)
             {
-                System.out.println("Nome: "+m.group(1));
-                found =1;
+                System.out.println("invalido por xsd");
+                return -1;
             }
-            if(found==1)
-                break;
+            else
+            {
+                System.out.println("valido por xsd");
+                return 1;
+            }
         }
-        input.close();
+        return -1;
     }
     
-    public static void retiraDataNascimentoWiki(String ficheiro) throws FileNotFoundException
+    public static int validarDocumentoDTD(String xmlFile, String DTDFile) throws IOException
     {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        int found=0;
-        String linha;
-        String data_nasc;
+        Document doc = XMLJDomFunctions.lerDocumentoXML(xmlFile);
+        File f = new File(DTDFile);
         
-        String er="title=\"([0-9a-zA-Zç\\s]+)\">[0-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([0-9]{4})\" title=\"[0-9]{4}\">[0-9]{4}</a>";
-        Pattern p = Pattern.compile(er);
-        Matcher m;
-        
-        while(input.hasNextLine())
+        if(doc!= null && f.exists())
         {
-            linha = input.nextLine();
-            m=p.matcher(linha);
-            if(m.find())
+            Element raiz = doc.getRootElement();
+            
+            DocType dtd = new DocType(raiz.getName(), DTDFile);
+            doc.setDocType(dtd);
+            
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, xmlFile);
+            
+            Document docDTD = JDOMFunctions_Validar.validarDTD(xmlFile);
+            if(docDTD == null)
             {
-                data_nasc = m.group(1)+ " de " + m.group(2);
-                System.out.println("Data Nascimento: "+data_nasc);
-                found =1;
+                System.out.println("invalido por dtd");
+                return -1;
             }
-            if(found==1)
-                break;
+            else
+            {
+                System.out.println("valido por dtd");
+                return 1;
+            }   
         }
-        input.close();
+        return -1;
     }
     
-    public static void retiraNacionalidadeWiki(String ficheiro) throws FileNotFoundException
+    //funcoes de pesquisa
+    
+    public static String procuraNome(String procura) throws SaxonApiException
     {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        String linha;
-        
-        String er1=">Nacionalidade</td>";  
-        String er2="<a href=\"/wiki/[a-zA-Zàáâāéíóúê',()\\s-_%0-9]*\" title=\"[a-zA-Zàáâāéíóúê',()%\\s-_]*\">([a-zA-Zàáâāéíóúê',-_%()\\s]*)</a>";
-        Pattern p1 = Pattern.compile(er1);
-        Pattern p2 = Pattern.compile(er2);
-        Matcher m;
-        Matcher m2;
-        String nacionalidade;
-        
-        while(input.hasNextLine())
+        String xp="//autor[contains(nome,'"+procura+"')]";
+        XdmValue res = XPathFunctions.executaXpath(xp, "autores.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
         {
-            linha = input.nextLine();
-            m=p1.matcher(linha);
-            if(m.find())
-            {
-                nacionalidade = input.nextLine();
-                m2=p2.matcher(nacionalidade);
-                if(m2.find()){
-                    System.out.println("Nacionalidade: "+m2.group(1));
-                    break;
-                }
-                
-            }
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
         }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
     }
     
-    public static void retiraDataMorteWiki(String ficheiro) throws FileNotFoundException
+    public static String procuraAutorPorCod(String procura) throws SaxonApiException
     {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        String linha;
-        String morte;
-        String data_morte;
-        String er1=">Morte</td>";  
-        String er2="title=\"([0-9a-zA-Zç\\s]+)\">[0-9a-zA-Zç\\s]+</a> de <a href=\"/wiki/([0-9]{4})\" title=\"[0-9]{4}\">[0-9]{4}</a>";
-        Pattern p1 = Pattern.compile(er1);
-        Pattern p2 = Pattern.compile(er2);
-        Matcher m;
-        Matcher m2;
-       
-        
-        while(input.hasNextLine())
+        String xp="//autor[@cod='"+procura+"']/nome";
+        XdmValue res = XPathFunctions.executaXpath(xp, "autores.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
         {
-            linha = input.nextLine();
-            m=p1.matcher(linha);
-            if(m.find())
-            {
-                morte = input.nextLine();
-                m2=p2.matcher(morte);
-                if(m2.find())
-                {
-                    data_morte = m2.group(1)+ " de " + m2.group(2);
-                    System.out.println("Data de morte: "+data_morte);
-                    break;
-                }
-                
-            }
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
         }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
     }
     
-    public static void retiraOcupWiki(String ficheiro) throws FileNotFoundException
+    public static String procuraLivroISBN(String procura) throws SaxonApiException
     {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        String ocup;
-        String linha;
-        int group=1;
-        String er1=">Ocupação</td>";  
-        String er2=">([a-zA-Zàáâāéíóúê',()\\s-_]*)[</a>]?</td>|<a href=\"/wiki/[a-zA-Z]*\"[ class=\"mw\\-redirect\"]*title=\"[a-zA-Z]*\">([a-zA-Z]*)</a>";
-        Pattern p1 = Pattern.compile(er1);
-        Pattern p2 = Pattern.compile(er2);
-        Matcher m;
-        Matcher m2;
-        String ocupacao;
-        
-        while(input.hasNextLine())
+        String xp="//livro[@isbn='"+procura+"']/titulo";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
         {
-            linha = input.nextLine();
-            m=p1.matcher(linha);
-            if(m.find())
-            {
-                ocup = input.nextLine();
-                m2=p2.matcher(ocup);
-                while(m2.find())
-                {
-                    ocupacao = m2.group(1);
-                    if(ocupacao==null)
-                    {    
-                        ocupacao = m2.group(2);
-                    } 
-                    System.out.println("Ocupacao: "+ocupacao);
-                    break;
-                }
-                
-            }
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
         }
-    }
-    public static void retiraPremWiki(String ficheiro) throws FileNotFoundException
-    {
-        Scanner input = new Scanner(new FileInputStream(ficheiro));
-        String prem, linha, premios;
-        String er1=">Prémios</td>|>Prêmios</td>";
-        String er2="title=\"[a-zA-Zàáâāéíóúêõ',.()\\s/-_]*\">([a-zA-Zàáâāéíóúêõ'.,()\\s/-_]*)</a> ([(0-9),\\s]*)<br />|title=\"(Prémio [a-zA-Zàáâāéíóúê]*)\">";
-        Pattern p1=Pattern.compile(er1);
-        Pattern p2=Pattern.compile(er2);
-        Matcher m, m2;
-        
-        while(input.hasNextLine())
+        else if(res.size() == 0)
         {
-            linha = input.nextLine();
-            m=p1.matcher(linha);
-            if(m.find())
-            {
-                while(input.hasNextLine())
-                {
-                    prem = input.nextLine();
-                    m2=p2.matcher(prem);
-                    while(m2.find())
-                    {
-                        premios = m2.group(1);
-                        if(premios==null)
-                        {
-                            premios=m2.group(3);
-                            System.out.println("grupo3");
-                            System.out.println("Premios: "+premios);
-                            break;
-                        }
-                        System.out.println("Premios: "+premios);
-                    }
-                }
-                break;
-            }
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
         }
+        else
+            System.out.println(s);
+        return s;
     }
     
-    public static void retiraImgWiki(String ficheiro) throws FileNotFoundException
+    public static String procuraCodautor(String procura) throws SaxonApiException
     {
+        String xp="//autor[contains(nome,'"+procura+"')]/@cod";
+        XdmValue res = XPathFunctions.executaXpath(xp, "autores.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraNacionalidade(String procura) throws SaxonApiException{
+        String xp="//autor[nacionalidade='"+procura+"']/nome";
+        XdmValue res = XPathFunctions.executaXpath(xp, "autores.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraLivrosEscritor(String procura) throws SaxonApiException{
+        String codautor = procuraCodautor(procura);
+        codautor=codautor.replace("\n", "");
+        String xp="//livro[cod_autor='"+codautor+"']/titulo";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraGenero(String procura) throws SaxonApiException
+    {
+        String xp="//autor[genero='"+procura+"']/nome";
+        XdmValue res = XPathFunctions.executaXpath(xp, "autores.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
         
     }
+    
+    public static String somaPrecos(String pesquisa) throws SaxonApiException
+    {
+        String xp="sum(//livro[cod_autor='"+pesquisa+"']/preco/number())";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraPrecosMaiores(String pesquisa) throws SaxonApiException
+    {
+        String xp="//livro[preco>"+pesquisa+"]";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraPrecosMenores(String pesquisa) throws SaxonApiException
+    {
+        String xp="//livro[preco<"+pesquisa+"]";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    public static String procuraPaginasPreco(String pesquisa1,String pesquisa2) throws SaxonApiException
+    {
+        //String xp="//livro[preco<"+pesquisa1+"]"; //+" and npaginas<"+pesquisa2+"]";
+        String xp="//livro[npaginas<'"+pesquisa1+"' and preco<"+pesquisa2+"]";
+        XdmValue res = XPathFunctions.executaXpath(xp, "livros.xml");
+        String s = XPathFunctions.listaResultado(res);
+        if(res==null)
+        {
+            System.out.println("Ficheiro XML não existe");
+            s = "Ficheiro XML não existe";
+        }
+        else if(res.size() == 0)
+        {
+            System.out.println("Sem resultados");
+            s = "Sem resultados";
+        }
+        else
+            System.out.println(s);
+        return s;
+    }
+    
+    //remover ou alterar info
+    public static String removeLivroIsbn(String procura) throws IOException{
+        Element raiz;
+        Document doc = XMLJDomFunctions.lerDocumentoXML("livros.xml");
+        String x="";
+        
+        if(doc == null){
+            System.out.println("Ficheiro não existe");
+            return "Ficheiro não existe";
+        } else{
+            raiz = doc.getRootElement();
+        }
+        
+        List todosLivros = raiz.getChildren("livro");
+        boolean found = false;
+        for(int i=0;i<todosLivros.size();i++){
+            Element livro=(Element)todosLivros.get(i);
+            if(livro.getAttribute("isbn").toString().contains(procura)){
+                livro.getParent().removeContent(livro);
+                x="Livro removido com sucesso!";
+                found = true;
+            }
+        }
+        if(!found){
+            x="Isbn " + procura + " não foi encontrado";
+            
+        }
+
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "livros.xml");
+        return x;
+    }
+    
+    public static String removeLivroAutor(String procura) throws IOException{
+        Element raiz;
+        Document doc = XMLJDomFunctions.lerDocumentoXML("livros.xml");
+        
+        if(doc == null)
+        {
+            System.out.println("Ficheiro não existe");
+            return "Ficheiro não existe";
+        } else
+        {
+            raiz = doc.getRootElement();
+        }
+        
+        List todosLivros = raiz.getChildren("livro");
+        
+        boolean found = false;
+        
+        for(int i=0;i<todosLivros.size();i++){
+            Element livro=(Element)todosLivros.get(i);
+            if(procura.equals(livro.getChild("cod_autor").getText())){
+                System.out.println(i);
+                System.out.println("iguais");
+                livro.getParent().removeContent(livro);
+                found = true;
+            }
+        }
+        
+        if(!found){
+            return "Livro do autor" + procura + " não foi encontrado";
+            
+        }
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "livros.xml");
+        return "Livro apagado com sucesso";
+    }
+    
+    public static String removeAutorCod(String procura) throws IOException{
+        Element raiz;
+        Document doc = XMLJDomFunctions.lerDocumentoXML("autores.xml");
+        
+        if(doc == null){
+            System.out.println("Ficheiro não existe");
+            return "Ficheiro não existe";
+        } else{
+            raiz = doc.getRootElement();
+        }
+        
+        List todosAutores = raiz.getChildren("autor");
+        boolean found = false;
+        for(int i=0;i<todosAutores.size();i++){
+            Element autor=(Element)todosAutores.get(i);
+            if(autor.getAttribute("cod").toString().contains(procura)){
+                autor.getParent().removeContent(autor);
+                removeLivroAutor(procura);
+                found = true;
+            }
+        }
+        if(!found){
+            return "Autor com o cod" + procura + " não foi encontrado";
+        }
+        
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "autores.xml");
+        
+        return "Autor removido com sucesso";
+    }
+    
+    public static String alteraPrecoLivro(String isbn, String novoPreco) throws IOException{
+        Element raiz;
+        Document doc = XMLJDomFunctions.lerDocumentoXML("livros.xml");
+        
+        if(doc == null){
+            System.out.println("Ficheiro não existe");
+            return "Ficheiro não existe";
+        } else{
+            raiz = doc.getRootElement();
+        }
+        
+        List todosLivros = raiz.getChildren("livro");
+        boolean found = false;
+        for(int i=0;i<todosLivros.size();i++){
+            Element livro=(Element)todosLivros.get(i);
+            if(livro.getAttribute("isbn").toString().contains(isbn))
+            {
+                livro.getChild("preco").setText(novoPreco);
+                found = true;
+            }
+        }
+        
+        if(found == false){
+            return "Livro com o ISBN: " + isbn +" nao encontrado.";
+        }
+        
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "livros.xml");
+        
+        return "Preco alterado";
+    }
+
+    public static String adicionaPremios(String procura, String Premio) throws IOException
+    {
+        Element raiz;
+        Document doc = XMLJDomFunctions.lerDocumentoXML("autores.xml");
+        
+        if(doc == null)
+        {
+            System.out.println("Ficheiro não existe");
+            return "Ficheiro não existe";
+        } else{
+            raiz = doc.getRootElement();
+        }
+        
+        List todosAutores = raiz.getChildren("autor");
+        boolean found = false;
+        for(int i=0;i<todosAutores.size();i++)
+        {
+            Element autor = (Element)todosAutores.get(i);
+            if(autor.getAttribute("cod").toString().contains(procura))
+            {
+                Element premios = new Element("premios").addContent(Premio);
+                autor.addContent(premios);
+                found = true;
+            }
+        }
+        if(!found)
+            return "Autor com o cod "+procura+" nao encontrado";
+        
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "autores.xml");
+        
+        return "Premio adicionado";
+    }
+    
  }

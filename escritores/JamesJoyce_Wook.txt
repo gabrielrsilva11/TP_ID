@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>1254 resultados para "James Joyce"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>1264 resultados para "James Joyce"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -345,6 +345,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/ebook/ulysses-gp-editors/17956522">
+                                                                    <img src="https://img.wook.pt/images/ulysses-gp-editors/MXwxNzk1NjUyMnwxMzYxNTI4OXwxNDYzNjEyNDAwMDAw/170x" class="img-responsive" alt="Ulysses">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Ulysses" data-autores="de Gp Editors e James Joyce" data-epub="13601692" data-ewook="13615289" type="button" data-kpicesto="5" data-subart="13615289" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="13615289" data-mesart="17956522" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=13615289&ficha=S&kpi=12&tipo=N&mesArtId=17956522'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/ebook/ulysses-gp-editors/17956522">
+                                Ulysses                            </a>
+                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/gp-editors/3678485">Gp Editors</a> e <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                            
+                            <div class="col-xs-6 preco have-star">
+                                    0,86€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                    <div>Disponibilidade Imediata</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/ulysses-james-joyce/2119573">
                                                                     <img src="https://img.wook.pt/images/ulysses-james-joyce/MXwyMTE5NTczfDE4NjAzMzh8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Ulysses">
                                                             </a>
@@ -389,14 +435,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     3,02€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
- </div>                            
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover disable">
                             <a href="/ebook/a-portrait-of-the-artist-as-a-young-man-golden-deer-classics/21452990">
@@ -442,7 +486,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover disable">
                             <a href="/ebook/gens-de-dublin-golden-deer-classics/21452985">
@@ -488,99 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/ebook/dubliners-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/21908669">
-                                                                    <img src="https://img.wook.pt/images/dubliners-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/MXwyMTkwODY2OXwxNzc2ODk1OXwxNTI2MzM4ODAwMDAw/170x" class="img-responsive" alt="Dubliners (Active Toc, Free Audiobook) (A To Z Classics)">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Dubliners (Active Toc, Free Audiobook) (A To Z Classics)" data-autores="de A To Z Classics e James Joyce" data-epub="17768072" data-ewook="17768959" type="button" data-kpicesto="5" data-subart="17768959" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17768959" data-mesart="21908669" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17768959&ficha=S&kpi=12&tipo=N&mesArtId=21908669'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/ebook/dubliners-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/21908669">
-                                Dubliners (Active Toc, Free Audiobook) (A To Z Classics)                            </a>
-                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/a-to-z-classics/4322315">A To Z Classics</a> e <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    0,49€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Disponibilidade Imediata</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/ebook/ulysses-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/21908666">
-                                                                    <img src="https://img.wook.pt/images/ulysses-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/MXwyMTkwODY2NnwxNzc2ODk3OHwxNTI2MzM4ODAwMDAw/170x" class="img-responsive" alt="Ulysses (Active Toc, Free Audiobook) (A To Z Classics)">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="ebook" data-title="Ulysses (Active Toc, Free Audiobook) (A To Z Classics)" data-autores="de A To Z Classics e James Joyce" data-epub="17768069" data-ewook="17768978" type="button" data-kpicesto="5" data-subart="17768978" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17768978" data-mesart="21908666" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17768978&ficha=S&kpi=12&tipo=N&mesArtId=21908666'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/ebook/ulysses-active-toc-free-audiobook-a-to-z-classics-a-to-z-classics/21908666">
-                                Ulysses (Active Toc, Free Audiobook) (A To Z Classics)                            </a>
-                                                            <span id="formatProduct "class="title-product-format"> (eBook)</span>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/a-to-z-classics/4322315">A To Z Classics</a> e <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                            
-                            <div class="col-xs-6 preco have-star">
-                                    0,49€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                    <div>Disponibilidade Imediata</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/james-joyce-and-the-usefulness-of-forgetting-vincent-cheng/21071680">
@@ -633,7 +585,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/o-gato-e-o-diabo-james-joyce/15309036">
@@ -689,7 +641,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/a-noite-que-fora-de-natal-uma-carta-do-pai-natal-os-mortos-mark-twain/18954716">
@@ -737,7 +689,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/principios-de-ciencia-para-enfermagem-james-joyce/186309">
@@ -785,7 +737,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/ebook/exiles-james-joyce/21815340">
@@ -827,60 +779,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                                                                     <div>Disponibilidade Imediata</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/11630074">
-                                                                    <img src="https://img.wook.pt/images/a-portrait-of-the-artist-as-a-young-man-james-joyce/MXwxMTYzMDA3NHw3MjAxMzU3fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="A Portrait Of The Artist As A Young Man">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Portrait Of The Artist As A Young Man" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="7201357" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="7201357" data-mesart="11630074" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=7201357&ficha=S&kpi=12&tipo=N&mesArtId=11630074'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/11630074">
-                                A Portrait Of The Artist As A Young Man                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Inglês"></span>
-                                <span class="idioma">  idioma: Inglês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    3,02€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
-</div>                            
                                                                 </div>
 
                     </div>
@@ -933,6 +831,124 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/dublinenses-james-joyce/14068081">
+                                                                    <img src="https://img.wook.pt/images/dublinenses-james-joyce/MXwxNDA2ODA4MXw5NjMyMzgxfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Dublinenses">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dublinenses" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9632381" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9632381" data-mesart="14068081" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9632381&ficha=S&kpi=12&tipo=N&mesArtId=14068081'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/dublinenses-james-joyce/14068081">
+                                Dublinenses                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/dublinenses-james-joyce/14068081"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(2)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,00€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/in-season/21311064">
+                                
+<div class="image-not-available" style="">
+    <div class="description">
+        <span>imagem não disponível</span>
+    </div>
+            <div class="product-title" data-title="In Season">
+            <span>In Season</span>
+        </div>
+    </div>                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="In Season" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17197602" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17197602" data-mesart="21311064" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17197602&ficha=S&kpi=12&tipo=N&mesArtId=21311064'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/in-season/21311064">
+                                In Season                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Stories Of Discovery, Loss, Home, And Places In Between</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                                                    </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    27,14€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
                                                                 </div>
 
                     </div>
@@ -997,20 +1013,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/dublinenses-james-joyce/14068081">
-                                                                    <img src="https://img.wook.pt/images/dublinenses-james-joyce/MXwxNDA2ODA4MXw5NjMyMzgxfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Dublinenses">
+                            <a href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/21313849">
+                                                                    <img src="https://img.wook.pt/images/a-portrait-of-the-artist-as-a-young-man-james-joyce/MXwyMTMxMzg0OXwxNzIwMDM4N3wxNTE1NjI4ODAwMDAw/170x" class="img-responsive" alt="A Portrait Of The Artist As A Young Man">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dublinenses" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="9632381" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="9632381" data-mesart="14068081" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=9632381&ficha=S&kpi=12&tipo=N&mesArtId=14068081'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Portrait Of The Artist As A Young Man" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17200387" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17200387" data-mesart="21313849" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17200387&ficha=S&kpi=12&tipo=N&mesArtId=21313849'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/dublinenses-james-joyce/14068081">
-                                Dublinenses                            </a>
+                            <a class="title-lnk" href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/21313849">
+                                A Portrait Of The Artist As A Young Man                            </a>
                             
                         </div>
 
@@ -1020,71 +1036,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="col-xs-12 autor">
                             de <a href="/autor/james-joyce/9854">James Joyce</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/dublinenses-james-joyce/14068081"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(2)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,00€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Envio até 10 dias
-
-</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/in-season/21311064">
-                                
-<div class="image-not-available" style="">
-    <div class="description">
-        <span>imagem não disponível</span>
-    </div>
-            <div class="product-title" data-title="In Season">
-            <span>In Season</span>
-        </div>
-    </div>                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="In Season" data-autores="" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17197602" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17197602" data-mesart="21311064" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17197602&ficha=S&kpi=12&tipo=N&mesArtId=21311064'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/in-season/21311064">
-                                In Season                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Stories Of Discovery, Loss, Home, And Places In Between</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                                                    </div>
 
                                                     <!-- bandeira da lingua-->
                             <div class="flag col-xs-12">
@@ -1103,7 +1054,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    27,14€                            </div>
+                                    22,34€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                                                                 <div class="free-shipping important">portes grátis</div>
@@ -1112,7 +1063,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/the-james-joyce-murder-pb-cross-amanda/17254973">
@@ -1164,23 +1115,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/21313849">
-                                                                    <img src="https://img.wook.pt/images/a-portrait-of-the-artist-as-a-young-man-james-joyce/MXwyMTMxMzg0OXwxNzIwMDM4N3wxNTE1NjI4ODAwMDAw/170x" class="img-responsive" alt="A Portrait Of The Artist As A Young Man">
-                                                            </a>
+                            <a href="/livro/ulysses-james-joyce/21851001">
+                                
+<div class="image-not-available" style="">
+    <div class="description">
+        <span>imagem não disponível</span>
+    </div>
+            <div class="product-title" data-title="Ulysses">
+            <span>Ulysses</span>
+        </div>
+    </div>                            </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="A Portrait Of The Artist As A Young Man" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17200387" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17200387" data-mesart="21313849" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17200387&ficha=S&kpi=12&tipo=N&mesArtId=21313849'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Ulysses" data-autores="de James Joyce" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17706112" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17706112" data-mesart="21851001" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17706112&ficha=S&kpi=12&tipo=N&mesArtId=21851001'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/a-portrait-of-the-artist-as-a-young-man-james-joyce/21313849">
-                                A Portrait Of The Artist As A Young Man                            </a>
+                            <a class="title-lnk" href="/livro/ulysses-james-joyce/21851001">
+                                Ulysses                            </a>
                             
                         </div>
 
@@ -1208,16 +1166,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    22,34€                            </div>
+                                    6,52€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                    <div>Envio até 10 dias
+
+</div>                            
                                                                 </div>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/dubliners-james-joyce/21313877">
@@ -1262,6 +1221,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     22,13€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Sujeito a confirmação de stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/at-fault-sebastian-dg-knowles/21311062">
+                                                                    <img src="https://img.wook.pt/images/at-fault-sebastian-dg-knowles/MXwyMTMxMTA2MnwxNzE5NzYwMHwxNTIwODEyODAwMDAw/170x" class="img-responsive" alt="At Fault">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="At Fault" data-autores="de Sebastian D.G. Knowles" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17197600" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17197600" data-mesart="21311062" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17197600&ficha=S&kpi=12&tipo=N&mesArtId=21311062'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/at-fault-sebastian-dg-knowles/21311062">
+                                At Fault                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">Joyce And The Crisis Of The Modern University</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/sebastian-d-g-knowles/3064776">Sebastian D.G. Knowles</a>&nbsp;                        </div>
+
+                                                    <!-- bandeira da lingua-->
+                            <div class="flag col-xs-12">
+                                <span class="language-flag Inglês"></span>
+                                <span class="idioma">  idioma: Inglês</span>       
+                            </div>
+                            
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    86,46€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                                                                 <div class="free-shipping important">portes grátis</div>
@@ -1628,6 +1640,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"James+Joyce","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=James Joyce&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "James+Joyce";pt.wook.search.tabsUrl = '/pesquisacounters/livros/James+Joyce';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":17,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":450,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

@@ -1,0 +1,11 @@
+<!ELEMENT Catalogo (#PCDATA | livro)*>
+<!ATTLIST Catalogo xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST Catalogo xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+<!ELEMENT livro (#PCDATA | titulo | cod_autor | editora | npaginas | preco | imagem)*>
+<!ATTLIST livro isbn CDATA #IMPLIED>
+<!ELEMENT preco (#PCDATA)>
+<!ELEMENT npaginas (#PCDATA)>
+<!ELEMENT imagem (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT editora (#PCDATA)>
+<!ELEMENT cod_autor (#PCDATA)>

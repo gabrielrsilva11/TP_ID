@@ -1,0 +1,691 @@
+Listagem de Livros:
+	Titulo:A Abóbada
+	Código Autor:39176
+	Editora:Porto Editora
+	Número de páginas:96
+	Preço:7.70
+
+	Titulo:A Dama Pé-de-Cabra / A Abóbada
+	Código Autor:39176
+	Editora:Livraria Civilização Editora
+	Número de páginas:120
+	Preço:11.90
+
+	Titulo:A Mulher de Cabelo Ruivo
+	Código Autor:12564
+	Editora:Editorial Presença
+	Número de páginas:248
+	Preço:16.11
+
+	Titulo:A Noite que Fora de Natal / Uma Carta do Pai Natal / Os Mortos
+	Código Autor:6643
+	Editora:Editora Guerra & Paz
+	Número de páginas:148
+	Preço:15.00
+
+	Titulo:A Viagem do Salmão
+	Código Autor:43968
+	Editora:Casa das Letras
+	Número de páginas:224
+	Preço:22.90
+
+	Titulo:A casa dos espíritos
+	Código Autor:7870
+	Editora:Porto Editora
+	Número de páginas:408
+	Preço:18.80
+
+	Titulo:A maior flor do mundo
+	Código Autor:2316
+	Editora:Porto Editora
+	Número de páginas:32
+	Preço:11.97
+
+	Titulo:Absinto, Ópio, Tabaco e Outros Fumos
+	Código Autor:2103
+	Editora:Editora Guerra & Paz
+	Número de páginas:112
+	Preço:10.80
+
+	Titulo:Adultério
+	Código Autor:20202
+	Editora:Pergaminho
+	Número de páginas:232
+	Preço:14.94
+
+	Titulo:Afirma Pereira
+	Código Autor:4948
+	Editora:BIS
+	Número de páginas:224
+	Preço:7.50
+
+	Titulo:As Intermitências da Morte
+	Código Autor:2316
+	Editora:Porto Editora
+	Número de páginas:232
+	Preço:16.60
+
+	Titulo:As Naus
+	Código Autor:4007
+	Editora:Dom Quixote
+	Número de páginas:192
+	Preço:17.01
+
+	Titulo:Até Que as Pedras se Tornem Mais Leves Que a Água
+	Código Autor:4007
+	Editora:Dom Quixote
+	Número de páginas:456
+	Preço:20.90
+
+	Titulo:Auto-Retrato do Escritor Enquanto Corredor de Fundo
+	Código Autor:28642
+	Editora:Casa das Letras
+	Número de páginas:192
+	Preço:12.90
+
+	Titulo:Azrael - O Anjo da Vingança
+	Código Autor:15252
+	Editora:
+	Número de páginas:424
+	Preço:22.20
+
+	Titulo:Capitães da Areia
+	Código Autor:14089
+	Editora:BIS
+	Número de páginas:208
+	Preço:7.50
+
+	Titulo:Capitães da Areia
+	Código Autor:14089
+	Editora:Leya
+	Número de páginas:288
+	Preço:10.00
+
+	Titulo:Cartas da Guerra
+	Código Autor:4007
+	Editora:Dom Quixote
+	Número de páginas:576
+	Preço:19.90
+
+	Titulo:Cathedral
+	Código Autor:22239
+	Editora:Vintage Publishing
+	Número de páginas:224
+	Preço:12.07
+
+	Titulo:City And The Pillar
+	Código Autor:4351
+	Editora:LITTLE, BROWN BOOK GROUP
+	Número de páginas:192
+	Preço:12.07
+
+	Titulo:Confesso que Vivi
+	Código Autor:19466
+	Editora:
+	Número de páginas:352
+	Preço:25.14
+
+	Titulo:Corações em Silêncio
+	Código Autor:4895
+	Editora:Edições Asa
+	Número de páginas:368
+	Preço:16.90
+
+	Titulo:Cristo, o Senhor
+	Código Autor:15252
+	Editora:
+	Número de páginas:200
+	Preço:19.08
+
+	Titulo:De Que Falamos Quando Falamos de Amor
+	Código Autor:22239
+	Editora:Relógio D'Água
+	Número de páginas:152
+	Preço:14.00
+
+	Titulo:Dentro do Segredo
+	Código Autor:25993
+	Editora:Quetzal Editores
+	Número de páginas:240
+	Preço:17.70
+
+	Titulo:Diário de Inverno
+	Código Autor:19587
+	Editora:Edições Asa
+	Número de páginas:192
+	Preço:14.90
+
+	Titulo:Dona Flor e os Seus Dois Maridos
+	Código Autor:14089
+	Editora:Dom Quixote
+	Número de páginas:512
+	Preço:17.91
+
+	Titulo:Ensaio sobre a Cegueira
+	Código Autor:2316
+	Editora:Porto Editora
+	Número de páginas:344
+	Preço:17.70
+
+	Titulo:Eurico, o Presbítero
+	Código Autor:39176
+	Editora:11 X 17
+	Número de páginas:240
+	Preço:6.00
+
+	Titulo:Fausto
+	Código Autor:2103
+	Editora:Tinta da China
+	Número de páginas:576
+	Preço:16.20
+
+	Titulo:Fogos
+	Código Autor:22239
+	Editora:Quetzal Editores
+	Número de páginas:
+	Preço:5.00
+
+	Titulo:Gabriela Mistral Reader
+	Código Autor:19129
+	Editora:WHITE PINE PRESS
+	Número de páginas:227
+	Preço:15.70
+
+	Titulo:Gabriela Mistral. Antología Poética
+	Código Autor:19129
+	Editora:EDAF
+	Número de páginas:296
+	Preço:10.71
+
+	Titulo:Grapes And The Wind
+	Código Autor:19466
+	Editora:Spuyten Duyvil
+	Número de páginas:344
+	Preço:19.58
+
+	Titulo:Hippie
+	Código Autor:20202
+	Editora:Pergaminho
+	Número de páginas:224
+	Preço:14.94
+
+	Titulo:História da Origem e Estabelecimento da Inquisição em Portugal
+	Código Autor:39176
+	Editora:11 X 17
+	Número de páginas:240
+	Preço:7.00
+
+	Titulo:Homem na Escuridão
+	Código Autor:19587
+	Editora:Edições Asa
+	Número de páginas:160
+	Preço:10.00
+
+	Titulo:Homens sem Mulheres
+	Código Autor:28642
+	Editora:Casa das Letras
+	Número de páginas:256
+	Preço:18.90
+
+	Titulo:Inocência Perversa
+	Código Autor:19537
+	Editora:Gradiva
+	Número de páginas:324
+	Preço:10.10
+
+	Titulo:Istambul
+	Código Autor:12564
+	Editora:Editorial Presença
+	Número de páginas:368
+	Preço:19.90
+
+	Titulo:Juntos ao Luar
+	Código Autor:4895
+	Editora:Edições Asa
+	Número de páginas:304
+	Preço:15.21
+
+	Titulo:Kafka à Beira-Mar
+	Código Autor:28642
+	Editora:Casa das Letras
+	Número de páginas:590
+	Preço:22.20
+
+	Titulo:Livro
+	Código Autor:25993
+	Editora:Quetzal Editores
+	Número de páginas:264
+	Preço:17.70
+
+	Titulo:Livro de Crónicas
+	Código Autor:4007
+	Editora:Dom Quixote
+	Número de páginas:432
+	Preço:18.90
+
+	Titulo:Livro do Desassossego
+	Código Autor:2103
+	Editora:Assírio & Alvim
+	Número de páginas:480
+	Preço:15.40
+
+	Titulo:Livro do desassossego
+	Código Autor:2103
+	Editora:Assírio & Alvim
+	Número de páginas:480
+	Preço:11.62
+
+	Titulo:Madwomen
+	Código Autor:19129
+	Editora:THE UNIVERSITY OF CHICAGO PRESS
+	Número de páginas:160
+	Preço:25.38
+
+	Titulo:Madwomen
+	Código Autor:19129
+	Editora:THE UNIVERSITY OF CHICAGO PRESS
+	Número de páginas:160
+	Preço:47.13
+
+	Titulo:Memorial do Convento
+	Código Autor:2316
+	Editora:Porto Editora
+	Número de páginas:402
+	Preço:15.93
+
+	Titulo:Morreste-me
+	Código Autor:25993
+	Editora:Quetzal Editores
+	Número de páginas:64
+	Preço:12.20
+
+	Titulo:Mr. Vertigo
+	Código Autor:19587
+	Editora:Edições Asa
+	Número de páginas:304
+	Preço:16.90
+
+	Titulo:Myron
+	Código Autor:4351
+	Editora:Vega
+	Número de páginas:208
+	Preço:14.79
+
+	Titulo:Nasci Para Nascer
+	Código Autor:19466
+	Editora:
+	Número de páginas:320
+	Preço:24.98
+
+	Titulo:Navegação Ponto por Ponto
+	Código Autor:4351
+	Editora:Casa das Letras
+	Número de páginas:272
+	Preço:9.90
+
+	Titulo:No País das Últimas Coisas
+	Código Autor:19587
+	Editora:Edições Asa
+	Número de páginas:160
+	Preço:14.90
+
+	Titulo:No teu Olhar
+	Código Autor:4895
+	Editora:Edições Asa
+	Número de páginas:520
+	Preço:18.50
+
+	Titulo:O Alquimista
+	Código Autor:20202
+	Editora:11 X 17
+	Número de páginas:200
+	Preço:8.00
+
+	Titulo:O Anjo Negro
+	Código Autor:4948
+	Editora:Dom Quixote
+	Número de páginas:144
+	Preço:14.90
+
+	Titulo:O Ano da Morte de Ricardo Reis
+	Código Autor:2316
+	Editora:Porto Editora
+	Número de páginas:496
+	Preço:15.93
+
+	Titulo:O Caminho Imperfeito
+	Código Autor:25993
+	Editora:Quetzal Editores
+	Número de páginas:192
+	Preço:17.70
+
+	Titulo:O Castelo de Faria e outras narrativas
+	Código Autor:39176
+	Editora:Porto Editora
+	Número de páginas:64
+	Preço:7.70
+
+	Titulo:O Desconhecido do Norte Expresso
+	Código Autor:19537
+	Editora:Relógio D'Água
+	Número de páginas:280
+	Preço:16.00
+
+	Titulo:O Diário de Um Mago
+	Código Autor:20202
+	Editora:11 X 17
+	Número de páginas:256
+	Preço:8.00
+
+	Titulo:O Fantasma de Canterville
+	Código Autor:19398
+	Editora:Porto Editora
+	Número de páginas:80
+	Preço:7.92
+
+	Titulo:O Gato Malhado e a Andorinha Sinhá
+	Código Autor:14089
+	Editora:BIS
+	Número de páginas:
+	Preço:7.50
+
+	Titulo:O Gato e o Diabo
+	Código Autor:9854
+	Editora:Nova Vega
+	Número de páginas:28
+	Preço:11.98
+
+	Titulo:O Gigante Egoísta
+	Código Autor:19398
+	Editora:Nova Vega
+	Número de páginas:40
+	Preço:13.78
+
+	Titulo:O Menino-Estrela
+	Código Autor:19398
+	Editora:Porto Editora
+	Número de páginas:64
+	Preço:7.70
+
+	Titulo:O Museu da Inocência
+	Código Autor:12564
+	Editora:Editorial Presença
+	Número de páginas:652
+	Preço:24.90
+
+	Titulo:O Preço do Sal
+	Código Autor:19537
+	Editora:
+	Número de páginas:254
+	Preço:20.09
+
+	Titulo:O Prodígio
+	Código Autor:189432
+	Editora:Porto Editora
+	Número de páginas:328
+	Preço:17.70
+
+	Titulo:O Quarto de Jack
+	Código Autor:189432
+	Editora:Porto Editora
+	Número de páginas:336
+	Preço:17.70
+
+	Titulo:O Que Sabemos do Amor
+	Código Autor:22239
+	Editora:Quetzal Editores
+	Número de páginas:
+	Preço:10.00
+
+	Titulo:O Retrato de Dorian Gray
+	Código Autor:19398
+	Editora:11 X 17
+	Número de páginas:288
+	Preço:8.00
+
+	Titulo:O Retrato de Dorian Gray
+	Código Autor:19398
+	Editora:Alêtheia Editores
+	Número de páginas:248
+	Preço:13.95
+
+	Titulo:O Romancista Ingénuo e o Sentimental
+	Código Autor:12564
+	Editora:Editorial Presença
+	Número de páginas:144
+	Preço:13.90
+
+	Titulo:O Talentoso Mr. Ripley
+	Código Autor:19537
+	Editora:
+	Número de páginas:232
+	Preço:19.08
+
+	Titulo:O Tatuador de Auschwitz
+	Código Autor:205736
+	Editora:Editorial Presença
+	Número de páginas:232
+	Preço:14.85
+
+	Titulo:O Tempo Envelhece Depressa
+	Código Autor:4948
+	Editora:Dom Quixote
+	Número de páginas:152
+	Preço:14.90
+
+	Titulo:O Vampiro Lestat I
+	Código Autor:15252
+	Editora:
+	Número de páginas:256
+	Preço:21.09
+
+	Titulo:O amante japonês
+	Código Autor:7870
+	Editora:Porto Editora
+	Número de páginas:336
+	Preço:17.70
+
+	Titulo:O jogo de Ripper
+	Código Autor:7870
+	Editora:Porto Editora
+	Número de páginas:400
+	Preço:18.80
+
+	Titulo:Onze Minutos
+	Código Autor:20202
+	Editora:Pergaminho
+	Número de páginas:280
+	Preço:13.95
+
+	Titulo:Os Cus de Judas
+	Código Autor:4007
+	Editora:BIS
+	Número de páginas:224
+	Preço:5.95
+
+	Titulo:Palimpseste
+	Código Autor:4351
+	Editora:GALAADE
+	Número de páginas:635
+	Preço:28.00
+
+	Titulo:Para Isabel
+	Código Autor:4948
+	Editora:PUBLICACOES D.QUIXOTE
+	Número de páginas:112
+	Preço:13.90
+
+	Titulo:Para lá do inverno
+	Código Autor:7870
+	Editora:Porto Editora
+	Número de páginas:336
+	Preço:16.92
+
+	Titulo:Paula
+	Código Autor:7870
+	Editora:Porto Editora
+	Número de páginas:336
+	Preço:18.80
+
+	Titulo:Pinterest Kickstart
+	Código Autor:1981859
+	Editora:
+	Número de páginas:264
+	Preço:20.53
+
+	Titulo:Príncipe Lestat
+	Código Autor:15252
+	Editora:Clube do Autor
+	Número de páginas:368
+	Preço:18.00
+
+	Titulo:Rainha dos Malditos I
+	Código Autor:15252
+	Editora:
+	Número de páginas:264
+	Preço:21.09
+
+	Titulo:Relatório do Interior
+	Código Autor:19587
+	Editora:Edições Asa
+	Número de páginas:288
+	Preço:16.50
+
+	Titulo:Retrato do Artista Quando Jovem
+	Código Autor:9854
+	Editora:Relógio D'Água
+	Número de páginas:272
+	Preço:16.00
+
+	Titulo:Ripley Debaixo de Água
+	Código Autor:19537
+	Editora:Relógio D'Água
+	Número de páginas:312
+	Preço:16.00
+
+	Titulo:Room
+	Código Autor:189432
+	Editora:Pan MacMillan
+	Número de páginas:416
+	Preço:15.75
+
+	Titulo:Room
+	Código Autor:189432
+	Editora:Pan MacMillan
+	Número de páginas:416
+	Preço:10.86
+
+	Titulo:Selected Poems Of Gabriela Mistral
+	Código Autor:19129
+	Editora:UNIVERSITY OF NEW MEXICO PRESS
+	Número de páginas:432
+	Preço:42.23
+
+	Titulo:Sono
+	Código Autor:28642
+	Editora:Casa das Letras
+	Número de páginas:96
+	Preço:14.90
+
+	Titulo:Sputnik Meu Amor
+	Código Autor:28642
+	Editora:Casa das Letras
+	Número de páginas:238
+	Preço:14.90
+
+	Titulo:Starting Up An Online Business In Simple Steps
+	Código Autor:205736
+	Editora:Pearson Education Limited
+	Número de páginas:192
+	Preço:15.70
+
+	Titulo:Só Nós Dois
+	Código Autor:4895
+	Editora:Edições Asa
+	Número de páginas:568
+	Preço:18.90
+
+	Titulo:Tattooist Of Auschwitz
+	Código Autor:205736
+	Editora:Zaffre Publishing
+	Número de páginas:288
+	Preço:14.13
+
+	Titulo:Tenho Medo de Partir
+	Código Autor:2103
+	Editora:Editora Guerra & Paz
+	Número de páginas:192
+	Preço:12.15
+
+	Titulo:The Lotterys Plus One
+	Código Autor:189432
+	Editora:Pan MacMillan
+	Número de páginas:320
+	Preço:7.61
+
+	Titulo:The Tattooist Of Auschwitz
+	Código Autor:205736
+	Editora:Zaffre Publishing
+	Número de páginas:288
+	Preço:14.13
+
+	Titulo:Tieta do Agreste
+	Código Autor:14089
+	Editora:Dom Quixote
+	Número de páginas:656
+	Preço:22.90
+
+	Titulo:Ulisses
+	Código Autor:9854
+	Editora:Relógio D'Água
+	Número de páginas:752
+	Preço:24.00
+
+	Titulo:Ulysses
+	Código Autor:9854
+	Editora:Wordsworth Books Ltd.
+	Número de páginas:736
+	Preço:3.02
+
+	Titulo:Um Momento Inesquecível
+	Código Autor:4895
+	Editora:Edições Asa
+	Número de páginas:208
+	Preço:15.90
+
+	Titulo:Uma Estranheza em Mim
+	Código Autor:12564
+	Editora:Editorial Presença
+	Número de páginas:640
+	Preço:24.90
+
+	Titulo:Veinte Poemas De Amor Y Una Cancion Desesperada
+	Código Autor:19466
+	Editora:SEIX BARRAL
+	Número de páginas:64
+	Preço:7.64
+
+	Titulo:Viagens e Outras Viagens
+	Código Autor:4948
+	Editora:PUBLICACOES D.QUIXOTE
+	Número de páginas:256
+	Preço:15.90
+
+	Titulo:Vinte Poemas de Amor e Uma Canção Desesperada
+	Código Autor:19466
+	Editora:Relógio D'Água
+	Número de páginas:168
+	Preço:12.00
+
+	Titulo:Washington D. C.
+	Código Autor:4351
+	Editora:Casa das Letras
+	Número de páginas:408
+	Preço:19.90
+
+	Titulo:What We Talk About When We Talk About Love
+	Código Autor:22239
+	Editora:Vintage Publishing
+	Número de páginas:144
+	Preço:10.86
+

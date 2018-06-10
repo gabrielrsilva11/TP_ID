@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tom Hardy – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tom_Hardy","wgTitle":"Tom Hardy","wgCurRevisionId":51323385,"wgRevisionId":51323385,"wgArticleId":2866218,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","Pessoas vivas","!Imagem local diferente da no Wikidata","Nascidos em 1977","Atores da Inglaterra","BAFTA de estrela revelação","Naturais de Londres","Prémio LAFCA de melhor ator","Critics' Choice de melhor ator filme de ação"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Tom_Hardy","wgRelevantArticleId":2866218,"wgRequestId":"WxSKUQpAAEQAAFwRVAMAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q208026","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/30/Tom_Hardy_Locke_Premiere.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Tom_Hardy"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Tom_Hardy&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Tom_Hardy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Tom_Hardy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tom_Hardy rootpage-Tom_Hardy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Tom Hardy</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 24em; text-align: left; font-size: 88%; -moz-border-radius:5px;">
+<tr>
+<th colspan="2" class="topo teatro" style="text-align: center; font-size: larger; background-color:#eedd88; color:#000000; padding: 0px; -moz-border-radius-topright:3px; -moz-border-radius-topleft:3px;"><span class="">Tom Hardy</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Tom_Hardy_Locke_Premiere.jpg" class="image" title="Tom Hardy"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tom_Hardy_Locke_Premiere.jpg/200px-Tom_Hardy_Locke_Premiere.jpg" width="200" height="276" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tom_Hardy_Locke_Premiere.jpg/300px-Tom_Hardy_Locke_Premiere.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tom_Hardy_Locke_Premiere.jpg/400px-Tom_Hardy_Locke_Premiere.jpg 2x" data-file-width="406" data-file-height="561" /></a></div>
+</div>
+<small>Tom Hardy na premiere de <i><a href="/wiki/Locke" class="mw-redirect" title="Locke">Locke</a></i> em 2014</small></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; text-align:left;">Edward Thomas Hardy</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Outros nomes</td>
+<td style="vertical-align: top; text-align: left; text-align:left;">Thomas Hardy</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; text-align:left;"><a href="/wiki/15_de_setembro#Nascimentos" title="15 de setembro">15 de setembro</a> de <a href="/wiki/1977" title="1977">1977</a>&#160;(40&#160;anos)<br />
+<a href="/wiki/Hammersmith" title="Hammersmith">Hammersmith</a>, <a href="/wiki/Londres" title="Londres">Londres</a>, <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;<a href="/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Nacionalidade</td>
+<td style="vertical-align: top; text-align: left; text-align:left;"><a href="/wiki/Ingleses" title="Ingleses">inglês</a><br />
+<a href="/wiki/Brit%C3%A2nico" title="Britânico">britânico</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Ocupação</td>
+<td style="vertical-align: top; text-align: left; text-align:left;"><a href="/wiki/Ator" title="Ator">Ator</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Atividade</td>
+<td style="vertical-align: top; text-align: left; text-align:left;">2001 - presente</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align:left; background-color:#EEE8AA; color:#000000;">Cônjuge</td>
+<td style="vertical-align: top; text-align: left; text-align:left;">Sarah Ward (1999 - 2004) (divorciado)<br />
+<a href="/wiki/Charlotte_Riley" title="Charlotte Riley">Charlotte Riley</a> (2014 - presente)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background-color:#EEDD88; color:#000000; text-align: center;"><a href="/wiki/British_Academy_of_Film_and_Television_Arts" title="British Academy of Film and Television Arts">Prémios BAFTA</a></th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; text-align:left;" colspan="2"><b><a href="/wiki/British_Academy_Film_Awards" title="British Academy Film Awards">Estrela em Ascensão</a></b><br />
+2011 - <i><a href="/wiki/A_Origem" title="A Origem">Inception</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background-color:#EEDD88; color:#000000; text-align: center;">Outros prêmios</th>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; text-align:left;" colspan="2"><b>British Independent Film Awards</b><br />
+Melhor Ator<br />
+2009 - <i><a href="/wiki/Bronson_(filme)" title="Bronson (filme)">Bronson</a></i><br />
+2016 - <i><a href="/wiki/Legend_(2015)" class="mw-redirect" title="Legend (2015)">Legend</a></i></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; text-align: center;"><a rel="nofollow" class="external text" href="http://tomhardy.org">Página oficial</a><br />
+<a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">IMDb</a>: <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0362766/">(inglês)</a></td>
+</tr>
+</table>
+<p><b>Tom Hardy</b>, nome artistico de <b>Edward Thomas Hardy</b> (<a href="/wiki/Hammersmith" title="Hammersmith">Hammersmith</a>, <a href="/wiki/Londres" title="Londres">Londres</a>, <a href="/wiki/15_de_setembro" title="15 de setembro">15 de setembro</a> de <a href="/wiki/1977" title="1977">1977</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> é um <a href="/wiki/Ator" title="Ator">ator</a>, <a href="/wiki/Produtor" class="mw-disambig" title="Produtor">produtor</a> e <a href="/wiki/Roteirista" title="Roteirista">roteirista</a> <a href="/wiki/Reino_Unido" title="Reino Unido">britânico</a> conhecido pelos seus papéis em filmes como <i><a href="/wiki/A_Origem" title="A Origem">Inception</a></i>, <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i> e <i><a href="/wiki/Mad_Max:_Estrada_da_F%C3%BAria" title="Mad Max: Estrada da Fúria">Mad Max: Fury Road</a></i>. Em 2016 foi indicado ao <a href="/wiki/%C3%93scar_de_melhor_ator_secund%C3%A1rio" title="Óscar de melhor ator secundário">Oscar de Melhor Ator Coadjuvante</a> pelo filme <i><a href="/wiki/The_Revenant" title="The Revenant">The Revenant</a></i>.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="pt" dir="ltr">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Início_de_vida"><span class="tocnumber">1</span> <span class="toctext">Início de vida</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Carreira"><span class="tocnumber">2</span> <span class="toctext">Carreira</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Vida_pessoal"><span class="tocnumber">3</span> <span class="toctext">Vida pessoal</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Filmografia"><span class="tocnumber">4</span> <span class="toctext">Filmografia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Prêmios_e_indicações"><span class="tocnumber">5</span> <span class="toctext">Prêmios e indicações</span></a></li>
+<li class="toclevel-1"><a href="#Referências"><span class="tocnumber">6</span> <span class="toctext">Referências</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span id="In.C3.ADcio_de_vida"></span><span class="mw-headline" id="Início_de_vida">Início de vida</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Início de vida">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit&amp;section=1" title="Editar secção: Início de vida">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Edward Thomas Hardy, filho único, nasceu em <a href="/wiki/Hammersmith" title="Hammersmith">Hammersmith</a>, e cresceu em East Sheen, em <a href="/wiki/Londres" title="Londres">Londres</a>. Sua mãe, Elizabeth Anne (Barrett), é uma artista e pintora, cuja família era <a href="/wiki/Cat%C3%B3lica" class="mw-redirect" title="Católica">católica</a> irlandesa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Seu pai, Edward "Chips" Hardy é um escritor de comédia. Hardy estudou em duas escolas particulares: na Reed's School e na Tower House School.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Em 1998, venceu, aos 21 anos, o concurso <i>The Big Breakfast's Find Me a Supermodel</i> e foi contratado pela agência de modelos Models One.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> No mesmo ano conseguiu um lugar na Drama Centre London, onde também estudou o ator <a href="/wiki/Michael_Fassbender" title="Michael Fassbender">Michael Fassbender</a> e teve <a href="/wiki/Anthony_Hopkins" title="Anthony Hopkins">Anthony Hopkins</a> como mentor.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> No entanto não chegou a terminar o curso de representação uma vez que conseguiu um papel na série <i><a href="/wiki/Band_of_Brothers" title="Band of Brothers">Band of Brothers</a></i>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Carreira">Carreira</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Carreira">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit&amp;section=2" title="Editar secção: Carreira">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hardy começou sua carreira em dramas de guerra, ganhando o papel do soldado do <a href="/wiki/Ex%C3%A9rcito_dos_Estados_Unidos" title="Exército dos Estados Unidos">Exército dos Estados Unidos</a> John Janovec, na premiada minissérie da <a href="/wiki/HBO" class="mw-redirect" title="HBO">HBO</a> e <a href="/wiki/BBC" class="mw-redirect" title="BBC">BBC</a> <i><a href="/wiki/Band_of_Brothers" title="Band of Brothers">Band of Brothers</a></i>. Ele fez sua estréia no cinema no thriller de guerra de <a href="/wiki/Ridley_Scott" title="Ridley Scott">Ridley Scott</a>, <i><a href="/wiki/Black_Hawk_Down" title="Black Hawk Down">Black Hawk Down</a></i> de 2001. Em 2003 conseguiu um papel de grande destaque a nível internacional ao interpretar o clone do capitão da <a href="/wiki/USS_Enterprise_(Star_Trek)" title="USS Enterprise (Star Trek)">USS Enterprise</a>, <a href="/wiki/Jean-Luc_Picard" title="Jean-Luc Picard">Jean-Luc Picard</a>, em <i><a href="/wiki/Star_Trek_Nemesis" title="Star Trek Nemesis">Star Trek: Nemesis</a></i>,</p>
+<p>No mesmo ano, foi premiado com o London Evening Standard Theatre Award de Melhor Ator em Ascensão pelo seu desempenho nas peças <i>Blood</i> e <i>In Arabia We'd All Be Kings</i>, apresentadas no Royal Court Theatre Downstairs e no Hampstead Theatre.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> A última peça valeu-lhe ainda uma nomeação para os prémios Olivier na categoria de Ator Mais Promissor.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Nos anos seguintes, Tom trabalhou maioritariamente com a BBC com papéis em projetos como o telefilme <i><a href="/wiki/Sweeney_Todd_(2006)" title="Sweeney Todd (2006)">Sweeney Todd</a></i>, a minissérie <i>The Virgin Queen</i>, onde interpretou o papel de <a href="/wiki/Roberto_Dudley,_1.%C2%BA_Conde_de_Leicester" title="Roberto Dudley, 1.º Conde de Leicester">Robert Dudley</a>, um amigo de infância da rainha <a href="/wiki/Isabel_I_de_Inglaterra" title="Isabel I de Inglaterra">Isabel I da Inglaterra</a> e o telefilme <i>Stuart: a Life Backwards</i> que protagonizou no papel de Stuart Shorter, um sem-abrigo sujeito a anos de abuso e que morreu de aparente suicídio. Este papel valeu-lhe uma nomeação para os BAFTA TV Awards.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Tom também teve pequenos papéis em filmes de relevo como <i>Layer Cake</i>, protagonizado por <a href="/wiki/Daniel_Craig" title="Daniel Craig">Daniel Craig</a>, <i><a href="/wiki/Marie_Antoinette_(2006)" title="Marie Antoinette (2006)">Marie Antoinette</a></i> de <a href="/wiki/Sofia_Coppola" title="Sofia Coppola">Sofia Coppola</a>, a comédia dramática <i>Scenes of a Sexual Nature</i> e o thriller <i><a href="/wiki/Sucker_Punch_-_Mundo_Surreal" title="Sucker Punch - Mundo Surreal">Sucker Punch</a></i>.</p>
+<p>Em 2008 teve um papel de destaque no filme <i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i> de <a href="/wiki/Guy_Ritchie" title="Guy Ritchie">Guy Ritchie</a> e protagonizou o filme <i><a href="/wiki/Bronson_(filme)" title="Bronson (filme)">Bronson</a></i> do realizador dinamarquês <a href="/wiki/Nicolas_Winding_Refn" title="Nicolas Winding Refn">Nicolas Winding Refn</a>. O filme baseia-se na história real de <a href="/wiki/Charles_Bronson_(prisioneiro)" title="Charles Bronson (prisioneiro)">Charles Bronson</a>, um prisioneiro britânico que passou a maioria da sua vida em prisão solitária. Tom ganhou quase 20 quilos de músculo para interpretar o papel e tornou-se amigo do verdadeiro Charles Bronson depois de o visitar várias vezes na prisão enquanto se preparava para o filme.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> O filme foi bem recebido pela crítica e Tom venceu o British Independent Film Award de Melhor Ator.<sup id="cite_ref-:1_13-0" class="reference"><a href="#cite_note-:1-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Em 2010, Tom Hardy atingiu a fama internacional com o seu papel de Eames no filme de ficção científica <i><a href="/wiki/A_Origem" title="A Origem">Inception</a></i> de <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a>, um dos grandes sucessos de bilheteira e entre a crítica desse ano.</p>
+<p>Em 2011, teve um papel de destaque no filme <i><a href="/wiki/Tinker_Tailor_Soldier_Spy_(filme)" title="Tinker Tailor Soldier Spy (filme)">Tinker Tailor Soldier Spy</a>,</i> baseado no romance homónimo de <a href="/wiki/John_le_Carr%C3%A9" title="John le Carré">John le Carré</a> e onde contracenou com Gary Oldman, que Tom considera "o melhor ator de sempre" e um dos seus heróis. Protagonizou ainda o drama <i><a href="/wiki/Warrior_(filme_de_2011)" title="Warrior (filme de 2011)">Warrior</a></i> sobre dois irmãos separados que lutam um com o outro num campeonato de <a href="/wiki/Artes_marciais_mistas" title="Artes marciais mistas">artes marciais mistas</a>. Ainda nesse ano, Hardy venceu o <a href="/wiki/BAFTA" class="mw-redirect" title="BAFTA">BAFTA</a> na categoria <i>"Estrela em Ascensão"</i>.</p>
+<p>Foi confirmado em janeiro de 2011 como o vilão <a href="/wiki/Bane" title="Bane">Bane</a> de <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i>, o terceiro filme da saga Batman dirigido por <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a> e lançado em <a href="/wiki/20_de_julho" title="20 de julho">20 de julho</a> de <a href="/wiki/2012" title="2012">2012</a>. Tom disse que não se sentia pressionado a fazer um vilão melhor que o <a href="/wiki/Joker_(DC_Comics)" title="Joker (DC Comics)">Joker</a> de <a href="/wiki/Heath_Ledger" title="Heath Ledger">Heath Ledger</a> e que queria apenas fazer o seu trabalho.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> O filme foi um sucesso de bilheteira e o Bane de Tom Hardy foi elogiado pela crítica e pelo público, tornando-se numa das personagens mais populares da saga.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Nesse ano, Tom protagonizou mais dois filmes: <i><a href="/wiki/Guerra_%C3%A9_Guerra" title="Guerra é Guerra">This Means War</a></i>, uma comédia de ação do realizador <a href="/wiki/McG" title="McG">McG</a> com <a href="/wiki/Chris_Pine" title="Chris Pine">Chris Pine</a> e <a href="/wiki/Reese_Witherspoon" title="Reese Witherspoon">Reese Witherspoon</a> no elenco; e <i><a href="/wiki/Lawless_(filme)" title="Lawless (filme)">Lawless</a></i>, um filme de drama e crime passado na época da <a href="/wiki/Grande_Depress%C3%A3o" title="Grande Depressão">Grande Depressão</a> com <a href="/wiki/Shia_LaBeouf" title="Shia LaBeouf">Shia LaBeouf</a> e <a href="/wiki/Jessica_Chastain" title="Jessica Chastain">Jessica Chastain</a> no elenco.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Ficheiro:Tom_Hardy_Cannes_2015.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tom_Hardy_Cannes_2015.jpg/220px-Tom_Hardy_Cannes_2015.jpg" width="220" height="311" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tom_Hardy_Cannes_2015.jpg/330px-Tom_Hardy_Cannes_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tom_Hardy_Cannes_2015.jpg/440px-Tom_Hardy_Cannes_2015.jpg 2x" data-file-width="566" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Ficheiro:Tom_Hardy_Cannes_2015.jpg" class="internal" title="Ampliar"></a></div>
+Tom Hardy na estreia de <i><a href="/wiki/Mad_Max:_Estrada_da_F%C3%BAria" title="Mad Max: Estrada da Fúria">Mad Max: Fury Road</a></i> no <a href="/wiki/Festival_de_Cannes" title="Festival de Cannes">Festival de Cannes</a>.</div>
+</div>
+</div>
+<p>Em 2013 recebeu elogios da crítica pelo seu desempenho no filme <i>Locke</i>. Tom interpreta o papel de Ivan Locke, um homem de família dedicado que recebe uma chamada que desencadeia uma série de eventos que ameaçam a sua existência bem planeada na véspera do dia mais desafiante da sua carreira profissional. O papel valeu-lhe o seu segundo British Independent Film Award.<sup id="cite_ref-:1_13-1" class="reference"><a href="#cite_note-:1-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Em 2014 protagonizou o filme de crime <i>The Drop</i> e teve uma participação especial, no papel de Alfie Solomons, em cinco episódios da segunda e terceira temporada da série de sucesso da BBC2, <i>Peaky Blinders.</i></p>
+<p>2015 foi um ano de altos e baixos para o ator. Nesse ano estreou <i><a href="/wiki/Child_44_(filme)" title="Child 44 (filme)">Child 44</a></i>, um filme que segue a história de um oficial russo que investiga uma série de homicídios infantis na era do <a href="/wiki/Stalinismo" title="Stalinismo">Estalinismo</a> na Rússia. O filme foi um desastre de bilheteira e junto da crítica, não conseguindo mais do que 25% de críticas positivas no site <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> Tom conseguiu a honra duvidosa de receber uma nomeação para os prémios BARFTA (a resposta britânica aos <a href="/wiki/Framboesa_de_Ouro" title="Framboesa de Ouro">Razzies</a>)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> pelo seu desempenho no filme <i><a href="/wiki/Legend_(2015)" class="mw-redirect" title="Legend (2015)">Legend</a></i>, onde desempenha os papéis dos gémeos Reggie e Ronnie Kray, dois dos criminosos mais notórios da História britânica. No entanto, Tom conseguiu o seu terceiro British Independent Film Award pelos mesmos papéis.<sup id="cite_ref-:1_13-2" class="reference"><a href="#cite_note-:1-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Muito melhor recebidos foram os filmes <i><a href="/wiki/Mad_Max:_Estrada_da_F%C3%BAria" title="Mad Max: Estrada da Fúria">Mad Max: Fury Road</a></i>, que Tom protagoniza, e <i><a href="/wiki/The_Revenant" title="The Revenant">The Revenant</a></i>. O primeiro foi um dos grandes sucessos de bilheteira de 2015, conseguindo gerar 377 milhões de dólares de receita em todo o mundo<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> e dominando as nomeações para os Óscares de 2016 com um total de 10, incluindo para a categoria de Melhor Filme.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> <i>The Revenant</i> também foi nomeado na mesma categoria<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> e Tom conseguiu a sua primeira nomeação para os Prémios da Academia pelo seu papel de John Fitzgerald, o vilão do filme.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Tom já escreveu dois programas para televisão em parceria com sua amiga, a também atriz Kelly Marcel, e os dois fundaram a companhia de teatro Bad Dog Theatre.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> Apesar de a equipa ter vendido ambos os programas, nenhum deles foi produzido. Em 2017, deverá estrear na <a href="/wiki/British_Broadcasting_Corporation" title="British Broadcasting Corporation">BBC</a> e no <a href="/wiki/FX" title="FX">FX</a> o primeiro projeto da autoria de Tom Hardy, <i>Taboo</i>, uma minissérie que escreveu em conjunto com o seu pai e Steven Knight, o criador de <i>Peaky Blinders</i>. A minissérie vai levar ao ecrã a história de James Keziah Delaney, um explorador britânico que regressa a Londres depois de passar 10 anos na África e descobre que o seu pai lhe deixou um legado misterioso.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>Os projetos futuros de Tom Hardy incluem ainda a sua terceira colaboração com o diretor Christopher Nolan no filme <i>Dunkirk</i><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> e mais um filme da saga <i><a href="/wiki/Mad_Max_(s%C3%A9rie)" title="Mad Max (série)">Mad Max</a></i>, <i>Mad Max: Wasteland</i>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup>também interpretará <a href="/wiki/Eddie_Brock" title="Eddie Brock">Eddie Brock</a>/<a href="/wiki/Venom_(Marvel_Comics)" title="Venom (Marvel Comics)">Venom</a> no filme solo do vilão em <a href="/wiki/2018" title="2018">2018</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Vida_pessoal">Vida pessoal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Vida pessoal">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit&amp;section=3" title="Editar secção: Vida pessoal">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hardy na sua adolescência, foi apaixonado por uma garota, chamada Stephany, mas nunca tiveram nada, foi sua primeira decepção amorosa, segundo informações de outros sites. Hardy se casou com Sarah Ward em 1999, eles se divorciaram em 2004. Ele tem um filho, Louis Thomas Hardy (nascido em 8 de Abril de 2008), com a ex-namorada Rachael Speed, assistente de direção da série <i>The Virgin Queen</i>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>Em Julho de 2010, se tornou noivo da atriz Charlotte Riley depois de um ano de namoro, eles se conheceram durante as gravações do filme <i><a href="/wiki/Wuthering_Heights_(2009)" class="mw-redirect" title="Wuthering Heights (2009)">O Morro dos Ventos Uivantes</a></i>, onde interpretaram os protagonistas Heathcliff e Cathy e em <a href="/wiki/Outubro" title="Outubro">Outubro</a> de <a href="/wiki/2015" title="2015">2015</a> Charlotte deu à luz o primeiro filho do casal, e o segundo filho de Hardy. Em 2012 Tom e Charlotte foram nomeados protetores da Bowel Cancer UK (Organização determinada ao amparo de pessoas portadoras de câncer de intestino).</p>
+<p>Hardy lutou contra o <a href="/wiki/Alcoolismo" title="Alcoolismo">alcoolismo</a> e o vício em <i><a href="/wiki/Crack" title="Crack">crack</a></i> aos seus 20 anos, mas está totalmente sóbrio desde 2002,<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup> além disso é um defensor dos direitos dos animais e já protagonizou uma campanha publicitária sobre a adoção de cães promovida pelo grupo <a href="/wiki/PETA" class="mw-redirect" title="PETA">PETA</a> (Pessoas pelo Tratamento Ético dos Animais), organização que luta pela preservação animal. O ator costuma resgatar cães abandonados, inclusive é dono de dois cachorros resgatados das ruas:</p>
+<blockquote>
+<p>"Eu amo cães e eu me vejo como um cão de muitas maneiras e tenho afinidade com cachorros, os cães são as criaturas mais surpreendentemente fiéis, que vão sentar e olhar a parede com você durante todo o dia se é isso que você está fazendo e isso é legal, desde que eles se sintam parte da equipe e que são úteis. E eu me sinto dessa forma também" disse o ator em entrevista ao site Vulture<b>.</b></p>
+</blockquote>
+<h2><span class="mw-headline" id="Filmografia">Filmografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Filmografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit&amp;section=4" title="Editar secção: Filmografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;">
+<tr bgcolor="#CCCCCC" align="center">
+<th colspan="5" style="background: LightSteelBlue;">Cinema</th>
+</tr>
+<tr>
+<th>Ano</th>
+<th>Título do Filme</th>
+<th>Nome do Personagem</th>
+<th>Nota</th>
+</tr>
+<tr>
+<td rowspan="2">2001</td>
+<td><i><a href="/wiki/Band_of_Brothers" title="Band of Brothers">Band of Brothers</a></i></td>
+<td>Pfc. John Janovec</td>
+<td>Minissérie: 2 episódios</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Black_Hawk_Down" title="Black Hawk Down">Black Hawk Down</a></i></td>
+<td>Twombly (como Thomas Hardy)</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">2002</td>
+<td><i><a href="/w/index.php?title=Deserter&amp;action=edit&amp;redlink=1" class="new" title="Deserter (página não existe)">Deserter</a></i></td>
+<td>Pascal Dupont</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Star_Trek_Nemesis" title="Star Trek Nemesis">Jornada nas Estrelas: Nêmesis</a></i></td>
+<td>Praetor Shinzon/Young Jean-Luc Picard</td>
+<td>Indicado- <a href="/wiki/Academy_of_Science_Fiction,_Fantasy_%26_Horror_Films" class="mw-redirect" title="Academy of Science Fiction, Fantasy &amp; Horror Films">Academy of Science Fiction, Fantasy &amp; Horror Films</a> (<a href="/wiki/Saturn_Award" class="mw-redirect" title="Saturn Award">Saturn Award</a>)</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=Simon:_An_English_Legionnaire&amp;action=edit&amp;redlink=1" class="new" title="Simon: An English Legionnaire (página não existe)">Simon: An English Legionnaire</a></i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">2003</td>
+<td><i><a href="/wiki/Dot_the_i" class="mw-redirect" title="Dot the i">Jogo de Sedução</a></i></td>
+<td>Tom</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Reckoning" class="mw-disambig" title="The Reckoning">Um Crime de Paixão</a></i></td>
+<td>Straw</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=LD_50_Lethal_Dose&amp;action=edit&amp;redlink=1" class="new" title="LD 50 Lethal Dose (página não existe)">A Ameaça</a></i></td>
+<td>Matt</td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i><a href="/w/index.php?title=Layer_Cake&amp;action=edit&amp;redlink=1" class="new" title="Layer Cake (página não existe)">Nem Tudo é o que Parece</a></i></td>
+<td>Clarkie</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">2005</td>
+<td><i>Batter Up</i></td>
+<td></td>
+<td>Video Short</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=Colditz&amp;action=edit&amp;redlink=1" class="new" title="Colditz (página não existe)">Fuga de Colditz</a></i></td>
+<td>2nd Lt. Jack Rose</td>
+<td>televisão</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=EMR_(filme)&amp;action=edit&amp;redlink=1" class="new" title="EMR (filme) (página não existe)">EMR</a></i></td>
+<td>Henry</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Elizabeth_I:_A_Rainha_Virgem" title="Elizabeth I: A Rainha Virgem">Elizabeth I: A Rainha Virgem</a></i></td>
+<td><a href="/wiki/Robert_Dudley" class="mw-redirect" title="Robert Dudley">Robert Dudley</a> / Robert Dudley, 1st Earl of Leicester</td>
+<td>Minissérie: 4 episódios</td>
+</tr>
+<tr>
+<td rowspan="6">2006</td>
+<td><i><a href="/wiki/Sweeney_Todd_(2006)" title="Sweeney Todd (2006)">Sweeney Todd</a></i></td>
+<td>Matthew</td>
+<td>televisão</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=A_for_Andromeda&amp;action=edit&amp;redlink=1" class="new" title="A for Andromeda (página não existe)">A for Andromeda</a></i></td>
+<td>John Fleming</td>
+<td>televisão</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Gideon%27s_Daughter" title="Gideon's Daughter">A Filha de Gideon</a></i></td>
+<td>Andrew</td>
+<td>televisão</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Minotaur" class="mw-redirect" title="Minotaur">Minotauro</a></i></td>
+<td>Theo</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Marie_Antoinette_(2006)" title="Marie Antoinette (2006)">Marie Antoinette</a></i></td>
+<td>Raumont</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=Scenes_of_a_Sexual_Nature&amp;action=edit&amp;redlink=1" class="new" title="Scenes of a Sexual Nature (página não existe)">Cenas de Natureza Sexual</a></i></td>
+<td>Noel</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="6">2007</td>
+<td><i><a href="/wiki/Flood_(filme)" title="Flood (filme)">Flood</a></i></td>
+<td>Zack</td>
+<td>televisão</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=Stuart:_A_Life_Backwards&amp;action=edit&amp;redlink=1" class="new" title="Stuart: A Life Backwards (página não existe)">Stuart: Uma Vida Revista</a></i></td>
+<td>Stuart Shorter</td>
+<td>Indicado- <a href="/wiki/British_Academy_Television_Awards" title="British Academy Television Awards">British Academy Television Award for Best Actor</a></td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=W%CE%94Z&amp;action=edit&amp;redlink=1" class="new" title="WΔZ (página não existe)">WΔZ - Matémática da Morte</a></i></td>
+<td>Pierre Jackson</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=Cape_Wrath&amp;action=edit&amp;redlink=1" class="new" title="Cape Wrath (página não existe)">Cape Wrath</a></i></td>
+<td>Jack Donnelly</td>
+<td>Série de televisão: 5 episódios</td>
+</tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Inheritance&amp;action=edit&amp;redlink=1" class="new" title="The Inheritance (página não existe)">The Inheritance</a></i></td>
+<td>Dad</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Oliver_Twist" title="Oliver Twist">Oliver Twist</a></i></td>
+<td>Bill Sikes</td>
+<td>Minissérie</td>
+</tr>
+<tr>
+<td rowspan="3">2008</td>
+<td><i><a href="/wiki/Sucker_Punch" class="mw-redirect" title="Sucker Punch">Sucker Punch</a></i></td>
+<td>Rodders</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla - A Grande Roubada</a></i></td>
+<td>Handsome Bob</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Bronson_(filme)" title="Bronson (filme)">Bronson</a></i></td>
+<td><a href="/wiki/Charles_Bronson_(prisioneiro)" title="Charles Bronson (prisioneiro)">Charles Bronson / Michael Peterson</a></td>
+<td><a href="/w/index.php?title=British_Independent_Film_Awards&amp;action=edit&amp;redlink=1" class="new" title="British Independent Film Awards (página não existe)">British Independent Film Award for Best Actor</a><br />
+Indicado- <a href="/wiki/London_Film_Critics_Circle" class="mw-redirect" title="London Film Critics Circle">London Film Critics Circle Award for British Actor of the Year</a></td>
+</tr>
+<tr>
+<td rowspan="3">2009</td>
+<td><i><a href="/wiki/Thick_as_Thieves" title="Thick as Thieves">Jogo Entre Ladrões</a></i></td>
+<td>Michaels</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Wuthering_Heights_(2009)" class="mw-redirect" title="Wuthering Heights (2009)">O Morro dos Ventos Uivantes</a></i></td>
+<td>Heathcliff</td>
+<td>Minissérie: 2 episódios</td>
+</tr>
+<tr>
+<td><i>The Take</i></td>
+<td>Freddie Jackson</td>
+<td>Minissérie: 4 episódios</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><a href="/wiki/A_Origem" title="A Origem"><i>Inception</i></a></td>
+<td>Eames</td>
+<td><a href="/wiki/BAFTA_Awards" class="mw-redirect" title="BAFTA Awards">BAFTA Orange Rising Star Award</a><br />
+<a href="/wiki/Scream_Awards" title="Scream Awards">Scream Award for Best Breakthrough Actor</a><br />
+Indicado- <a href="/wiki/Ohio" title="Ohio">Central Ohio Film Critics Association Award for Best Ensemble</a><br />
+Indicado- <a href="/wiki/London_Film_Critics_Circle" class="mw-redirect" title="London Film Critics Circle">London Film Critics Circle Award for Best British Supporting Actor</a><br />
+Indicado- <a href="/wiki/Phoenix_Film_Critics_Society" title="Phoenix Film Critics Society">Phoenix Film Critics Society Award for Best Ensemble</a><br />
+Indicado- <a href="/wiki/Saturn_Awards" class="mw-redirect" title="Saturn Awards">Saturn Award for Best Supporting Actor</a><br />
+Indicado- <a href="/wiki/Washington_D.C._Area_Film_Critics_Association" title="Washington D.C. Area Film Critics Association">Washington D.C. Area Film Critics Association Award for Best Ensemble</a></td>
+</tr>
+<tr>
+<td rowspan="2">2011</td>
+<td><i><a href="/wiki/Warrior_(2011)" class="mw-redirect" title="Warrior (2011)">Guerreiro</a></i></td>
+<td>Tommy Conlon</td>
+<td>Nevada Film Critics Society Award for Best Actor<br />
+Indicado — <a href="/wiki/Satellite_Awards" title="Satellite Awards">Satellite Award for Best Actor – Motion Picture Drama</a><br />
+Indicado — Women Film Critics Circle for Best Actor<sup id="cite_ref-awardsdaily1_32-0" class="reference"><a href="#cite_note-awardsdaily1-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Tinker_Tailor_Soldier_Spy_(filme)" title="Tinker Tailor Soldier Spy (filme)"><i>Tinker Tailor Soldier Spy</i></a></td>
+<td>Ricki Tarr</td>
+<td>Indicado — BIFA Award for Best Supporting Actor<br />
+Indicado — Women Film Critics Circle for Best Actor<sup id="cite_ref-awardsdaily1_32-1" class="reference"><a href="#cite_note-awardsdaily1-32"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="3">2012</td>
+<td><i><a href="/wiki/This_Means_War" class="mw-disambig" title="This Means War">Guerra é Guerra</a></i><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+<td>Tuck</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i></td>
+<td><a href="/wiki/Bane" title="Bane">Bane</a></td>
+<td>Indicado- <a href="/wiki/Teen_Choice_Awards" class="mw-redirect" title="Teen Choice Awards">Teen Choice Award for Choice Movie Villain</a><br />
+Indicado- <a href="/wiki/MTV_Movie_Award" class="mw-redirect" title="MTV Movie Award">MTV Movie Award for Best Villain</a></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Lawless_(filme)" title="Lawless (filme)">Os Infratores</a></i></td>
+<td>Forrest Bondurant</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">2014</td>
+<td><i>Locke</i></td>
+<td>Ivan Locke</td>
+<td></td>
+</tr>
+<tr>
+<td><i>The Drop</i></td>
+<td>Bob Saginowski</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">2015</td>
+<td><i><a href="/wiki/Child_44_(filme)" title="Child 44 (filme)">Child 44</a></i></td>
+<td>Leo Demidov</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Mad_Max:_Estrada_da_F%C3%BAria" title="Mad Max: Estrada da Fúria">Mad Max: Fury Road</a></i></td>
+<td>Max Rockatansky</td>
+<td>Venceu - <a rel="nofollow" class="external text" href="http://www.criticschoice.com/movie-awards/">Critics' Choice Movie Awards for Best Actor in an Action Movie</a></td>
+</tr>
+<tr>
+<td><i>Legend</i></td>
+<td>Reggie Kray / Ron Kray</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Revenant" title="The Revenant">The Revenant</a></i></td>
+<td>John Fitzgerald</td>
+<td>Indicado- <a rel="nofollow" class="external text" href="http://www.criticschoice.com/movie-awards/">Critics' Choice Movie Awards for Best Supporting Actor</a>
+<p>Indicado - <a href="/wiki/Oscar_2016" title="Oscar 2016">88th Academy Awards (Oscar 2016) - Melhor Ator Coadjuvante</a></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">2017</td>
+<td><i>Taboo</i></td>
+<td>James Keziah Delaney</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Dunkirk_(filme)" title="Dunkirk (filme)"><i>Dunkirk</i></a></td>
+<td>Farrier</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Star_Wars:_Os_%C3%9Altimos_Jedi" class="mw-redirect" title="Star Wars: Os Últimos Jedi"><i>Star Wars: The Last Jedi</i></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">2018</td>
+<td><a href="/wiki/Venom_(filme_de_2018)" title="Venom (filme de 2018)">Venom</a></td>
+<td><a href="/wiki/Eddie_Brock" title="Eddie Brock">Eddie Brock / Venom</a></td>
+<td>Filmado</td>
+</tr>
+<tr>
+<td><a href="/wiki/Spider-Man:_Into_the_Spider-Verse" title="Spider-Man: Into the Spider-Verse">Homem-Aranha: No Aranhaverso</a></td>
+<td><a href="/wiki/Venom" class="mw-disambig" title="Venom">Venom</a></td>
+<td>Pós-produção</td>
+</tr>
+</table>
+<h2><span id="Pr.C3.AAmios_e_indica.C3.A7.C3.B5es"></span><span class="mw-headline" id="Prêmios_e_indicações">Prêmios e indicações</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Prêmios e indicações">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit&amp;section=5" title="Editar secção: Prêmios e indicações">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Ficheiro:2011_Tom_Hardy_TTSS_Premiere.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2011_Tom_Hardy_TTSS_Premiere.jpg/220px-2011_Tom_Hardy_TTSS_Premiere.jpg" width="220" height="261" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2011_Tom_Hardy_TTSS_Premiere.jpg/330px-2011_Tom_Hardy_TTSS_Premiere.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2011_Tom_Hardy_TTSS_Premiere.jpg/440px-2011_Tom_Hardy_TTSS_Premiere.jpg 2x" data-file-width="505" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Ficheiro:2011_Tom_Hardy_TTSS_Premiere.jpg" class="internal" title="Ampliar"></a></div>
+Tom Hardy na premiere em <a href="/wiki/Londres" title="Londres">Londres</a> de <i><a href="/wiki/Tinker,_Tailor,_Soldier,_Spy_(filme)" class="mw-redirect" title="Tinker, Tailor, Soldier, Spy (filme)">O Espião que Sabia Demais</a></i> em 13 de setembro de 2011</div>
+</div>
+</div>
+<table class="wikitable">
+<tr>
+<th>Ano</th>
+<th>Trabalho</th>
+<th>Prémio</th>
+<th>Resultado</th>
+</tr>
+<tr>
+<td>2003</td>
+<td><i><a href="/wiki/Star_Trek:_Nemesis" class="mw-redirect" title="Star Trek: Nemesis">Star Trek: Nemesis</a></i></td>
+<td>Melhor Ator Secundário - <a href="/wiki/Saturn_Awards" class="mw-redirect" title="Saturn Awards">Saturn Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i>In Arabia We'd All Be Kings</i></td>
+<td>Ator Mais Promissor numa Peça - <a href="/wiki/Laurence_Olivier_Award" title="Laurence Olivier Award">Prémios Olivier</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i>Stuart: A Life Backwards</i></td>
+<td>Melhor Ator - <a href="/wiki/Bafta" class="mw-redirect" title="Bafta">BAFTA TV Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="2">2009</td>
+<td><i>The Take</i></td>
+<td>Melhor Ator Principal - Crime Thriller Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="4"><i><a href="/wiki/Bronson_(filme)" title="Bronson (filme)">Bronson</a></i></td>
+<td>Melhor Ator - British Independent Film Awards</td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="6">2010</td>
+<td>Melhor Ator - Evening Standard British Film Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Ator Britânico do Ano - London Film Critics' Circle Award</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator - Village Voice Film Poll</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="7"><i><a href="/wiki/Inception" class="mw-redirect" title="Inception">Inception</a></i></td>
+<td>Melhor Elenco - Washington D.C. Area Film Critics Association Award</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Elenco - Phoenix Film Critics Society Award</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Ator Revelação (Masculino) - Scream Awards</td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="5">2011</td>
+<td>Prémio Estrela em Ascensão - <a href="/wiki/BAFTA" class="mw-redirect" title="BAFTA">BAFTA</a></td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Melhor Diálogo num Filme - <a href="/wiki/MTV_Movie_Awards" class="mw-redirect" title="MTV Movie Awards">MTV Movie Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Equipa Favorita no Ecrã - <a href="/wiki/People%27s_Choice_Awards" title="People's Choice Awards">People's Choice Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - <a href="/wiki/Saturn_Awards" class="mw-redirect" title="Saturn Awards">Saturn Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Tinker_Tailor_Soldier_Spy_(filme)" title="Tinker Tailor Soldier Spy (filme)">Tinker Tailor Soldier Spy</a></i></td>
+<td>Melhor Ator Secundário - British Independent Film Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="4">2012</td>
+<td rowspan="3"><i><a href="/wiki/Warrior_(filme_de_2011)" title="Warrior (filme de 2011)">Warrior</a></i></td>
+<td>Melhor Luta - <a href="/wiki/MTV_Movie_Awards" class="mw-redirect" title="MTV Movie Awards">MTV Movie Awards</a> <small>(Partilhado com <a href="/wiki/Joel_Edgerton" title="Joel Edgerton">Joel Edgerton</a>)</small></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator num Filme Dramático - <a href="/wiki/Saturn_Awards" class="mw-redirect" title="Saturn Awards">Saturn Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator num Filme de Ação - <a href="/wiki/Teen_Choice_Awards" class="mw-redirect" title="Teen Choice Awards">Teen Choice Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i></td>
+<td>Melhor Vilão num Filme - <a href="/wiki/Teen_Choice_Awards" class="mw-redirect" title="Teen Choice Awards">Teen Choice Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="3">2013</td>
+<td>Melhor Vilão - <a href="/wiki/MTV_Movie_Awards" class="mw-redirect" title="MTV Movie Awards">MTV Movie Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Luta - <a href="/wiki/MTV_Movie_Awards" class="mw-redirect" title="MTV Movie Awards">MTV Movie Awards</a> <small>(partilhado com <a href="/wiki/Christian_Bale" title="Christian Bale">Christian Bale</a>)</small></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="4"><i>Locke</i></td>
+<td>Melhor Ator - British Independent Film Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="2">2014</td>
+<td>Melhor Ator - Los Angeles Film Critics Association Award for Best Actor</td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Melhor Ator - <a href="/wiki/European_Film_Awards" class="mw-redirect" title="European Film Awards">European Film Awards</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="10">2015</td>
+<td rowspan="2">Ator Britânico do Ano - London Film Critics' Circle</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td><i>The Drop</i></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Legend_(filme)" title="Legend (filme)">Legend</a></i></td>
+<td>Melhor Ator - British Independent Film Awards</td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu</td>
+</tr>
+<tr>
+<td rowspan="10"><i><a href="/wiki/The_Revenant" title="The Revenant">The Revenant</a></i></td>
+<td>Melhor Ator Secundário - Dallas–Fort Worth Film Critics Association Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Indiana Film Journalists Association Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Kansas City Film Critics Circle Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Las Vegas Film Critics Society Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Phoenix Critics Circle Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Phoenix Film Critics Society Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - Washington D.C. Area Film Critics Association Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td rowspan="6">2016</td>
+<td><a href="/wiki/%C3%93scar_de_melhor_ator_secund%C3%A1rio" title="Óscar de melhor ator secundário">Óscar de Melhor Ator Secundário</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Melhor Ator Secundário - <a href="/wiki/Critics%27_Choice_Movie_Award" class="mw-redirect" title="Critics' Choice Movie Award">Critics' Choice Movie Award</a></td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td>Ator Secundário do Ano - London Film Critics' Circle Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Mad_Max:_Fury_Road" class="mw-redirect" title="Mad Max: Fury Road">Mad Max: Fury Road</a></i></td>
+<td>Melhor Ator num Filme de Ação - <a href="/wiki/Critics%27_Choice_Movie_Award" class="mw-redirect" title="Critics' Choice Movie Award">Critics' Choice Movie Award</a></td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu</td>
+</tr>
+<tr>
+<td><i>Legend</i></td>
+<td>Ator do Ano - London Film Critics' Circle Awards</td>
+<td style="text-align:center;background: #ffdddd;vertical-align: middle;" class="table-no2">Indicado</td>
+</tr>
+<tr>
+<td><i>Mad Max: Fury Road</i>, <i>Legend</i>, <i>The Revenant</i> e <i>London Road</i></td>
+<td>Ator Britânico do Ano - London Film Critics' Circle Awards</td>
+<td style="text-align:center;background: #ddffdd;vertical-align: middle; {{{style}}}" class="table-yes2">Venceu</td>
+</tr>
+</table>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<div class="reflist references-small" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation journal">Conrad, Peter (22 de setembro de 2007). <a rel="nofollow" class="external text" href="http://www.theguardian.com/books/2007/sep/23/biography.theatre">«<span style="padding-left:0.2em;">'</span>Maybe feeling alive is only possible in the presence of death<span style="padding-right:0.2em;">'</span>»</a>. <i>The Guardian</i> (em inglês). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0261-3077">0261-3077</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=%27Maybe+feeling+alive+is+only+possible+in+the+presence+of+death%27&amp;rft.aufirst=Peter&amp;rft.aulast=Conrad&amp;rft.date=2007-09-22&amp;rft.genre=article&amp;rft.issn=0261-3077&amp;rft.jtitle=The+Guardian&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2007%2Fsep%2F23%2Fbiography.theatre&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">↑ <sup><i><b><a href="#cite_ref-:0_2-0">a</a></b></i></sup> <sup><i><b><a href="#cite_ref-:0_2-1">b</a></b></i></sup></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-3399454/Kate-Winslet-Eddie-Redmayne-Tom-Hardy-lead-British-talent-nominations-Oscars-2016.html">«Eddie Redmayne and Kate Winslet lead Brit talent in Oscar nominations»</a>. <i>Mail Online</i><span class="reference-accessdate">. Consultado em 23 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Eddie+Redmayne+and+Kate+Winslet+lead+Brit+talent+in+Oscar+nominations&amp;rft.genre=unknown&amp;rft.jtitle=Mail+Online&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-3399454%2FKate-Winslet-Eddie-Redmayne-Tom-Hardy-lead-British-talent-nominations-Oscars-2016.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theglobeandmail.com/arts/film/the-uk-movie-star-and-the-vancouver-tattoo-artist-he-cant-get-enough-of/article1316029/">«The U.K. movie star and the Vancouver tattoo artist he can't get enough of»</a>. <i>The Globe and Mail</i><span class="reference-accessdate">. Consultado em 23 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=The+U.K.+movie+star+and+the+Vancouver+tattoo+artist+he+can%27t+get+enough+of&amp;rft.genre=unknown&amp;rft.jtitle=The+Globe+and+Mail&amp;rft_id=http%3A%2F%2Fwww.theglobeandmail.com%2Farts%2Ffilm%2Fthe-uk-movie-star-and-the-vancouver-tattoo-artist-he-cant-get-enough-of%2Farticle1316029%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation journal">Fisher, Alice (3 de julho de 2010). <a rel="nofollow" class="external text" href="http://www.theguardian.com/film/2010/jul/04/tom-hardy-actor-film-inception">«Tom Hardy: the rake's progress»</a>. <i>The Guardian</i> (em inglês). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0261-3077">0261-3077</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy%3A+the+rake%27s+progress&amp;rft.aufirst=Alice&amp;rft.aulast=Fisher&amp;rft.date=2010-07-03&amp;rft.genre=article&amp;rft.issn=0261-3077&amp;rft.jtitle=The+Guardian&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2010%2Fjul%2F04%2Ftom-hardy-actor-film-inception&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ew.com/article/2012/08/23/tom-hardy-modeling-contest-gary-oldman">«Tom Hardy model contest 1998»</a>. <i>Entertainment Weekly's EW.com</i><span class="reference-accessdate">. Consultado em 23 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy+model+contest+1998&amp;rft.genre=unknown&amp;rft.jtitle=Entertainment+Weekly%27s+EW.com&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Farticle%2F2012%2F08%2F23%2Ftom-hardy-modeling-contest-gary-oldman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/culture/film/8723292/Tom-Hardy-interview-Real-life-blows-that-shaped-my-acting.html">«Tom Hardy: Real-life blows that shaped my acting»</a>. <i>Telegraph.co.uk</i><span class="reference-accessdate">. Consultado em 23 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy%3A+Real-life+blows+that+shaped+my+acting&amp;rft.genre=unknown&amp;rft.jtitle=Telegraph.co.uk&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fculture%2Ffilm%2F8723292%2FTom-Hardy-interview-Real-life-blows-that-shaped-my-acting.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0362766/bio">«Tom Hardy»</a>. <i>IMDb</i><span class="reference-accessdate">. Consultado em 23 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy&amp;rft.genre=unknown&amp;rft.jtitle=IMDb&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0362766%2Fbio&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://screencrush.com/way-back-when-tom-hardy/">«Way Back When: Tom Hardy»</a>. <i>ScreenCrush</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Way+Back+When%3A+Tom+Hardy&amp;rft.genre=unknown&amp;rft.jtitle=ScreenCrush&amp;rft_id=http%3A%2F%2Fscreencrush.com%2Fway-back-when-tom-hardy%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.standard.co.uk/lifestyle/esmagazine/evening-standard-theatre-awards-the-rise-of-eight-outstanding-newcomers-9931578.html">«Evening Standard Theatre Awards: the rise of eight Outstanding»</a>. <i>Evening Standard</i> (em inglês)<span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Evening+Standard+Theatre+Awards%3A+the+rise+of+eight+Outstanding&amp;rft.genre=unknown&amp;rft.jtitle=Evening+Standard&amp;rft_id=http%3A%2F%2Fwww.standard.co.uk%2Flifestyle%2Fesmagazine%2Fevening-standard-theatre-awards-the-rise-of-eight-outstanding-newcomers-9931578.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.olivierawards.com/winners/view/item98547/olivier-winners-2004/">«Olivier Winners 2004»</a>. <i>www.olivierawards.com</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Olivier+Winners+2004&amp;rft.genre=unknown&amp;rft.jtitle=www.olivierawards.com&amp;rft_id=http%3A%2F%2Fwww.olivierawards.com%2Fwinners%2Fview%2Fitem98547%2Folivier-winners-2004%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://metro.co.uk/2015/07/28/remember-when-benedict-cumberbatch-and-tom-hardy-played-best-mates-and-it-was-the-best-thing-ever-5316351/">«Remember when Benedict Cumberbatch and Tom Hardy played BFFs and it was the best thing ever?»</a>. <i>Metro</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Remember+when+Benedict+Cumberbatch+and+Tom+Hardy+played+BFFs+and+it+was+the+best+thing+ever%3F&amp;rft.genre=unknown&amp;rft.jtitle=Metro&amp;rft_id=http%3A%2F%2Fmetro.co.uk%2F2015%2F07%2F28%2Fremember-when-benedict-cumberbatch-and-tom-hardy-played-best-mates-and-it-was-the-best-thing-ever-5316351%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uk.askmen.com/entertainment/special_feature_250/267_tom-hardy-becoming-charles-bronson.html">«Tom Hardy: Becoming Charles Bronson»</a>. <i>AskMen</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy%3A+Becoming+Charles+Bronson&amp;rft.genre=unknown&amp;rft.jtitle=AskMen&amp;rft_id=http%3A%2F%2Fuk.askmen.com%2Fentertainment%2Fspecial_feature_250%2F267_tom-hardy-becoming-charles-bronson.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-13"><span class="mw-cite-backlink">↑ <sup><i><b><a href="#cite_ref-:1_13-0">a</a></b></i></sup> <sup><i><b><a href="#cite_ref-:1_13-1">b</a></b></i></sup> <sup><i><b><a href="#cite_ref-:1_13-2">c</a></b></i></sup></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bifa.film/person/tom-hardy">«Tom Hardy - BIFA - The British Independent Film Awards»</a>. <i>www.bifa.film</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy+-+BIFA+-+The++British+Independent+Film+Awards&amp;rft.genre=unknown&amp;rft.jtitle=www.bifa.film&amp;rft_id=https%3A%2F%2Fwww.bifa.film%2Fperson%2Ftom-hardy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.comicbookmovie.com/fansites/MarvelFreshman/news/?a=43361">«Tom Hardy Dishes On Playing Bane In <i>The Dark Knight Rises</i>, The Joker And More!»</a> (em inglês). Comicbookmovie.com</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.btitle=Tom+Hardy+Dishes+On+Playing+Bane+In+The+Dark+Knight+Rises%2C+The+Joker+And+More%21&amp;rft.genre=unknown&amp;rft.pub=Comicbookmovie.com&amp;rft_id=http%3A%2F%2Fwww.comicbookmovie.com%2Ffansites%2FMarvelFreshman%2Fnews%2F%3Fa%3D43361&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=batman3.htm">«The Dark Knight Rises (2012) - Box Office Mojo»</a>. <i>www.boxofficemojo.com</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=The+Dark+Knight+Rises+%282012%29+-+Box+Office+Mojo&amp;rft.genre=unknown&amp;rft.jtitle=www.boxofficemojo.com&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fmovies%2F%3Fid%3Dbatman3.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.comicbookmovie.com/batman/batman_the_dark_knight_rises/cbm-survey-has-the-dark-knight-rises-increased-a65433">«CBM SURVEY: Has THE DARK KNIGHT RISES Increased The Popularity Of Bane?»</a>. <i>www.comicbookmovie.com</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=CBM+SURVEY%3A+Has+THE+DARK+KNIGHT+RISES+Increased+The+Popularity+Of+Bane%3F&amp;rft.genre=unknown&amp;rft.jtitle=www.comicbookmovie.com&amp;rft_id=http%3A%2F%2Fwww.comicbookmovie.com%2Fbatman%2Fbatman_the_dark_knight_rises%2Fcbm-survey-has-the-dark-knight-rises-increased-a65433&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://deadline.com/2015/05/child-44-box-office-bomb-tom-hardy-soviet-noomi-rapace-1201419112/">«Tom Hardy Soviet Drama 'Child 44' Bombs At Box Office: What The Hell Happened?»</a>. <i>Deadline</i> (em inglês)<span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy+Soviet+Drama+%98Child+44%99+Bombs+At+Box+Office%3A+What+The+Hell+Happened%3F&amp;rft.genre=unknown&amp;rft.jtitle=Deadline&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F05%2Fchild-44-box-office-bomb-tom-hardy-soviet-noomi-rapace-1201419112%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/m/child_44/">«Child 44»</a>. <i>www.rottentomatoes.com</i>. 17 de abril de 2015<span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Child+44&amp;rft.date=2015-04-17&amp;rft.genre=unknown&amp;rft.jtitle=www.rottentomatoes.com&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fchild_44%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-3445740/The-one-DON-T-want-win-Tom-Hardy-Simon-Pegg-battle-WORST-British-Film-award-nominees-announced-2016-BARFTAs.html">«Tom Hardy and Simon Pegg battle it out for WORST British Film BARFTA»</a>. <i>Mail Online</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy+and+Simon+Pegg+battle+it+out+for+WORST+British+Film+BARFTA&amp;rft.genre=unknown&amp;rft.jtitle=Mail+Online&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-3445740%2FThe-one-DON-T-want-win-Tom-Hardy-Simon-Pegg-battle-WORST-British-Film-award-nominees-announced-2016-BARFTAs.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=furyroad.htm">«Mad Max: Fury Road (2015) - Box Office Mojo»</a>. <i>www.boxofficemojo.com</i><span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Mad+Max%3A+Fury+Road+%282015%29+-+Box+Office+Mojo&amp;rft.genre=unknown&amp;rft.jtitle=www.boxofficemojo.com&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fmovies%2F%3Fid%3Dfuryroad.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cinemablend.com/new/How-Many-Oscars-Mad-Max-Fury-Road-Probably-Can-Win-105947.html">«How Many Oscars Mad Max: Fury Road Probably Can Win»</a>. <i>www.cinemablend.com</i>. 14 de janeiro de 2016<span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=How+Many+Oscars+Mad+Max%3A+Fury+Road+Probably+Can+Win&amp;rft.date=2016-01-14&amp;rft.genre=unknown&amp;rft.jtitle=www.cinemablend.com&amp;rft_id=http%3A%2F%2Fwww.cinemablend.com%2Fnew%2FHow-Many-Oscars-Mad-Max-Fury-Road-Probably-Can-Win-105947.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thewrap.com/4-reasons-the-revenant-will-win-best-picture-and-4-reasons-it-wont/">«4 Reasons 'The Revenant' Will Win Best Picture - and 4 Reasons It Won't»</a>. <i>TheWrap</i> (em inglês)<span class="reference-accessdate">. Consultado em 25 de fevereiro de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=4+Reasons+%27The+Revenant%27+Will+Win+Best+Picture+-+and+4+Reasons+It+Won%27t&amp;rft.genre=unknown&amp;rft.jtitle=TheWrap&amp;rft_id=http%3A%2F%2Fwww.thewrap.com%2F4-reasons-the-revenant-will-win-best-picture-and-4-reasons-it-wont%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://charlidos.tumblr.com/post/9786574251/an-interview-with-toms-good-friend-and">«Exploring Tom Hardy, An interview with Tom's good friend and...»</a>. <i>charlidos.tumblr.com</i><span class="reference-accessdate">. Consultado em 5 de março de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Exploring+Tom+Hardy%2C+An+interview+with+Tom%99s+good+friend+and...&amp;rft.genre=unknown&amp;rft.jtitle=charlidos.tumblr.com&amp;rft_id=http%3A%2F%2Fcharlidos.tumblr.com%2Fpost%2F9786574251%2Fan-interview-with-toms-good-friend-and&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://deadline.com/2015/07/tom-hardy-kristoffer-nyholm-ridley-scott-taboo-bbc-scott-free-sonar-easy-india-company-fx-1201487482/">«<span style="padding-left:0.2em;">'</span>The Killing's Kristoffer Nyholm To Direct Tom Hardy Event Series 'Taboo<span style="padding-right:0.2em;">'</span>»</a>. <i>Deadline</i> (em inglês)<span class="reference-accessdate">. Consultado em 5 de março de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=%98The+Killing%99s+Kristoffer+Nyholm+To+Direct+Tom+Hardy+Event+Series+%98Taboo%99&amp;rft.genre=unknown&amp;rft.jtitle=Deadline&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F07%2Ftom-hardy-kristoffer-nyholm-ridley-scott-taboo-bbc-scott-free-sonar-easy-india-company-fx-1201487482%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thewrap.com/tom-hardy-in-talks-to-star-in-christopher-nolans-wwii-movie-dunkirk/">«Tom Hardy to Star in Nolan's WWII Movie 'Dunkirk<span style="padding-right:0.2em;">'</span>»</a>. <i>TheWrap</i> (em inglês)<span class="reference-accessdate">. Consultado em 5 de março de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy+to+Star+in+Nolan%27s+WWII+Movie+%27Dunkirk%27&amp;rft.genre=unknown&amp;rft.jtitle=TheWrap&amp;rft_id=http%3A%2F%2Fwww.thewrap.com%2Ftom-hardy-in-talks-to-star-in-christopher-nolans-wwii-movie-dunkirk%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theglobaldispatch.com/george-miller-talks-mad-max-fury-road-sequels-with-mad-max-the-wasteland-planned-78865/">«George Miller talks 'Mad Max Fury Road' sequels with 'Mad Max The Wasteland' planned»</a>. <i>www.theglobaldispatch.com</i><span class="reference-accessdate">. Consultado em 5 de março de 2016.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=George+Miller+talks+%98Mad+Max+Fury+Road%99+sequels+with+%98Mad+Max+The+Wasteland%99+planned&amp;rft.genre=unknown&amp;rft.jtitle=www.theglobaldispatch.com&amp;rft_id=http%3A%2F%2Fwww.theglobaldispatch.com%2Fgeorge-miller-talks-mad-max-fury-road-sequels-with-mad-max-the-wasteland-planned-78865%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://omelete.uol.com.br/filmes/noticia/venom-tom-hardy-vai-estrelar-derivado-de-homem-aranha/">«Venom | Tom Hardy vai estrelar derivado de Homem-Aranha»</a>. <i>Omelete</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Venom+%7C+Tom+Hardy+vai+estrelar+derivado+de+Homem-Aranha&amp;rft.genre=article&amp;rft.jtitle=Omelete&amp;rft_id=http%3A%2F%2Fomelete.uol.com.br%2Ffilmes%2Fnoticia%2Fvenom-tom-hardy-vai-estrelar-derivado-de-homem-aranha%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><cite class="citation journal">Davies, Serena (11 de junho de 2009). <a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/culture/tvandradio/5507365/Interview-Tom-Hardy-from-East-End-gangster-to-romantic-hero.html">«Interview: Tom Hardy, from East End gangster to romantic hero»</a>. UK: Telegraph Media Group Limited. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i> (em inglês)</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Interview%3A+Tom+Hardy%2C+from+East+End+gangster+to+romantic+hero&amp;rft.aufirst=Serena&amp;rft.aulast=Davies&amp;rft.date=2009-06-11&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fculture%2Ftvandradio%2F5507365%2FInterview-Tom-Hardy-from-East-End-gangster-to-romantic-hero.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.nowmagazine.co.uk/celebrity-news/492952/tom-hardy-i-ve-had-sexual-relations-with-men/1/">«Tom Hardy: I've had sexual relations with men»</a>. <i>Now Magazine</i> (em inglês). 29 de julho de 2010</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=Tom+Hardy%3A+I%27ve+had+sexual+relations+with+men&amp;rft.date=2010-07-29&amp;rft.genre=article&amp;rft.jtitle=Now+Magazine&amp;rft_id=http%3A%2F%2Fwww.nowmagazine.co.uk%2Fcelebrity-news%2F492952%2Ftom-hardy-i-ve-had-sexual-relations-with-men%2F1%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://papelpop.com/2010/07/tom-hardy-de-inception-e-rock-n%C2%B4rolla-assume-ter-feito-sexo-com-homens/">«Tom Hardy, de "Inception" e "Rock n´Rolla", assume ter feito sexo com homens»</a>. Papelpop.com</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.btitle=Tom+Hardy%2C+de+%9CInception%9D+e+%9CRock+n%B4Rolla%9D%2C+assume+ter+feito+sexo+com+homens&amp;rft.genre=unknown&amp;rft.pub=Papelpop.com&amp;rft_id=http%3A%2F%2Fpapelpop.com%2F2010%2F07%2Ftom-hardy-de-inception-e-rock-n%25C2%25B4rolla-assume-ter-feito-sexo-com-homens%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><cite class="citation journal">McLean, Gareth (23 de junho de 2009). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/culture/2009/jun/23/tom-hardy-star-trek-actor">«I want adulation»</a>. England: Guardian News and Media Limited. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> (em inglês). 13&#160;páginas</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=I+want+adulation&amp;rft.aufirst=Gareth&amp;rft.aulast=McLean&amp;rft.date=2009-06-23&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fculture%2F2009%2Fjun%2F23%2Ftom-hardy-star-trek-actor&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-awardsdaily1-32"><span class="mw-cite-backlink">↑ <sup><i><b><a href="#cite_ref-awardsdaily1_32-0">a</a></b></i></sup> <sup><i><b><a href="#cite_ref-awardsdaily1_32-1">b</a></b></i></sup></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.awardsdaily.com/2011/12/the-women-film-critics-circle-awards/">«The Women Film Critics Circle Awards»</a> (em inglês). Awardsdaily.com<span class="reference-accessdate">. Consultado em 23 de dezembro de 2011.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.btitle=The+Women+Film+Critics+Circle+Awards&amp;rft.genre=unknown&amp;rft.pub=Awardsdaily.com&amp;rft_id=http%3A%2F%2Fwww.awardsdaily.com%2F2011%2F12%2Fthe-women-film-critics-circle-awards%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><cite class="citation web">White, James (28 de julho de 2010). <a rel="nofollow" class="external text" href="http://www.empireonline.com/news/story.asp?NID=28478">«Now Tom Hardy's Saying This Means War»</a> (em inglês). Empireonline.com</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.au=White%2C+James&amp;rft.btitle=Now+Tom+Hardy%27s+Saying+This+Means+War&amp;rft.date=2010-07-28&amp;rft.genre=unknown&amp;rft.pub=Empireonline.com&amp;rft_id=http%3A%2F%2Fwww.empireonline.com%2Fnews%2Fstory.asp%3FNID%3D28478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.altfg.com/blog/awards/british-independent-film-awards-2009-carey-mulligan-493/">«British Independent Film Awards 2009: Carey Mulligan, Tom Hardy»</a>. .altfg.com<span class="reference-accessdate">. Consultado em 25 de junho de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=British+Independent+Film+Awards+2009%3A+Carey+Mulligan%2C+Tom+Hardy&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.altfg.com%2Fblog%2Fawards%2Fbritish-independent-film-awards-2009-carey-mulligan-493%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://techland.time.com/2010/10/21/and-your-2010-scream-awards-winners-are/">«And Your 2010 Scream Awards Winners Are….»</a>. Time magazine. 21 de outubro de 2010<span class="reference-accessdate">. Consultado em 25 de junho de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.atitle=And+Your+2010+Scream+Awards+Winners+Are%A6.&amp;rft.date=2010-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechland.time.com%2F2010%2F10%2F21%2Fand-your-2010-scream-awards-winners-are%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bafta.org/film/awards/the-orange-wednesdays-rising-star-award-2011">«The Orange Wednesdays Rising Star Award 2011»</a>. bafta.org/<span class="reference-accessdate">. Consultado em 25 de junho de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.btitle=The+Orange+Wednesdays+Rising+Star+Award+2011&amp;rft.genre=unknown&amp;rft.pub=bafta.org%2F&amp;rft_id=http%3A%2F%2Fwww.bafta.org%2Ffilm%2Fawards%2Fthe-orange-wednesdays-rising-star-award-2011&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://deadline.com/2014/12/los-angeles-film-critics-awards-2014-winners-list-lafca-1201313883/">«<span style="padding-left:0.2em;">'</span>Boyhood' Wins Best Picture, Three Other Awards From L.A. Film Critics»</a>. deadline.com<span class="reference-accessdate">. Consultado em 25 de junho de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3ATom+Hardy&amp;rft.btitle=%27Boyhood%27+Wins+Best+Picture%2C+Three+Other+Awards+From+L.A.+Film+Critics&amp;rft.genre=unknown&amp;rft.pub=deadline.com&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2014%2F12%2Flos-angeles-film-critics-awards-2014-winners-list-lafca-1201313883%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;background: #40E0D0">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;background: #40E0D0;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:BAFTA_de_estrela_revela%C3%A7%C3%A3o" title="Predefinição:BAFTA de estrela revelação"><span class="plainlinks" title="Ver esta predefinição" style="background: #40E0D0;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:BAFTA_de_estrela_revela%C3%A7%C3%A3o&amp;action=edit"><span title="Editar esta predefinição" style="background: #40E0D0;border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/British_Academy_Film_Awards" title="British Academy Film Awards">BAFTA</a> de Estrela revelação</span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #40E0D0">
+<center>2006 – 2009</center>
+</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;text-align: justify">
+<ul>
+<li><a href="/wiki/James_McAvoy" title="James McAvoy">James McAvoy</a> (2006)</li>
+<li><a href="/wiki/Eva_Green" title="Eva Green">Eva Green</a> (2007)</li>
+<li><a href="/wiki/Shia_LaBeouf" title="Shia LaBeouf">Shia LaBeouf</a> (2008)</li>
+<li><a href="/wiki/Noel_Clarke" title="Noel Clarke">Noel Clarke</a> (2009)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #40E0D0">
+<center>2010 – presente</center>
+</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;text-align: justify">
+<ul>
+<li><a href="/wiki/Kristen_Stewart" title="Kristen Stewart">Kristen Stewart</a> (2010)</li>
+<li><a class="mw-selflink selflink">Tom Hardy</a> (2011)</li>
+<li><a href="/w/index.php?title=Adam_Deacon&amp;action=edit&amp;redlink=1" class="new" title="Adam Deacon (página não existe)">Adam Deacon</a> (2012)</li>
+<li><a href="/wiki/Juno_Temple" title="Juno Temple">Juno Temple</a> (2013)</li>
+<li><a href="/wiki/Will_Poulter" title="Will Poulter">Will Poulter</a> (2014)</li>
+<li><a href="/wiki/Jack_O%27Connell" title="Jack O'Connell">Jack O'Connell</a> (2015)</li>
+<li><a href="/wiki/John_Boyega" title="John Boyega">John Boyega</a> (2016)</li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox hlist noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Los_Angeles_Film_Critics_Association_Award_de_Melhor_Ator" title="Predefinição:Los Angeles Film Critics Association Award de Melhor Ator"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Los_Angeles_Film_Critics_Association_Award_de_Melhor_Ator&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Pr%C3%A9mios_Los_Angeles_Film_Critics_Association" title="Prémios Los Angeles Film Critics Association">Los Angeles Film Critics Association Award</a> de <a href="/wiki/Los_Angeles_Film_Critics_Association_Award_de_Melhor_Ator" title="Los Angeles Film Critics Association Award de Melhor Ator">Melhor Ator</a></span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">
+<center>1975 - 1979</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><a href="/wiki/Al_Pacino" title="Al Pacino">Al Pacino</a> (1975)</li>
+<li><a href="/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a> (1976)</li>
+<li><a href="/wiki/Richard_Dreyfuss" title="Richard Dreyfuss">Richard Dreyfuss</a> (1977)</li>
+<li><a href="/wiki/Jon_Voight" title="Jon Voight">Jon Voight</a> (1978)</li>
+<li><a href="/wiki/Dustin_Hoffman" title="Dustin Hoffman">Dustin Hoffman</a> (1979)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">
+<center>1980 - 1989</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><a href="/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a> (1980)</li>
+<li><a href="/wiki/Burt_Lancaster" title="Burt Lancaster">Burt Lancaster</a> (1981)</li>
+<li><a href="/wiki/Ben_Kingsley" title="Ben Kingsley">Ben Kingsley</a> (1982)</li>
+<li><a href="/wiki/Robert_Duvall" title="Robert Duvall">Robert Duvall</a> (1983)</li>
+<li><a href="/wiki/F._Murray_Abraham" title="F. Murray Abraham">F. Murray Abraham</a> / <a href="/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a> (1984)</li>
+<li><a href="/wiki/William_Hurt" title="William Hurt">William Hurt</a> (1985)</li>
+<li><a href="/wiki/Bob_Hoskins" title="Bob Hoskins">Bob Hoskins</a> (1986)</li>
+<li><a href="/wiki/Jack_Nicholson" title="Jack Nicholson">Jack Nicholson</a> / <a href="/wiki/Steve_Martin" title="Steve Martin">Steve Martin</a> (1987)</li>
+<li><a href="/wiki/Tom_Hanks" title="Tom Hanks">Tom Hanks</a> (1988)</li>
+<li><a href="/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a> (1989)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">
+<center>1990 - 1999</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><a href="/wiki/Jeremy_Irons" title="Jeremy Irons">Jeremy Irons</a> (1990)</li>
+<li><a href="/wiki/Nick_Nolte" title="Nick Nolte">Nick Nolte</a> (1991)</li>
+<li><a href="/wiki/Clint_Eastwood" title="Clint Eastwood">Clint Eastwood</a> (1992)</li>
+<li><a href="/wiki/Anthony_Hopkins" title="Anthony Hopkins">Anthony Hopkins</a> (1993)</li>
+<li><a href="/wiki/John_Travolta" title="John Travolta">John Travolta</a> (1994)</li>
+<li><a href="/wiki/Nicolas_Cage" title="Nicolas Cage">Nicolas Cage</a> (1995)</li>
+<li><a href="/wiki/Geoffrey_Rush" title="Geoffrey Rush">Geoffrey Rush</a> (1996)</li>
+<li><a href="/wiki/Robert_Duvall" title="Robert Duvall">Robert Duvall</a> (1997)</li>
+<li><a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a> (1998)</li>
+<li><a href="/wiki/Russell_Crowe" title="Russell Crowe">Russell Crowe</a> (1999)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">
+<center>2000 - 2009</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><a href="/wiki/Michael_Douglas" title="Michael Douglas">Michael Douglas</a> (2000)</li>
+<li><a href="/wiki/Denzel_Washington" title="Denzel Washington">Denzel Washington</a> (2001)</li>
+<li><a href="/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a> / <a href="/wiki/Jack_Nicholson" title="Jack Nicholson">Jack Nicholson</a> (2002)</li>
+<li><a href="/wiki/Bill_Murray" title="Bill Murray">Bill Murray</a> (2003)</li>
+<li><a href="/wiki/Liam_Neeson" title="Liam Neeson">Liam Neeson</a> (2004)</li>
+<li><a href="/wiki/Philip_Seymour_Hoffman" title="Philip Seymour Hoffman">Philip Seymour Hoffman</a> (2005)</li>
+<li><a href="/wiki/Sacha_Baron_Cohen" title="Sacha Baron Cohen">Sacha Baron Cohen</a> / <a href="/wiki/Forest_Whitaker" title="Forest Whitaker">Forest Whitaker</a> (2006)</li>
+<li><a href="/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a> (2007)</li>
+<li><a href="/wiki/Sean_Penn" title="Sean Penn">Sean Penn</a> (2008)</li>
+<li><a href="/wiki/Jeff_Bridges" title="Jeff Bridges">Jeff Bridges</a> (2009)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">
+<center>2010 - presente</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><a href="/wiki/Colin_Firth" title="Colin Firth">Colin Firth</a> (2010)</li>
+<li><a href="/wiki/Michael_Fassbender" title="Michael Fassbender">Michael Fassbender</a> (2011)</li>
+<li><a href="/wiki/Joaquin_Phoenix" title="Joaquin Phoenix">Joaquin Phoenix</a> (2012)</li>
+<li><a href="/wiki/Bruce_Dern" title="Bruce Dern">Bruce Dern</a> (2013)</li>
+<li><a class="mw-selflink selflink">Tom Hardy</a> (2014)</li>
+<li><a href="/wiki/Michael_Fassbender" title="Michael Fassbender">Michael Fassbender</a> (2015)</li>
+<li><a href="/wiki/Adam_Driver" title="Adam Driver">Adam Driver</a> (2016)</li>
+<li><a href="/wiki/Timoth%C3%A9e_Chalamet" title="Timothée Chalamet">Timothée Chalamet</a> (2017)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="2"><i>O ano refere-se ao da produção do filme. O prémio é normalmente entregue no ano seguinte.</i></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox hlist noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;background: #90EE90">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;background: #90EE90;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Critics_Choice_de_melhor_ator_em_filme_de_a%C3%A7%C3%A3o" title="Predefinição:Critics Choice de melhor ator em filme de ação"><span class="plainlinks" title="Ver esta predefinição" style="background: #90EE90;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Critics_Choice_de_melhor_ator_em_filme_de_a%C3%A7%C3%A3o&amp;action=edit"><span title="Editar esta predefinição" style="background: #90EE90;border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Critics%27_Choice_Movie_Award" class="mw-redirect" title="Critics' Choice Movie Award">Prémio Critics' Choice</a> de <a href="/wiki/Critics_Choice_Award_de_Melhor_Ator_em_Filme_de_A%C3%A7%C3%A3o" title="Critics Choice Award de Melhor Ator em Filme de Ação">Melhor Ator em Filme de Ação</a></span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #90EE90">
+<center>2012 - presente</center>
+</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><a href="/wiki/Daniel_Craig" title="Daniel Craig">Daniel Craig</a> (2012)</li>
+<li><a href="/wiki/Mark_Wahlberg" title="Mark Wahlberg">Mark Wahlberg</a> (2013)</li>
+<li><a href="/wiki/Bradley_Cooper" title="Bradley Cooper">Bradley Cooper</a> (2014)</li>
+<li><a class="mw-selflink selflink">Tom Hardy</a> (2015)</li>
+<li><a href="/wiki/Andrew_Garfield" title="Andrew Garfield">Andrew Garfield</a> (2016)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;background: #90EE90" colspan="2"><i>O ano refere-se ao da produção do filme. O prémio é normalmente entregue no ano seguinte.</i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20180604003946
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.692 seconds
+Real time usage: 0.765 seconds
+Preprocessor visited node count: 6472/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112585/2097152 bytes
+Template argument size: 17844/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 41874/5000000 bytes
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 3.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  671.319      1 -total
+ 50.33%  337.859      1 Predefinição:Info/Ator
+ 48.64%  326.534      1 Predefinição:Info
+ 32.53%  218.412      1 Predefinição:Referências
+ 15.16%  101.754     29 Predefinição:Citar_web
+ 10.96%   73.570      3 Predefinição:Navbox
+ 10.35%   69.470      6 Predefinição:Citar_periódico
+  8.92%   59.894      4 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+  7.14%   47.935      1 Predefinição:BAFTA_de_estrela_revelação
+  6.01%   40.313      3 Predefinição:Navbox/core
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:2866218-0!canonical and timestamp 20180604003945 and revision id 51323385
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Tom_Hardy&amp;oldid=51323385">https://pt.wikipedia.org/w/index.php?title=Tom_Hardy&amp;oldid=51323385</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1977" title="Categoria:Nascidos em 1977">Nascidos em 1977</a></li><li><a href="/wiki/Categoria:Atores_da_Inglaterra" title="Categoria:Atores da Inglaterra">Atores da Inglaterra</a></li><li><a href="/wiki/Categoria:BAFTA_de_estrela_revela%C3%A7%C3%A3o" title="Categoria:BAFTA de estrela revelação">BAFTA de estrela revelação</a></li><li><a href="/wiki/Categoria:Naturais_de_Londres" title="Categoria:Naturais de Londres">Naturais de Londres</a></li><li><a href="/wiki/Categoria:Pr%C3%A9mio_LAFCA_de_melhor_ator" title="Categoria:Prémio LAFCA de melhor ator">Prémio LAFCA de melhor ator</a></li><li><a href="/wiki/Categoria:Critics%27_Choice_de_melhor_ator_filme_de_a%C3%A7%C3%A3o" title="Categoria:Critics&#039; Choice de melhor ator filme de ação">Critics' Choice de melhor ator filme de ação</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!CS1_ingl%C3%AAs-fontes_em_l%C3%ADngua_(en)" title="Categoria:!CS1 inglês-fontes em língua (en)">!CS1 inglês-fontes em língua (en)</a></li><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_diferente_da_no_Wikidata" title="Categoria:!Imagem local diferente da no Wikidata">!Imagem local diferente da no Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Tom+Hardy" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Tom+Hardy" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tom_Hardy" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Tom_Hardy" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tom_Hardy">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Tom_Hardy&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tom_Hardy&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tom_Hardy&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Tom+Hardy">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Tom+Hardy&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tom_Hardy&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tom_Hardy" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Tom_Hardy" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Tom_Hardy" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Tom_Hardy&amp;oldid=51323385" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Tom_Hardy&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q208026" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Tom_Hardy&amp;id=51323385" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — africanês" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%85_%D9%87%D8%A7%D8%B1%D8%AF%D9%8A" title="توم هاردي — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AA%D8%A7%D9%85_%D9%87%D8%A7%D8%B1%D8%AF%DB%8C" title="تام هاردی — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B7%D1%96" title="Том Хардзі — bielorrusso" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%86%D9%85_%DA%BE%D8%A7%D8%B1%D8%AF%DB%8C" title="تۆم ھاردی — sorani curdo" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — galês" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CE%BF%CE%BC_%CE%A7%CE%AC%CF%81%CE%BD%CF%84%CE%B9" title="Τομ Χάρντι — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — estónio" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%85_%D9%87%D8%A7%D8%B1%D8%AF%DB%8C" title="تام هاردی — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — irlandês" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%9D_%D7%94%D7%90%D7%A8%D7%93%D7%99" title="טום הארדי — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%89%E0%A4%AE_%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%80" title="टॉम हार्डी — hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%B8%D5%B4_%D5%80%D5%A1%D6%80%D5%A4%D5%AB" title="Թոմ Հարդի — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — islandês" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A0%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3" title="トム・ハーディ — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%9D%E1%83%9B_%E1%83%B0%E1%83%90%E1%83%A0%E1%83%93%E1%83%98" title="ტომ ჰარდი — georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — cazaque" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%B0_%ED%95%98%EB%94%94" title="톰 하디 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — quirguiz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Toms_H%C4%81rdijs" title="Toms Hārdijs — letão" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — macedónio" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%8B%E0%B4%82_%E0%B4%B9%E0%B4%BE%E0%B5%BC%E0%B4%A1%E0%B4%BF" title="ടോം ഹാർഡി — malaiala" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — mongol" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — malaio" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B4%D0%B8,_%D0%A2%D0%BE%D0%BC" title="Харди, Том — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — albanês" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8" title="Том Харди — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%8B%E0%AE%AE%E0%AF%8D_%E0%AE%B9%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AE%BF" title="டோம் ஹார்டி — tâmil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%AD%E0%B8%A1_%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5" title="ทอม ฮาร์ดี — tailandês" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D2%BA%D0%B0%D1%80%D0%B4%D0%B8" title="Том Һарди — tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%93%D0%B0%D1%80%D0%B4%D1%96" title="Том Гарді — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%B9%D8%A7%D9%85_%DB%81%D8%A7%D8%B1%DA%88%DB%8C" title="ٹام ہارڈی — urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A2%E1%83%9D%E1%83%9B_%E1%83%B0%E1%83%90%E1%83%A0%E1%83%93%E1%83%98" title="ტომ ჰარდი — Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E5%93%88%E8%BF%AA" title="湯姆·哈迪 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Tom_Hardy" title="Tom Hardy — Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q208026#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 15h01min de 20 de fevereiro de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Tom_Hardy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.692","walltime":"0.765","ppvisitednodes":{"value":6472,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112585,"limit":2097152},"templateargumentsize":{"value":17844,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":41874,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  671.319      1 -total"," 50.33%  337.859      1 Predefinição:Info/Ator"," 48.64%  326.534      1 Predefinição:Info"," 32.53%  218.412      1 Predefinição:Referências"," 15.16%  101.754     29 Predefinição:Citar_web"," 10.96%   73.570      3 Predefinição:Navbox"," 10.35%   69.470      6 Predefinição:Citar_periódico","  8.92%   59.894      4 Predefinição:Categorização_AD_e_AB_de_outras_wikis","  7.14%   47.935      1 Predefinição:BAFTA_de_estrela_revelação","  6.01%   40.313      3 Predefinição:Navbox/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":3756103,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20180604003946","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":875,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

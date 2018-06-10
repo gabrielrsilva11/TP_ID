@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Heather Morris – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Heather_Morris","wgTitle":"Heather Morris","wgCurRevisionId":50545834,"wgRevisionId":50545834,"wgArticleId":2757128,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!CS1 inglês-fontes em língua (en)","!CS1 francês-fontes em língua (fr)","!CS1 manut: Língua não reconhecida","Pessoas vivas","!Imagem local idêntica à do Wikidata","!Esboços sobre atores","Nascidos em 1987","Atores dos Estados Unidos"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Heather_Morris","wgRelevantArticleId":2757128,"wgRequestId":"WxoakQpAMFMAAGGPtI4AAACX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pt","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q229349","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Heather_Morris_PaleyFest_11a_crop.jpg/1200px-Heather_Morris_PaleyFest_11a_crop.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Heather_Morris"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Heather_Morris&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Heather_Morris&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Heather_Morris"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Heather_Morris rootpage-Heather_Morris skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Heather Morris</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="line-height:1.2em; font-size: 88%;">
+<tr>
+<th colspan="2" class="topo musica" style="text-align:center; line-height:1.2em; background-color:#f0e68c; font-size:120%; padding:0px;"><span class="">Heather Morris</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Ficheiro:Heather_Morris_PaleyFest_11a_crop.jpg" class="image" title="Heather Morris"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Heather_Morris_PaleyFest_11a_crop.jpg/200px-Heather_Morris_PaleyFest_11a_crop.jpg" width="200" height="326" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Heather_Morris_PaleyFest_11a_crop.jpg/300px-Heather_Morris_PaleyFest_11a_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Heather_Morris_PaleyFest_11a_crop.jpg/400px-Heather_Morris_PaleyFest_11a_crop.jpg 2x" data-file-width="2218" data-file-height="3620" /></a></div>
+</div>
+<small>Heather Morris em 2011.</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; text-align:center; line-height:1.1em; background-color:#f0e68c;">Informação geral</th>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nome completo</td>
+<td style="vertical-align: top; text-align: left; text-align: left; padding:4px 0 4px 4px;">Heather Elizabeth Morris</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Nascimento</td>
+<td style="vertical-align: top; text-align: left; text-align: left; padding:4px 0 4px 4px;"><a href="/wiki/1_de_fevereiro#Nascimentos" title="1 de fevereiro">1 de fevereiro</a> de <a href="/wiki/1987" title="1987">1987</a>&#160;(31&#160;anos)</td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">País</td>
+<td style="vertical-align: top; text-align: left; text-align: left; padding:4px 0 4px 4px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;<a href="/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a></td>
+</tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; text-align: left; font-weight:bold; padding:4px 4px 4px 0;">Ocupação(ões)</td>
+<td style="vertical-align: top; text-align: left; text-align: left; padding:4px 0 4px 4px;"><a href="/wiki/Atriz" class="mw-redirect" title="Atriz">atriz</a>, <a href="/wiki/Cantora" class="mw-redirect" title="Cantora">cantora</a> e <a href="/wiki/Dan%C3%A7arina" class="mw-redirect" title="Dançarina">dançarina</a></td>
+</tr>
+</table>
+<p><b>Heather Elizabeth Morris</b> ( Los Angeles County, California, <a href="/wiki/1_de_fevereiro" title="1 de fevereiro">1 de fevereiro</a> de <a href="/wiki/1987" title="1987">1987</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> é uma <a href="/wiki/Dan%C3%A7arina" class="mw-redirect" title="Dançarina">dançarina</a>, <a href="/wiki/Atriz" class="mw-redirect" title="Atriz">atriz</a> , <a href="/wiki/Cantora" class="mw-redirect" title="Cantora">cantora</a> e dubladora americana mais conhecida por seu papel como Brittany na série de <a href="/wiki/Com%C3%A9dia" title="Comédia">comédia</a> musical <i><a href="/wiki/Glee" title="Glee">Glee</a></i>. Ganhou prestígio ao interpretar músicas da <a href="/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a> em um dos episódios da série, fazendo cover do single "<a href="/wiki/Me_Against_the_Music" title="Me Against the Music">Me Against the Music</a>" e "<a href="/wiki/I%27m_a_Slave_4_U" title="I'm a Slave 4 U">I'm a Slave 4 U</a>". Heather também dançou e cantou a música "<a href="/wiki/Run_the_World_(Girls)" title="Run the World (Girls)">Run the World (Girls)</a>" da <a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a>. Nas temporadas seguintes, Morris ganhou grande destaque na série, sendo considerada uma das personagens favoritas. Casou-se a 17 de maio de 2015 com Taylor Hubbel</p>
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heather_Morris&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Biografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Heather_Morris&amp;action=edit&amp;section=1" title="Editar secção: Biografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Heather cresceu no <a href="/wiki/Arizona" title="Arizona">Arizona</a> e se mudou para <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> após um ano de faculdade para iniciar sua carreira de dança. Ela viajou o mundo com <a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> como dançarina e, depois disso, decidiu tentar ser atriz. Ela começou a ter aulas de atuação, enquanto fazia seu trabalhos dançando, entre eles performances de <i>Single Ladies</i> de Beyoncé, em programas como <i><a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">Saturday Night Live</a></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <i><a href="/wiki/Today_(programa_de_televis%C3%A3o)" title="Today (programa de televisão)">Today</a></i> e o <i><a href="/wiki/American_Music_Awards" title="American Music Awards">American Music Awards</a></i>. Ela também foi uma das dançarinas da <a href="/wiki/Tina_Turner" title="Tina Turner">Tina Turner</a> na 50ª Premiação do <a href="/wiki/Grammy_Awards" class="mw-redirect" title="Grammy Awards">Grammy Awards</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Beyoncé pediu para Heather continuar participando de sua turnê, mas ela recusou, pois ainda estava determinada a se tornar uma atriz em tempo integral. A mudança deu certo: Heather foi contratada para ensinar a <a href="/wiki/Coreografia" title="Coreografia">coreografia</a> de <i>Single Ladies</i> para o elenco de <i>Glee</i>. Os produtores gostaram tanto dela que a contrataram para se tornar a líder de torcida, <a href="/wiki/Brittany_Pierce" class="mw-redirect" title="Brittany Pierce">Brittany Pierce</a>.</p>
+<p>Ela começou a dançar quando tinha 9 anos de idade,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> tendo competido desde cedo em uma variedade de estilos, incluindo jazz, sapateado e sapateado contemporâneo. Heather tem ascendência escocesa pelo lado do seu pai, que morreu de câncer quando ela tinha 14 anos.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Heather também participou do seriado <i><a href="/wiki/So_You_Think_You_Can_Dance" title="So You Think You Can Dance">So You Think You Can Dance</a></i>, no qual foi eliminada.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Morris co-escreveu e apareceu num video em Janeiro de 2011 para <a href="/wiki/Funny_or_Die" title="Funny or Die">Funny or Die</a>, "Nuthin' But A Glee Thang," uma sátira do <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>/Snoop Dogg collaboration "<a href="/wiki/Nuthin%27_but_a_%27G%27_Thang" title="Nuthin' but a 'G' Thang">Nuthin' but a 'G' Thang</a>". Escreveu junto com as atrizes Ashley Lendzion and <a href="/wiki/Riki_Lindhome" title="Riki Lindhome">Riki Lindhome</a>, o video contem colaborações de <a href="/wiki/Sofia_Vergara" class="mw-redirect" title="Sofia Vergara">Sofia Vergara</a> de <i>Modern Family</i> e seus companheiros de elenco <a href="/wiki/Matthew_Morrison" title="Matthew Morrison">Matthew Morrison</a>, <a href="/wiki/Cory_Monteith" title="Cory Monteith">Cory Monteith</a>, <a href="/wiki/Harry_Shum,_Jr." class="mw-redirect" title="Harry Shum, Jr.">Harry Shum, Jr.</a>, e <a href="/wiki/Naya_Rivera" title="Naya Rivera">Naya Rivera</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Heather teve seu primeiro filho no dia 28 de Setembro de 2013. O bebê se chama Elijah. <sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Em 11 de Fevereiro de 2016, Heather teve seu segundo filho Owen Barlett Hubbell.</p>
+<h2><span class="mw-headline" id="Filmografia">Filmografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heather_Morris&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Filmografia">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Heather_Morris&amp;action=edit&amp;section=2" title="Editar secção: Filmografia">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" border="2" cellpadding="4">
+<tr style="text-align:center;">
+<th colspan="4" style="background:#B0C4DE;">Video Clipes</th>
+</tr>
+<tr>
+<th style="background:#ccc;">Ano</th>
+<th style="background:#ccc;">Artista</th>
+<th style="background:#ccc;">Música</th>
+<th class="unsortable" style="background:#ccc;">Notas</th>
+</tr>
+<tr>
+<td rowspan="3">2008</td>
+<td><i>An-Ya</i></td>
+<td><i>Nightlife</i> <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+<td>Dançarina</td>
+</tr>
+<tr>
+<td><i>The White Tie Affair</i></td>
+<td><i>Allow Me To Introduce Myself...Mr. Right/Candle (Sick And Tired)</i><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td><i>Hit the Lights</i></td>
+<td><i>Drop the Girl</i> <sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i>Leo Moctezuma</i></td>
+<td><i>2 Da Left</i> <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+<td></td>
+</tr>
+</table>
+<table class="wikitable sortable" border="2" cellpadding="4">
+<tr style="text-align:center;">
+<th colspan="4" style="background:#B0C4DE;">Filmes</th>
+</tr>
+<tr>
+<th style="background:#ccc;">Ano</th>
+<th style="background:#ccc;">Nome</th>
+<th style="background:#ccc;">Papel</th>
+<th class="unsortable" style="background:#ccc;">Nota</th>
+</tr>
+<tr>
+<td>2008</td>
+<td><i><a href="/wiki/Bedtime_Stories_(filme)" title="Bedtime Stories (filme)">Bedtime Stories</a></i></td>
+<td>Dançarina</td>
+<td>Não creditada</td>
+</tr>
+<tr>
+<td>2009</td>
+<td><i><a href="/wiki/Fired_Up!" title="Fired Up!">Fired Up!</a></i></td>
+<td>Fiona</td>
+<td>Não creditada</td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Glee:_The_3D_Concert_Movie" title="Glee: The 3D Concert Movie">Glee: The 3D Concert Movie</a></i></td>
+<td><i><a href="/wiki/Brittany_Pierce" class="mw-redirect" title="Brittany Pierce">Brittany Pierce</a></i></td>
+<td></td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/Ice_Age:_Continental_Drift" title="Ice Age: Continental Drift">Ice Age: Continental Drift</a></i></td>
+<td>Katie</td>
+<td>Voz</td>
+</tr>
+<tr>
+<td>2013</td>
+<td><i><a href="/wiki/Spring_Breakers" title="Spring Breakers">Spring Breakers</a></i></td>
+<td>Bess</td>
+<td>Completo</td>
+</tr>
+<tr>
+<td rowspan="3">2015</td>
+<td><i>Horrible Parents</i></td>
+<td>Meg</td>
+<td>Curta</td>
+</tr>
+<tr>
+<td><i>Romantically Speaking</i></td>
+<td>Ariel Cookson</td>
+<td>Protagonista; Filme para TV</td>
+</tr>
+<tr>
+<td><i>Most Likely to Die</i></td>
+<td>Gaby</td>
+<td>Pós-Produção</td>
+</tr>
+<tr>
+<td>2016</td>
+<td><i>FolkyHero &amp; FunnyGuy</i></td>
+<td>Nicole</td>
+<td>Pós-Produção</td>
+</tr>
+</table>
+<table class="wikitable sortable" border="2" cellpadding="4">
+<tr style="text-align:center;">
+<th colspan="4" style="background:#B0C4DE;">Televisão</th>
+</tr>
+<tr>
+<th style="background:#ccc;">Ano</th>
+<th style="background:#ccc;">Nome</th>
+<th style="background:#ccc;">Papel</th>
+<th class="unsortable" style="background:#ccc;">Nota</th>
+</tr>
+<tr>
+<td>2007</td>
+<td><i><span style="display:none;">Beyoncé Experience, The</span><span class="vcard"><span class="fn"><a href="/wiki/The_Beyonc%C3%A9_Experience" title="The Beyoncé Experience">The Beyoncé Experience</a></span></span></i></td>
+<td>Dançarina</td>
+<td>DVD: <i><span style="display:none;">Beyoncé Experience Live, The</span><span class="vcard"><span class="fn"><a href="/wiki/The_Beyonc%C3%A9_Experience_Live" title="The Beyoncé Experience Live">The Beyoncé Experience Live</a></span></span></i></td>
+</tr>
+<tr>
+<td rowspan="2">2008</td>
+<td><i><a href="/wiki/Swingtown" title="Swingtown">Swingtown</a></i></td>
+<td>Dançarina</td>
+<td>Episódio: "Get Down Tonight"</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Eli_Stone" title="Eli Stone">Eli Stone</a></i></td>
+<td>Dançarina</td>
+<td>Episódios: "The Path" e "The Humanitarian"</td>
+</tr>
+<tr>
+<td>2009 - 2015</td>
+<td><i><a href="/wiki/Glee" title="Glee">Glee</a></i></td>
+<td><a href="/wiki/Brittany_Pierce" class="mw-redirect" title="Brittany Pierce">Brittany Pierce</a></td>
+<td>Elenco Principal</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><i><a href="/wiki/How_I_Met_Your_Mother" title="How I Met Your Mother">How I Met Your Mother</a></i></td>
+<td>Dançarina</td>
+<td>Episódio: <i>"Girls Versus Suits"</i></td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/Punk%27d" title="Punk'd">Punk'd</a></i></td>
+<td>Ela Mesma</td>
+<td>Episódio: <i>"Heather Morris"</i></td>
+</tr>
+</table>
+<h2><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heather_Morris&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Referências">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Heather_Morris&amp;action=edit&amp;section=3" title="Editar secção: Referências">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.californiabirthindex.org/birth/heather_elizabeth_morris_born_1987_18102027">«<span style="padding-left:0.2em;">"</span>Heather Elizabeth Morris, Born 02/01/1987 in California<span style="padding-right:0.2em;">"</span>»</a> (em inglês)<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Heather+Elizabeth+Morris%2C+Born+02%2F01%2F1987+in+California%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.californiabirthindex.org%2Fbirth%2Fheather_elizabeth_morris_born_1987_18102027&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20130927121317/http://www.news-de-stars.com/glee/glee-la-vie-des-acteurs-avant-la-serie_art49140.html">«<span style="padding-left:0.2em;">"</span>Glee&#160;: La vie des acteurs avant la série<span style="padding-right:0.2em;">"</span>»</a> (em francês)<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Glee+%3A+La+vie+des+acteurs+avant+la+s%C3%A9rie%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20130927121317%2Fhttp%3A%2F%2Fwww.news-de-stars.com%2Fglee%2Fglee-la-vie-des-acteurs-avant-la-serie_art49140.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web">«Beyonce- "Single Ladies" on <a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">Saturday Night Live</a>»&#160;<a rel="nofollow" class="external text" href="http://www.yungdrew.com/2008/11/16/beyonce-single-ladies-on-saturday-night-live-performance-video/">🔗</a> (em inglês)<span class="reference-accessdate">. Consultado em 5 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=Beyonce-+%22Single+Ladies%22+on+Saturday+Night+Live&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.yungdrew.com%2F2008%2F11%2F16%2Fbeyonce-single-ladies-on-saturday-night-live-performance-video%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20140105201336/http://www.dailymotion.com/video/x88t75_beyonce-tina-turner-introduction-pe_music">«<span style="padding-left:0.2em;">"</span>Beyonce - Tina Turner - Introduction Performance (Grammy 2008)<span style="padding-right:0.2em;">"</span>»</a> (em inglês)<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Beyonce+-+Tina+Turner+-+Introduction+Performance+%28Grammy+2008%29%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20140105201336%2Fhttp%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx88t75_beyonce-tina-turner-introduction-pe_music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/6Cq3NqJYq">«Star from Hit TV Show Visits Good Morning WNY»</a> (em íngles). WKBW News<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=Star+from+Hit+TV+Show+Visits+Good+Morning+WNY&amp;rft.genre=unknown&amp;rft.pub=WKBW+News&amp;rft_id=http%3A%2F%2Fwww.webcitation.org%2F6Cq3NqJYq&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33">&#160;!CS1 manut: Língua não reconhecida (<a href="/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida" title="Categoria:!CS1 manut: Língua não reconhecida">link</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usmagazine.com/entertainment/news/glees-heather-morris-my-dads-death-inspired-me-to-keep-dancing-2011111">«<span style="padding-left:0.2em;">"</span>Glee's Heather Morris: My Dad's Death Inspired Me to Keep Dancing<span style="padding-right:0.2em;">"</span>»</a> (em inglês). US Magazine<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Glee%27s+Heather+Morris%3A+My+Dad%27s+Death+Inspired+Me+to+Keep+Dancing%22&amp;rft.genre=unknown&amp;rft.pub=US+Magazine&amp;rft_id=http%3A%2F%2Fwww.usmagazine.com%2Fentertainment%2Fnews%2Fglees-heather-morris-my-dads-death-inspired-me-to-keep-dancing-2011111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aoltv.com/2010/09/28/heather-morris-five-facts-about-the-rising-glee-star/">«Heather Morris: Five Facts About the Rising Glee Star»</a> (em inglês). 20 de Setembro de 2010<span class="reference-accessdate">. Consultado em 3 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=Heather+Morris%3A+Five+Facts+About+the+Rising+Glee+Star&amp;rft.date=2010-09-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aoltv.com%2F2010%2F09%2F28%2Fheather-morris-five-facts-about-the-rising-glee-star%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.funnyordie.com/videos/a73c447356/nuthin-but-a-glee-thang-with-heather-morris-matthew-morrison-sofia-vergara?playlist=featured_videos">«Nuthin' But A Glee Thang with Heather Morris, Matthew Morrison &amp; Sofia Vergara from Heather Morris, Sofia Vergara, Matthew Morrison, Cory Monteith, Naya Rivera, Harry Shum Jr, Riki Lindhome, Ashley Lendzion, David Bernad, Isaac Hagy, BoTown Sound, Shauna O'Toole, Funny Or Die, Keith Schofield, Brian Mulchy, and Christin Trogan»</a>. Funnyordie.com. 22 de Março de 2011<span class="reference-accessdate">. Consultado em 9 de Novembro de 2011.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=Nuthin%27+But+A+Glee+Thang+with+Heather+Morris%2C+Matthew+Morrison+%26+Sofia+Vergara+from+Heather+Morris%2C+Sofia+Vergara%2C+Matthew+Morrison%2C+Cory+Monteith%2C+Naya+Rivera%2C+Harry+Shum+Jr%2C+Riki+Lindhome%2C+Ashley+Lendzion%2C+David+Bernad%2C+Isaac+Hagy%2C+BoTown+Sound%2C+Shauna+O%27Toole%2C+Funny+Or+Die%2C+Keith+Schofield%2C+Brian+Mulchy%2C+and+Christin+Trogan&amp;rft.date=2011-03-22&amp;rft.genre=unknown&amp;rft.pub=Funnyordie.com&amp;rft_id=http%3A%2F%2Fwww.funnyordie.com%2Fvideos%2Fa73c447356%2Fnuthin-but-a-glee-thang-with-heather-morris-matthew-morrison-sofia-vergara%3Fplaylist%3Dfeatured_videos&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ego.globo.com/criancas/noticia/2013/09/veja-primeira-foto-do-filho-de-heather-morris-de-glee.html">«<span style="padding-left:0.2em;">"</span>Veja a foto do primeiro filho de Heather Morris<span style="padding-right:0.2em;">"</span>»</a>. 30 de Setembro de 2013<span class="reference-accessdate">. Consultado em 1 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Veja+a+foto+do+primeiro+filho+de+Heather+Morris%22&amp;rft.date=2013-09-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fego.globo.com%2Fcriancas%2Fnoticia%2F2013%2F09%2Fveja-primeira-foto-do-filho-de-heather-morris-de-glee.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gleekbrasil.com/elenco/heather-morris/">«<span style="padding-left:0.2em;">"</span>Gleek Brasil: Heather Morris<span style="padding-right:0.2em;">"</span>»</a><span class="reference-accessdate">. Consultado em 1 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Gleek+Brasil%3A+Heather+Morris%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gleekbrasil.com%2Felenco%2Fheather-morris%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://youpretty.com.br/musica/musica-do-final-de-semana-the-white-tie-affair-allow-me-to-introduce-myself-mr-rightcandle/">«Allow Me To Introduce Myself...Mr. Right?/Candle (sick and Tired)»</a> (em inglês)<span class="reference-accessdate">. Consultado em 1 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=Allow+Me+To+Introduce+Myself...Mr.+Right%3F%2FCandle+%28sick+and+Tired%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fyoupretty.com.br%2Fmusica%2Fmusica-do-final-de-semana-the-white-tie-affair-allow-me-to-introduce-myself-mr-rightcandle%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gleekbrasil.com/elenco/heather-morris/">«<span style="padding-left:0.2em;">"</span>Gleek Brasil: Heather Morris<span style="padding-right:0.2em;">"</span>»</a><span class="reference-accessdate">. Consultado em 1 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=%22Gleek+Brasil%3A+Heather+Morris%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gleekbrasil.com%2Felenco%2Fheather-morris%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://vimeo.com/29332764">«2 Da Left - Leo Moctezuma Feat. Heather Morris &amp; Ashey Roberts»</a> (em inglês). Vimeo<span class="reference-accessdate">. Consultado em 1 de Maio de 2015.</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fpt.wikipedia.org%3AHeather+Morris&amp;rft.btitle=2+Da+Left+-+Leo+Moctezuma+Feat.+Heather+Morris+%26+Ashey+Roberts&amp;rft.genre=unknown&amp;rft.pub=Vimeo&amp;rft_id=https%3A%2F%2Fvimeo.com%2F29332764&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<table class="noprint" style="border-top:none; border-bottom:none; background:none;">
+<tr>
+<td align="center"><a href="/wiki/Ficheiro:P_culture.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/40px-P_culture.svg.png" width="40" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/60px-P_culture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/80px-P_culture.svg.png 2x" data-file-width="400" data-file-height="360" /></a></td>
+<td><i>Este artigo sobre uma <a href="/wiki/Ator" title="Ator">atriz</a> é um <a href="/wiki/Wikip%C3%A9dia:Esbo%C3%A7o" title="Wikipédia:Esboço">esboço</a>. Você pode ajudar a Wikipédia <span class="plainlinks" style="font-weight:bold;"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Heather_Morris&amp;action=edit">expandindo-o</a></span>.</i>
+<div class="noprint plainlinksneverexpand navbar plainlinks" style="background:none; padding:0; font-weight:normal;; font-size:xx-small; position:absolute; right:15px; font-size:smaller; display:none;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Esbo%C3%A7o-atriz" title="Predefinição:Esboço-atriz"><span title="Ver esta predefinição" style="">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Esbo%C3%A7o-atriz&amp;action=edit"><span title="Editar esta predefinição" style=";">e</span></a></div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox hlist noprint collapsible autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Glee" title="Predefinição:Glee"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Glee&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Glee" title="Glee"><i>Glee</i></a></span></th>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="2">
+<ul>
+<li><a href="/wiki/Ryan_Murphy" title="Ryan Murphy">Ryan Murphy</a></li>
+<li><a href="/wiki/Brad_Falchuk" title="Brad Falchuk">Brad Falchuk</a></li>
+<li><a href="/w/index.php?title=Ian_Brennan&amp;action=edit&amp;redlink=1" class="new" title="Ian Brennan (página não existe)">Ian Brennan</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Lista_de_epis%C3%B3dios_de_Glee" title="Lista de episódios de Glee">Episódios</a></th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>Temporada: <a href="/wiki/Glee_(primeira_temporada)" title="Glee (primeira temporada)">1</a></li>
+<li><a href="/wiki/Glee_(segunda_temporada)" title="Glee (segunda temporada)">2</a></li>
+<li><a href="/wiki/Glee_(terceira_temporada)" title="Glee (terceira temporada)">3</a></li>
+<li><a href="/wiki/Glee_(quarta_temporada)" title="Glee (quarta temporada)">4</a></li>
+<li><a href="/wiki/Glee_(quinta_temporada)" title="Glee (quinta temporada)">5</a></li>
+<li><a href="/wiki/Glee_(sexta_temporada)" title="Glee (sexta temporada)">6</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Lista_de_personagens_de_Glee" title="Lista de personagens de Glee">Personagens</a></th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><a href="/wiki/Artie_Abrams" class="mw-redirect" title="Artie Abrams">Artie Abrams</a></li>
+<li><a href="/wiki/Wade_%22Unique%22_Adams" class="mw-redirect" title="Wade &quot;Unique&quot; Adams">Unique Adams</a></li>
+<li><a href="/wiki/Blaine_Anderson" class="mw-redirect" title="Blaine Anderson">Blaine Anderson</a></li>
+<li><a href="/w/index.php?title=Sheldon_Beiste&amp;action=edit&amp;redlink=1" class="new" title="Sheldon Beiste (página não existe)">Sheldon Beiste</a></li>
+<li><a href="/wiki/Rachel_Berry" title="Rachel Berry">Rachel Berry</a></li>
+<li><a href="/wiki/Mike_Chang" class="mw-redirect" title="Mike Chang">Mike Chang</a></li>
+<li><a href="/wiki/Tina_Cohen-Chang" class="mw-redirect" title="Tina Cohen-Chang">Tina Cohen-Chang</a></li>
+<li><a href="/wiki/Shelby_Corcoran" class="mw-redirect" title="Shelby Corcoran">Shelby Corcoran</a></li>
+<li><a href="/wiki/Sam_Evans" class="mw-redirect" title="Sam Evans">Sam Evans</a></li>
+<li><a href="/wiki/Quinn_Fabray" class="mw-redirect" title="Quinn Fabray">Quinn Fabray</a></li>
+<li><a href="/wiki/Rory_Flanagan" class="mw-redirect" title="Rory Flanagan">Rory Flanagan</a></li>
+<li><a href="/wiki/Joe_Hart" title="Joe Hart">Joe Hart</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Jane_Hayward" title="Lista de personagens de Glee">Jane Hayward</a></li>
+<li><a href="/w/index.php?title=Holly_Holliday&amp;action=edit&amp;redlink=1" class="new" title="Holly Holliday (página não existe)">Holly Holliday</a></li>
+<li><a href="/wiki/Finn_Hudson" class="mw-redirect" title="Finn Hudson">Finn Hudson</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Burt_Hummel" title="Lista de personagens de Glee">Burt Hummel</a></li>
+<li><a href="/wiki/Kurt_Hummel" class="mw-redirect" title="Kurt Hummel">Kurt Hummel</a></li>
+<li><a href="/w/index.php?title=Becky_Jackson&amp;action=edit&amp;redlink=1" class="new" title="Becky Jackson (página não existe)">Becky Jackson</a></li>
+<li><a href="/wiki/Mercedes_Jones" class="mw-redirect" title="Mercedes Jones">Mercedes Jones</a></li>
+<li><a href="/w/index.php?title=Dave_Karofsky&amp;action=edit&amp;redlink=1" class="new" title="Dave Karofsky (página não existe)">Dave Karofsky</a></li>
+<li><a href="/wiki/Santana_Lopez" title="Santana Lopez">Santana Lopez</a></li>
+<li><a href="/wiki/Ryder_Lynn" class="mw-redirect" title="Ryder Lynn">Ryder Lynn</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Madison_McCarthy" title="Lista de personagens de Glee">Madison McCarthy</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Mason_McCarthy" title="Lista de personagens de Glee">Mason McCarthy</a></li>
+<li><a href="/wiki/Sugar_Motta" class="mw-redirect" title="Sugar Motta">Sugar Motta</a></li>
+<li><a href="/wiki/Brittany_Pierce" class="mw-redirect" title="Brittany Pierce">Brittany Pierce</a></li>
+<li><a href="/wiki/Emma_Pillsbury" class="mw-redirect" title="Emma Pillsbury">Emma Pillsbury</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Spencer_Porter" title="Lista de personagens de Glee">Spencer Porter</a></li>
+<li><a href="/wiki/Jake_Puckerman" class="mw-redirect" title="Jake Puckerman">Jake Puckerman</a></li>
+<li><a href="/wiki/Noah_Puckerman" class="mw-redirect" title="Noah Puckerman">Noah Puckerman</a></li>
+<li><a href="/w/index.php?title=April_Rhodes&amp;action=edit&amp;redlink=1" class="new" title="April Rhodes (página não existe)">April Rhodes</a></li>
+<li><a href="/wiki/Marley_Rose" class="mw-redirect" title="Marley Rose">Marley Rose</a></li>
+<li><a href="/wiki/Terri_Schuester" class="mw-redirect" title="Terri Schuester">Terri Schuester</a></li>
+<li><a href="/wiki/Will_Schuester" class="mw-redirect" title="Will Schuester">Will Schuester</a></li>
+<li><a href="/wiki/Sue_Sylvester" class="mw-redirect" title="Sue Sylvester">Sue Sylvester</a></li>
+<li><a href="/wiki/Kitty_Wilde" class="mw-redirect" title="Kitty Wilde">Kitty Wilde</a></li>
+<li><a href="/wiki/Lauren_Zizes" class="mw-redirect" title="Lauren Zizes">Lauren Zizes</a></li>
+<li><a href="/wiki/Lista_de_personagens_de_Glee#Roderick" title="Lista de personagens de Glee">Roderick</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Discografia_de_Glee" title="Discografia de Glee">Canções</a></th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>Temporada: <a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(1%C2%AA_temporada)" title="Lista de canções em Glee (1ª temporada)">1</a></li>
+<li><a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(2%C2%AA_temporada)" title="Lista de canções em Glee (2ª temporada)">2</a></li>
+<li><a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(3%C2%AA_temporada)" title="Lista de canções em Glee (3ª temporada)">3</a></li>
+<li><a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(4%C2%AA_temporada)" title="Lista de canções em Glee (4ª temporada)">4</a></li>
+<li><a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(5%C2%AA_temporada)" title="Lista de canções em Glee (5ª temporada)">5</a></li>
+<li><a href="/wiki/Lista_de_can%C3%A7%C3%B5es_em_Glee_(6%C2%AA_temporada)" title="Lista de canções em Glee (6ª temporada)">6</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/w/index.php?title=Elenco_de_Glee&amp;action=edit&amp;redlink=1" class="new" title="Elenco de Glee (página não existe)">Elenco de Glee</a></th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><a href="/wiki/Dianna_Agron" title="Dianna Agron">Dianna Agron</a></li>
+<li><a href="/wiki/Lea_Michele" title="Lea Michele">Lea Michele</a></li>
+<li><a href="/wiki/Chris_Colfer" title="Chris Colfer">Chris Colfer</a></li>
+<li><a href="/wiki/Cory_Monteith" title="Cory Monteith">Cory Monteith</a></li>
+<li><a href="/wiki/Kevin_McHale_(ator)" title="Kevin McHale (ator)">Kevin McHale</a></li>
+<li><a href="/wiki/Amber_Riley" title="Amber Riley">Amber Riley</a></li>
+<li><a href="/wiki/Jenna_Ushkowitz" title="Jenna Ushkowitz">Jenna Ushkowitz</a></li>
+<li><a href="/wiki/Jane_Lynch" title="Jane Lynch">Jane Lynch</a></li>
+<li><a href="/wiki/Matthew_Morrison" title="Matthew Morrison">Matthew Morrison</a></li>
+<li><a href="/wiki/Jayma_Mays" title="Jayma Mays">Jayma Mays</a></li>
+<li><a href="/wiki/Harry_Shum_Jr." title="Harry Shum Jr.">Harry Shum Jr.</a></li>
+<li><a href="/wiki/Mark_Salling" title="Mark Salling">Mark Salling</a></li>
+<li><a href="/wiki/Naya_Rivera" title="Naya Rivera">Naya Rivera</a></li>
+<li><a class="mw-selflink selflink">Heather Morris</a></li>
+<li><a href="/w/index.php?title=Iqbal_Theba&amp;action=edit&amp;redlink=1" class="new" title="Iqbal Theba (página não existe)">Iqbal Theba</a></li>
+<li><a href="/wiki/Lauren_Potter" title="Lauren Potter">Lauren Potter</a></li>
+<li><a href="/wiki/Mike_O%27Malley" title="Mike O'Malley">Mike O'Malley</a></li>
+<li><a href="/wiki/Romy_Rosemont" title="Romy Rosemont">Romy Rosemont</a></li>
+<li><a href="/w/index.php?title=Dijon_Talton&amp;action=edit&amp;redlink=1" class="new" title="Dijon Talton (página não existe)">Dijon Talton</a></li>
+<li><a href="/wiki/Darren_Criss" title="Darren Criss">Darren Criss</a></li>
+<li><a href="/w/index.php?title=Dot-Marie_Jones&amp;action=edit&amp;redlink=1" class="new" title="Dot-Marie Jones (página não existe)">Dot-Marie Jones</a></li>
+<li><a href="/wiki/Grant_Gustin" title="Grant Gustin">Grant Gustin</a></li>
+<li><a href="/wiki/Chord_Overstreet" title="Chord Overstreet">Chord Overstreet</a></li>
+<li><a href="/wiki/Ashley_Fink" title="Ashley Fink">Ashley Fink</a></li>
+<li><a href="/wiki/Grant_Gustin" title="Grant Gustin">Grant Gustin</a></li>
+<li><a href="/wiki/Melissa_Benoist" title="Melissa Benoist">Melissa Benoist</a></li>
+<li><a href="/wiki/Blake_Jenner" title="Blake Jenner">Blake Jenner</a></li>
+<li><a href="/wiki/Jacob_Artist" title="Jacob Artist">Jacob Artist</a></li>
+<li><a href="/wiki/Becca_Tobin" title="Becca Tobin">Becca Tobin</a></li>
+<li><a href="/wiki/Alex_Newell" title="Alex Newell">Alex Newell</a></li>
+<li><a href="/w/index.php?title=Billy_Lewis_Jr.&amp;action=edit&amp;redlink=1" class="new" title="Billy Lewis Jr. (página não existe)">Billy Lewis Jr.</a></li>
+<li><a href="/w/index.php?title=Samantha_Marie_Ware&amp;action=edit&amp;redlink=1" class="new" title="Samantha Marie Ware (página não existe)">Samantha Marie Ware</a></li>
+<li><a href="/w/index.php?title=Noah_Guthrie&amp;action=edit&amp;redlink=1" class="new" title="Noah Guthrie (página não existe)">Noah Guthrie</a></li>
+<li><a href="/w/index.php?title=Laura_Dreyfuss&amp;action=edit&amp;redlink=1" class="new" title="Laura Dreyfuss (página não existe)">Laura Dreyfuss</a></li>
+<li><a href="/wiki/Marshall_Williams" title="Marshall Williams">Marshall Williams</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Artigos relacionados</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>"<a href="/wiki/Don%27t_Stop_Believin%27" title="Don't Stop Believin'">Don't Stop Believin'</a></li>
+<li>"<a href="/wiki/Elementary_School_Musical" title="Elementary School Musical">Elementary School Musical</a>" <small>(<i><a href="/wiki/The_Simpsons" class="mw-redirect" title="The Simpsons">The Simpsons</a></i>)</small></li>
+<li><a href="/wiki/Glee_Live!_In_Concert!" title="Glee Live! In Concert!">Glee Live! In Concert!</a></li>
+<li><i><a href="/wiki/The_Glee_Project" title="The Glee Project">The Glee Project</a></i></li>
+<li><i><a href="/wiki/Glee:_The_3D_Concert_Movie" title="Glee: The 3D Concert Movie">Glee: The 3D Concert Movie</a></i></li>
+<li>"<a href="/w/index.php?title=How_Do_You_Solve_a_Problem_Like_Roberta%3F&amp;action=edit&amp;redlink=1" class="new" title="How Do You Solve a Problem Like Roberta? (página não existe)">How Do You Solve a Problem Like Roberta?</a>" <small>(<i><a href="/wiki/The_Cleveland_Show" title="The Cleveland Show">The Cleveland Show</a></i>)</small></li>
+<li>"<a href="/w/index.php?title=Regional_Holiday_Music&amp;action=edit&amp;redlink=1" class="new" title="Regional Holiday Music (página não existe)">Regional Holiday Music</a>" <small>(<i><a href="/wiki/Community" title="Community">Community</a></i>)</small></li>
+<li>"<a href="/w/index.php?title=See_the_USA_in_Your_Chevrolet&amp;action=edit&amp;redlink=1" class="new" title="See the USA in Your Chevrolet (página não existe)">See the USA in Your Chevrolet</a>"</li>
+<li><i><a href="/w/index.php?title=This_Ain%27t_Glee_XXX&amp;action=edit&amp;redlink=1" class="new" title="This Ain't Glee XXX (página não existe)">This Ain't Glee XXX</a></i></li>
+<li>"<a href="/w/index.php?title=Viewing_Party&amp;action=edit&amp;redlink=1" class="new" title="Viewing Party (página não existe)">Viewing Party</a>" <small>(<i><a href="/wiki/The_Office" title="The Office">The Office</a></i>)</small></li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/w/index.php?title=Predefini%C3%A7%C3%A3o:Glee_episodes&amp;action=edit&amp;redlink=1" class="new" title="Predefinição:Glee episodes (página não existe)"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Glee_episodes&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Lista_de_epis%C3%B3dios_de_Glee" title="Lista de episódios de Glee">episódios</a> de <i><a href="/wiki/Glee" title="Glee">Glee</a></i></span></th>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">1ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>"<a href="/wiki/Pilot_(Glee)" title="Pilot (Glee)">Pilot</a>"</li>
+<li>"<a href="/wiki/Showmance" title="Showmance">Showmance</a>"</li>
+<li>"<a href="/wiki/Acafellas" title="Acafellas">Acafellas</a>"</li>
+<li>"<a href="/wiki/Preggers" title="Preggers">Preggers</a>"</li>
+<li>"<a href="/wiki/The_Rhodes_Not_Taken" title="The Rhodes Not Taken">The Rhodes Not Taken</a>"</li>
+<li>"<a href="/wiki/Vitamin_D" title="Vitamin D">Vitamin D</a>"</li>
+<li>"<a href="/w/index.php?title=Throwdown&amp;action=edit&amp;redlink=1" class="new" title="Throwdown (página não existe)">Throwdown</a>"</li>
+<li>"<a href="/w/index.php?title=Mash-Up&amp;action=edit&amp;redlink=1" class="new" title="Mash-Up (página não existe)">Mash-Up</a>"</li>
+<li>"<a href="/wiki/Wheels" title="Wheels">Wheels</a>"</li>
+<li>"<a href="/wiki/Ballad" class="mw-disambig" title="Ballad">Ballad</a>"</li>
+<li>"<a href="/w/index.php?title=Hairography&amp;action=edit&amp;redlink=1" class="new" title="Hairography (página não existe)">Hairography</a>"</li>
+<li>"<a href="/w/index.php?title=Mattress&amp;action=edit&amp;redlink=1" class="new" title="Mattress (página não existe)">Mattress</a>"</li>
+<li>"<a href="/w/index.php?title=Sectionals&amp;action=edit&amp;redlink=1" class="new" title="Sectionals (página não existe)">Sectionals</a>"</li>
+<li>"<a href="/w/index.php?title=Hell-O&amp;action=edit&amp;redlink=1" class="new" title="Hell-O (página não existe)">Hell-O</a>"</li>
+<li>"<a href="/w/index.php?title=The_Power_of_Madonna&amp;action=edit&amp;redlink=1" class="new" title="The Power of Madonna (página não existe)">The Power of Madonna</a>"</li>
+<li>"<a href="/wiki/Home" class="mw-disambig" title="Home">Home</a>"</li>
+<li>"<a href="/w/index.php?title=Bad_Reputation_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Bad Reputation (Glee) (página não existe)">Bad Reputation</a>"</li>
+<li>"<a href="/w/index.php?title=Laryngitis_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Laryngitis (Glee) (página não existe)">Laryngitis</a>"</li>
+<li>"<a href="/wiki/Dream_On" title="Dream On">Dream On</a>"</li>
+<li>"<a href="/w/index.php?title=Theatricality&amp;action=edit&amp;redlink=1" class="new" title="Theatricality (página não existe)">Theatricality</a>"</li>
+<li>"<a href="/wiki/Funk" title="Funk">Funk</a>"</li>
+<li>"<a href="/w/index.php?title=Journey_to_Regionals&amp;action=edit&amp;redlink=1" class="new" title="Journey to Regionals (página não existe)">Journey to Regionals</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">2ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li>"<a href="/w/index.php?title=Audition_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Audition (Glee) (página não existe)">Audition</a>"</li>
+<li>"<a href="/wiki/Britney/Brittany" title="Britney/Brittany">Britney/Brittany</a>"</li>
+<li>"<a href="/wiki/Grilled_Cheesus" class="mw-redirect" title="Grilled Cheesus">Grilled Cheesus</a>"</li>
+<li>"<a href="/w/index.php?title=Duets_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Duets (Glee) (página não existe)">Duets</a>"</li>
+<li>"<a href="/w/index.php?title=The_Rocky_Horror_Glee_Show&amp;action=edit&amp;redlink=1" class="new" title="The Rocky Horror Glee Show (página não existe)">The Rocky Horror Glee Show</a>"</li>
+<li>"<a href="/w/index.php?title=Never_Been_Kissed_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Never Been Kissed (Glee) (página não existe)">Never Been Kissed</a>"</li>
+<li>"<a href="/w/index.php?title=The_Substitute_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="The Substitute (Glee) (página não existe)">The Substitute</a>"</li>
+<li>"<a href="/w/index.php?title=Furt&amp;action=edit&amp;redlink=1" class="new" title="Furt (página não existe)">Furt</a>"</li>
+<li>"<a href="/w/index.php?title=Special_Education_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Special Education (Glee) (página não existe)">Special Education</a>"</li>
+<li>"<a href="/w/index.php?title=A_Very_Glee_Christmas&amp;action=edit&amp;redlink=1" class="new" title="A Very Glee Christmas (página não existe)">A Very Glee Christmas</a>"</li>
+<li>"<a href="/w/index.php?title=The_Sue_Sylvester_Shuffle&amp;action=edit&amp;redlink=1" class="new" title="The Sue Sylvester Shuffle (página não existe)">The Sue Sylvester Shuffle</a>"</li>
+<li>"<a href="/w/index.php?title=Silly_Love_Songs_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Silly Love Songs (Glee) (página não existe)">Silly Love Songs</a>"</li>
+<li>"<a href="/w/index.php?title=Comeback_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Comeback (Glee) (página não existe)">Comeback</a>"</li>
+<li>"<a href="/w/index.php?title=Blame_It_on_the_Alcohol&amp;action=edit&amp;redlink=1" class="new" title="Blame It on the Alcohol (página não existe)">Blame It on the Alcohol</a>"</li>
+<li>"<a href="/w/index.php?title=Sexy_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Sexy (Glee) (página não existe)">Sexy</a>"</li>
+<li>"<a href="/w/index.php?title=Original_Song&amp;action=edit&amp;redlink=1" class="new" title="Original Song (página não existe)">Original Song</a>"</li>
+<li>"<a href="/w/index.php?title=A_Night_of_Neglect&amp;action=edit&amp;redlink=1" class="new" title="A Night of Neglect (página não existe)">A Night of Neglect</a>"</li>
+<li>"<a href="/w/index.php?title=Born_This_Way_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Born This Way (Glee) (página não existe)">Born This Way</a>"</li>
+<li>"<a href="/w/index.php?title=Rumours_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Rumours (Glee) (página não existe)">Rumours</a>"</li>
+<li>"<a href="/w/index.php?title=Prom_Queen_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Prom Queen (Glee) (página não existe)">Prom Queen</a>"</li>
+<li>"<a href="/w/index.php?title=Funeral_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Funeral (Glee) (página não existe)">Funeral</a>"</li>
+<li>"<a href="/w/index.php?title=New_York_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="New York (Glee) (página não existe)">New York</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">3ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>"<a href="/w/index.php?title=The_Purple_Piano_Project&amp;action=edit&amp;redlink=1" class="new" title="The Purple Piano Project (página não existe)">The Purple Piano Project</a>"</li>
+<li>"<a href="/w/index.php?title=I_Am_Unicorn&amp;action=edit&amp;redlink=1" class="new" title="I Am Unicorn (página não existe)">I Am Unicorn</a>"</li>
+<li>"<a href="/w/index.php?title=Asian_F&amp;action=edit&amp;redlink=1" class="new" title="Asian F (página não existe)">Asian F</a>"</li>
+<li>"<a href="/w/index.php?title=Pot_O%27_Gold&amp;action=edit&amp;redlink=1" class="new" title="Pot O' Gold (página não existe)">Pot O' Gold</a>"</li>
+<li>"<a href="/wiki/The_First_Time" title="The First Time">The First Time</a>"</li>
+<li>"<a href="/w/index.php?title=Mash_Off&amp;action=edit&amp;redlink=1" class="new" title="Mash Off (página não existe)">Mash Off</a>"</li>
+<li>"<a href="/w/index.php?title=I_Kissed_a_Girl_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="I Kissed a Girl (Glee) (página não existe)">I Kissed a Girl</a>"</li>
+<li>"<a href="/w/index.php?title=Hold_On_to_Sixteen&amp;action=edit&amp;redlink=1" class="new" title="Hold On to Sixteen (página não existe)">Hold On to Sixteen</a>"</li>
+<li>"<a href="/w/index.php?title=Extraordinary_Merry_Christmas&amp;action=edit&amp;redlink=1" class="new" title="Extraordinary Merry Christmas (página não existe)">Extraordinary Merry Christmas</a>"</li>
+<li>"<a href="/w/index.php?title=Yes/No&amp;action=edit&amp;redlink=1" class="new" title="Yes/No (página não existe)">Yes/No</a>"</li>
+<li>"<a href="/w/index.php?title=Michael_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Michael (Glee) (página não existe)">Michael</a>"</li>
+<li>"<a href="/w/index.php?title=The_Spanish_Teacher&amp;action=edit&amp;redlink=1" class="new" title="The Spanish Teacher (página não existe)">The Spanish Teacher</a>"</li>
+<li>"<a href="/w/index.php?title=Heart_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Heart (Glee) (página não existe)">Heart</a>"</li>
+<li>"<a href="/wiki/On_My_Way" title="On My Way">On My Way</a>"</li>
+<li>"<a href="/w/index.php?title=Big_Brother_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Big Brother (Glee) (página não existe)">Big Brother</a>"</li>
+<li>"<a href="/w/index.php?title=Saturday_Night_Glee-ver&amp;action=edit&amp;redlink=1" class="new" title="Saturday Night Glee-ver (página não existe)">Saturday Night Glee-ver</a>"</li>
+<li>"<a href="/w/index.php?title=DDance_with_Somebody&amp;action=edit&amp;redlink=1" class="new" title="DDance with Somebody (página não existe)">DDance with Somebody</a>"</li>
+<li>"<a href="/wiki/Choke" class="mw-disambig" title="Choke">Choke</a>"</li>
+<li>"<a href="/w/index.php?title=Prom-asaurus&amp;action=edit&amp;redlink=1" class="new" title="Prom-asaurus (página não existe)">Prom-asaurus</a>"</li>
+<li>"<a href="/w/index.php?title=Props&amp;action=edit&amp;redlink=1" class="new" title="Props (página não existe)">Props</a>"</li>
+<li>"<a href="/w/index.php?title=Nationals&amp;action=edit&amp;redlink=1" class="new" title="Nationals (página não existe)">Nationals</a>"</li>
+<li>"<a href="/w/index.php?title=Goodbye_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Goodbye (Glee) (página não existe)">Goodbye</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">4ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li>"<a href="/w/index.php?title=The_New_Rachel&amp;action=edit&amp;redlink=1" class="new" title="The New Rachel (página não existe)">The New Rachel</a>"</li>
+<li>"<a href="/wiki/Britney_2.0" title="Britney 2.0">Britney 2.0</a>"</li>
+<li>"<a href="/w/index.php?title=Makeover_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Makeover (Glee) (página não existe)">Makeover</a>"</li>
+<li>"<a href="/w/index.php?title=The_Break_Up&amp;action=edit&amp;redlink=1" class="new" title="The Break Up (página não existe)">The Break Up</a>"</li>
+<li>"<a href="/w/index.php?title=The_Role_You_Were_Born_to_Play&amp;action=edit&amp;redlink=1" class="new" title="The Role You Were Born to Play (página não existe)">The Role You Were Born to Play</a>"</li>
+<li>"<a href="/w/index.php?title=Glease&amp;action=edit&amp;redlink=1" class="new" title="Glease (página não existe)">Glease</a>"</li>
+<li>"<a href="/w/index.php?title=Dynamic_Duets&amp;action=edit&amp;redlink=1" class="new" title="Dynamic Duets (página não existe)">Dynamic Duets</a>"</li>
+<li>"<a href="/w/index.php?title=Thanksgiving_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Thanksgiving (Glee) (página não existe)">Thanksgiving</a>"</li>
+<li>"<a href="/w/index.php?title=Swan_Song_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Swan Song (Glee) (página não existe)">Swan Song</a>"</li>
+<li>"<a href="/w/index.php?title=Glee,_Actually&amp;action=edit&amp;redlink=1" class="new" title="Glee, Actually (página não existe)">Glee, Actually</a>"</li>
+<li>"<a href="/w/index.php?title=Sadie_Hawkins_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Sadie Hawkins (Glee) (página não existe)">Sadie Hawkins</a>"</li>
+<li>"<a href="/w/index.php?title=Naked_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Naked (Glee) (página não existe)">Naked</a>"</li>
+<li>"<a href="/w/index.php?title=Diva_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Diva (Glee) (página não existe)">Diva</a>"</li>
+<li>"<a href="/w/index.php?title=I_Do_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="I Do (Glee) (página não existe)">I Do</a>"</li>
+<li>"<a href="/w/index.php?title=Girls_(and_Boys)_On_Film&amp;action=edit&amp;redlink=1" class="new" title="Girls (and Boys) On Film (página não existe)">Girls (and Boys) On Film</a>"</li>
+<li>"<a href="/w/index.php?title=Feud_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Feud (Glee) (página não existe)">Feud</a>"</li>
+<li>"<a href="/w/index.php?title=Guilty_Pleasures_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Guilty Pleasures (Glee) (página não existe)">Guilty Pleasures</a>"</li>
+<li>"<a href="/wiki/Shooting_Star" class="mw-disambig" title="Shooting Star">Shooting Star</a>"</li>
+<li>"<a href="/w/index.php?title=Sweet_Dreams_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Sweet Dreams (Glee) (página não existe)">Sweet Dreams</a>"</li>
+<li>"<a href="/w/index.php?title=Lights_Out_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Lights Out (Glee) (página não existe)">Lights Out</a>"</li>
+<li>"<a href="/w/index.php?title=Wonder-ful&amp;action=edit&amp;redlink=1" class="new" title="Wonder-ful (página não existe)">Wonder-ful</a>"</li>
+<li>"<a href="/w/index.php?title=All_or_Nothing_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="All or Nothing (Glee) (página não existe)">All or Nothing</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">5ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li>"<a href="/w/index.php?title=Love,_Love,_Love_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Love, Love, Love (Glee) (página não existe)">Love, Love, Love</a>"</li>
+<li>"<a href="/w/index.php?title=Tina_in_the_Sky_with_Diamonds&amp;action=edit&amp;redlink=1" class="new" title="Tina in the Sky with Diamonds (página não existe)">Tina in the Sky with Diamonds</a>"</li>
+<li>"<a href="/w/index.php?title=The_Quarterback&amp;action=edit&amp;redlink=1" class="new" title="The Quarterback (página não existe)">The Quarterback</a>"</li>
+<li>"<a href="/w/index.php?title=A_Katy_or_a_Gaga&amp;action=edit&amp;redlink=1" class="new" title="A Katy or a Gaga (página não existe)">A Katy or a Gaga</a>"</li>
+<li>"<a href="/w/index.php?title=The_End_of_Twerk&amp;action=edit&amp;redlink=1" class="new" title="The End of Twerk (página não existe)">The End of Twerk</a>"</li>
+<li>"<a href="/w/index.php?title=Movin%27_Out_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Movin' Out (Glee) (página não existe)">Movin' Out</a>"</li>
+<li>"<a href="/w/index.php?title=Puppet_Master_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Puppet Master (Glee) (página não existe)">Puppet Master</a>"</li>
+<li>"<a href="/w/index.php?title=Previously_Unaired_Christmas&amp;action=edit&amp;redlink=1" class="new" title="Previously Unaired Christmas (página não existe)">Previously Unaired Christmas</a>"</li>
+<li>"<a href="/wiki/Frenemies" class="mw-redirect" title="Frenemies">Frenemies</a>"</li>
+<li>"<a href="/w/index.php?title=Trio_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Trio (Glee) (página não existe)">Trio</a>"</li>
+<li>"<a href="/w/index.php?title=City_of_Angels_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="City of Angels (Glee) (página não existe)">City of Angels</a>"</li>
+<li>"<a href="/w/index.php?title=100_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="100 (Glee) (página não existe)">100</a>"</li>
+<li>"<a href="/w/index.php?title=New_Directions_(epis%C3%B3dio_de_Glee)&amp;action=edit&amp;redlink=1" class="new" title="New Directions (episódio de Glee) (página não existe)">New Directions</a>"</li>
+<li>"<a href="/w/index.php?title=New_New_York&amp;action=edit&amp;redlink=1" class="new" title="New New York (página não existe)">New New York</a>"</li>
+<li>"<a href="/w/index.php?title=Bash_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Bash (Glee) (página não existe)">Bash</a>"</li>
+<li>"<a href="/w/index.php?title=Tested_(Glee)&amp;action=edit&amp;redlink=1" class="new" title="Tested (Glee) (página não existe)">Tested</a>"</li>
+<li>"<a href="/w/index.php?title=Opening_Night&amp;action=edit&amp;redlink=1" class="new" title="Opening Night (página não existe)">Opening Night</a>"</li>
+<li>"<a href="/w/index.php?title=Back-up_Plan&amp;action=edit&amp;redlink=1" class="new" title="Back-up Plan (página não existe)">Back-up Plan</a>"</li>
+<li>"<a href="/w/index.php?title=Old_Dog,_New_Tricks&amp;action=edit&amp;redlink=1" class="new" title="Old Dog, New Tricks (página não existe)">Old Dog, New Tricks</a>"</li>
+<li>"<a href="/w/index.php?title=The_Untitled_Rachel_Berry_Project&amp;action=edit&amp;redlink=1" class="new" title="The Untitled Rachel Berry Project (página não existe)">The Untitled Rachel Berry Project</a>"</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">6ª Temporada</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li>"<a href="/w/index.php?title=Loser_Like_Me_(epis%C3%B3dio_de_Glee)&amp;action=edit&amp;redlink=1" class="new" title="Loser Like Me (episódio de Glee) (página não existe)">Loser Like Me</a>"</li>
+<li>"<a href="/wiki/Homecoming_(Glee)" title="Homecoming (Glee)">Homecoming</a>"</li>
+<li>"<a href="/w/index.php?title=Jagged_Little_Tapestry&amp;action=edit&amp;redlink=1" class="new" title="Jagged Little Tapestry (página não existe)">Jagged Little Tapestry</a>"</li>
+<li>"<a href="/wiki/The_Hurt_Locker,_Part_One" title="The Hurt Locker, Part One">The Hurt Locker, Part One</a>"</li>
+<li>"<a href="/w/index.php?title=The_Hurt_Locker,_Part_Two&amp;action=edit&amp;redlink=1" class="new" title="The Hurt Locker, Part Two (página não existe)">The Hurt Locker, Part Two</a>"</li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<table class="navbox hlist noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;">
+<tr>
+<th colspan="2" style="text-align:center;width:100%;background: #ABCDEF;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;background: #ABCDEF;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:SAG_de_melhor_elenco_em_s%C3%A9rie_de_com%C3%A9dia" title="Predefinição:SAG de melhor elenco em série de comédia"><span class="plainlinks" title="Ver esta predefinição" style="background: #ABCDEF;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:SAG_de_melhor_elenco_em_s%C3%A9rie_de_com%C3%A9dia&amp;action=edit"><span title="Editar esta predefinição" style="background: #ABCDEF;;border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;"><a href="/wiki/Pr%C3%A9mios_Screen_Actors_Guild" title="Prémios Screen Actors Guild">Prémio Screen Actors Guild</a> de <a href="/wiki/Pr%C3%A9mio_Screen_Actors_Guild_para_melhor_elenco_em_s%C3%A9rie_de_com%C3%A9dia" title="Prémio Screen Actors Guild para melhor elenco em série de comédia">Melhor Elenco em Série de televisão - Comédia</a></span></th>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;" colspan="2"><i>Os títulos (quando diferentes) estão apresentados nas suas versões no <a href="/wiki/Brasil" title="Brasil">Brasil</a> e em <a href="/wiki/Portugal" title="Portugal">Portugal</a>, respectivamente.</i></td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #ABCDEF;">1994-1999</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<div>
+<ul>
+<li><i><b><a href="/wiki/Seinfeld" title="Seinfeld">Seinfeld</a></b></i> (1994): <a href="/wiki/Jason_Alexander" title="Jason Alexander">Alexander</a>; <a href="/wiki/Julia_Louis-Dreyfus" title="Julia Louis-Dreyfus">Louis-Dreyfus</a>; <a href="/wiki/Michael_Richards" title="Michael Richards">Richards</a>; <a href="/wiki/Jerry_Seinfeld" title="Jerry Seinfeld">Seinfeld</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Friends" title="Friends">Friends</a></b></i> (1995): <a href="/wiki/Jennifer_Aniston" title="Jennifer Aniston">Aniston</a>; <a href="/wiki/Courteney_Cox" title="Courteney Cox">Cox</a>; <a href="/wiki/Lisa_Kudrow" title="Lisa Kudrow">Kudrow</a>; <a href="/wiki/Matt_LeBlanc" title="Matt LeBlanc">LeBlanc</a>; <a href="/wiki/Matthew_Perry" title="Matthew Perry">Perry</a>; <a href="/wiki/David_Schwimmer" title="David Schwimmer">Schwimmer</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Seinfeld" title="Seinfeld">Seinfeld</a></b></i> (1996): <a href="/wiki/Jason_Alexander" title="Jason Alexander">Alexander</a>; <a href="/wiki/Julia_Louis-Dreyfus" title="Julia Louis-Dreyfus">Louis-Dreyfus</a>; <a href="/wiki/Michael_Richards" title="Michael Richards">Richards</a>; <a href="/wiki/Jerry_Seinfeld" title="Jerry Seinfeld">Seinfeld</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Seinfeld" title="Seinfeld">Seinfeld</a></b></i> (1997): <a href="/wiki/Jason_Alexander" title="Jason Alexander">Alexander</a>; <a href="/wiki/Julia_Louis-Dreyfus" title="Julia Louis-Dreyfus">Louis-Dreyfus</a>; <a href="/wiki/Michael_Richards" title="Michael Richards">Richards</a>; <a href="/wiki/Jerry_Seinfeld" title="Jerry Seinfeld">Seinfeld</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Ally_McBeal" title="Ally McBeal">Ally McBeal</a></b></i> (1998): <a href="/wiki/Gil_Bellows" title="Gil Bellows">Bellows</a>; <a href="/w/index.php?title=Lisa_Nicole_Carson&amp;action=edit&amp;redlink=1" class="new" title="Lisa Nicole Carson (página não existe)">Carson</a>; <a href="/wiki/Portia_de_Rossi" title="Portia de Rossi">de Rossi</a>; <a href="/wiki/Calista_Flockhart" title="Calista Flockhart">Flockhart</a>; <a href="/w/index.php?title=Greg_Germann&amp;action=edit&amp;redlink=1" class="new" title="Greg Germann (página não existe)">Germann</a>; <a href="/wiki/Jane_Krakowski" title="Jane Krakowski">Krakowski</a>; <a href="/wiki/Lucy_Liu" title="Lucy Liu">Liu</a>; <a href="/wiki/Peter_MacNicol" title="Peter MacNicol">MacNicol</a>; <a href="/wiki/Vonda_Shepard" title="Vonda Shepard">Shepard</a>; <a href="/wiki/Courtney_Thorne-Smith" title="Courtney Thorne-Smith">Thorne-Smith</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Frasier" title="Frasier">Frasier</a></b></i> (1999): <a href="/wiki/Dan_Butler" title="Dan Butler">Butler</a>; <a href="/w/index.php?title=Peri_Gilpin&amp;action=edit&amp;redlink=1" class="new" title="Peri Gilpin (página não existe)">Gilpin</a>; <a href="/wiki/Kelsey_Grammer" title="Kelsey Grammer">Grammer</a>; <a href="/wiki/Jane_Leeves" title="Jane Leeves">Leeves</a>; <a href="/wiki/John_Mahoney" title="John Mahoney">Mahoney</a>; <a href="/wiki/David_Hyde_Pierce" title="David Hyde Pierce">Pierce</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #ABCDEF;">2000-2009</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<div>
+<ul>
+<li><i><b><a href="/wiki/Will_%26_Grace" title="Will &amp; Grace">Will &amp; Grace</a></b></i> (2000): <a href="/wiki/Sean_Hayes" title="Sean Hayes">Hayes</a>; <a href="/wiki/Eric_McCormack" title="Eric McCormack">McCormack</a>; <a href="/wiki/Debra_Messing" title="Debra Messing">Messing</a>; <a href="/wiki/Megan_Mullally" title="Megan Mullally">Mullally</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Sex_and_the_City" title="Sex and the City">Sex and the City</a></b></i> (2001): <a href="/wiki/Kim_Cattrall" title="Kim Cattrall">Cattrall</a>; <a href="/wiki/Kristin_Davis" title="Kristin Davis">Davis</a>; <a href="/wiki/Cynthia_Nixon" title="Cynthia Nixon">Nixon</a>; <a href="/wiki/Sarah_Jessica_Parker" title="Sarah Jessica Parker">Parker</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Everybody_Loves_Raymond" title="Everybody Loves Raymond">Everybody Loves Raymond</a></b></i> (2002): <a href="/wiki/Peter_Boyle" title="Peter Boyle">Boyle</a>; <a href="/wiki/Brad_Garrett" title="Brad Garrett">Garrett</a>; <a href="/wiki/Patricia_Heaton" title="Patricia Heaton">Heaton</a>; <a href="/wiki/Doris_Roberts" title="Doris Roberts">Roberts</a>; <a href="/wiki/Ray_Romano" title="Ray Romano">Romano</a>; <a href="/w/index.php?title=Madylin_Sweeten&amp;action=edit&amp;redlink=1" class="new" title="Madylin Sweeten (página não existe)">Sweeten</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Sex_and_the_City" title="Sex and the City">Sex and the City</a></b></i> (2003): <a href="/wiki/Kim_Cattrall" title="Kim Cattrall">Cattrall</a>; <a href="/wiki/Kristin_Davis" title="Kristin Davis">Davis</a>; <a href="/wiki/Cynthia_Nixon" title="Cynthia Nixon">Nixon</a>; <a href="/wiki/Sarah_Jessica_Parker" title="Sarah Jessica Parker">Parker</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Desperate_Housewives" title="Desperate Housewives">Desperate Housewives</a></b></i> (2004): <a href="/wiki/Andrea_Bowen" title="Andrea Bowen">Bowen</a>; <a href="/wiki/Ricardo_Antonio_Chavira" title="Ricardo Antonio Chavira">Chavira</a>; <a href="/wiki/Marcia_Cross" title="Marcia Cross">Cross</a>; <a href="/wiki/Steven_Culp" title="Steven Culp">Culp</a>; <a href="/wiki/James_Denton" title="James Denton">Denton</a>; <a href="/wiki/Teri_Hatcher" title="Teri Hatcher">Hatcher</a>; <a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Huffman</a>; <a href="/wiki/Cody_Kasch" title="Cody Kasch">Kasch</a>; <a href="/wiki/Eva_Longoria" title="Eva Longoria">Longoria</a>; <a href="/wiki/Jesse_Metcalfe" title="Jesse Metcalfe">Metcalfe</a>; <a href="/wiki/Mark_Moses" title="Mark Moses">Moses</a>; <a href="/wiki/Nicollette_Sheridan" title="Nicollette Sheridan">Sheridan</a>; <a href="/wiki/Brenda_Strong" title="Brenda Strong">Strong</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Desperate_Housewives" title="Desperate Housewives">Desperate Housewives</a></b></i> (2005): <a href="/wiki/Roger_Bart" title="Roger Bart">Bart</a>; <a href="/wiki/Andrea_Bowen" title="Andrea Bowen">Bowen</a>; <a href="/wiki/Mehcad_Brooks" title="Mehcad Brooks">Brooks</a>; <a href="/wiki/Ricardo_Antonio_Chavira" title="Ricardo Antonio Chavira">Chavira</a>; <a href="/wiki/Marcia_Cross" title="Marcia Cross">Cross</a>; <a href="/wiki/Steven_Culp" title="Steven Culp">Culp</a>; <a href="/wiki/James_Denton" title="James Denton">Denton</a>; <a href="/wiki/Teri_Hatcher" title="Teri Hatcher">Hatcher</a>; <a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Huffman</a>; <a href="/w/index.php?title=Brent_and_Shane_Kinsman&amp;action=edit&amp;redlink=1" class="new" title="Brent and Shane Kinsman (página não existe)">B. Kinsman</a>; <a href="/w/index.php?title=Brent_and_Shane_Kinsman&amp;action=edit&amp;redlink=1" class="new" title="Brent and Shane Kinsman (página não existe)">S. Kinsman</a>; <a href="/wiki/Eva_Longoria" title="Eva Longoria">Longoria</a>; <a href="/wiki/Mark_Moses" title="Mark Moses">Moses</a>; <a href="/wiki/Doug_Savant" title="Doug Savant">Savant</a>; <a href="/wiki/Nicollette_Sheridan" title="Nicollette Sheridan">Sheridan</a>; <a href="/wiki/Brenda_Strong" title="Brenda Strong">Strong</a>; <a href="/wiki/Alfre_Woodard" title="Alfre Woodard">Woodard</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/The_Office" title="The Office">The Office</a></b></i> (2006): <a href="/wiki/Leslie_David_Baker" title="Leslie David Baker">Baker</a>; <a href="/wiki/Brian_Baumgartner" title="Brian Baumgartner">Baumgartner</a>; <a href="/wiki/Steve_Carell" title="Steve Carell">Carell</a>; <a href="/wiki/David_Denman" title="David Denman">Denman</a>; <a href="/wiki/Jenna_Fischer" title="Jenna Fischer">Fischer</a>; <a href="/wiki/Kate_Flannery" title="Kate Flannery">Flannery</a>; <a href="/wiki/Melora_Hardin" title="Melora Hardin">Hardin</a>; <a href="/wiki/Mindy_Kaling" title="Mindy Kaling">Kaling</a>; <a href="/wiki/Angela_Kinsey" title="Angela Kinsey">Kinsey</a>; <a href="/wiki/John_Krasinski" title="John Krasinski">Krasinski</a>; <a href="/wiki/Paul_Lieberstein" title="Paul Lieberstein">Lieberstein</a>; <a href="/wiki/B._J._Novak" title="B. J. Novak">Novak</a>; <a href="/wiki/Oscar_Nunez" title="Oscar Nunez">Nunez</a>; <a href="/wiki/Phyllis_Smith" title="Phyllis Smith">Smith</a>; <a href="/wiki/Rainn_Wilson" title="Rainn Wilson">Wilson</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/The_Office" title="The Office">The Office</a></b></i> (2007): <a href="/wiki/Leslie_David_Baker" title="Leslie David Baker">Baker</a>; <a href="/wiki/Brian_Baumgartner" title="Brian Baumgartner">Baumgartner</a>; <a href="/wiki/Steve_Carell" title="Steve Carell">Carell</a>; <a href="/wiki/David_Denman" title="David Denman">Denman</a>; <a href="/wiki/Jenna_Fischer" title="Jenna Fischer">Fischer</a>; <a href="/wiki/Kate_Flannery" title="Kate Flannery">Flannery</a>; <a href="/wiki/Melora_Hardin" title="Melora Hardin">Hardin</a>; <a href="/wiki/Mindy_Kaling" title="Mindy Kaling">Kaling</a>; <a href="/wiki/Angela_Kinsey" title="Angela Kinsey">Kinsey</a>; <a href="/wiki/John_Krasinski" title="John Krasinski">Krasinski</a>; <a href="/wiki/Paul_Lieberstein" title="Paul Lieberstein">Lieberstein</a>; <a href="/wiki/B._J._Novak" title="B. J. Novak">Novak</a>; <a href="/wiki/Oscar_Nunez" title="Oscar Nunez">Nunez</a>; <a href="/wiki/Phyllis_Smith" title="Phyllis Smith">Smith</a>; <a href="/wiki/Rainn_Wilson" title="Rainn Wilson">Wilson</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/30_Rock" title="30 Rock">30 Rock</a></b></i> (2008): <a href="/wiki/Scott_Adsit" title="Scott Adsit">Adsit</a>; <a href="/wiki/Alec_Baldwin" title="Alec Baldwin">Baldwin</a>; <a href="/wiki/Katrina_Bowden" title="Katrina Bowden">Bowden</a>; <a href="/wiki/Tina_Fey" title="Tina Fey">Fey</a>; <a href="/wiki/Judah_Friedlander" title="Judah Friedlander">Friedlander</a>; <a href="/wiki/Jane_Krakowski" title="Jane Krakowski">Krakowski</a>; <a href="/wiki/Jack_McBrayer" title="Jack McBrayer">McBrayer</a>; <a href="/wiki/Tracy_Morgan" title="Tracy Morgan">Morgan</a>; <a href="/wiki/Keith_Powell" title="Keith Powell">Powell</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Glee" title="Glee">Glee</a></b></i> (2009): <a href="/wiki/Dianna_Agron" title="Dianna Agron">Agron</a>; <a href="/wiki/Chris_Colfer" title="Chris Colfer">Colfer</a>; <a href="/w/index.php?title=Patrick_Gallagher_(actor)&amp;action=edit&amp;redlink=1" class="new" title="Patrick Gallagher (actor) (página não existe)">Gallagher</a>; <a href="/wiki/Jessalyn_Gilsig" title="Jessalyn Gilsig">Gilsig</a>; <a href="/wiki/Jane_Lynch" title="Jane Lynch">Lynch</a>; <a href="/wiki/Jayma_Mays" title="Jayma Mays">Mays</a>; <a href="/wiki/Kevin_McHale" title="Kevin McHale">McHale</a>; <a href="/wiki/Lea_Michele" title="Lea Michele">Michele</a>; <a href="/wiki/Cory_Monteith" title="Cory Monteith">Monteith</a>; <a class="mw-selflink selflink">Morris</a>; <a href="/wiki/Matthew_Morrison" title="Matthew Morrison">Morrison</a>; <a href="/wiki/Amber_Riley" title="Amber Riley">Riley</a>; <a href="/wiki/Naya_Rivera" title="Naya Rivera">Rivera</a>; <a href="/wiki/Mark_Salling" title="Mark Salling">Salling</a>; <a href="/wiki/Harry_Shum,_Jr." class="mw-redirect" title="Harry Shum, Jr.">Shum</a>; <a href="/wiki/Josh_Sussman" title="Josh Sussman">Sussman</a>; Talton; <a href="/w/index.php?title=Iqbal_Theba&amp;action=edit&amp;redlink=1" class="new" title="Iqbal Theba (página não existe)">Theba</a>; <a href="/wiki/Jenna_Ushkowitz" title="Jenna Ushkowitz">Ushkowitz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;background: #ABCDEF;">2010-presente</th>
+<td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<div>
+<ul>
+<li><i><b><a href="/wiki/Modern_Family" title="Modern Family">Modern Family</a></b></i> (2010): <a href="/wiki/Julie_Bowen" title="Julie Bowen">Bowen</a>; <a href="/wiki/Ty_Burrell" title="Ty Burrell">Burrell</a>; <a href="/wiki/Jesse_Tyler_Ferguson" title="Jesse Tyler Ferguson">Ferguson</a>; <a href="/wiki/Nolan_Gould" title="Nolan Gould">Gould</a>; <a href="/wiki/Sarah_Hyland" title="Sarah Hyland">Hyland</a>; <a href="/wiki/Ed_O%27Neill" title="Ed O'Neill">O'Neill</a>; <a href="/wiki/Rico_Rodriguez" title="Rico Rodriguez">Rodriguez</a>; <a href="/wiki/Eric_Stonestreet" title="Eric Stonestreet">Stonestreet</a>; <a href="/wiki/Sof%C3%ADa_Vergara" title="Sofía Vergara">Vergara</a>; <a href="/wiki/Ariel_Winter" title="Ariel Winter">Winter</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Modern_Family" title="Modern Family">Modern Family</a></b></i> (2011): <a href="/wiki/Aubrey_Anderson-Emmons" title="Aubrey Anderson-Emmons">Anderson-Emmons</a>; <a href="/wiki/Julie_Bowen" title="Julie Bowen">Bowen</a>; <a href="/wiki/Ty_Burrell" title="Ty Burrell">Burrell</a>; <a href="/wiki/Jesse_Tyler_Ferguson" title="Jesse Tyler Ferguson">Ferguson</a>; <a href="/wiki/Nolan_Gould" title="Nolan Gould">Gould</a>; <a href="/wiki/Sarah_Hyland" title="Sarah Hyland">Hyland</a>; <a href="/wiki/Ed_O%27Neill" title="Ed O'Neill">O'Neill</a>; <a href="/wiki/Rico_Rodriguez" title="Rico Rodriguez">Rodriguez</a>; <a href="/wiki/Eric_Stonestreet" title="Eric Stonestreet">Stonestreet</a>; <a href="/wiki/Sof%C3%ADa_Vergara" title="Sofía Vergara">Vergara</a>; <a href="/wiki/Ariel_Winter" title="Ariel Winter">Winter</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Modern_Family" title="Modern Family">Modern Family</a></b></i> (2012): <a href="/wiki/Aubrey_Anderson-Emmons" title="Aubrey Anderson-Emmons">Anderson-Emmons</a>; <a href="/wiki/Julie_Bowen" title="Julie Bowen">Bowen</a>; <a href="/wiki/Ty_Burrell" title="Ty Burrell">Burrell</a>; <a href="/wiki/Jesse_Tyler_Ferguson" title="Jesse Tyler Ferguson">Ferguson</a>; <a href="/wiki/Nolan_Gould" title="Nolan Gould">Gould</a>; <a href="/wiki/Sarah_Hyland" title="Sarah Hyland">Hyland</a>; <a href="/wiki/Ed_O%27Neill" title="Ed O'Neill">O'Neill</a>; <a href="/wiki/Rico_Rodriguez" title="Rico Rodriguez">Rodriguez</a>; <a href="/wiki/Eric_Stonestreet" title="Eric Stonestreet">Stonestreet</a>; <a href="/wiki/Sof%C3%ADa_Vergara" title="Sofía Vergara">Vergara</a>; <a href="/wiki/Ariel_Winter" title="Ariel Winter">Winter</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Modern_Family" title="Modern Family">Modern Family</a></b></i> (2013): <a href="/wiki/Aubrey_Anderson-Emmons" title="Aubrey Anderson-Emmons">Anderson-Emmons</a>; <a href="/wiki/Julie_Bowen" title="Julie Bowen">Bowen</a>; <a href="/wiki/Ty_Burrell" title="Ty Burrell">Burrell</a>; <a href="/wiki/Jesse_Tyler_Ferguson" title="Jesse Tyler Ferguson">Ferguson</a>; <a href="/wiki/Nolan_Gould" title="Nolan Gould">Gould</a>; <a href="/wiki/Sarah_Hyland" title="Sarah Hyland">Hyland</a>; <a href="/wiki/Ed_O%27Neill" title="Ed O'Neill">O'Neill</a>; <a href="/wiki/Rico_Rodriguez" title="Rico Rodriguez">Rodriguez</a>; <a href="/wiki/Eric_Stonestreet" title="Eric Stonestreet">Stonestreet</a>; <a href="/wiki/Sof%C3%ADa_Vergara" title="Sofía Vergara">Vergara</a>; <a href="/wiki/Ariel_Winter" title="Ariel Winter">Winter</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Orange_Is_the_New_Black" title="Orange Is the New Black">Orange Is the New Black</a></b></i> (2014): <a href="/wiki/Uzo_Aduba" title="Uzo Aduba">Aduba</a>, <a href="/wiki/Jason_Biggs" title="Jason Biggs">Biggs</a>, <a href="/wiki/Danielle_Brooks" title="Danielle Brooks">Brooks</a>, <a href="/wiki/Laverne_Cox" title="Laverne Cox">Cox</a>, Cruz, Curtin, <a href="/wiki/Lea_DeLaria" title="Lea DeLaria">DeLaria</a>, <a href="/w/index.php?title=Beth_Fowler&amp;action=edit&amp;redlink=1" class="new" title="Beth Fowler (página não existe)">Fowler</a>, <a href="/w/index.php?title=Yvette_Freeman&amp;action=edit&amp;redlink=1" class="new" title="Yvette Freeman (página não existe)">Freeman</a>, Gardner, <a href="/w/index.php?title=Kimiko_Glenn&amp;action=edit&amp;redlink=1" class="new" title="Kimiko Glenn (página não existe)">Glenn</a>, <a href="/wiki/Annie_Golden" title="Annie Golden">Golden</a>, <a href="/wiki/Diane_Guerrero" title="Diane Guerrero">Guerrero</a>, <a href="/wiki/Michael_Harney" title="Michael Harney">Harney</a>, <a href="/wiki/Vicky_Jeudy" title="Vicky Jeudy">Jeudy</a>, Lake, <a href="/wiki/Lauren_Lapkus" title="Lauren Lapkus">Lapkus</a>, <a href="/wiki/Selenis_Leyva" title="Selenis Leyva">Leyva</a>, <a href="/wiki/Natasha_Lyonne" title="Natasha Lyonne">Lyonne</a>, <a href="/wiki/Taryn_Manning" title="Taryn Manning">Manning</a>, Marsh Garland, <a href="/wiki/Matt_McGorry" title="Matt McGorry">McGorry</a>, <a href="/wiki/Adrienne_C._Moore" title="Adrienne C. Moore">Moore</a>, <a href="/wiki/Kate_Mulgrew" title="Kate Mulgrew">Mulgrew</a>, <a href="/wiki/Emma_Myles" title="Emma Myles">Myles</a>, Pimentel, <a href="/wiki/Dascha_Polanco" title="Dascha Polanco">Polanco</a>, <a href="/wiki/Alysia_Reiner" title="Alysia Reiner">Reiner</a>, Roberts, <a href="/wiki/Elizabeth_Rodriguez" title="Elizabeth Rodriguez">Rodriguez</a>, <a href="/w/index.php?title=Barbara_Rosenblat&amp;action=edit&amp;redlink=1" class="new" title="Barbara Rosenblat (página não existe)">Rosenblat</a>, Sandow, Savage, <a href="/wiki/Taylor_Schilling" title="Taylor Schilling">Schilling</a>, <a href="/w/index.php?title=Constance_Shulman&amp;action=edit&amp;redlink=1" class="new" title="Constance Shulman (página não existe)">Schulman</a>, Soules, <a href="/wiki/Yael_Stone" title="Yael Stone">Stone</a>, <a href="/wiki/Lorraine_Toussaint" title="Lorraine Toussaint">Toussaint</a>, <a href="/w/index.php?title=Lin_Tucci&amp;action=edit&amp;redlink=1" class="new" title="Lin Tucci (página não existe)">Tucci</a>, <a href="/wiki/Samira_Wiley" title="Samira Wiley">Wiley</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Orange_Is_the_New_Black" title="Orange Is the New Black">Orange Is the New Black</a></b></i> (2015): <a href="/wiki/Uzo_Aduba" title="Uzo Aduba">Aduba</a>, <a href="/w/index.php?title=Mike_Birbiglia&amp;action=edit&amp;redlink=1" class="new" title="Mike Birbiglia (página não existe)">Birbiglia</a>, <a href="/w/index.php?title=Marsha_Stephanie_Blake&amp;action=edit&amp;redlink=1" class="new" title="Marsha Stephanie Blake (página não existe)">Blake</a>, <a href="/wiki/Danielle_Brooks" title="Danielle Brooks">Danielle Brooks</a>, <a href="/wiki/Laverne_Cox" title="Laverne Cox">Laverne Cox</a>, <a href="/wiki/Jackie_Cruz" title="Jackie Cruz">Jackie Cruz</a>, <a href="/w/index.php?title=Catherine_Curtin&amp;action=edit&amp;redlink=1" class="new" title="Catherine Curtin (página não existe)">Catherine Curtin</a>, <a href="/wiki/Lea_DeLaria" title="Lea DeLaria">Lea DeLaria</a>, <a href="/w/index.php?title=Beth_Fowler&amp;action=edit&amp;redlink=1" class="new" title="Beth Fowler (página não existe)">Beth Fowler</a>, <a href="/w/index.php?title=Joel_Marsh_Garland&amp;action=edit&amp;redlink=1" class="new" title="Joel Marsh Garland (página não existe)">Joel Marsh Garland</a>, <a href="/w/index.php?title=Kimiko_Glenn&amp;action=edit&amp;redlink=1" class="new" title="Kimiko Glenn (página não existe)">Kimiko Glenn</a>, <a href="/wiki/Annie_Golden" title="Annie Golden">Annie Golden</a>, <a href="/wiki/Diane_Guerrero" title="Diane Guerrero">Diane Guerrero</a>, <a href="/wiki/Michael_J._Harney" class="mw-redirect" title="Michael J. Harney">Michael J. Harney</a>, <a href="/wiki/Vicky_Jeudy" title="Vicky Jeudy">Vicky Jeudy</a>, <a href="/wiki/Selenis_Leyva" title="Selenis Leyva">Selenis Leyva</a>, <a href="/wiki/Taryn_Manning" title="Taryn Manning">Taryn Manning</a>, <a href="/wiki/Adrienne_C._Moore" title="Adrienne C. Moore">Adrienne C. Moore</a>, <a href="/wiki/Kate_Mulgrew" title="Kate Mulgrew">Kate Mulgrew</a>, <a href="/wiki/Emma_Myles" title="Emma Myles">Emma Myles</a>, <a href="/w/index.php?title=Matt_Peters&amp;action=edit&amp;redlink=1" class="new" title="Matt Peters (página não existe)">Matt Peters</a>, <a href="/wiki/Lori_Petty" title="Lori Petty">Lori Petty</a>, <a href="/wiki/Jessica_Pimentel" title="Jessica Pimentel">Jessica Pimentel</a>, <a href="/wiki/Dascha_Polanco" title="Dascha Polanco">Dascha Polanco</a>, <a href="/wiki/Laura_Prepon" title="Laura Prepon">Laura Prepon</a>, <a href="/wiki/Elizabeth_Rodriguez" title="Elizabeth Rodriguez">Elizabeth Rodriguez</a>, <a href="/wiki/Ruby_Rose" title="Ruby Rose">Ruby Rose</a>, <a href="/wiki/Nick_Sandow" title="Nick Sandow">Nick Sandow</a>, Abigail Savage, <a href="/wiki/Taylor_Schilling" title="Taylor Schilling">Taylor Schilling</a>, <a href="/w/index.php?title=Constance_Shulman&amp;action=edit&amp;redlink=1" class="new" title="Constance Shulman (página não existe)">Constance Shulman</a>, <a href="/w/index.php?title=Dale_Soules&amp;action=edit&amp;redlink=1" class="new" title="Dale Soules (página não existe)">Dale Soules</a>, <a href="/wiki/Yael_Stone" title="Yael Stone">Yael Stone</a>, <a href="/wiki/Samira_Wiley" title="Samira Wiley">Wiley</a></li>
+</ul>
+<ul>
+<li><i><b><a href="/wiki/Orange_Is_the_New_Black" title="Orange Is the New Black">Orange Is the New Black</a></b></i> (2016): <a href="/wiki/Uzo_Aduba" title="Uzo Aduba">Aduba</a>, Aisenberg, <a href="/wiki/Danielle_Brooks" title="Danielle Brooks">Brooks</a>, <a href="/wiki/Blair_Brown" title="Blair Brown">Brown</a>, <a href="/wiki/Jackie_Cruz" title="Jackie Cruz">Cruz</a>, <a href="/wiki/Lea_DeLaria" title="Lea DeLaria">DeLaria</a>, Dover, <a href="/w/index.php?title=Kimiko_Glenn&amp;action=edit&amp;redlink=1" class="new" title="Kimiko Glenn (página não existe)">Glenn</a>, <a href="/wiki/Annie_Golden" title="Annie Golden">Golden</a>, <a href="/w/index.php?title=Laura_G%C3%B3mez&amp;action=edit&amp;redlink=1" class="new" title="Laura Gómez (página não existe)">Gómez</a>, <a href="/wiki/Diane_Guerrero" title="Diane Guerrero">Guerrero</a>, <a href="/wiki/Michael_Harney" title="Michael Harney">Harney</a>, <a href="/w/index.php?title=Brad_William_Henke&amp;action=edit&amp;redlink=1" class="new" title="Brad William Henke (página não existe)">Henke</a>, <a href="/wiki/Vicky_Jeudy" title="Vicky Jeudy">Jeudy</a>, <a href="/w/index.php?title=Julie_Lake&amp;action=edit&amp;redlink=1" class="new" title="Julie Lake (página não existe)">Lake</a>, <a href="/wiki/Selenis_Leyva" title="Selenis Leyva">Leyva</a>, <a href="/wiki/Natasha_Lyonne" title="Natasha Lyonne">Lyonne</a>, <a href="/wiki/Taryn_Manning" title="Taryn Manning">Manning</a>, McMenamin, <a href="/wiki/Adrienne_C._Moore" title="Adrienne C. Moore">Moore</a>, <a href="/wiki/Kate_Mulgrew" title="Kate Mulgrew">Mulgrew</a>, <a href="/wiki/Emma_Myles" title="Emma Myles">Myles</a>, Peters, <a href="/wiki/Lori_Petty" title="Lori Petty">Petty</a>, Pimentel, <a href="/wiki/Dascha_Polanco" title="Dascha Polanco">Polanco</a>, <a href="/wiki/Laura_Prepon" title="Laura Prepon">Prepon</a>, <a href="/w/index.php?title=Jolene_Purdy&amp;action=edit&amp;redlink=1" class="new" title="Jolene Purdy (página não existe)">Purdy</a>, <a href="/wiki/Elizabeth_Rodriguez" title="Elizabeth Rodriguez">Rodriguez</a>, <a href="/wiki/Nick_Sandow" title="Nick Sandow">Sandow</a>, <a href="/wiki/Abigail_Savage" title="Abigail Savage">Savage</a>, <a href="/wiki/Taylor_Schilling" title="Taylor Schilling">Schilling</a>, <a href="/w/index.php?title=Constance_Shulman&amp;action=edit&amp;redlink=1" class="new" title="Constance Shulman (página não existe)">Shulman</a>, Soules, <a href="/wiki/Yael_Stone" title="Yael Stone">Stone</a>, <a href="/w/index.php?title=Lin_Tucci&amp;action=edit&amp;redlink=1" class="new" title="Lin Tucci (página não existe)">Tucci</a>, <a href="/wiki/Samira_Wiley" title="Samira Wiley">Wiley</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;background:#ddddff;background: #ABCDEF;" colspan="2"><i>O ano refere-se ao de produção da série. O prémio é normalmente entregue no ano seguinte.</i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20180608055634
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.532 seconds
+Real time usage: 0.597 seconds
+Preprocessor visited node count: 5476/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 126501/2097152 bytes
+Template argument size: 59198/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15127/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  479.309      1 -total
+ 60.36%  289.303      1 Predefinição:Info/Música/artista
+ 58.51%  280.467      1 Predefinição:Info
+ 23.98%  114.959      1 Predefinição:Reflist
+ 20.03%   96.011     13 Predefinição:Citar_web
+  9.77%   46.816      3 Predefinição:Navbox
+  8.61%   41.246      1 Predefinição:Glee
+  8.57%   41.057      4 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+  5.62%   26.923      3 Predefinição:Navbox/core
+  2.29%   10.978      1 Predefinição:SAG_de_melhor_elenco_em_série_de_comédia
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:2757128-0!canonical and timestamp 20180608055633 and revision id 50545834
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Heather_Morris&amp;oldid=50545834">https://pt.wikipedia.org/w/index.php?title=Heather_Morris&amp;oldid=50545834</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Nascidos_em_1987" title="Categoria:Nascidos em 1987">Nascidos em 1987</a></li><li><a href="/wiki/Categoria:Atores_dos_Estados_Unidos" title="Categoria:Atores dos Estados Unidos">Atores dos Estados Unidos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorias ocultas: <ul><li><a href="/wiki/Categoria:!CS1_ingl%C3%AAs-fontes_em_l%C3%ADngua_(en)" title="Categoria:!CS1 inglês-fontes em língua (en)">!CS1 inglês-fontes em língua (en)</a></li><li><a href="/wiki/Categoria:!CS1_franc%C3%AAs-fontes_em_l%C3%ADngua_(fr)" title="Categoria:!CS1 francês-fontes em língua (fr)">!CS1 francês-fontes em língua (fr)</a></li><li><a href="/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida" title="Categoria:!CS1 manut: Língua não reconhecida">!CS1 manut: Língua não reconhecida</a></li><li><a href="/wiki/Categoria:Pessoas_vivas" title="Categoria:Pessoas vivas">Pessoas vivas</a></li><li><a href="/wiki/Categoria:!Imagem_local_id%C3%AAntica_%C3%A0_do_Wikidata" title="Categoria:!Imagem local idêntica à do Wikidata">!Imagem local idêntica à do Wikidata</a></li><li><a href="/wiki/Categoria:!Esbo%C3%A7os_sobre_atores" title="Categoria:!Esboços sobre atores">!Esboços sobre atores</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Heather+Morris" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Heather+Morris" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Heather_Morris" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Heather_Morris" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Heather_Morris">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Heather_Morris&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Heather_Morris&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Heather_Morris&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Heather+Morris">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Heather+Morris&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Heather_Morris&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Heather_Morris" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Heather_Morris" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Heather_Morris" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Heather_Morris&amp;oldid=50545834" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Heather_Morris&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q229349" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Heather_Morris&amp;id=50545834" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutros idiomas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%8A%D8%B0%D8%B1_%D9%85%D9%88%D8%B1%D9%8A%D8%B3" title="هيذر موريس — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%87%D8%AB%D8%B1_%D9%85%D9%88%D8%B1%DB%8C%D8%B3" title="هثر موریس — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A7%CE%AD%CE%B4%CE%B5%CF%81_%CE%9C%CF%8C%CF%81%CE%B9%CF%82" title="Χέδερ Μόρις — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%AB%D8%B1_%D9%85%D9%88%D8%B1%DB%8C%D8%B3" title="هثر موریس — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%AA%27%D7%A8_%D7%9E%D7%95%D7%A8%D7%99%D7%A1" title="הת&#039;ר מוריס — hebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%A6%D5%A5%D6%80_%D5%84%D5%B8%D6%80%D6%80%D5%AB%D5%BD" title="Հիզեր Մորրիս — arménio" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%B9" title="ヘザー・モリス — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%94%E1%83%98%E1%83%96%E1%83%94%E1%83%A0_%E1%83%9B%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%98" title="ჰეიზერ მორისი — georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%97%A4%EB%8D%94_%EB%AA%A8%EB%A6%AC%EC%8A%A4" title="헤더 모리스 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — lituano" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Hetere_Morisa" title="Hetere Morisa — letão" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — malaio" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81,_%D0%A5%D0%B8%D0%B7%D0%B5%D1%80" title="Моррис, Хизер — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — tagalo" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Heather_Morris" title="Heather Morris — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q229349#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 20h21min de 21 de novembro de 2017.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Heather_Morris&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.532","walltime":"0.597","ppvisitednodes":{"value":5476,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":126501,"limit":2097152},"templateargumentsize":{"value":59198,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15127,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  479.309      1 -total"," 60.36%  289.303      1 Predefinição:Info/Música/artista"," 58.51%  280.467      1 Predefinição:Info"," 23.98%  114.959      1 Predefinição:Reflist"," 20.03%   96.011     13 Predefinição:Citar_web","  9.77%   46.816      3 Predefinição:Navbox","  8.61%   41.246      1 Predefinição:Glee","  8.57%   41.057      4 Predefinição:Categorização_AD_e_AB_de_outras_wikis","  5.62%   26.923      3 Predefinição:Navbox/core","  2.29%   10.978      1 Predefinição:SAG_de_melhor_elenco_em_série_de_comédia"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":2959589,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20180608055634","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":696,"wgHostname":"mw1248"});});</script>
+	</body>
+</html>

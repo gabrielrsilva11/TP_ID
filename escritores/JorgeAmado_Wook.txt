@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="copyright">
                             <li class="no-link">©1999/2018 Grupo Porto Editora. Todos os direitos reservados, Porto, Portugal. Este site está conforme o novo Acordo Ortográfico.</li>
-                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 29-05-2018</li>
+                            <li class="no-link">* Salvo indicação em contrário, os descontos apresentados referem-se a promoções válidas para o dia 10-06-2018</li>
                         </ul>
                     </nav>
                     </nav>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /#header navbar -->                                <main>
                                     <!--page content -->
                                     <div class="row site-content search-results" id="search-page">
-            <div class="col-xs-12 search-results-label"><h1>190 resultados para "Jorge Amado"</h1></div>
+            <div class="col-xs-12 search-results-label"><h1>191 resultados para "Jorge Amado"</h1></div>
             <span clas="clearfix"></span>
         <div class="tabs"></div>
     <div class="col-xs-12 search-results-options">
@@ -343,54 +343,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/dona-flor-e-os-seus-dois-maridos-jorge-amado/21502231">
-                                                                    <img src="https://img.wook.pt/images/dona-flor-e-os-seus-dois-maridos-jorge-amado/MXwyMTUwMjIzMXwxNzM0ODAzMXwxNTE5Njg5NjAwMDAw/170x" class="img-responsive" alt="Dona Flor e os Seus Dois Maridos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dona Flor e os Seus Dois Maridos" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17348031" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17348031" data-mesart="21502231" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17348031&ficha=S&kpi=12&tipo=N&mesArtId=21502231'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/dona-flor-e-os-seus-dois-maridos-jorge-amado/21502231">
-                                Dona Flor e os Seus Dois Maridos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    17,91€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                                                                <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
                             <a href="/livro/tieta-do-agreste-jorge-amado/14875348">
                                                                     <img src="https://img.wook.pt/images/tieta-do-agreste-jorge-amado/MXwxNDg3NTM0OHwxMDM1ODU2MHwxMzgzNTIzMjAwMDAw/170x" class="img-responsive" alt="Tieta do Agreste">
                                                             </a>
@@ -445,27 +397,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523">
-                                                                    <img src="https://img.wook.pt/images/gabriela-cravo-e-canela-jorge-amado/MXwxMzA0NDUyM3w4NjE3ODczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Gabriela, Cravo e Canela">
+                            <a href="/livro/dona-flor-e-os-seus-dois-maridos-jorge-amado/21502231">
+                                                                    <img src="https://img.wook.pt/images/dona-flor-e-os-seus-dois-maridos-jorge-amado/MXwyMTUwMjIzMXwxNzM0ODAzMXwxNTE5Njg5NjAwMDAw/170x" class="img-responsive" alt="Dona Flor e os Seus Dois Maridos">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela, Cravo e Canela" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="8617873" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="8617873" data-mesart="13044523" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=8617873&ficha=S&kpi=12&tipo=N&mesArtId=13044523'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Dona Flor e os Seus Dois Maridos" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17348031" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17348031" data-mesart="21502231" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17348031&ficha=S&kpi=12&tipo=N&mesArtId=21502231'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523">
-                                Gabriela, Cravo e Canela                            </a>
+                            <a class="title-lnk" href="/livro/dona-flor-e-os-seus-dois-maridos-jorge-amado/21502231">
+                                Dona Flor e os Seus Dois Maridos                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">100 Anos - 1912-2012</div>
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
 
 
 
@@ -473,16 +425,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
 
                         
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(4)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
+                                                <div class="col-xs-12">
                             
                                                             <div class="col-xs-4 col-sm-3 col-md-2 icons">
                                     <div class="discount-percent big-discount">
@@ -493,16 +436,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 
                             <div class="col-xs-6 preco ">
-                                    19,90€                            </div>
+                                    17,91€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                <div class="free-shipping important">portes grátis</div>
                                                                             <div class="shipping-24h important">Em stock</div>                            
                                                                 </div>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/capitaes-da-areia-jorge-amado/18438415">
@@ -558,7 +501,122 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523">
+                                                                    <img src="https://img.wook.pt/images/gabriela-cravo-e-canela-jorge-amado/MXwxMzA0NDUyM3w4NjE3ODczfDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Gabriela, Cravo e Canela">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Gabriela, Cravo e Canela" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="8617873" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="8617873" data-mesart="13044523" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=8617873&ficha=S&kpi=12&tipo=N&mesArtId=13044523'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523">
+                                Gabriela, Cravo e Canela                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">100 Anos - 1912-2012</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/gabriela-cravo-e-canela-jorge-amado/13044523"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(4)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 4 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/amados-gatos-jose-jorge-letria/102339">
+                                                                    <img src="https://img.wook.pt/images/amados-gatos-jose-jorge-letria/MXwxMDIzMzl8MTMyNDA2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Amados Gatos">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Amados Gatos" data-autores="de José Jorge Letria" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="132406" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="132406" data-mesart="102339" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=132406&ficha=S&kpi=12&tipo=N&mesArtId=102339'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/amados-gatos-jose-jorge-letria/102339">
+                                Amados Gatos                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-jorge-letria/1762">José Jorge Letria</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/amados-gatos-jose-jorge-letria/102339"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    14,39€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/com-o-mar-por-meio-jorge-amado/21041032">
@@ -615,120 +673,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/amados-gatos-jose-jorge-letria/102339">
-                                                                    <img src="https://img.wook.pt/images/amados-gatos-jose-jorge-letria/MXwxMDIzMzl8MTMyNDA2fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Amados Gatos">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Amados Gatos" data-autores="de José Jorge Letria" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="132406" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="132406" data-mesart="102339" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=132406&ficha=S&kpi=12&tipo=N&mesArtId=102339'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/amados-gatos-jose-jorge-letria/102339">
-                                Amados Gatos                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-jorge-letria/1762">José Jorge Letria</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/amados-gatos-jose-jorge-letria/102339"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    14,39€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/amados-caes-jose-jorge-letria/191746">
-                                                                    <img src="https://img.wook.pt/images/amados-caes-jose-jorge-letria/MXwxOTE3NDZ8MjQyMjQ1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Amados Cães">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Amados Cães" data-autores="de José Jorge Letria" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="242245" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="242245" data-mesart="191746" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=242245&ficha=S&kpi=12&tipo=N&mesArtId=191746'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/amados-caes-jose-jorge-letria/191746">
-                                Amados Cães                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jose-jorge-letria/1762">José Jorge Letria</a>&nbsp;                        </div>
-
-                        
-                                                    <div class="hidden-xs col-sm-12 rating">
-                                <a class="title-lnk" href="/livro/amados-caes-jose-jorge-letria/191746"#productPageSectionComments>
-                                    <div class="stars pull-left">
-                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
-                                    </div>
-                                    <!--deve ser o nr de comentarios-->
-                                    <div class="comments-nr pull-left">(1)</div>
-                                </a>
-                            </div>
-                                                    <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    15,50€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/tieta-do-agreste-jorge-amado/67752">
@@ -777,6 +722,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     21,60€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
+                            <a href="/livro/amados-caes-jose-jorge-letria/191746">
+                                                                    <img src="https://img.wook.pt/images/amados-caes-jose-jorge-letria/MXwxOTE3NDZ8MjQyMjQ1fDEzODM1MjMyMDAwMDA=/170x" class="img-responsive" alt="Amados Cães">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Amados Cães" data-autores="de José Jorge Letria" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="242245" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="242245" data-mesart="191746" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=242245&ficha=S&kpi=12&tipo=N&mesArtId=191746'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/amados-caes-jose-jorge-letria/191746">
+                                Amados Cães                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title"></div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jose-jorge-letria/1762">José Jorge Letria</a>&nbsp;                        </div>
+
+                        
+                                                    <div class="hidden-xs col-sm-12 rating">
+                                <a class="title-lnk" href="/livro/amados-caes-jose-jorge-letria/191746"#productPageSectionComments>
+                                    <div class="stars pull-left">
+                                        <span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star active"></span><span class="star"></span>               
+                                    </div>
+                                    <!--deve ser o nr de comentarios-->
+                                    <div class="comments-nr pull-left">(1)</div>
+                                </a>
+                            </div>
+                                                    <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    15,50€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -883,6 +885,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/maria-do-monte-carlos-emilio-correa-lima/22005482">
+                                                                    <img src="https://img.wook.pt/images/maria-do-monte-carlos-emilio-correa-lima/MXwyMjAwNTQ4MnwxNzg3MDg4MnwxNTI4MTUzMjAwMDAw/170x" class="img-responsive" alt="Maria do Monte">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Maria do Monte" data-autores="de Carlos Emílio Corrêa Lima" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="17870882" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="17870882" data-mesart="22005482" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=17870882&ficha=S&kpi=12&tipo=N&mesArtId=22005482'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/maria-do-monte-carlos-emilio-correa-lima/22005482">
+                                Maria do Monte                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">O Romance Inédito de Jorge Amado</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/carlos-emilio-correa-lima/4394788">Carlos Emílio Corrêa Lima</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    13,50€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                                                                <div class="free-shipping important">portes grátis</div>
+                                                                            <div>Envio até 10 dias
+
+</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/tereza-batista-cansada-de-guerra-jorge-amado/16565431">
                                                                     <img src="https://img.wook.pt/images/tereza-batista-cansada-de-guerra-jorge-amado/MXwxNjU2NTQzMXwxMjE2OTA0OHwxNDM0OTI3NjAwMDAw/170x" class="img-responsive" alt="Tereza Batista Cansada de Guerra">
                                                             </a>
@@ -937,7 +989,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     </div>
                 </div>
-                                                <div class="col-xs-12 col-lg-6 product">
+                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
                             <a href="/livro/capitaes-da-areia-jorge-amado/14447153">
@@ -986,54 +1038,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     15,90€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
-                                                                            <div class="shipping-24h important">Em stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/os-subterraneos-da-liberdade-vol-ii-jorge-amado/9572746">
-                                                                    <img src="https://img.wook.pt/images/os-subterraneos-da-liberdade---vol-ii-jorge-amado/MXw5NTcyNzQ2fDUxNjA3Mjl8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Os Subterrâneos da Liberdade - Vol. II">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Subterrâneos da Liberdade - Vol. II" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5160729" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5160729" data-mesart="9572746" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5160729&ficha=S&kpi=12&tipo=N&mesArtId=9572746'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/os-subterraneos-da-liberdade-vol-ii-jorge-amado/9572746">
-                                Os Subterrâneos da Liberdade - Vol. II                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title">Agonia da noite</div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
-
-                        
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    19,90€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
@@ -1093,24 +1097,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
-                            <a href="/livro/os-subterraneos-da-liberdade-vol-iii-jorge-amado/9572747">
-                                                                    <img src="https://img.wook.pt/images/os-subterraneos-da-liberdade---vol-iii-jorge-amado/MXw5NTcyNzQ3fDUxNjA3MzB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Os Subterrâneos da Liberdade - Vol. III">
+                            <a href="/livro/os-subterraneos-da-liberdade-vol-ii-jorge-amado/9572746">
+                                                                    <img src="https://img.wook.pt/images/os-subterraneos-da-liberdade---vol-ii-jorge-amado/MXw5NTcyNzQ2fDUxNjA3Mjl8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Os Subterrâneos da Liberdade - Vol. II">
                                                             </a>
                             <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Subterrâneos da Liberdade - Vol. III" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5160730" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5160730" data-mesart="9572747" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5160730&ficha=S&kpi=12&tipo=N&mesArtId=9572747'" title="adicionar à lista de desejos"></button>
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Subterrâneos da Liberdade - Vol. II" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5160729" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5160729" data-mesart="9572746" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5160729&ficha=S&kpi=12&tipo=N&mesArtId=9572746'" title="adicionar à lista de desejos"></button>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
                         <div class="col-xs-12 title">
 
-                            <a class="title-lnk" href="/livro/os-subterraneos-da-liberdade-vol-iii-jorge-amado/9572747">
-                                Os Subterrâneos da Liberdade - Vol. III                            </a>
+                            <a class="title-lnk" href="/livro/os-subterraneos-da-liberdade-vol-ii-jorge-amado/9572746">
+                                Os Subterrâneos da Liberdade - Vol. II                            </a>
                             
                         </div>
 
-                        <div class="col-xs-12 hidden-xs sub-title">A Luz no Túnel</div>
+                        <div class="col-xs-12 hidden-xs sub-title">Agonia da noite</div>
 
 
 
@@ -1188,6 +1192,54 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span class="clearfix visible-lg"></span>                                <div class="col-xs-12 col-lg-6 product">
                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
                         <div class="cover ">
+                            <a href="/livro/os-subterraneos-da-liberdade-vol-iii-jorge-amado/9572747">
+                                                                    <img src="https://img.wook.pt/images/os-subterraneos-da-liberdade---vol-iii-jorge-amado/MXw5NTcyNzQ3fDUxNjA3MzB8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Os Subterrâneos da Liberdade - Vol. III">
+                                                            </a>
+                            <div class="hidden-xs visible-lg buttons-actions not-hover">
+                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Os Subterrâneos da Liberdade - Vol. III" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="5160730" class="btn add-cart "></button>
+                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="5160730" data-mesart="9572747" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=5160730&ficha=S&kpi=12&tipo=N&mesArtId=9572747'" title="adicionar à lista de desejos"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
+                        <div class="col-xs-12 title">
+
+                            <a class="title-lnk" href="/livro/os-subterraneos-da-liberdade-vol-iii-jorge-amado/9572747">
+                                Os Subterrâneos da Liberdade - Vol. III                            </a>
+                            
+                        </div>
+
+                        <div class="col-xs-12 hidden-xs sub-title">A Luz no Túnel</div>
+
+
+
+                        <div class="col-xs-12 autor">
+                            de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
+
+                        
+                                                <div class="col-xs-12">
+                            
+                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
+                                    <div class="discount-percent big-discount">
+                                        <div class="twelve-point-star white"></div>
+                                        <div class="twelve-point-star"></div>
+                                        <div class="value">10%</div>
+                                    </div>
+                                </div>
+                                
+                            <div class="col-xs-6 preco ">
+                                    19,90€                            </div>
+                        </div>
+                        <div class="col-xs-12 shipping">
+                            <div class="discount-card">10% Cartão</div>                                    <div class="free-shipping important">portes grátis</div>
+                                                                            <div class="shipping-24h important">Em stock</div>                            
+                                                                </div>
+
+                    </div>
+                </div>
+                                                <div class="col-xs-12 col-lg-6 product">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
+                        <div class="cover ">
                             <a href="/livro/captains-of-the-sands-jorge-amado/15092109">
                                                                     <img src="https://img.wook.pt/images/captains-of-the-sands-jorge-amado/MXwxNTA5MjEwOXwxMDU3ODQ0OHwxNTIwODEyODAwMDAw/170x" class="img-responsive" alt="Captains Of The Sands">
                                                             </a>
@@ -1230,58 +1282,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                             <div class="col-xs-6 preco ">
                                     12,07€                            </div>
-                        </div>
-                        <div class="col-xs-12 shipping">
-                            <div class="discount-card">10% Cartão</div>                                        <div>Sujeito a confirmação de stock</div>                            
-                                                                </div>
-
-                    </div>
-                </div>
-                                                <div class="col-xs-12 col-lg-6 product">
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-4 product-img">
-                        <div class="cover ">
-                            <a href="/livro/le-vieux-marin-jorge-amado/7712163">
-                                                                    <img src="https://img.wook.pt/images/le-vieux-marin-jorge-amado/MXw3NzEyMTYzfDQyMjA1ODV8MTM4MzUyMzIwMDAwMA==/170x" class="img-responsive" alt="Le Vieux Marin">
-                                                            </a>
-                            <div class="hidden-xs visible-lg buttons-actions not-hover">
-                                                                    <button id="addCart-btn" data-tipoArtigo="livro" data-title="Le Vieux Marin" data-autores="de Jorge Amado" data-epub="" data-ewook="" type="button" data-kpicesto="5" data-subart="4220585" class="btn add-cart "></button>
-                                                                    <button id="addList-btn"type="button" data-kpilista="12" data-subart="4220585" data-mesart="7712163" class="btn add-list" onclick="window.location='/Listacompras/adicionar?subArtId=4220585&ficha=S&kpi=12&tipo=N&mesArtId=7712163'" title="adicionar à lista de desejos"></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-8 col-md-9 col-lg-8 info ">
-                        <div class="col-xs-12 title">
-
-                            <a class="title-lnk" href="/livro/le-vieux-marin-jorge-amado/7712163">
-                                Le Vieux Marin                            </a>
-                            
-                        </div>
-
-                        <div class="col-xs-12 hidden-xs sub-title"></div>
-
-
-
-                        <div class="col-xs-12 autor">
-                            de <a href="/autor/jorge-amado/14089">Jorge Amado</a>&nbsp;                        </div>
-
-                                                    <!-- bandeira da lingua-->
-                            <div class="flag col-xs-12">
-                                <span class="language-flag Francês"></span>
-                                <span class="idioma">  idioma: Francês</span>       
-                            </div>
-                            
-                                                <div class="col-xs-12">
-                            
-                                                            <div class="col-xs-4 col-sm-3 col-md-2 icons">
-                                    <div class="discount-percent big-discount">
-                                        <div class="twelve-point-star white"></div>
-                                        <div class="twelve-point-star"></div>
-                                        <div class="value">10%</div>
-                                    </div>
-                                </div>
-                                
-                            <div class="col-xs-6 preco ">
-                                    9,26€                            </div>
                         </div>
                         <div class="col-xs-12 shipping">
                             <div class="discount-card">10% Cartão</div>                                        <div class="shipping-24h important">Em stock</div>                            
@@ -1647,6 +1647,6 @@ O botão do Checkout Expresso só será visível se:
 <script type="text/javascript" src="//cdn.wook.pt/js/199-main.min.js"></script>
 <script type="text/javascript" src="//cdn.wook.pt/js/199-pesquisacontroller.min.js"></script>
 <script>pt.wook.generic.mensagens = {"jsLoadingGenerico":"loading.js.generico","jsInvalidIsbnMsgGenerico":"invalid.isbn.js.msg.generico","jsInvalidEmailMsgGenerico":"invalid.email.js.msg.generico","jsRequiredEmailMsgGenerico":"required.email.js.msg.generico","jsInvalidDateDayMsgGenerico":"invalid.date.day.js.msg.generico","jsInvalidDateMonthMsgGenerico":"invalid.date.month.js.msg.generico","jsInvalidDateYearMsgGenerico":"invalid.date.year.js.msg.generico","jsInvalidNifMsgGenerico":"invalid.nif.js.msg.generico"};pt.wook.escolares.verificar = false;pt.wook.escolares.verificar_anos = [1];pt.wook.gtmhelper.searchParamTrackData = {"termo":"Jorge+Amado","outros":"tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29","query":"?termo=Jorge Amado&outros=tema%28%C3%81rvore+de+Pesquisa%29%2Bramo%28AP%29%2Bordem%28Ranking%29"};pt.wook.search.palavraPesquisada = "Jorge+Amado";pt.wook.search.tabsUrl = '/pesquisacounters/livros/Jorge+Amado';pt.wook.homepage.params = {"restricts":"19208","blacklistRestricts":"8068#8069#8070#14208x14210#14208x14209","escolaresRestricts":"8070x5493","blacklistMontras":"8066#11708#14208x14210"};</script>
-                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":15,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ccd6080b38","applicationID":"1204009","transactionName":"YVFXMhZZVkNVAUxYClgbdhMXTFddGzJdQhRDXUYHS1FWVFEa","queueTime":0,"applicationTime":514,"atts":"TRZURF5DRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>
